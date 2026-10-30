@@ -94,7 +94,7 @@ OK: 588 record(s) valid.
 $ python3 tools/build.py --check
 OK: 7 generated file(s) are up to date.
 $ python3 -m unittest discover -s tests -t .
-Ran 45 tests in 1.8s
+Ran 48 tests in 2.4s
 OK
 ```
 
