@@ -1,0 +1,26 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "Reputation"
+slug: "reputation"
+dataset: "ai-search"
+company: "Reputation"
+website: "reputation.com"
+segment: "local-and-smb"
+hq:
+  city: "San Ramon"
+  country: "US"
+founded:
+  year: 2006
+  source: "https://reputation.com/press-room/reputation-announces-150-million-growth-funding-round-to-drive-dominance-in-the-customer-feedback-market/"
+status: "active"
+funding:
+  latest_round:
+    name: "Minority growth investment (Marlin Equity Partners)"
+  source: "https://reputation.com/press-room/reputation-announces-150-million-growth-funding-round-to-drive-dominance-in-the-customer-feedback-market/"
+pricing:
+  as_listed_by_vendor: "custom"
+sources:
+  - "https://reputation.com/press-room/reputation-announces-150-million-growth-funding-round-to-drive-dominance-in-the-customer-feedback-market/"
+  - "https://www.localogy.com/2022/01/reputation-lands-150m-in-growth-funding-and-100m-arr"
+  - "https://en.wikipedia.org/wiki/Reputation.com"
+last_verified: "2026-10-26"

@@ -1,0 +1,24 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "SOCi"
+slug: "soci"
+dataset: "ai-search"
+company: "SOCi"
+website: "meetsoci.com"
+segment: "local-and-smb"
+hq:
+  city: "San Diego"
+  country: "US"
+status: "active"
+funding:
+  latest_round:
+    name: "growth round"
+  source: "https://www.jmi.com/soci-raises-120m-accelerates-vision-of-redefining-marketing-software/"
+pricing:
+  as_listed_by_vendor: "custom (sales-only)"
+sources:
+  - "https://www.jmi.com/soci-raises-120m-accelerates-vision-of-redefining-marketing-software/"
+  - "https://www.fsrmagazine.com/industry-news/marketing-platform-soci-raises-120m/"
+  - "https://multiples.vc/private-comps/soci"
+  - "https://www.soci.ai/"
+last_verified: "2026-10-26"

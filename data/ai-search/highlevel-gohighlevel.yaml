@@ -1,0 +1,29 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "HighLevel (GoHighLevel)"
+slug: "highlevel-gohighlevel"
+dataset: "ai-search"
+company: "HighLevel"
+website: "gohighlevel.com"
+segment: "local-and-smb"
+hq:
+  city: "Dallas"
+  country: "US"
+founded:
+  year: 2018
+  source: "https://dallasinnovates.com/dallas-sales-marketing-software-company-highlevel-gets-minority-growth-investment-from-general-atlantic/"
+status: "active"
+funding:
+  total_usd: 60000000
+  latest_round:
+    name: "Minority growth investment (General Atlantic)"
+  source: "https://dallasinnovates.com/dallas-sales-marketing-software-company-highlevel-gets-minority-growth-investment-from-general-atlantic/"
+pricing:
+  as_listed_by_vendor: "$97 to $497; Enterprise custom"
+  source: "https://www.gohighlevel.com/pricing"
+sources:
+  - "https://dallasinnovates.com/dallas-sales-marketing-software-company-highlevel-gets-minority-growth-investment-from-general-atlantic/"
+  - "https://www.gohighlevel.com/post/highlevel-raises-60m-doubles-down-as-the-market-leader-in-agency-saas/"
+  - "https://www.paulweiss.com/insights/client-news/general-atlantic-invests-in-highlevel"
+  - "https://www.gohighlevel.com/pricing"
+last_verified: "2026-10-26"

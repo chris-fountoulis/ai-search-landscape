@@ -1,0 +1,28 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "Owner.com"
+slug: "owner-com"
+dataset: "ai-search"
+company: "Owner.com"
+website: "owner.com"
+segment: "local-and-smb"
+hq:
+  city: "San Francisco"
+  country: "US"
+status: "active"
+funding:
+  total_usd: 418700000
+  latest_round:
+    name: "Series D"
+    date: "2026-08"
+    amount_usd: 240000000
+    valuation_usd: 2300000000
+  source: "https://am.gs.com/en-ae/advisors/news/press-release/2026/owner-raises-240m-gs-alts"
+pricing:
+  as_listed_by_vendor: "$249 to $499 (Flexible 249 plus 5% per order; Flat Rate 499)"
+  source: "https://www.owner.com/pricing"
+sources:
+  - "https://am.gs.com/en-ae/advisors/news/press-release/2026/owner-raises-240m-gs-alts"
+  - "https://sacra.com/c/owner"
+  - "https://www.owner.com/pricing"
+last_verified: "2026-10-26"

@@ -1,0 +1,27 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "Partoo"
+slug: "partoo"
+dataset: "ai-search"
+company: "Partoo"
+website: "partoo.co"
+segment: "local-and-smb"
+hq:
+  city: "Paris"
+  country: "FR"
+founded:
+  year: 2014
+  source: "https://www.frenchweb.fr/e-commerce-partoo-leve-15-millions-deuros-aupres-de-webedia/421876"
+status: "active"
+funding:
+  total_usd: 16200000
+  latest_round:
+    name: "Strategic investment (Webedia)"
+  source: "https://www.frenchweb.fr/e-commerce-partoo-leve-15-millions-deuros-aupres-de-webedia/421876"
+pricing:
+  as_listed_by_vendor: "custom"
+sources:
+  - "https://www.frenchweb.fr/e-commerce-partoo-leve-15-millions-deuros-aupres-de-webedia/421876"
+  - "https://funding.tech.eu/companies/031158AB-045C-4515-917F-68226F5ABEA9"
+  - "https://www.partoo.co/en/pricing/"
+last_verified: "2026-10-26"

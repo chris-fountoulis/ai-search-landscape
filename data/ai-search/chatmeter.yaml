@@ -1,0 +1,24 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "Chatmeter"
+slug: "chatmeter"
+dataset: "ai-search"
+company: "Chatmeter"
+website: "chatmeter.com"
+segment: "local-and-smb"
+hq:
+  city: "San Diego"
+  country: "US"
+status: "acquired"
+acquisition:
+  acquirer: "Alchemer"
+  date: "2025-09"
+  date_type: "announced"
+  source: "https://www.dechert.com/knowledge/news/2025/9/dechert-advises-alchemer-on-acquisition-of-chatmeter.html"
+pricing:
+  as_listed_by_vendor: "custom"
+sources:
+  - "https://www.businesswire.com/news/home/20250924193562/en"
+  - "https://www.alchemer.com/resources/blog/alchemer-acquires-chatmeter-to-unify-customer-feedback-intelligence/"
+  - "https://www.dechert.com/knowledge/news/2025/9/dechert-advises-alchemer-on-acquisition-of-chatmeter.html"
+last_verified: "2026-10-26"

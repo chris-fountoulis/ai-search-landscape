@@ -1,0 +1,22 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "Hostinger (AI SEO Assistant)"
+slug: "hostinger-ai-seo-assistant"
+dataset: "ai-search"
+company: "Hostinger"
+website: "hostinger.com"
+segment: "local-and-smb"
+hq:
+  city: "Kaunas"
+  country: "LT"
+founded:
+  year: 2004
+  source: "https://www.hostinger.com/blog/?p=8625"
+status: "active"
+pricing:
+  as_listed_by_vendor: "2.49 to 7.99 intro (renews 10.99 to 25.99), 48-month terms"
+  source: "https://www.hostinger.com/blog/?p=8625"
+sources:
+  - "https://www.hostinger.com/blog/?p=8625"
+  - "https://en.wikipedia.org/wiki/Hostinger"
+last_verified: "2026-10-26"

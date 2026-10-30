@@ -1,0 +1,26 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "Yoast (Newfold Digital)"
+slug: "yoast-newfold-digital"
+dataset: "ai-search"
+company: "Yoast"
+website: "yoast.com"
+segment: "local-and-smb"
+hq:
+  city: "Wijchen"
+  country: "NL"
+founded:
+  year: 2010
+  source: "https://siris.com/news/clearlake-and-siris-backed-newfold-digital-acquires-yoast-to-help-customers-get-found-online"
+status: "acquired"
+acquisition:
+  acquirer: "Newfold Digital"
+  source: "https://siris.com/news/clearlake-and-siris-backed-newfold-digital-acquires-yoast-to-help-customers-get-found-online"
+pricing:
+  as_listed_by_vendor: "$0 to about $9.90 (Premium $118.80 per year ex VAT)"
+  source: "https://siris.com/news/clearlake-and-siris-backed-newfold-digital-acquires-yoast-to-help-customers-get-found-online"
+sources:
+  - "https://siris.com/news/clearlake-and-siris-backed-newfold-digital-acquires-yoast-to-help-customers-get-found-online"
+  - "https://www.techradar.com/news/bluehost-owner-snaps-up-wordpress-seo-tool-yoast"
+  - "https://yoast.com/wordpress/plugins/seo/"
+last_verified: "2026-10-26"

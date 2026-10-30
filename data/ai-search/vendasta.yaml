@@ -1,0 +1,28 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "Vendasta"
+slug: "vendasta"
+dataset: "ai-search"
+company: "Vendasta"
+website: "vendasta.com"
+segment: "local-and-smb"
+hq:
+  city: "Saskatoon"
+  country: "CA"
+founded:
+  year: 2008
+  source: "https://betakit.com/vendasta-closes-20-million-series-e-to-fund-acquisitions-converts-existing-debt-into-equity/"
+status: "active"
+funding:
+  latest_round:
+    name: "Series E"
+  source: "https://betakit.com/vendasta-closes-20-million-series-e-to-fund-acquisitions-converts-existing-debt-into-equity/"
+pricing:
+  as_listed_by_vendor: "$99 to $999 monthly minimums; Enterprise custom"
+  source: "https://www.vendasta.com/pricing/"
+sources:
+  - "https://betakit.com/vendasta-closes-20-million-series-e-to-fund-acquisitions-converts-existing-debt-into-equity/"
+  - "https://thelogic.co/news/saskatoons-vendasta-raises-another-20m-to-fuel-acquisition-strategy/"
+  - "https://betakit.com/vendasta-secures-119-5-million-in-venture-funding-after-pausing-ipo-plans/"
+  - "https://www.vendasta.com/pricing/"
+last_verified: "2026-10-26"

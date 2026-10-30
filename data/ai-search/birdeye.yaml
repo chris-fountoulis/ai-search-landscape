@@ -1,0 +1,26 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "Birdeye"
+slug: "birdeye"
+dataset: "ai-search"
+company: "Birdeye"
+website: "birdeye.com"
+segment: "local-and-smb"
+hq:
+  city: "Palo Alto"
+  country: "US"
+founded:
+  year: 2013
+  source: "https://www.accel-kkr.com/birdeye-raises-60m-series-c-funding-led-by-accel-kkr-to-help-local-businesses-grow/"
+status: "active"
+funding:
+  total_usd: 93000000
+  latest_round:
+    name: "Series C"
+  source: "https://www.accel-kkr.com/birdeye-raises-60m-series-c-funding-led-by-accel-kkr-to-help-local-businesses-grow/"
+sources:
+  - "https://www.accel-kkr.com/birdeye-raises-60m-series-c-funding-led-by-accel-kkr-to-help-local-businesses-grow/"
+  - "https://www.localogy.com/2023/06/birdeye-crosses-100m-arr-milestone/"
+  - "https://www.localogy.com/2022/03/11/"
+  - "https://birdeye.com/blog/celebrating-100m-arr-milestone/"
+last_verified: "2026-10-26"

@@ -1,0 +1,19 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "Merchynt (Paige)"
+slug: "merchynt-paige"
+dataset: "ai-search"
+company: "Merchynt"
+website: "merchynt.com"
+segment: "local-and-smb"
+hq:
+  city: "Santa Monica"
+  country: "US"
+status: "active"
+pricing:
+  as_listed_by_vendor: "from $40; Paige $99 per location; Agency Program $100"
+  source: "https://www.merchynt.com/pricing"
+sources:
+  - "https://www.merchynt.com/pricing"
+  - "https://www.cmswire.com/the-wire/merchynt-introduces-paige-the-first-fully-autonomous-self-learning-ai-marketer"
+last_verified: "2026-10-26"

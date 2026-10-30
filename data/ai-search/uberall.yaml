@@ -1,0 +1,23 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "Uberall"
+slug: "uberall"
+dataset: "ai-search"
+company: "Uberall"
+website: "uberall.com"
+segment: "local-and-smb"
+hq:
+  city: "Berlin"
+  country: "DE"
+status: "active"
+funding:
+  latest_round:
+    name: "Growth round (Bregal Milestone led)"
+  source: "https://techcrunch.com/2021/06/15/uberall-raises-115m-acquires-momentfeed-to-scale-up-its-location-marketing-services/"
+pricing:
+  as_listed_by_vendor: "custom"
+sources:
+  - "https://techcrunch.com/2021/06/15/uberall-raises-115m-acquires-momentfeed-to-scale-up-its-location-marketing-services/"
+  - "https://uberall.com/en-us/company/news-press/uberall-raises-115m-acquires-momentfeed-to-expand-location-services"
+  - "https://tech.eu/brief/berlin-based-marketing-saas-uberall-raises-115-million-agrees-to-acquire-santa-monicas-proximity-search-optimisation-tool-momentfeed/"
+last_verified: "2026-10-26"

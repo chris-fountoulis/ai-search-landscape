@@ -1,0 +1,25 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "Durable"
+slug: "durable"
+dataset: "ai-search"
+company: "Durable"
+website: "durable.com"
+segment: "local-and-smb"
+hq:
+  city: "Vancouver"
+  country: "CA"
+status: "active"
+funding:
+  total_usd: 20000000
+  latest_round:
+    name: "Series A"
+  source: "https://betakit.com/durable-raises-18-million-cad-as-it-looks-to-help-service-based-businesses-run-on-autopilot/"
+pricing:
+  as_listed_by_vendor: "$0 to $49"
+  source: "https://durable.com/pricing"
+sources:
+  - "https://betakit.com/durable-raises-18-million-cad-as-it-looks-to-help-service-based-businesses-run-on-autopilot/"
+  - "https://techcouver.com/2023/12/12/durable-raises-14-million-to-fuel-growth/"
+  - "https://durable.com/pricing"
+last_verified: "2026-10-26"

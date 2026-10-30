@@ -1,0 +1,22 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "BrightLocal"
+slug: "brightlocal"
+dataset: "ai-search"
+company: "BrightLocal"
+website: "brightlocal.com"
+segment: "local-and-smb"
+hq:
+  city: "Brighton"
+  country: "GB"
+founded:
+  year: 2009
+  source: "https://www.brightlocal.com/about-us/"
+status: "active"
+pricing:
+  as_listed_by_vendor: "$31 to $65 per location; Managed SEO $1,299; 100+ locations on request"
+  source: "https://www.brightlocal.com/pricing/"
+sources:
+  - "https://www.brightlocal.com/about-us/"
+  - "https://www.brightlocal.com/pricing/"
+last_verified: "2026-10-26"

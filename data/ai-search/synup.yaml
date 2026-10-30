@@ -1,0 +1,29 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "Synup"
+slug: "synup"
+dataset: "ai-search"
+company: "Synup"
+website: "synup.com"
+segment: "local-and-smb"
+hq:
+  city: "New York"
+  country: "US"
+founded:
+  year: 2013
+  source: "https://inc42.com/buzz/synup-funding-vertex-ventures-marketing"
+status: "active"
+funding:
+  total_usd: 6500000
+  latest_round:
+    name: "Series A"
+  source: "https://inc42.com/buzz/synup-funding-vertex-ventures-marketing"
+pricing:
+  as_listed_by_vendor: "$49 to $899; Enterprise custom"
+  source: "https://www.synup.com/pricing"
+sources:
+  - "https://inc42.com/buzz/synup-funding-vertex-ventures-marketing"
+  - "https://entrackr.com/2017/09/synup-gets-6-mn"
+  - "https://www.cbinsights.com/company/synup/financials"
+  - "https://www.synup.com/pricing"
+last_verified: "2026-10-26"

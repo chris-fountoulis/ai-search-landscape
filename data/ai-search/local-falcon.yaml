@@ -1,0 +1,19 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "Local Falcon"
+slug: "local-falcon"
+dataset: "ai-search"
+company: "Local Falcon"
+website: "localfalcon.com"
+segment: "local-and-smb"
+hq:
+  city: "Unknown"
+  country: "US"
+status: "active"
+pricing:
+  as_listed_by_vendor: "$24.99 to $199.99 (credit based)"
+  source: "https://www.localfalcon.com/pricing"
+sources:
+  - "https://www.localfalcon.com/pricing"
+  - "https://www.localfalcon.com/about"
+last_verified: "2026-10-26"

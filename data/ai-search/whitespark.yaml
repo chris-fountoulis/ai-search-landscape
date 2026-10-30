@@ -1,0 +1,19 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "Whitespark"
+slug: "whitespark"
+dataset: "ai-search"
+company: "Whitespark"
+website: "whitespark.ca"
+segment: "local-and-smb"
+hq:
+  city: "Edmonton"
+  country: "CA"
+status: "active"
+pricing:
+  as_listed_by_vendor: "$33 to $149; $79 per location multi-location; managed SEO $499 to $1,999"
+  source: "https://whitespark.ca/pricing/"
+sources:
+  - "https://whitespark.ca/pricing/"
+  - "https://zyppy.com/companies/whitespark/"
+last_verified: "2026-10-26"
