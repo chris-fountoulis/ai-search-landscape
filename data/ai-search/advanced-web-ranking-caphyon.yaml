@@ -1,0 +1,18 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "Advanced Web Ranking (Caphyon)"
+slug: "advanced-web-ranking-caphyon"
+dataset: "ai-search"
+company: "Advanced Web Ranking"
+website: "advancedwebranking.com"
+segment: "incumbents"
+hq:
+  city: "Craiova"
+  country: "RO"
+status: "active"
+pricing:
+  as_listed_by_vendor: "139 to 980 per month (Pro, Agency 279, Enterprise 699, Ent Plus 50k); currency not shown; 10% off annual"
+  source: "https://www.advancedwebranking.com/pricing"
+sources:
+  - "https://www.advancedwebranking.com/pricing"
+last_verified: "2026-10-26"

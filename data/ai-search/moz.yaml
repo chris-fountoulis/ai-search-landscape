@@ -1,0 +1,22 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "Moz"
+slug: "moz"
+dataset: "ai-search"
+company: "Moz"
+website: "moz.com"
+segment: "incumbents"
+hq:
+  city: "Seattle"
+  country: "US"
+founded:
+  year: 2004
+  source: "https://www.geekwire.com/2021/seo-software-startup-moz-acquired-icontact-marketing-corp-17-years-launching-seattle/"
+status: "acquired"
+acquisition:
+  acquirer: "iContact Marketing Corp. (J2 Global, now Ziff Davis)"
+  source: "https://www.geekwire.com/2021/seo-software-startup-moz-acquired-icontact-marketing-corp-17-years-launching-seattle/"
+sources:
+  - "https://www.geekwire.com/2021/seo-software-startup-moz-acquired-icontact-marketing-corp-17-years-launching-seattle/"
+  - "https://searchengineland.com/moz-acquired-by-icontact-subsidiary-of-j2-global-349273"
+last_verified: "2026-10-26"

@@ -1,0 +1,23 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "Similarweb"
+slug: "similarweb"
+dataset: "ai-search"
+company: "Similarweb"
+website: "similarweb.com"
+segment: "incumbents"
+hq:
+  city: "Tel Aviv"
+  country: "IL"
+founded:
+  year: 2007
+  source: "https://www.renaissancecapital.com/IPO-Center/News/81701/israeli-web-analytics-provider-similarweb-prices-us-ipo-at-22-above"
+status: "active"
+public_company: true
+pricing:
+  as_listed_by_vendor: "custom"
+sources:
+  - "https://www.sec.gov/Archives/edgar/data/1842731/000184273126000009/a6-kxexhibit991xq431122025.htm"
+  - "https://www.sec.gov/Archives/edgar/data/1842731/000184273126000045/a6-kxexhibit991xprojectm.htm"
+  - "https://www.renaissancecapital.com/IPO-Center/News/81701/israeli-web-analytics-provider-similarweb-prices-us-ipo-at-22-above"
+last_verified: "2026-10-26"

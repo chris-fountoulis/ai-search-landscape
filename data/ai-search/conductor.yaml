@@ -1,0 +1,26 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "Conductor"
+slug: "conductor"
+dataset: "ai-search"
+company: "Conductor"
+website: "conductor.com"
+segment: "incumbents"
+hq:
+  city: "New York"
+  country: "US"
+founded:
+  year: 2006
+  source: "https://www.sagemount.com/news/conductor-raises-150m-in-funding-to-power-the-company-s-next-phase-of-growth-in-the-organic-marketing-revolution"
+status: "active"
+funding:
+  latest_round:
+    name: "Growth round"
+  source: "https://www.sagemount.com/news/conductor-raises-150m-in-funding-to-power-the-company-s-next-phase-of-growth-in-the-organic-marketing-revolution"
+pricing:
+  as_listed_by_vendor: "custom"
+sources:
+  - "https://www.sagemount.com/news/conductor-raises-150m-in-funding-to-power-the-company-s-next-phase-of-growth-in-the-organic-marketing-revolution"
+  - "https://en.wikipedia.org/wiki/Conductor_(company)"
+  - "https://www.conductor.com/blog/2023/02/conductor-acquires-searchmetrics/"
+last_verified: "2026-10-26"

@@ -1,0 +1,25 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "Seobility"
+slug: "seobility"
+dataset: "ai-search"
+company: "Seobility"
+website: "seobility.net"
+segment: "incumbents"
+hq:
+  city: "Nuremberg"
+  country: "DE"
+founded:
+  year: 2011
+  source: "https://saas.group/?p=1181"
+status: "acquired"
+acquisition:
+  acquirer: "saas.group"
+  source: "https://saas.group/?p=1181"
+pricing:
+  as_listed_by_vendor: "Free; EUR 59.90 to 209.90 ex VAT (about $65 to $227)"
+  source: "https://www.seobility.net/en/pricing/"
+sources:
+  - "https://saas.group/?p=1181"
+  - "https://www.seobility.net/en/pricing/"
+last_verified: "2026-10-26"

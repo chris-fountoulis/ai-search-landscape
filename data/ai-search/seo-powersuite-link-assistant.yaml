@@ -1,0 +1,22 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "SEO PowerSuite (Link-Assistant)"
+slug: "seo-powersuite-link-assistant"
+dataset: "ai-search"
+company: "SEO PowerSuite"
+website: "link-assistant.com"
+segment: "incumbents"
+hq:
+  city: "Nicosia"
+  country: "CY"
+founded:
+  year: 2004
+  source: "https://www.link-assistant.com/about-us.html"
+status: "active"
+pricing:
+  as_listed_by_vendor: "Free; EUR 29.10 to 74.95 per month on 1-year plans (Professional to Max+)"
+  source: "https://www.link-assistant.com/pricing.html"
+sources:
+  - "https://www.link-assistant.com/about-us.html"
+  - "https://www.link-assistant.com/pricing.html"
+last_verified: "2026-10-26"

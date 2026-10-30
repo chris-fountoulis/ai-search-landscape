@@ -1,0 +1,19 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "Mangools"
+slug: "mangools"
+dataset: "ai-search"
+company: "Mangools"
+website: "mangools.com"
+segment: "incumbents"
+hq:
+  city: "Bratislava"
+  country: "SK"
+founded:
+  year: 2014
+  source: "https://www.startitup.sk/?p=277168"
+status: "active"
+sources:
+  - "https://www.startitup.sk/?p=277168"
+  - "https://getlatka.com/companies/mangools"
+last_verified: "2026-10-26"

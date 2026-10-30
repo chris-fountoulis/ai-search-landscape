@@ -1,0 +1,22 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "JetOctopus"
+slug: "jetoctopus"
+dataset: "ai-search"
+company: "JetOctopus"
+website: "jetoctopus.com"
+segment: "incumbents"
+hq:
+  city: "Tallinn"
+  country: "EE"
+founded:
+  year: 2018
+  source: "https://jetoctopus.com/about-us/"
+status: "active"
+pricing:
+  as_listed_by_vendor: "$349 to $2,069 (Growth to Ultra; lower figures likely annual billing); Unlimited custom"
+  source: "https://jetoctopus.com/pricing/"
+sources:
+  - "https://jetoctopus.com/about-us/"
+  - "https://jetoctopus.com/pricing/"
+last_verified: "2026-10-26"

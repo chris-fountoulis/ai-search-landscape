@@ -1,0 +1,22 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "AccuRanker"
+slug: "accuranker"
+dataset: "ai-search"
+company: "AccuRanker"
+website: "accuranker.com"
+segment: "incumbents"
+hq:
+  city: "Aarhus"
+  country: "DK"
+founded:
+  year: 2013
+  source: "https://www.accuranker.com/about-us"
+status: "active"
+pricing:
+  as_listed_by_vendor: "EUR 224 to 764 (about $242 to $825); Enterprise custom"
+  source: "https://www.accuranker.com/pricing/"
+sources:
+  - "https://www.accuranker.com/about-us"
+  - "https://www.accuranker.com/pricing/"
+last_verified: "2026-10-26"

@@ -1,0 +1,21 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "Searchmetrics"
+slug: "searchmetrics"
+dataset: "ai-search"
+company: "Searchmetrics"
+website: "searchmetrics.com"
+segment: "incumbents"
+hq:
+  city: "Berlin"
+  country: "DE"
+status: "acquired"
+acquisition:
+  acquirer: "Conductor"
+  source: "https://www.conductor.com/blog/2023/02/conductor-acquires-searchmetrics/"
+pricing:
+  as_listed_by_vendor: "custom (retired into Conductor)"
+sources:
+  - "https://www.conductor.com/blog/2023/02/conductor-acquires-searchmetrics/"
+  - "https://www.heuking.de/en/news-events/latest-news/article/market-leader-conductor-acquires-seo-specialist-searchmetrics-with-heuking.html"
+last_verified: "2026-10-26"

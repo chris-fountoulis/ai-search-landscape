@@ -1,0 +1,21 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "Nightwatch"
+slug: "nightwatch"
+dataset: "ai-search"
+company: "Nightwatch"
+website: "nightwatch.io"
+segment: "incumbents"
+hq:
+  country: "SI"
+founded:
+  year: 2016
+  source: "https://nightwatch.io/pricing/"
+status: "active"
+pricing:
+  as_listed_by_vendor: "EUR 79 to 399 monthly (Starter, Professional 159, Agency); 20% off yearly; Enterprise custom"
+  source: "https://nightwatch.io/pricing/"
+sources:
+  - "https://nightwatch.io/pricing/"
+  - "https://getlatka.com/companies/nightwatch"
+last_verified: "2026-10-26"

@@ -1,0 +1,19 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "Oncrawl"
+slug: "oncrawl"
+dataset: "ai-search"
+company: "Oncrawl"
+website: "oncrawl.com"
+segment: "incumbents"
+hq:
+  country: "FR"
+status: "acquired"
+acquisition:
+  acquirer: "BrightEdge"
+  source: "https://www.brightedge.com/news/press-releases/brightedge-and-oncrawl-join-forces"
+pricing:
+  as_listed_by_vendor: "custom (demo only; no pricing page linked)"
+sources:
+  - "https://www.brightedge.com/news/press-releases/brightedge-and-oncrawl-join-forces"
+last_verified: "2026-10-26"

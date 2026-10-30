@@ -1,0 +1,22 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "Ahrefs"
+slug: "ahrefs"
+dataset: "ai-search"
+company: "Ahrefs"
+website: "ahrefs.com"
+segment: "incumbents"
+hq:
+  city: "Singapore"
+  country: "SG"
+founded:
+  year: 2010
+  source: "https://ahrefs.com/pricing"
+status: "active"
+pricing:
+  as_listed_by_vendor: "EUR 27 to 1,394 (about $29 to $1,506)"
+  source: "https://ahrefs.com/pricing"
+sources:
+  - "https://getlatka.com/interviews/ahrefs-tim-soulo-2024"
+  - "https://ahrefs.com/pricing"
+last_verified: "2026-10-26"

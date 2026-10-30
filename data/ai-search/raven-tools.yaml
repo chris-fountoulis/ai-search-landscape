@@ -1,0 +1,21 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "Raven Tools"
+slug: "raven-tools"
+dataset: "ai-search"
+company: "Raven Tools"
+website: "raventools.com"
+segment: "incumbents"
+hq:
+  city: "Nashville"
+  country: "US"
+status: "acquired"
+acquisition:
+  acquirer: "TapClicks"
+  source: "https://martech.org/tapclicks-buys-raven-tools"
+pricing:
+  as_listed_by_vendor: "not verified"
+sources:
+  - "https://martech.org/tapclicks-buys-raven-tools"
+  - "https://raventools.com/about-us/"
+last_verified: "2026-10-26"

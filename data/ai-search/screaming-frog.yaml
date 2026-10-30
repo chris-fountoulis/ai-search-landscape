@@ -1,0 +1,22 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "Screaming Frog"
+slug: "screaming-frog"
+dataset: "ai-search"
+company: "Screaming Frog"
+website: "screamingfrog.co.uk"
+segment: "incumbents"
+hq:
+  city: "Henley-on-Thames"
+  country: "GB"
+founded:
+  year: 2010
+  source: "https://www.screamingfrog.co.uk/about/"
+status: "active"
+pricing:
+  as_listed_by_vendor: "EUR 245 per licence per year (about $22 per month); free tier"
+  source: "https://www.screamingfrog.co.uk/seo-spider/licence/"
+sources:
+  - "https://www.screamingfrog.co.uk/about/"
+  - "https://www.screamingfrog.co.uk/seo-spider/licence/"
+last_verified: "2026-10-26"

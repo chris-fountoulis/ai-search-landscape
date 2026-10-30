@@ -1,0 +1,23 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "BrightEdge"
+slug: "brightedge"
+dataset: "ai-search"
+company: "BrightEdge"
+website: "brightedge.com"
+segment: "incumbents"
+hq:
+  city: "Foster City"
+  country: "US"
+status: "active"
+funding:
+  total_usd: 63000000
+  latest_round:
+    name: "Series D"
+  source: "https://techcrunch.com/2013/06/11/brightedge-series-d/"
+pricing:
+  as_listed_by_vendor: "custom"
+sources:
+  - "https://techcrunch.com/2013/06/11/brightedge-series-d/"
+  - "https://www.brightedge.com/news/press-releases/brightedge-and-oncrawl-join-forces"
+last_verified: "2026-10-26"

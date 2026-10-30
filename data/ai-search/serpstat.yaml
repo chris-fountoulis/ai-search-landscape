@@ -1,0 +1,19 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "Serpstat"
+slug: "serpstat"
+dataset: "ai-search"
+company: "Serpstat"
+website: "serpstat.com"
+segment: "incumbents"
+hq:
+  city: "Odesa"
+  country: "UA"
+founded:
+  year: 2013
+  source: "https://www.practicalecommerce.com/ukraine-based-serpstat-perseveres-amid-the-war"
+status: "active"
+sources:
+  - "https://www.practicalecommerce.com/ukraine-based-serpstat-perseveres-amid-the-war"
+  - "https://getlatka.com/companies/serpstat"
+last_verified: "2026-10-26"

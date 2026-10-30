@@ -1,0 +1,19 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "Sitebulb"
+slug: "sitebulb"
+dataset: "ai-search"
+company: "Sitebulb"
+website: "sitebulb.com"
+segment: "incumbents"
+hq:
+  city: "Biddenden"
+  country: "GB"
+status: "active"
+pricing:
+  as_listed_by_vendor: "Cloud from GBP 95; desktop not verified"
+  source: "https://sitebulb.com/pricing/"
+sources:
+  - "https://sitebulb.com/about/"
+  - "https://sitebulb.com/pricing/"
+last_verified: "2026-10-26"

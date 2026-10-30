@@ -1,0 +1,27 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "Botify"
+slug: "botify"
+dataset: "ai-search"
+company: "Botify"
+website: "botify.com"
+segment: "incumbents"
+hq:
+  city: "New York and Paris"
+  country: "US"
+founded:
+  year: 2012
+  source: "https://www.botify.com/about"
+status: "active"
+funding:
+  total_usd: 85000000
+  latest_round:
+    name: "Series C"
+  source: "https://venturebeat.com/business/seo-optimization-platform-botify-lands-55m"
+pricing:
+  as_listed_by_vendor: "custom"
+sources:
+  - "https://venturebeat.com/business/seo-optimization-platform-botify-lands-55m"
+  - "https://www.botify.com/about"
+  - "https://www.botify.com/?p=4404"
+last_verified: "2026-10-26"

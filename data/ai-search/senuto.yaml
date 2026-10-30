@@ -1,0 +1,21 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "Senuto"
+slug: "senuto"
+dataset: "ai-search"
+company: "Senuto"
+website: "senuto.com"
+segment: "incumbents"
+hq:
+  city: "Warsaw"
+  country: "PL"
+status: "active"
+pricing:
+  as_listed_by_vendor: "EUR 35 to 288 (plus VAT, annual billing); Enterprise custom"
+  source: "https://www.senuto.com/en/pricing/"
+sources:
+  - "https://www.senuto.com/en/pricing/"
+  - "https://www.cbinsights.com/company/senuto"
+  - "https://getlatka.com/companies/senuto"
+  - "https://www.eu-startups.com/2020/02/warsaw-based-senuto-receives-e1-3-million-to-expand-seo-platform-across-eu/"
+last_verified: "2026-10-26"

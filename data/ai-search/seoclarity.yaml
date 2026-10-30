@@ -1,0 +1,19 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "seoClarity"
+slug: "seoclarity"
+dataset: "ai-search"
+company: "seoClarity"
+website: "seoclarity.net"
+segment: "incumbents"
+hq:
+  city: "Chicago"
+  country: "US"
+status: "active"
+pricing:
+  as_listed_by_vendor: "$2,500 to $4,500 (page says representative as of Oct 2022); Rankings custom"
+  source: "https://www.seoclarity.net/pricing"
+sources:
+  - "https://www.seoclarity.net/pricing"
+  - "https://www.builtinchicago.org/company/seoclarity"
+last_verified: "2026-10-26"

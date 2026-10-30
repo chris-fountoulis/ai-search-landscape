@@ -1,0 +1,18 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "Wincher"
+slug: "wincher"
+dataset: "ai-search"
+company: "Wincher"
+website: "wincher.com"
+segment: "incumbents"
+hq:
+  city: "Stockholm"
+  country: "SE"
+status: "active"
+pricing:
+  as_listed_by_vendor: "not verified"
+sources:
+  - "https://www.wincher.com/about"
+  - "https://www.wincher.com/pricing"
+last_verified: "2026-10-26"

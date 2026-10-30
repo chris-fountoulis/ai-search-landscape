@@ -1,0 +1,30 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "Semrush"
+slug: "semrush"
+dataset: "ai-search"
+company: "Semrush"
+website: "semrush.com"
+segment: "incumbents"
+hq:
+  city: "Boston"
+  country: "US"
+founded:
+  year: 2008
+  source: "https://www.sec.gov/Archives/edgar/data/1831840/000114036126017299/ef20071354_8k.htm"
+status: "acquired"
+acquisition:
+  acquirer: "Adobe"
+  date: "2025-11"
+  date_type: "announced"
+  price_usd: 1900000000
+  price_note: "about  (closed 28 Apr 2026)"
+  source: "https://www.semrush.com/news/435826-adobe-to-acquire-semrush/"
+pricing:
+  as_listed_by_vendor: "Free; EUR 134 to 286 (about $145 to $309); Advanced and Enterprise custom"
+  source: "https://www.semrush.com/news/435826-adobe-to-acquire-semrush/"
+sources:
+  - "https://www.sec.gov/Archives/edgar/data/1831840/000114036126017299/ef20071354_8k.htm"
+  - "https://www.semrush.com/news/435826-adobe-to-acquire-semrush/"
+  - "https://www.sec.gov/Archives/edgar/data/1831840/000162828026013251/semrush8-kexhibit991q42025.htm"
+last_verified: "2026-10-26"

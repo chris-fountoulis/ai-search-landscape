@@ -1,0 +1,18 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "SISTRIX"
+slug: "sistrix"
+dataset: "ai-search"
+company: "SISTRIX"
+website: "sistrix.com"
+segment: "incumbents"
+hq:
+  city: "Bonn"
+  country: "DE"
+status: "active"
+pricing:
+  as_listed_by_vendor: "EUR 119 to 799 per month plus VAT (Start to Premium); Enterprise custom"
+  source: "https://www.sistrix.com/prices/"
+sources:
+  - "https://www.sistrix.com/prices/"
+last_verified: "2026-10-26"

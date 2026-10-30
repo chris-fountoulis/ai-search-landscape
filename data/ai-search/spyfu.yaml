@@ -1,0 +1,21 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "SpyFu"
+slug: "spyfu"
+dataset: "ai-search"
+company: "SpyFu"
+website: "spyfu.com"
+segment: "incumbents"
+hq:
+  city: "Scottsdale"
+  country: "US"
+founded:
+  year: 2006
+  source: "https://www.spyfu.com/Company"
+status: "active"
+pricing:
+  as_listed_by_vendor: "not verified"
+sources:
+  - "https://www.spyfu.com/Company"
+  - "https://linkedin.com/company/spyfu"
+last_verified: "2026-10-26"
