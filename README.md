@@ -201,7 +201,7 @@ The inclusion rubric (real AI search or agent product, notability floor, develop
 
 ## Cite this dataset
 
-> Fountoulis, C. and Growth Of Influence (2026). *AI Search Landscape: an open, sourced dataset of AI search optimization and AI agent companies* (version 0.1.0). https://github.com/chris-fountoulis/ai-search-landscape
+> Fountoulis, C. and Growth Of Influence (2026). *AI Search Landscape: an open, sourced dataset of AI search optimization and AI agent companies* (version 0.2.0). https://github.com/chris-fountoulis/ai-search-landscape
 
 Machine-readable metadata is in [`CITATION.cff`](CITATION.cff) (GitHub shows a "Cite this repository" button). When you use the numbers, link the repository or the study you used.
 

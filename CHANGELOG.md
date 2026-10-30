@@ -4,6 +4,8 @@ All notable changes to the data and the tools. Data editions follow the publishe
 
 ## [Unreleased]
 
+## [0.2.0] - 2026-10-30
+
 ### Source audit, 2026-10-30
 
 Every figure in both datasets was checked against the page text of its source, so that each `source` now points at a page that states its figure. Method and coverage are in [METHODOLOGY.md](METHODOLOGY.md#source-audit-2026-10-30). 1,057 sources were re-pointed or added, 42 values were corrected and 36 values were removed; no company was removed.
@@ -80,5 +82,6 @@ Pending corrections without a public source yet (a founding year and a funding t
 * `tools/check_links.py`: rate-limited, report-only link checker, run weekly by a scheduled workflow.
 * `site/`: framework-free browser deployed to GitHub Pages.
 
-[Unreleased]: https://github.com/chris-fountoulis/ai-search-landscape/compare/v0.1.0...HEAD
+[Unreleased]: https://github.com/chris-fountoulis/ai-search-landscape/compare/v0.2.0...HEAD
+[0.2.0]: https://github.com/chris-fountoulis/ai-search-landscape/compare/v0.1.0...v0.2.0
 [0.1.0]: https://github.com/chris-fountoulis/ai-search-landscape/releases/tag/v0.1.0
