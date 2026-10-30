@@ -9,6 +9,7 @@ segment: "content-automation"
 hq:
   city: "Zamosc"
   country: "PL"
+  source: "https://neuronwriter.com/pricing/"
 status: "active"
 pricing:
   as_listed_by_vendor: "$23 to $117"
@@ -16,4 +17,4 @@ pricing:
 sources:
   - "https://neuronwriter.com/pricing/"
   - "https://www.choppingblock.ai/companies/neuronwriter"
-last_verified: "2026-10-26"
+last_verified: "2026-10-30"

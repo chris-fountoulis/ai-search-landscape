@@ -9,6 +9,7 @@ segment: "company-brain"
 hq:
   city: "Paris"
   country: "FR"
+  source: "https://hackernoon.com/dust-raises-%2440m-led-by-sequoia-and-abstract-to-build-workspace-ai-infrastructure-for-enterprise"
 founded:
   year: 2023
   source: "https://tech.eu/2026/05/18/dust-raises-40m-series-b-to-build-the-multiplayer-operating-system-for-enterprise-ai/"
@@ -30,4 +31,4 @@ sources:
   - "https://techcrunch.com/2023/06/27/dust-use-large-language-models-on-internal-data-to-improve-team-productivity/"
   - "https://techcrunch.com/2024/06/27/dust-grabs-another-16-million-for-its-enterprise-ai-assistants-connected-to-internal-data/"
   - "https://dust.tt/home/pricing"
-last_verified: "2026-10-29"
+last_verified: "2026-10-30"

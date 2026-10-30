@@ -9,6 +9,7 @@ segment: "builders"
 hq:
   city: "Mountain View"
   country: "US"
+  source: "https://www.kognitos.com/news/kognitos-launches-neurosymbolic-ai-platform-for-automating-business-operations-backed-by-25m-series-b/"
 founded:
   year: 2020
   source: "https://www.kognitos.com/about/"
@@ -29,4 +30,4 @@ sources:
   - "https://techcrunch.com/2023/11/30/kognitos-raises-35m-to-help-businesses-automate-back-office-processes/"
   - "https://siliconangle.com/2023/11/30/kognitos-reels-20m-natural-language-task-automation-platform/"
   - "https://www.kognitos.com/terms-of-service/"
-last_verified: "2026-10-29"
+last_verified: "2026-10-30"

@@ -10,6 +10,7 @@ segment: "marketing-agency"
 hq:
   city: "Amsterdam"
   country: "NL"
+  source: "https://whatagraph.com/terms-and-conditions"
 founded:
   year: 2015
   source: "https://whatagraph.com/blog/articles/whatagraph-series-a-funding"
@@ -32,4 +33,4 @@ sources:
   - "https://whatagraph.com/blog/articles/whatagraph-series-a-funding"
   - "https://tech.eu/2021/09/29/marketing-reports-platform-whatagraph-charts-7-2-million"
   - "https://www.eu-startups.com/2019/03/amsterdam-based-digital-marketing-analytics-startup-whatagraph-has-raised-e600k/"
-last_verified: "2026-10-29"
+last_verified: "2026-10-30"

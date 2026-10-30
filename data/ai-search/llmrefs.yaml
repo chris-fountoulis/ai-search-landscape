@@ -9,6 +9,7 @@ segment: "geo-tracking"
 hq:
   city: "London"
   country: "GB"
+  source: "https://llmrefs.com/about"
 status: "active"
 pricing:
   as_listed_by_vendor: "$79; Enterprise custom"
@@ -16,4 +17,4 @@ pricing:
 sources:
   - "https://llmrefs.com/about"
   - "https://llmrefs.com/pricing"
-last_verified: "2026-10-26"
+last_verified: "2026-10-30"

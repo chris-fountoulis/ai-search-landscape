@@ -10,6 +10,7 @@ segment: "cx-sales"
 hq:
   city: "Bengaluru"
   country: "IN"
+  source: "https://www.kapture.cx/terms-and-conditions/"
 founded:
   year: 2014
   source: "https://www.kapture.cx/press-releases/kapture-raises-10-million-pre-series-b-funding/"
@@ -30,4 +31,4 @@ sources:
   - "https://economictimes.indiatimes.com/tech/funding/kapture-cx-raises-10-million-led-by-bajaj-finserv-ventures/articleshow/132077023.cms"
   - "https://www.kapture.cx/terms-and-conditions/"
   - "https://www.kapture.cx/pricing/"
-last_verified: "2026-10-29"
+last_verified: "2026-10-30"

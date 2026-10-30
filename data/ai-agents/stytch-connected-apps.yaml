@@ -10,6 +10,7 @@ segment: "infrastructure"
 hq:
   city: "San Francisco"
   country: "US"
+  source: "https://techcrunch.com/2021/11/18/stytch-api-passwordless-unicorn/"
 founded:
   year: 2021
   source: "https://techcrunch.com/2021/07/14/ex-plaid-employees-raise-30m-for-stytch-an-api-first-passwordless-authentication-platform/"
@@ -38,4 +39,4 @@ sources:
   - "https://stytch.com/connected-apps"
   - "https://stytch.com/pricing"
   - "https://www.twilio.com/en-us/legal/tos"
-last_verified: "2026-10-29"
+last_verified: "2026-10-30"

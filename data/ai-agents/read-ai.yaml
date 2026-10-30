@@ -10,6 +10,7 @@ segment: "company-brain"
 hq:
   city: "Seattle"
   country: "US"
+  source: "https://www.read.ai/about"
 founded:
   year: 2021
   source: "https://www.read.ai/about"
@@ -32,4 +33,4 @@ sources:
   - "https://uk.finance.yahoo.com/news/ai-startup-read-announces-funding-120358434.html"
   - "https://www.read.ai/plans-pricing"
   - "https://www.read.ai/press"
-last_verified: "2026-10-29"
+last_verified: "2026-10-30"

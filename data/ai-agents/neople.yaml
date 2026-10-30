@@ -9,6 +9,7 @@ segment: "cx-sales"
 hq:
   city: "Utrecht"
   country: "NL"
+  source: "https://www.neople.io/terms-conditions"
 founded:
   year: 2023
   source: "https://www.neople.io/about-us"
@@ -29,4 +30,4 @@ sources:
   - "https://ioplus.nl/archive/en/ai-startup-neople-raises-e1-5m-for-digital-co-workers-revolution"
   - "https://www.neople.io/terms-conditions"
   - "https://www.neople.io/pricing"
-last_verified: "2026-10-29"
+last_verified: "2026-10-30"

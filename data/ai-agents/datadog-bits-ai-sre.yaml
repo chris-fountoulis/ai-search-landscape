@@ -10,6 +10,7 @@ segment: "coding"
 hq:
   city: "New York"
   country: "US"
+  source: "https://www.datadoghq.com/legal/terms/"
 status: "active"
 public_company: true
 pricing:
@@ -21,4 +22,4 @@ sources:
   - "https://www.datadoghq.com/pricing/list/"
   - "https://www.datadoghq.com/legal/terms/"
   - "https://siliconangle.com/2026/06/09/datadog-launches-100-features-dash-push-autonomous-ai-ops/"
-last_verified: "2026-10-29"
+last_verified: "2026-10-30"

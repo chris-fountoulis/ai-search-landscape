@@ -10,6 +10,7 @@ segment: "cx-sales"
 hq:
   city: "New York"
   country: "US"
+  source: "https://www.actively.ai/terms"
 founded:
   year: 2022
   source: "https://techcrunch.com/2025/04/02/actively-ai-raises-22-5m-to-offer-sales-superintelligence-says-ai-sdrs-failed/"
@@ -28,4 +29,4 @@ sources:
   - "https://techcrunch.com/2025/04/02/actively-ai-raises-22-5m-to-offer-sales-superintelligence-says-ai-sdrs-failed/"
   - "https://www.actively.ai/terms"
   - "https://www.actively.ai/"
-last_verified: "2026-10-29"
+last_verified: "2026-10-30"

@@ -9,6 +9,7 @@ segment: "infrastructure"
 hq:
   city: "New York"
   country: "US"
+  source: "https://www.tavily.com/terms"
 founded:
   year: 2024
   source: "https://www.tavily.com/about"
@@ -32,4 +33,4 @@ sources:
   - "https://www.tavily.com/terms"
   - "https://www.tavily.com/pricing"
   - "https://www.tavily.com/about"
-last_verified: "2026-10-29"
+last_verified: "2026-10-30"

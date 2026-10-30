@@ -10,6 +10,7 @@ segment: "cx-sales"
 hq:
   city: "Tallinn"
   country: "EE"
+  source: "https://siliconcanals.com/estonias-salesforge-raises-467k/"
 founded:
   year: 2023
   source: "https://www.salesforge.ai/about"
@@ -31,4 +32,4 @@ sources:
   - "https://www.salesforge.ai/pricing"
   - "https://www.salesforge.ai/about"
   - "https://www.salesforge.ai/legal/terms"
-last_verified: "2026-10-29"
+last_verified: "2026-10-30"

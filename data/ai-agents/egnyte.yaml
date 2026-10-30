@@ -10,6 +10,7 @@ segment: "company-brain"
 hq:
   city: "Mountain View"
   country: "US"
+  source: "https://www.ta.com/news/egnyte-announces-majority-investment-from-gi-partners-and-ta/"
 founded:
   year: 2008
   source: "https://www.ta.com/news/egnyte-announces-majority-investment-from-gi-partners-and-ta/"
@@ -27,4 +28,4 @@ sources:
   - "https://techcrunch.com/2022/02/10/with-steady-growth-egnyte-reaches-150m-arr-and-looks-to-future-ipo/"
   - "https://www.egnyte.com/pricing"
   - "https://www.egnyte.com/ai"
-last_verified: "2026-10-29"
+last_verified: "2026-10-30"

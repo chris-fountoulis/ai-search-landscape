@@ -6,8 +6,6 @@ dataset: "ai-search"
 company: "Rytr"
 website: "rytr.me"
 segment: "content-automation"
-hq:
-  city: "Unknown"
 status: "active"
 pricing:
   as_listed_by_vendor: "$9 to $49; free tier"
@@ -15,4 +13,4 @@ pricing:
 sources:
   - "https://rytr.me/pricing"
   - "https://app.dealroom.co/companies/rytr_1"
-last_verified: "2026-10-26"
+last_verified: "2026-10-30"

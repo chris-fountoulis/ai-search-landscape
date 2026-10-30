@@ -10,6 +10,7 @@ segment: "vertical"
 hq:
   city: "Palo Alto"
   country: "US"
+  source: "https://www.federato.ai/privacy-policy"
 founded:
   year: 2020
   source: "https://www.federato.ai/about"
@@ -30,4 +31,4 @@ sources:
   - "https://techcrunch.com/2024/11/20/federato-fixes-insurance-risk-analysis-with-ai-raises-40m/"
   - "https://www.federato.ai/about"
   - "https://www.federato.ai/privacy-policy"
-last_verified: "2026-10-29"
+last_verified: "2026-10-30"

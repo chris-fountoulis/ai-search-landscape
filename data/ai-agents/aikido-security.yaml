@@ -10,6 +10,7 @@ segment: "coding"
 hq:
   city: "Ghent"
   country: "BE"
+  source: "https://www.aikido.dev/about"
 founded:
   year: 2022
   source: "https://www.aikido.dev/about"
@@ -30,4 +31,4 @@ sources:
   - "https://www.aikido.dev/pricing"
   - "https://siliconangle.com/2026/01/14/aikido-security-raises-60m-series-b-1b-valuation-unify-application-security/"
   - "https://siliconangle.com/2026/06/30/aikido-acquires-root-patch-open-source-without-forced-upgrades/"
-last_verified: "2026-10-29"
+last_verified: "2026-10-30"

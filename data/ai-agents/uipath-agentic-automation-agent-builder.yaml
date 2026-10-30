@@ -10,6 +10,7 @@ segment: "builders"
 hq:
   city: "New York"
   country: "US"
+  source: "https://www.uipath.com/legal/trust-and-security/legal-terms"
 status: "active"
 public_company: true
 pricing:
@@ -21,4 +22,4 @@ sources:
   - "https://www.uipath.com/platform/agentic-automation"
   - "https://www.uipath.com/legal/trust-and-security/legal-terms"
   - "https://techcrunch.com/2025/03/13/uipath-is-looking-for-a-path-to-growth-in-agentic-ai-with-its-peak-ai-acquisition/"
-last_verified: "2026-10-29"
+last_verified: "2026-10-30"

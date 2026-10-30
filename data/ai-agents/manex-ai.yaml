@@ -10,6 +10,7 @@ segment: "builders"
 hq:
   city: "Munich"
   country: "DE"
+  source: "https://manex.ai/press"
 founded:
   year: 2023
   source: "https://manex.ai/imprint"
@@ -22,4 +23,4 @@ sources:
   - "https://manex.ai/press"
   - "https://www.handelsblatt.com/technik/ki/ki-warum-deutsche-konzerne-bei-diesem-unbekannten-start-up-anklopfen/100104732.html"
   - "https://manex.ai"
-last_verified: "2026-10-29"
+last_verified: "2026-10-30"

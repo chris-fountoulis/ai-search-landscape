@@ -10,6 +10,7 @@ segment: "marketing-agency"
 hq:
   city: "San Diego"
   country: "US"
+  source: "https://improvado.io/legal/terms-of-use"
 founded:
   year: 2015
   source: "https://improvado.io/company/about"
@@ -25,4 +26,4 @@ sources:
   - "https://improvado.io/company/about"
   - "https://improvado.io/pricing"
   - "https://improvado.io/legal/terms-of-use"
-last_verified: "2026-10-29"
+last_verified: "2026-10-30"

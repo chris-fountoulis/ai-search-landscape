@@ -10,6 +10,7 @@ segment: "cx-sales"
 hq:
   city: "New York"
   country: "US"
+  source: "https://www.kustomer.com/legal/website-terms-of-use/"
 founded:
   year: 2015
   source: "https://www.kustomer.com/legal/website-terms-of-use/"
@@ -33,4 +34,4 @@ sources:
   - "https://www.kustomer.com/legal/website-terms-of-use/"
   - "https://www.kustomer.com/about-us/"
   - "https://www.kustomer.com/pricing/"
-last_verified: "2026-10-29"
+last_verified: "2026-10-30"

@@ -9,6 +9,7 @@ segment: "infrastructure"
 hq:
   city: "New York"
   country: "US"
+  source: "https://www.promptlayer.com/terms/"
 status: "active"
 funding:
   total_usd: 4800000
@@ -25,4 +26,4 @@ sources:
   - "https://techcrunch.com/2025/02/07/promptlayer-is-building-tools-to-put-non-techies-in-the-drivers-seat-of-ai-app-development/"
   - "https://www.promptlayer.com/pricing"
   - "https://www.promptlayer.com/terms/"
-last_verified: "2026-10-29"
+last_verified: "2026-10-30"

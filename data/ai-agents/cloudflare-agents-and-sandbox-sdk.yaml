@@ -10,6 +10,7 @@ segment: "infrastructure"
 hq:
   city: "San Francisco"
   country: "US"
+  source: "https://www.cloudflare.com/about-overview/"
 status: "active"
 public_company: true
 pricing:
@@ -22,4 +23,4 @@ sources:
   - "https://developers.cloudflare.com/agents/"
   - "https://www.cloudflare.com/about-overview/"
   - "https://www.forbes.com/sites/janakirammsv/2026/04/16/cloudflare-and-openai-launch-agent-cloud-for-enterprises/"
-last_verified: "2026-10-29"
+last_verified: "2026-10-30"

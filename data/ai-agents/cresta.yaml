@@ -10,6 +10,7 @@ segment: "cx-sales"
 hq:
   city: "Sunnyvale"
   country: "US"
+  source: "https://cresta.com/legal/terms-of-service"
 founded:
   year: 2017
   source: "https://cresta.com/about-us"
@@ -27,4 +28,4 @@ sources:
   - "https://cresta.com/about-us"
   - "https://cresta.com/legal/terms-of-service"
   - "https://cresta.com/trust"
-last_verified: "2026-10-29"
+last_verified: "2026-10-30"

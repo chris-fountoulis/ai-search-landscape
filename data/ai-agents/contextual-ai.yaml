@@ -9,6 +9,7 @@ segment: "infrastructure"
 hq:
   city: "Mountain View"
   country: "US"
+  source: "https://contextual.ai/legal/terms-of-use"
 founded:
   year: 2023
   source: "https://contextual.ai/legal/terms-of-use"
@@ -31,4 +32,4 @@ sources:
   - "https://contextual.ai/pricing/"
   - "https://contextual.ai/legal/terms-of-use"
   - "https://contextual.ai/company/"
-last_verified: "2026-10-29"
+last_verified: "2026-10-30"

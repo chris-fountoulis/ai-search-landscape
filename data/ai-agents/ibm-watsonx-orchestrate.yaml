@@ -10,6 +10,7 @@ segment: "builders"
 hq:
   city: "Armonk"
   country: "US"
+  source: "https://www.ibm.com/contact/us/en"
 status: "active"
 public_company: true
 pricing:
@@ -20,4 +21,4 @@ sources:
   - "https://www.ibm.com/products/watsonx-orchestrate/pricing"
   - "https://www.ibm.com/contact/us/en"
   - "https://siliconangle.com/2026/02/24/ibm-taps-deepgram-add-real-time-speech-watsonx-orchestrate/"
-last_verified: "2026-10-29"
+last_verified: "2026-10-30"

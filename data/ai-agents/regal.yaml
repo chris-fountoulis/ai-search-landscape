@@ -9,6 +9,7 @@ segment: "cx-sales"
 hq:
   city: "New York"
   country: "US"
+  source: "https://techcrunch.com/2022/09/07/regal-secures-capital-to-grow-its-platform-for-branded-calls-and-texts/"
 status: "active"
 funding:
   total_usd: 83000000
@@ -28,4 +29,4 @@ sources:
   - "https://www.regal.ai/terms-of-service"
   - "https://www.regal.ai/pricing"
   - "https://www.regal.ai/about"
-last_verified: "2026-10-29"
+last_verified: "2026-10-30"

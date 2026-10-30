@@ -10,6 +10,7 @@ segment: "general-browser"
 hq:
   city: "San Francisco"
   country: "US"
+  source: "https://techcrunch.com/2025/07/17/openai-launches-a-general-purpose-agent-in-chatgpt/"
 founded:
   year: 2015
   source: "https://news.bloomberglaw.com/tech-and-telecom-law/openai-valued-at-852-billion-after-closing-122-billion-round"
@@ -29,4 +30,4 @@ sources:
   - "https://learn.chatgpt.com/docs/pricing"
   - "https://news.bloomberglaw.com/tech-and-telecom-law/openai-valued-at-852-billion-after-closing-122-billion-round"
   - "https://techcrunch.com/2025/07/17/openai-launches-a-general-purpose-agent-in-chatgpt/"
-last_verified: "2026-10-29"
+last_verified: "2026-10-30"

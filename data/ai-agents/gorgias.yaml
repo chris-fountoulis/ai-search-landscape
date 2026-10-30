@@ -10,6 +10,7 @@ segment: "cx-sales"
 hq:
   city: "San Francisco"
   country: "US"
+  source: "https://techcrunch.com/2022/08/15/gorgias-valuation-710m-series-c-e-commerce-customer-support/"
 founded:
   year: 2015
   source: "https://www.gorgias.com/about-us"
@@ -32,4 +33,4 @@ sources:
   - "https://www.thesaasnews.com/news/gorgias-raises-30-million-in-series-c/"
   - "https://www.gorgias.com/pricing"
   - "https://www.gorgias.com/legal/terms-of-service"
-last_verified: "2026-10-29"
+last_verified: "2026-10-30"

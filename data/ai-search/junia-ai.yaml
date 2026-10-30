@@ -7,7 +7,6 @@ company: "Junia AI"
 website: "junia.ai"
 segment: "content-automation"
 hq:
-  city: "Unknown"
   country: "EE"
 status: "active"
 pricing:
@@ -16,4 +15,4 @@ pricing:
 sources:
   - "https://www.junia.ai/terms"
   - "https://www.junia.ai/pricing"
-last_verified: "2026-10-26"
+last_verified: "2026-10-30"

@@ -10,6 +10,7 @@ segment: "cx-sales"
 hq:
   city: "San Mateo"
   country: "US"
+  source: "https://yellow.ai/about-us/"
 founded:
   year: 2016
   source: "https://yellow.ai/about-us/"
@@ -32,4 +33,4 @@ sources:
   - "https://yellow.ai/about-us/"
   - "https://yellow.ai/terms-of-service/"
   - "https://yellow.ai/pricing/"
-last_verified: "2026-10-29"
+last_verified: "2026-10-30"

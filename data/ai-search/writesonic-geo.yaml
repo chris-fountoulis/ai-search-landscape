@@ -9,6 +9,7 @@ segment: "geo-tracking"
 hq:
   city: "San Francisco"
   country: "US"
+  source: "https://writesonic.com/about-us"
 status: "active"
 funding:
   total_usd: 2600000
@@ -22,4 +23,4 @@ sources:
   - "https://writesonic.com/about-us"
   - "https://writesonic.com/pricing"
   - "https://www.cbinsights.com/company/writesonic/financials"
-last_verified: "2026-10-26"
+last_verified: "2026-10-30"

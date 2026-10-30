@@ -10,6 +10,7 @@ segment: "builders"
 hq:
   city: "Paris"
   country: "FR"
+  source: "https://hcompany.ai/pricing"
 founded:
   year: 2024
   source: "https://techcrunch.com/2024/05/21/french-ai-startup-h-raises-220-million-seed-round/"
@@ -28,4 +29,4 @@ sources:
   - "https://hcompany.ai/pricing"
   - "https://hcompany.ai/cgv"
   - "https://hcompany.ai/press"
-last_verified: "2026-10-29"
+last_verified: "2026-10-30"

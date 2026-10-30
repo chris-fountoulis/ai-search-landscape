@@ -9,6 +9,7 @@ segment: "ai-native-agencies"
 hq:
   city: "San Francisco"
   country: "US"
+  source: "https://www.ycombinator.com/companies/rankai"
 founded:
   year: 2023
   source: "https://www.ycombinator.com/companies/rankai"
@@ -23,4 +24,4 @@ pricing:
 sources:
   - "https://www.ycombinator.com/companies/rankai"
   - "https://rankai.ai/"
-last_verified: "2026-10-26"
+last_verified: "2026-10-30"

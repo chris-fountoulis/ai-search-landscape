@@ -9,6 +9,7 @@ segment: "infrastructure"
 hq:
   city: "Seattle"
   country: "US"
+  source: "https://techcrunch.com/2026/05/05/copilotkit-raises-27m-to-help-devs-deploy-app-native-ai-agents/"
 status: "active"
 funding:
   total_usd: 27000000
@@ -26,4 +27,4 @@ sources:
   - "https://www.copilotkit.ai/pricing"
   - "https://www.copilotkit.ai/terms-of-service"
   - "https://www.copilotkit.ai/careers"
-last_verified: "2026-10-29"
+last_verified: "2026-10-30"

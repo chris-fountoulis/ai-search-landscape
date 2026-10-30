@@ -9,6 +9,7 @@ segment: "infrastructure"
 hq:
   city: "San Francisco"
   country: "US"
+  source: "https://supermemory.ai/terms/"
 founded:
   year: 2025
   source: "https://techcrunch.com/2025/10/06/a-19-year-old-nabs-backing-from-google-execs-for-his-ai-memory-startup-supermemory/"
@@ -29,4 +30,4 @@ sources:
   - "https://techcrunch.com/2025/10/06/a-19-year-old-nabs-backing-from-google-execs-for-his-ai-memory-startup-supermemory/"
   - "https://supermemory.ai/"
   - "https://supermemory.ai/terms/"
-last_verified: "2026-10-29"
+last_verified: "2026-10-30"

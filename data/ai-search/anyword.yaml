@@ -9,6 +9,7 @@ segment: "content-automation"
 hq:
   city: "New York"
   country: "US"
+  source: "https://www.anyword.com/blog/series-b-funding-round"
 founded:
   year: 2013
   source: "https://www.businesswire.com/news/home/20211118005193/en/Anyword-an-AI-based-Tool-That-Combines-Language-Models-With-Performance-Data-to-Reinvent-Writing-for-Marketing-and-Sales-Raises-$21-Million-in-New-Funding"
@@ -26,4 +27,4 @@ sources:
   - "https://www.anyword.com/blog/series-b-funding-round"
   - "https://www.calcalistech.com/ctech/articles/0,7340,L-3922904,00.html"
   - "https://en.wikipedia.org/wiki/Anyword"
-last_verified: "2026-10-26"
+last_verified: "2026-10-30"

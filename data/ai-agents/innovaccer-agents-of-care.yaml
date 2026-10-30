@@ -10,6 +10,7 @@ segment: "vertical"
 hq:
   city: "San Francisco"
   country: "US"
+  source: "https://innovaccer.com/terms-of-use"
 founded:
   year: 2014
   source: "https://innovaccer.com/about"
@@ -29,4 +30,4 @@ sources:
   - "https://innovaccer.com/about"
   - "https://innovaccer.com/terms-of-use"
   - "https://innovaccer.com/agents-of-care"
-last_verified: "2026-10-29"
+last_verified: "2026-10-30"

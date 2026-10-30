@@ -9,6 +9,7 @@ segment: "builders"
 hq:
   city: "Berlin"
   country: "DE"
+  source: "https://juna.ai/imprint"
 founded:
   year: 2023
   source: "https://juna.ai/imprint"
@@ -27,4 +28,4 @@ sources:
   - "https://techcrunch.com/2024/11/18/juna-ai-wants-to-use-ai-agents-to-make-factories-more-energy-efficient/"
   - "https://juna.ai/imprint"
   - "https://juna.ai/"
-last_verified: "2026-10-29"
+last_verified: "2026-10-30"

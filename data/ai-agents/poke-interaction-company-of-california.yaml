@@ -10,6 +10,7 @@ segment: "general-browser"
 hq:
   city: "Palo Alto"
   country: "US"
+  source: "https://poke.com/terms"
 founded:
   year: 2026
   source: "https://cognition.com/blog/interaction"
@@ -36,4 +37,4 @@ sources:
   - "https://techcrunch.com/2026/10/24/all-the-ai-agents-that-can-live-in-your-text-messages/"
   - "https://poke.com/"
   - "https://poke.com/terms"
-last_verified: "2026-10-29"
+last_verified: "2026-10-30"

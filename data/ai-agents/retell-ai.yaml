@@ -9,6 +9,7 @@ segment: "cx-sales"
 hq:
   city: "San Francisco"
   country: "US"
+  source: "https://www.ycombinator.com/companies/retell-ai"
 founded:
   year: 2023
   source: "https://www.retellai.com/about-us"
@@ -31,4 +32,4 @@ sources:
   - "https://www.retellai.com/pricing"
   - "https://www.retellai.com/legal/terms-of-service"
   - "https://www.ycombinator.com/companies/retell-ai"
-last_verified: "2026-10-29"
+last_verified: "2026-10-30"

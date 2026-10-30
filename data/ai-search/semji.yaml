@@ -9,6 +9,7 @@ segment: "content-automation"
 hq:
   city: "Lyon"
   country: "FR"
+  source: "https://semji.com/"
 status: "active"
 funding:
   latest_round:
@@ -20,4 +21,4 @@ pricing:
 sources:
   - "https://semji.com/"
   - "https://semji.com/pricing/"
-last_verified: "2026-10-26"
+last_verified: "2026-10-30"

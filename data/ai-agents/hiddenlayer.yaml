@@ -9,6 +9,7 @@ segment: "infrastructure"
 hq:
   city: "Austin"
   country: "US"
+  source: "https://www.hiddenlayer.com/privacy"
 founded:
   year: 2019
   source: "https://techcrunch.com/2026/09/02/hiddenlayer-nabs-100m-as-enterprises-rush-to-secure-their-ai-deployments/"
@@ -28,4 +29,4 @@ sources:
   - "https://techcrunch.com/2023/09/19/hiddenlayer-raises-50m-for-its-ai-defending-cybersecurity-tools/"
   - "https://www.hiddenlayer.com/news/hiddenlayer-100m-series-b-ai-security"
   - "https://www.hiddenlayer.com/privacy"
-last_verified: "2026-10-29"
+last_verified: "2026-10-30"

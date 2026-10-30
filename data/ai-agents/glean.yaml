@@ -10,6 +10,7 @@ segment: "company-brain"
 hq:
   city: "San Francisco"
   country: "US"
+  source: "https://www.glean.com/website-terms"
 founded:
   year: 2019
   source: "https://www.glean.com/about"
@@ -31,4 +32,4 @@ sources:
   - "https://www.glean.com/website-terms"
   - "https://www.glean.com/about"
   - "https://www.glean.com/pricing"
-last_verified: "2026-10-29"
+last_verified: "2026-10-30"

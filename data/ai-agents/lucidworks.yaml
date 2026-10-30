@@ -9,6 +9,7 @@ segment: "company-brain"
 hq:
   city: "San Francisco"
   country: "US"
+  source: "https://web.archive.org/web/20250810043614/https://lucidworks.com/news-press/lucidworks-raises-100-million-from-investors"
 status: "active"
 pricing:
   as_listed_by_vendor: "custom"
@@ -16,4 +17,4 @@ pricing:
 sources:
   - "https://techcrunch.com/2019/08/12/lucidworks-raises-100m-to-expand-in-ai-powered-search-as-a-service-for-organizations/"
   - "https://web.archive.org/web/20250810043614/https://lucidworks.com/news-press/lucidworks-raises-100-million-from-investors"
-last_verified: "2026-10-29"
+last_verified: "2026-10-30"

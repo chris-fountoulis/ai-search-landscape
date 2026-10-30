@@ -10,6 +10,7 @@ segment: "marketing-agency"
 hq:
   city: "New York"
   country: "US"
+  source: "https://www.optimizely.com/legal/terms/"
 status: "active"
 pricing:
   as_listed_by_vendor: "custom"
@@ -20,4 +21,4 @@ sources:
   - "https://www.optimizely.com/agents/"
   - "https://www.optimizely.com/pricing/"
   - "https://www.optimizely.com/legal/terms/"
-last_verified: "2026-10-29"
+last_verified: "2026-10-30"

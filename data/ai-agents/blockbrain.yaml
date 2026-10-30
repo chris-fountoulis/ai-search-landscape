@@ -9,6 +9,7 @@ segment: "company-brain"
 hq:
   city: "Stuttgart"
   country: "DE"
+  source: "https://blockbrain.ai/impressum"
 founded:
   year: 2022
   source: "https://blockbrain.ai/impressum"
@@ -28,4 +29,4 @@ sources:
   - "https://blockbrain.ai/impressum"
   - "https://blockbrain.ai/presse"
   - "https://www.thesaasnews.com/news/blockbrain-raises-17-5-million-in-series-a"
-last_verified: "2026-10-29"
+last_verified: "2026-10-30"

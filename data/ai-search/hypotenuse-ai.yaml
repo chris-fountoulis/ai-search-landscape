@@ -9,6 +9,7 @@ segment: "content-automation"
 hq:
   city: "Singapore"
   country: "SG"
+  source: "https://imda.gov.sg/resources/blog/blog-articles/2024/01/tech-innovators-ai-start-up-is-making-an-impact"
 founded:
   year: 2020
   source: "https://imda.gov.sg/resources/blog/blog-articles/2024/01/tech-innovators-ai-start-up-is-making-an-impact"
@@ -19,4 +20,4 @@ pricing:
 sources:
   - "https://imda.gov.sg/resources/blog/blog-articles/2024/01/tech-innovators-ai-start-up-is-making-an-impact"
   - "https://www.hypotenuse.ai/pricing"
-last_verified: "2026-10-26"
+last_verified: "2026-10-30"

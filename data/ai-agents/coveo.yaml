@@ -10,6 +10,7 @@ segment: "infrastructure"
 hq:
   city: "Montreal"
   country: "CA"
+  source: "https://www.coveo.com/en/company/about-us/our-locations"
 status: "active"
 public_company: true
 pricing:
@@ -21,4 +22,4 @@ sources:
   - "https://www.coveo.com/en/pricing"
   - "https://www.coveo.com/en/platform/agentic-ai"
   - "https://siliconangle.com/2026/07/14/enterprise-search-coveo-helps-ai-results-awsmarketplaceseries/"
-last_verified: "2026-10-29"
+last_verified: "2026-10-30"

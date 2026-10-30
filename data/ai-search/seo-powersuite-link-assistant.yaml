@@ -9,6 +9,7 @@ segment: "incumbents"
 hq:
   city: "Nicosia"
   country: "CY"
+  source: "https://www.link-assistant.com/about-us.html"
 founded:
   year: 2004
   source: "https://www.link-assistant.com/about-us.html"
@@ -19,4 +20,4 @@ pricing:
 sources:
   - "https://www.link-assistant.com/about-us.html"
   - "https://www.link-assistant.com/pricing.html"
-last_verified: "2026-10-26"
+last_verified: "2026-10-30"

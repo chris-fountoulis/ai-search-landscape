@@ -9,10 +9,11 @@ segment: "ai-native-agencies"
 hq:
   city: "Kirkland"
   country: "US"
+  source: "https://www.kalungi.com/"
 status: "active"
 pricing:
   as_listed_by_vendor: "custom"
 sources:
   - "https://www.kalungi.com/"
   - "https://metaflow.life/blog/best-ai-native-marketing-agencies-for-seed-stage-startups"
-last_verified: "2026-10-26"
+last_verified: "2026-10-30"

@@ -10,6 +10,7 @@ segment: "company-brain"
 hq:
   city: "Toronto"
   country: "CA"
+  source: "https://cohere.com/terms-of-use"
 founded:
   year: 2019
   source: "https://cohere.com/about"
@@ -27,4 +28,4 @@ sources:
   - "https://cohere.com/pricing"
   - "https://cohere.com/about"
   - "https://cohere.com/terms-of-use"
-last_verified: "2026-10-29"
+last_verified: "2026-10-30"

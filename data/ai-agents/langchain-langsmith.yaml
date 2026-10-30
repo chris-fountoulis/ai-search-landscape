@@ -10,6 +10,7 @@ segment: "infrastructure"
 hq:
   city: "San Francisco"
   country: "US"
+  source: "https://www.langchain.com/about"
 founded:
   year: 2022
   source: "https://www.langchain.com/about"
@@ -27,4 +28,4 @@ sources:
   - "https://www.langchain.com/about"
   - "https://www.langchain.com/pricing"
   - "https://www.langchain.com/terms-of-service"
-last_verified: "2026-10-29"
+last_verified: "2026-10-30"

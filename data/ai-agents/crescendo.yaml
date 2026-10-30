@@ -9,6 +9,7 @@ segment: "cx-sales"
 hq:
   city: "San Francisco"
   country: "US"
+  source: "https://www.crescendo.ai/company"
 founded:
   year: 2023
   source: "https://www.crescendo.ai/company"
@@ -28,4 +29,4 @@ sources:
   - "https://www.crescendo.ai/news/crescendo-to-exceed-100m-arr-as-global-adoption-of-its-first-ai-native-contact-center-accelerates"
   - "https://www.crescendo.ai/company"
   - "https://www.crescendo.ai/news"
-last_verified: "2026-10-29"
+last_verified: "2026-10-30"

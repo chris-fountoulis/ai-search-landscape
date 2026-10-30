@@ -6,7 +6,7 @@ Funding figures are minimums: disclosed equity only, counted once per company, m
 
 ## AI Search Optimization Companies (`data/ai-search/`)
 
-Study: <https://growthofinfluence.com/ai-search-optimization-companies/>. Last verified: 2026-10-27.
+Study: <https://growthofinfluence.com/ai-search-optimization-companies/>. Last verified: 2026-10-30.
 
 | Measure | Value |
 |---|---|
@@ -102,7 +102,7 @@ Segment funding counts each company once per segment. A company with products in
 
 ## AI Agent Companies (`data/ai-agents/`)
 
-Study: <https://growthofinfluence.com/ai-agent-companies/>. Last verified: 2026-10-29.
+Study: <https://growthofinfluence.com/ai-agent-companies/>. Last verified: 2026-10-30.
 
 | Measure | Value |
 |---|---|

@@ -10,6 +10,7 @@ segment: "cx-sales"
 hq:
   city: "San Ramon"
   country: "US"
+  source: "https://www.dialpad.com/legal/"
 status: "active"
 funding:
   total_usd: 415000000
@@ -29,4 +30,4 @@ sources:
   - "https://www.dialpad.com/pricing/"
   - "https://siliconangle.com/2026/03/05/closing-ai-execution-gap-dialpad-releases-production-ready-ai-agents/"
   - "https://www.businesswire.com/news/home/20210311005336/en/Dialpad-Marks-Ten-Year-Anniversary-and-One-Year-of-Remote-Work-with-Record-Growth-and-Widespread-Market-Recognition"
-last_verified: "2026-10-29"
+last_verified: "2026-10-30"

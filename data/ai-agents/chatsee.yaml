@@ -10,6 +10,7 @@ segment: "infrastructure"
 hq:
   city: "San Francisco"
   country: "US"
+  source: "https://www.thesaasnews.com/news/chatsee-ai-raises-6-5m-seed/"
 founded:
   year: 2025
   source: "https://www.chatsee.ai/about"
@@ -31,4 +32,4 @@ sources:
   - "https://www.chatsee.ai/terms-of-service"
   - "https://www.thesaasnews.com/news/chatsee-ai-raises-6-5m-seed/"
   - "https://www.vcnewsdaily.com/ChatSee.ai/venture-capital-funding/kqmmfsjztf"
-last_verified: "2026-10-29"
+last_verified: "2026-10-30"

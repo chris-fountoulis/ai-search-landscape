@@ -9,6 +9,7 @@ segment: "company-brain"
 hq:
   city: "Mountain View"
   country: "US"
+  source: "https://techcrunch.com/2025/03/10/servicenow-buys-moveworks-for-2-85b-to-grow-its-ai-portfolio/"
 founded:
   year: 2016
   source: "https://moveworks.com/us/en/company/news/press-releases/moveworks-raises-200-million-series-c-funding"
@@ -34,4 +35,4 @@ sources:
   - "https://techcrunch.com/2025/03/10/servicenow-buys-moveworks-for-2-85b-to-grow-its-ai-portfolio/"
   - "https://newsroom.servicenow.com/press-releases/details/2025/ServiceNow-completes-acquisition-of-Moveworks/default.aspx"
   - "https://www.moveworks.com/"
-last_verified: "2026-10-29"
+last_verified: "2026-10-30"

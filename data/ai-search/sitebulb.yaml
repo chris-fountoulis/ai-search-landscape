@@ -9,6 +9,7 @@ segment: "incumbents"
 hq:
   city: "Biddenden"
   country: "GB"
+  source: "https://sitebulb.com/about/"
 status: "active"
 pricing:
   as_listed_by_vendor: "Cloud from GBP 95; desktop not verified"
@@ -16,4 +17,4 @@ pricing:
 sources:
   - "https://sitebulb.com/about/"
   - "https://sitebulb.com/pricing/"
-last_verified: "2026-10-26"
+last_verified: "2026-10-30"

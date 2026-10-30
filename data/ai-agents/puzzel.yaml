@@ -10,6 +10,7 @@ segment: "cx-sales"
 hq:
   city: "Oslo"
   country: "NO"
+  source: "https://www.puzzel.com/about"
 founded:
   year: 1998
   source: "https://www.puzzel.com/about"
@@ -23,4 +24,4 @@ sources:
   - "https://www.puzzel.com/products/virtual-agent-suite"
   - "https://www.puzzel.com/packages"
   - "https://www.callcentrehelper.com/puzzel-launch-ai-virtual-agent-suite-251042.htm"
-last_verified: "2026-10-29"
+last_verified: "2026-10-30"

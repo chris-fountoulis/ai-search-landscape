@@ -9,6 +9,7 @@ segment: "geo-tracking"
 hq:
   city: "New York"
   country: "US"
+  source: "https://evertune.ai/resources/insights-on-ai/evertune-raises-15-million-series-a-to-scale-its-ai-marketing-and-discovery-platform"
 status: "active"
 funding:
   total_usd: 20000000
@@ -21,4 +22,4 @@ pricing:
 sources:
   - "https://evertune.ai/resources/insights-on-ai/evertune-raises-15-million-series-a-to-scale-its-ai-marketing-and-discovery-platform"
   - "https://www.evertune.ai/pricing"
-last_verified: "2026-10-26"
+last_verified: "2026-10-30"

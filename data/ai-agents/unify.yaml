@@ -9,6 +9,7 @@ segment: "cx-sales"
 hq:
   city: "San Francisco"
   country: "US"
+  source: "https://www.unifygtm.com/legal/terms-and-conditions"
 founded:
   year: 2023
   source: "https://www.unifygtm.com/legal/terms-and-conditions"
@@ -30,4 +31,4 @@ sources:
   - "https://techcrunch.com/2024/10/08/unify-an-openai-converge-accelerator-grad-lands-12m-for-warm-outbound-messages/"
   - "https://www.unifygtm.com/pricing"
   - "https://www.unifygtm.com/legal/terms-and-conditions"
-last_verified: "2026-10-29"
+last_verified: "2026-10-30"

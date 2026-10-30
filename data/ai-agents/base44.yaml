@@ -10,6 +10,7 @@ segment: "coding"
 hq:
   city: "Tel Aviv"
   country: "IL"
+  source: "https://techcrunch.com/2025/06/18/6-month-old-solo-owned-vibe-coder-base44-sells-to-wix-for-80m-cash/"
 status: "acquired"
 acquisition:
   acquirer: "Wix"
@@ -26,4 +27,4 @@ sources:
   - "https://base44.com/pricing"
   - "https://calcalistech.com/ctechnews/article/syw900pvdzg"
   - "https://www.ynetnews.com/business/article/bkqk6tylzg"
-last_verified: "2026-10-29"
+last_verified: "2026-10-30"

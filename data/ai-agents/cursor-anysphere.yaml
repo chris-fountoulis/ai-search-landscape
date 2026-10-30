@@ -10,6 +10,7 @@ segment: "coding"
 hq:
   city: "San Francisco"
   country: "US"
+  source: "https://cursor.com/terms-of-service"
 founded:
   year: 2022
   source: "https://cursor.com/blog/series-d"
@@ -42,4 +43,4 @@ sources:
   - "https://cursor.com/blog/series-a"
   - "https://cursor.com/pricing"
   - "https://cursor.com/terms-of-service"
-last_verified: "2026-10-29"
+last_verified: "2026-10-30"

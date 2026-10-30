@@ -10,6 +10,7 @@ segment: "builders"
 hq:
   city: "San Francisco"
   country: "US"
+  source: "https://tray.ai/terms"
 founded:
   year: 2012
   source: "https://tray.ai/about"
@@ -30,4 +31,4 @@ sources:
   - "https://tray.ai/terms"
   - "https://tray.ai/about"
   - "https://siliconangle.com/2024/12/17/tray-ai-unleashes-low-code-platform-building-ai-agents/"
-last_verified: "2026-10-29"
+last_verified: "2026-10-30"

@@ -10,6 +10,7 @@ segment: "builders"
 hq:
   city: "Mountain View"
   country: "US"
+  source: "https://about.google/company-info/locations/"
 status: "active"
 public_company: true
 pricing:
@@ -22,4 +23,4 @@ sources:
   - "https://techcrunch.com/2024/04/09/with-vertex-ai-agent-builder-google-cloud-aims-to-simplify-agent-creation/"
   - "https://about.google/company-info/locations/"
   - "https://cloud.google.com/products/gemini-enterprise-agent-platform/pricing"
-last_verified: "2026-10-29"
+last_verified: "2026-10-30"

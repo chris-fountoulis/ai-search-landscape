@@ -10,6 +10,7 @@ segment: "general-browser"
 hq:
   city: "Cambridge"
   country: "GB"
+  source: "https://techcrunch.com/2023/03/29/blockchain-startup-fetch-ai-grabs-40m-to-provide-monetization-and-other-tooling-for-ai-generated-information/"
 status: "active"
 funding:
   total_usd: 40000000
@@ -26,4 +27,4 @@ sources:
   - "https://fetch.ai/"
   - "https://fetch.ai/terms"
   - "https://find-and-update.company-information.service.gov.uk/company/09718895"
-last_verified: "2026-10-29"
+last_verified: "2026-10-30"

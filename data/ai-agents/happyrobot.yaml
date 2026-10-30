@@ -10,6 +10,7 @@ segment: "cx-sales"
 hq:
   city: "San Francisco"
   country: "US"
+  source: "https://www.happyrobot.ai/careers"
 status: "active"
 funding:
   total_usd: 209600000
@@ -27,4 +28,4 @@ sources:
   - "https://siliconangle.com/2026/08/04/happyrobot-raises-150m-1-2b-valuation-bring-ai-agents-critical-enterprise-work/"
   - "https://www.happyrobot.ai/careers"
   - "https://techcrunch.com/2026/05/02/beyond-lovable-and-mistral-21-european-startups-to-watch/"
-last_verified: "2026-10-29"
+last_verified: "2026-10-30"

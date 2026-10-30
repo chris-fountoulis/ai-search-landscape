@@ -9,6 +9,7 @@ segment: "coding"
 hq:
   city: "New York"
   country: "US"
+  source: "https://www.traversal.com/legal/terms-conditions"
 founded:
   year: 2023
   source: "https://www.traversal.com/legal/terms-conditions"
@@ -27,4 +28,4 @@ sources:
   - "https://pulse2.com/traversal-ai-site-reliability-engineering-platform-receives-strategic-investment-from-amex-ventures"
   - "https://www.traversal.com/legal/terms-conditions"
   - "https://www.traversal.com/careers"
-last_verified: "2026-10-29"
+last_verified: "2026-10-30"

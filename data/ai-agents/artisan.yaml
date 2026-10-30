@@ -10,6 +10,7 @@ segment: "cx-sales"
 hq:
   city: "San Francisco"
   country: "US"
+  source: "https://www.artisan.co/terms-of-use"
 status: "active"
 funding:
   total_usd: 37000000
@@ -27,4 +28,4 @@ sources:
   - "https://www.artisan.co/terms-of-use"
   - "https://www.artisan.co/pricing"
   - "https://www.artisan.co/about"
-last_verified: "2026-10-29"
+last_verified: "2026-10-30"

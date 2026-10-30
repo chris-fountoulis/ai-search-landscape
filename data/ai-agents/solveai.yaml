@@ -9,6 +9,7 @@ segment: "coding"
 hq:
   city: "London"
   country: "GB"
+  source: "https://fortune.com/2026/02/25/exclusive-solveai-eight-months-raises-50-million-ai-coding-tool-race/"
 founded:
   year: 2025
   source: "https://fortune.com/2026/02/25/exclusive-solveai-eight-months-raises-50-million-ai-coding-tool-race/"
@@ -26,4 +27,4 @@ pricing:
 sources:
   - "https://fortune.com/2026/02/25/exclusive-solveai-eight-months-raises-50-million-ai-coding-tool-race/"
   - "https://solve.ai/"
-last_verified: "2026-10-29"
+last_verified: "2026-10-30"

@@ -10,6 +10,7 @@ segment: "builders"
 hq:
   city: "San Francisco"
   country: "US"
+  source: "https://writer.com/legal/terms-of-use/"
 founded:
   year: 2020
   source: "https://writer.com/company/about/"
@@ -31,4 +32,4 @@ sources:
   - "https://writer.com/plans/"
   - "https://writer.com/legal/terms-of-use/"
   - "https://writer.com/newsroom/"
-last_verified: "2026-10-29"
+last_verified: "2026-10-30"

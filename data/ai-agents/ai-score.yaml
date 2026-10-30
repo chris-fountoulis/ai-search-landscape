@@ -9,6 +9,7 @@ segment: "infrastructure"
 hq:
   city: "London"
   country: "GB"
+  source: "https://aiscore.ai/privacy-policy/"
 founded:
   year: 2025
   source: "https://aiscore.ai/contact-us/"
@@ -30,4 +31,4 @@ sources:
   - "https://aiscore.ai/contact-us/"
   - "https://aiscore.ai/about-us/"
   - "https://find-and-update.company-information.service.gov.uk/company/16381026"
-last_verified: "2026-10-29"
+last_verified: "2026-10-30"

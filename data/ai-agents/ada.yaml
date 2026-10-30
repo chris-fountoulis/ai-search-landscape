@@ -10,6 +10,7 @@ segment: "cx-sales"
 hq:
   city: "Toronto"
   country: "CA"
+  source: "https://techcrunch.com/2023/04/18/ada-announces-automated-generative-ai-driven-customer-service-suite/"
 founded:
   year: 2016
   source: "https://techcrunch.com/2023/04/18/ada-announces-automated-generative-ai-driven-customer-service-suite/"
@@ -28,4 +29,4 @@ sources:
   - "https://techcrunch.com/2023/04/18/ada-announces-automated-generative-ai-driven-customer-service-suite/"
   - "https://www.ada.cx/terms"
   - "https://www.ada.cx/pricing"
-last_verified: "2026-10-29"
+last_verified: "2026-10-30"

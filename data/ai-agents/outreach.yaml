@@ -9,6 +9,7 @@ segment: "cx-sales"
 hq:
   city: "Seattle"
   country: "US"
+  source: "https://www.outreach.ai/terms"
 founded:
   year: 2014
   source: "https://salestechstar.com/proactive-sales-engagement/outreach-closes-200-million-round-4-4-billion-valuation-for-sales-engagement-category-leader/"
@@ -29,4 +30,4 @@ sources:
   - "https://www.outreach.ai/pricing"
   - "https://salestechstar.com/proactive-sales-engagement/outreach-closes-200-million-round-4-4-billion-valuation-for-sales-engagement-category-leader/"
   - "https://www.outreach.ai/resources/blog/series-e"
-last_verified: "2026-10-29"
+last_verified: "2026-10-30"

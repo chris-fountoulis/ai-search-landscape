@@ -9,6 +9,7 @@ segment: "builders"
 hq:
   city: "San Francisco"
   country: "US"
+  source: "https://techcrunch.com/2025/01/10/gumloop-founded-in-a-bedroom-in-vancouver-lets-users-automate-tasks-with-drag-and-drop-modules/"
 founded:
   year: 2023
   source: "https://techcrunch.com/2026/03/12/gumloop-lands-50m-from-benchmark-to-turn-every-employee-into-an-ai-agent-builder/"
@@ -29,4 +30,4 @@ sources:
   - "https://techcrunch.com/2025/01/10/gumloop-founded-in-a-bedroom-in-vancouver-lets-users-automate-tasks-with-drag-and-drop-modules/"
   - "https://www.gumloop.com/pricing"
   - "https://www.gumloop.com/privacy-policy"
-last_verified: "2026-10-29"
+last_verified: "2026-10-30"

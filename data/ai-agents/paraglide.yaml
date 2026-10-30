@@ -9,6 +9,7 @@ segment: "cx-sales"
 hq:
   city: "Malmö"
   country: "SE"
+  source: "https://arcticstartup.com/paraglide-raises-e4-2m-seed/"
 status: "active"
 funding:
   total_usd: 5000000
@@ -24,4 +25,4 @@ sources:
   - "https://arcticstartup.com/paraglide-raises-e4-2m-seed/"
   - "https://paraglide.ai/legals/terms-and-conditions"
   - "https://paraglide.ai/"
-last_verified: "2026-10-29"
+last_verified: "2026-10-30"

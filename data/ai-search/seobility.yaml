@@ -9,6 +9,7 @@ segment: "incumbents"
 hq:
   city: "Nuremberg"
   country: "DE"
+  source: "https://saas.group/?p=1181"
 founded:
   year: 2011
   source: "https://saas.group/?p=1181"
@@ -22,4 +23,4 @@ pricing:
 sources:
   - "https://saas.group/?p=1181"
   - "https://www.seobility.net/en/pricing/"
-last_verified: "2026-10-26"
+last_verified: "2026-10-30"

@@ -10,6 +10,7 @@ segment: "infrastructure"
 hq:
   city: "San Francisco"
   country: "US"
+  source: "https://www.truefoundry.com/terms"
 founded:
   year: 2021
   source: "https://www.truefoundry.com/about"
@@ -31,4 +32,4 @@ sources:
   - "https://www.truefoundry.com/terms"
   - "https://www.truefoundry.com/about"
   - "https://siliconangle.com/2026/06/25/truefoundry-acquires-mlops-pioneer-seldon-ai-accelerate-enterprise-agentic-ai/"
-last_verified: "2026-10-29"
+last_verified: "2026-10-30"

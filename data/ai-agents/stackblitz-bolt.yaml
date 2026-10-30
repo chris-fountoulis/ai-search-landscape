@@ -10,6 +10,7 @@ segment: "coding"
 hq:
   city: "San Francisco"
   country: "US"
+  source: "https://stackblitz.com/terms-of-service"
 founded:
   year: 2017
   source: "https://techcrunch.com/2022/04/06/stackblitz-raises-7-9m-to-bring-a-better-ide-to-your-browser/"
@@ -29,4 +30,4 @@ sources:
   - "https://www.madrona.com/investing-in-stackblitz/"
   - "https://www.emcap.com/portfolio/bolt"
   - "https://pulse2.com/bolt-new-acquires-dokai-in-first-deal-to-expand-enterprise-ai-agents/"
-last_verified: "2026-10-29"
+last_verified: "2026-10-30"

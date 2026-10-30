@@ -9,6 +9,7 @@ segment: "incumbents"
 hq:
   city: "New York and Paris"
   country: "US"
+  source: "https://venturebeat.com/business/seo-optimization-platform-botify-lands-55m"
 founded:
   year: 2012
   source: "https://www.botify.com/about"
@@ -24,4 +25,4 @@ sources:
   - "https://venturebeat.com/business/seo-optimization-platform-botify-lands-55m"
   - "https://www.botify.com/about"
   - "https://www.botify.com/?p=4404"
-last_verified: "2026-10-26"
+last_verified: "2026-10-30"

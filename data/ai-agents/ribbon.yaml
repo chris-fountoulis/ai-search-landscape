@@ -9,6 +9,7 @@ segment: "cx-sales"
 hq:
   city: "Toronto"
   country: "CA"
+  source: "https://www.ribbon.ai/terms-of-service"
 status: "active"
 funding:
   total_usd: 8000000
@@ -28,4 +29,4 @@ sources:
   - "https://www.ribbon.ai/terms-of-service"
   - "https://www.ribbon.ai/about"
   - "https://itbrief.co.uk/story/dayforce-to-buy-ribbon-ai-for-recruiting-technology"
-last_verified: "2026-10-29"
+last_verified: "2026-10-30"

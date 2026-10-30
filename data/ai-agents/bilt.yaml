@@ -10,6 +10,7 @@ segment: "coding"
 hq:
   city: "Tallinn"
   country: "EE"
+  source: "https://bilt.me/terms"
 founded:
   year: 2025
   source: "https://bilt.me/about"
@@ -30,4 +31,4 @@ sources:
   - "https://bilt.me/pricing"
   - "https://bilt.me/terms"
   - "https://bilt.me/about"
-last_verified: "2026-10-29"
+last_verified: "2026-10-30"

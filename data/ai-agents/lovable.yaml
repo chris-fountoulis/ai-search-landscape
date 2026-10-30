@@ -9,6 +9,7 @@ segment: "coding"
 hq:
   city: "Stockholm"
   country: "SE"
+  source: "https://lovable.dev/blog/series-c"
 founded:
   year: 2024
   source: "https://lovable.dev/blog/series-c"
@@ -32,4 +33,4 @@ sources:
   - "https://techcrunch.com/2026/09/24/lovables-annualized-revenue-crosses-600m-as-vibe-coding-takes-off/"
   - "https://docs.lovable.dev/introduction/subscription-plans"
   - "https://lovable.dev/terms"
-last_verified: "2026-10-29"
+last_verified: "2026-10-30"

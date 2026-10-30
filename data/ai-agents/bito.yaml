@@ -10,6 +10,7 @@ segment: "infrastructure"
 hq:
   city: "Menlo Park"
   country: "US"
+  source: "https://bito.ai/terms-of-service/"
 founded:
   year: 2021
   source: "https://bito.ai/about-us/"
@@ -31,4 +32,4 @@ sources:
   - "https://bito.ai/about-us/"
   - "https://bito.ai/terms-of-service/"
   - "https://bito.ai/"
-last_verified: "2026-10-29"
+last_verified: "2026-10-30"

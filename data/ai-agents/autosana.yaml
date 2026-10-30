@@ -10,6 +10,7 @@ segment: "coding"
 hq:
   city: "San Francisco"
   country: "US"
+  source: "https://www.ycombinator.com/companies/autosana"
 founded:
   year: 2025
   source: "https://siliconangle.com/2026/02/17/autosana-lands-3-2m-automate-mobile-web-ui-testing-agentic-ai/"
@@ -30,4 +31,4 @@ sources:
   - "https://autosana.ai/pricing"
   - "https://autosana.ai"
   - "https://www.ycombinator.com/companies/autosana"
-last_verified: "2026-10-29"
+last_verified: "2026-10-30"

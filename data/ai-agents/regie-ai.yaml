@@ -9,6 +9,7 @@ segment: "cx-sales"
 hq:
   city: "San Francisco"
   country: "US"
+  source: "https://regie.ai/terms"
 founded:
   year: 2021
   source: "https://regie.ai/about"
@@ -30,4 +31,4 @@ sources:
   - "https://regie.ai/pricing"
   - "https://regie.ai/terms"
   - "https://regie.ai/about"
-last_verified: "2026-10-29"
+last_verified: "2026-10-30"

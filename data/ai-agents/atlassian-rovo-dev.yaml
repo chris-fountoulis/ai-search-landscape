@@ -10,6 +10,7 @@ segment: "coding"
 hq:
   city: "San Francisco"
   country: "US"
+  source: "https://www.atlassian.com/legal/impressum"
 status: "active"
 public_company: true
 pricing:
@@ -21,4 +22,4 @@ sources:
   - "https://www.atlassian.com/licensing/rovo-dev"
   - "https://www.atlassian.com/legal/impressum"
   - "https://siliconangle.com/2025/10/08/atlassian-gives-rovo-ai-major-upgrade-developers-new-tools/"
-last_verified: "2026-10-29"
+last_verified: "2026-10-30"

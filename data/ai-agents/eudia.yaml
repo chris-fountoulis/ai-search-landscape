@@ -9,6 +9,7 @@ segment: "vertical"
 hq:
   city: "San Juan Capistrano"
   country: "US"
+  source: "https://www.eudia.com/legal/terms-of-use"
 founded:
   year: 2025
   source: "https://www.eudia.com/legal/terms-of-use"
@@ -28,4 +29,4 @@ sources:
   - "https://www.eudia.com/legal/terms-of-use"
   - "https://www.eudia.com/company/about"
   - "https://techcrunch.com/2026/01/19/here-are-the-49-us-ai-startups-that-have-raised-100m-or-more-in-2025/"
-last_verified: "2026-10-29"
+last_verified: "2026-10-30"

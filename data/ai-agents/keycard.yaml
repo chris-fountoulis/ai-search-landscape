@@ -9,6 +9,7 @@ segment: "infrastructure"
 hq:
   city: "San Francisco"
   country: "US"
+  source: "https://www.securityweek.com/keycard-emerges-from-stealth-mode-with-38-million-in-funding/"
 founded:
   year: 2025
   source: "https://www.keycard.ai/about/"
@@ -30,4 +31,4 @@ sources:
   - "https://www.keycard.ai/pricing/"
   - "https://www.keycard.ai/about/"
   - "https://www.keycard.ai/privacy/"
-last_verified: "2026-10-29"
+last_verified: "2026-10-30"

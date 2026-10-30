@@ -9,6 +9,7 @@ segment: "coding"
 hq:
   city: "San Francisco"
   country: "US"
+  source: "https://www.coderabbit.ai/legal/terms-of-service"
 founded:
   year: 2023
   source: "https://www.coderabbit.ai/legal/terms-of-service"
@@ -31,4 +32,4 @@ sources:
   - "https://www.coderabbit.ai/pricing"
   - "https://www.coderabbit.ai/legal/terms-of-service"
   - "https://www.coderabbit.ai/about-us"
-last_verified: "2026-10-29"
+last_verified: "2026-10-30"

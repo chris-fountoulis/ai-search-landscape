@@ -9,6 +9,7 @@ segment: "local-and-smb"
 hq:
   city: "Saskatoon"
   country: "CA"
+  source: "https://betakit.com/vendasta-closes-20-million-series-e-to-fund-acquisitions-converts-existing-debt-into-equity/"
 founded:
   year: 2008
   source: "https://betakit.com/vendasta-closes-20-million-series-e-to-fund-acquisitions-converts-existing-debt-into-equity/"
@@ -25,4 +26,4 @@ sources:
   - "https://thelogic.co/news/saskatoons-vendasta-raises-another-20m-to-fuel-acquisition-strategy/"
   - "https://betakit.com/vendasta-secures-119-5-million-in-venture-funding-after-pausing-ipo-plans/"
   - "https://www.vendasta.com/pricing/"
-last_verified: "2026-10-26"
+last_verified: "2026-10-30"

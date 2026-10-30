@@ -9,6 +9,7 @@ segment: "coding"
 hq:
   city: "San Francisco"
   country: "US"
+  source: "https://theaiinsider.tech/2025/03/14/nunu-ai-receives-6m-seed-funding-to-advance-ai-agents-for-game-testing-and-playability/"
 founded:
   year: 2022
   source: "https://nunu.ai/about"
@@ -30,4 +31,4 @@ sources:
   - "https://en.ain.ua/2025/04/08/nunuai-raises-6-m"
   - "https://nunu.ai/pricing"
   - "https://nunu.ai/about"
-last_verified: "2026-10-29"
+last_verified: "2026-10-30"

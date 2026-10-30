@@ -7,7 +7,6 @@ company: "Search Atlas"
 website: "searchatlas.com"
 segment: "content-automation"
 hq:
-  city: "Unknown"
   country: "US"
 status: "active"
 pricing:
@@ -17,4 +16,4 @@ sources:
   - "https://searchatlas.com/pricing/"
   - "https://www.everydev.ai/developers/search-atlas"
   - "https://getlatka.com/companies/linkgraphio"
-last_verified: "2026-10-26"
+last_verified: "2026-10-30"

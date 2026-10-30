@@ -9,6 +9,7 @@ segment: "geo-tracking"
 hq:
   city: "Austin"
   country: "US"
+  source: "https://ziptie.ai/terms-of-service/"
 status: "active"
 pricing:
   as_listed_by_vendor: "$25.65 to $1,647 (configurator starting points)"
@@ -18,4 +19,4 @@ sources:
   - "https://ziptie.ai/pricing/"
   - "https://ziptie.ai/about/"
   - "https://www.g2.com/products/ziptie-dev"
-last_verified: "2026-10-27"
+last_verified: "2026-10-30"

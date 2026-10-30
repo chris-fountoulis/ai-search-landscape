@@ -10,6 +10,7 @@ segment: "company-brain"
 hq:
   city: "San Francisco"
   country: "US"
+  source: "https://speedrun.a16z.com/companies/sentra"
 founded:
   year: 2025
   source: "https://siliconangle.com/2026/01/28/sentra-app-raises-5m-build-ai-teammate-organize-enterprise-memory/"
@@ -31,4 +32,4 @@ sources:
   - "https://www.sentra.app/terms"
   - "https://speedrun.a16z.com/companies/sentra"
   - "https://www.vcaonline.com/news/2026012815/sentra-app-raises-5m-to-build-the-collective-mind-for-next-generation-enterprises/"
-last_verified: "2026-10-29"
+last_verified: "2026-10-30"

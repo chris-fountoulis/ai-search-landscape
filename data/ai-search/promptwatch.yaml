@@ -9,6 +9,7 @@ segment: "geo-tracking"
 hq:
   city: "Amsterdam"
   country: "NL"
+  source: "https://tech.eu/2026/07/14/promptwatch-raises-eur6m-to-expand-its-end-to-end-ai-search-optimisation-platform/"
 founded:
   year: 2025
   source: "https://tech.eu/2026/07/14/promptwatch-raises-eur6m-to-expand-its-end-to-end-ai-search-optimisation-platform/"
@@ -24,4 +25,4 @@ pricing:
 sources:
   - "https://tech.eu/2026/07/14/promptwatch-raises-eur6m-to-expand-its-end-to-end-ai-search-optimisation-platform/"
   - "https://promptwatch.com/pricing"
-last_verified: "2026-10-26"
+last_verified: "2026-10-30"

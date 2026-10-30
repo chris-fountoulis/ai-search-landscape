@@ -9,10 +9,11 @@ segment: "ai-native-agencies"
 hq:
   city: "Miami"
   country: "US"
+  source: "https://avenuez.com/?p=43036"
 status: "active"
 pricing:
   as_listed_by_vendor: "custom"
 sources:
   - "https://avenuez.com/?p=43036"
   - "https://www.businesswire.com/news/home/20250916483295/en/PR-Influence-Impact-Avenue-Z-Expands-NYC-Office-to-Match-Strategic-Communications-AI-Optimization-Demand"
-last_verified: "2026-10-26"
+last_verified: "2026-10-30"

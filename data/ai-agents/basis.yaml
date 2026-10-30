@@ -9,6 +9,7 @@ segment: "vertical"
 hq:
   city: "New York"
   country: "US"
+  source: "https://www.getbasis.ai/legal/website-terms"
 status: "active"
 funding:
   total_usd: 138000000
@@ -25,4 +26,4 @@ sources:
   - "https://www.getbasis.ai/legal/website-terms"
   - "https://www.getbasis.ai/legal/privacy-policy"
   - "https://www.bloomberg.com/news/articles/2026-02-24/ai-for-accounting-startup-basis-hits-1-15-billion-valuation"
-last_verified: "2026-10-29"
+last_verified: "2026-10-30"

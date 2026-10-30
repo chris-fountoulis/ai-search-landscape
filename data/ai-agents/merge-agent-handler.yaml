@@ -10,6 +10,7 @@ segment: "infrastructure"
 hq:
   city: "San Francisco"
   country: "US"
+  source: "https://www.merge.dev/legal/terms"
 founded:
   year: 2020
   source: "https://www.merge.dev/about"
@@ -34,4 +35,4 @@ sources:
   - "https://www.merge.dev/about"
   - "https://www.merge.dev/legal/terms"
   - "https://siliconangle.com/2026/06/01/merge-launches-agent-handler-employees-gatekeeper-workplace-ai-agents/"
-last_verified: "2026-10-29"
+last_verified: "2026-10-30"

@@ -10,6 +10,7 @@ segment: "cx-sales"
 hq:
   city: "San Francisco"
   country: "US"
+  source: "https://forethought.ai/blog/forethought-raises-65-million-series-c"
 founded:
   year: 2018
   source: "https://forethought.ai/blog/forethought-raises-65-million-series-c"
@@ -32,4 +33,4 @@ sources:
   - "https://forethought.ai/pricing"
   - "https://forethought.ai/blog/forethought-raises-65-million-series-c"
   - "https://techcrunch.com/2025/11/13/build-mode-starts-at-the-beginning-how-forethought-ai-found-product-market-fit/"
-last_verified: "2026-10-29"
+last_verified: "2026-10-30"

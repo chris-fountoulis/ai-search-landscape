@@ -9,6 +9,7 @@ segment: "infrastructure"
 hq:
   city: "Zurich"
   country: "CH"
+  source: "https://siliconangle.com/2026/10/05/namespace-raises-42m-to-build-out-developer-focused-compute-cloud/"
 founded:
   year: 2022
   source: "https://namespace.so/blog/series-b"
@@ -30,4 +31,4 @@ sources:
   - "https://namespace.so/pricing"
   - "https://namespace.so/terms"
   - "https://namespace.so/careers"
-last_verified: "2026-10-29"
+last_verified: "2026-10-30"

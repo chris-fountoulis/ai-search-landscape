@@ -10,6 +10,7 @@ segment: "company-brain"
 hq:
   city: "San Francisco"
   country: "US"
+  source: "https://slite.com/legal"
 founded:
   year: 2017
   source: "https://slite.com/legal"
@@ -31,4 +32,4 @@ sources:
   - "https://slite.com/about"
   - "https://techcrunch.com/2020/04/15/slite-raises-11-million-for-its-internal-notes-tool/"
   - "https://techcrunch.com/2018/04/23/slite-raises-4-4m-to-create-a-smarter-internal-notes-tool/"
-last_verified: "2026-10-29"
+last_verified: "2026-10-30"

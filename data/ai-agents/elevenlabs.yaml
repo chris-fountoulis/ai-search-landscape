@@ -10,6 +10,7 @@ segment: "cx-sales"
 hq:
   city: "New York"
   country: "US"
+  source: "https://elevenlabs.io/terms-of-use"
 founded:
   year: 2022
   source: "https://elevenlabs.io/blog/series-d"
@@ -32,4 +33,4 @@ sources:
   - "https://elevenlabs.io/pricing"
   - "https://elevenlabs.io/terms-of-use"
   - "https://elevenlabs.io/agents"
-last_verified: "2026-10-29"
+last_verified: "2026-10-30"

@@ -10,6 +10,7 @@ segment: "company-brain"
 hq:
   city: "Sydney"
   country: "AU"
+  source: "https://www.atlassian.com/company/contact"
 status: "active"
 public_company: true
 pricing:
@@ -21,4 +22,4 @@ sources:
   - "https://www.atlassian.com/company/contact"
   - "https://techcrunch.com/2024/10/09/atlassians-rovo-ai-is-now-generally-available/"
   - "https://www.atlassian.com/software/rovo"
-last_verified: "2026-10-29"
+last_verified: "2026-10-30"

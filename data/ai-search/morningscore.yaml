@@ -9,6 +9,7 @@ segment: "content-automation"
 hq:
   city: "Odense"
   country: "DK"
+  source: "https://morningscore.io/morningscore-secures-700k-usd-funding/"
 founded:
   year: 2018
   source: "https://morningscore.io/morningscore-secures-700k-usd-funding/"
@@ -25,4 +26,4 @@ sources:
   - "https://morningscore.io/morningscore-secures-700k-usd-funding/"
   - "https://bebeez.eu/2025/01/15/danish-startup-morningscore-secures-funding-to-elevate-ai-seo-and-broaden-reach/"
   - "https://morningscore.io/pricing/"
-last_verified: "2026-10-26"
+last_verified: "2026-10-30"

@@ -10,6 +10,7 @@ segment: "cx-sales"
 hq:
   city: "Vienna"
   country: "AT"
+  source: "https://www.fonio.ai/en/news-cool-stuff/fonio-ai-sichert-sich-3-millionen-euro-in-einer-der-grossten-angel-runden-europas/"
 founded:
   year: 2024
   source: "https://www.fonio.ai/impressum/"
@@ -32,4 +33,4 @@ sources:
   - "https://tech.eu/2026/06/09/led-by-20vc-fonioai-raises-17m-for-omnichannel-ai-platform/"
   - "https://www.fonio.ai/en/news-cool-stuff/fonio-ai-sichert-sich-3-millionen-euro-in-einer-der-grossten-angel-runden-europas/"
   - "https://www.startbase.com/news/146-millionen-euro-seed-fuer-fonio-ai-zu-120-mio-euro-bewertung/"
-last_verified: "2026-10-29"
+last_verified: "2026-10-30"

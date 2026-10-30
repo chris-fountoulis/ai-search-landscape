@@ -9,6 +9,7 @@ segment: "coding"
 hq:
   city: "Cambridge"
   country: "US"
+  source: "https://openhands.dev/privacy"
 status: "active"
 funding:
   total_usd: 23800000
@@ -27,4 +28,4 @@ sources:
   - "https://techcrunch.com/2024/09/05/all-hands-ai-raises-5m-to-build-open-source-agents-for-developers"
   - "https://openhands.dev/pricing"
   - "https://openhands.dev/privacy"
-last_verified: "2026-10-29"
+last_verified: "2026-10-30"

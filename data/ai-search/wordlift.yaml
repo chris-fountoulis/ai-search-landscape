@@ -9,6 +9,7 @@ segment: "content-automation"
 hq:
   city: "Rome"
   country: "IT"
+  source: "https://wordlift.io/about-us/"
 founded:
   year: 2017
   source: "https://wordlift.io/about-us/"
@@ -19,4 +20,4 @@ pricing:
 sources:
   - "https://wordlift.io/about-us/"
   - "https://wordlift.io/pricing/"
-last_verified: "2026-10-26"
+last_verified: "2026-10-30"

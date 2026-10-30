@@ -9,6 +9,7 @@ segment: "infrastructure"
 hq:
   city: "New York"
   country: "US"
+  source: "https://noma.security/contact"
 founded:
   year: 2023
   source: "https://noma.security/contact"
@@ -29,4 +30,4 @@ sources:
   - "https://en.globes.co.il/en/article-1001517758"
   - "https://noma.security/contact"
   - "https://noma.security/terms-of-use"
-last_verified: "2026-10-29"
+last_verified: "2026-10-30"

@@ -9,6 +9,7 @@ segment: "infrastructure"
 hq:
   city: "San Francisco"
   country: "US"
+  source: "https://www.operant.ai/company/terms-of-use"
 founded:
   year: 2021
   source: "https://www.operant.ai/company/terms-of-use"
@@ -30,4 +31,4 @@ sources:
   - "https://www.operant.ai/company/contact"
   - "https://www.crn.com/news/security/2026/the-10-hottest-ai-security-startups-of-2026-so-far?page=5"
   - "https://www.operant.ai/platform/pricing"
-last_verified: "2026-10-29"
+last_verified: "2026-10-30"

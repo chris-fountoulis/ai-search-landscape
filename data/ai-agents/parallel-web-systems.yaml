@@ -9,6 +9,7 @@ segment: "infrastructure"
 hq:
   city: "Palo Alto"
   country: "US"
+  source: "https://parallel.ai/customer-terms"
 status: "active"
 funding:
   total_usd: 230000000
@@ -27,4 +28,4 @@ sources:
   - "https://parallel.ai/pricing"
   - "https://parallel.ai/"
   - "https://techcrunch.com/2026/05/20/ai-search-startups-are-blowing-up/"
-last_verified: "2026-10-29"
+last_verified: "2026-10-30"

@@ -41,7 +41,7 @@ No sourced, structured dataset of GEO and AEO vendors existed publicly. This one
 | Disclosed equity funding (minimum) | $2.60B | $40.19B |
 | Acquired | 16 | 33 |
 | Founded 2023 or later (of known) | 25 of 72 | 143 of 306 |
-| Last verified | 2026-10-27 | 2026-10-29 |
+| Last verified | 2026-10-30 | 2026-10-30 |
 
 Agent funding excludes the frontier model labs, as in the published study. Full breakdowns: [STATS.md](STATS.md).
 

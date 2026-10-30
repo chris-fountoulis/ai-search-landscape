@@ -10,6 +10,7 @@ segment: "coding"
 hq:
   city: "San Francisco"
   country: "US"
+  source: "https://techcrunch.com/2024/08/07/mechanical-orchard-led-by-ex-pivotal-ceo-scores-50-million-round-led-by-alphabets-gv/"
 founded:
   year: 2022
   source: "https://www.mechanical-orchard.com/contact"
@@ -31,4 +32,4 @@ sources:
   - "https://www.mechanical-orchard.com/term-of-use"
   - "https://www.mechanical-orchard.com/insights/priced-on-proof"
   - "https://siliconangle.com/2024/02/07/mechanical-orchard-raises-22m-funding-help-companies-ditch-mainframes-cloud/"
-last_verified: "2026-10-29"
+last_verified: "2026-10-30"

@@ -10,6 +10,7 @@ segment: "marketing-agency"
 hq:
   city: "Palo Alto"
   country: "US"
+  source: "https://nectarsocial.com/privacy/"
 founded:
   year: 2023
   source: "https://techcrunch.com/2026/05/16/marketing-operating-system-nectar-social-raises-30m-series-a-in-round-led-by-menlo/"
@@ -29,4 +30,4 @@ sources:
   - "https://fortune.com/2025/06/05/nectar-social-buzzes-out-of-stealth-with-10-6-million-backing-from-gv-and-true-ventures/"
   - "https://nectarsocial.com/"
   - "https://nectarsocial.com/privacy/"
-last_verified: "2026-10-29"
+last_verified: "2026-10-30"

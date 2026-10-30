@@ -10,6 +10,7 @@ segment: "infrastructure"
 hq:
   city: "San Francisco"
   country: "US"
+  source: "https://sailresearch.com/terms"
 status: "active"
 funding:
   total_usd: 80000000
@@ -28,4 +29,4 @@ sources:
   - "https://sailresearch.com/sailboxes"
   - "https://sailresearch.com/careers"
   - "https://sailresearch.com/terms"
-last_verified: "2026-10-29"
+last_verified: "2026-10-30"

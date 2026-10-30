@@ -9,10 +9,11 @@ segment: "ai-native-agencies"
 hq:
   city: "Miami, Florida"
   country: "US"
+  source: "https://www.singlegrain.com/"
 status: "active"
 pricing:
   as_listed_by_vendor: "custom"
 sources:
   - "https://www.singlegrain.com/"
   - "https://growjo.com/company/Single_Grain"
-last_verified: "2026-10-26"
+last_verified: "2026-10-30"

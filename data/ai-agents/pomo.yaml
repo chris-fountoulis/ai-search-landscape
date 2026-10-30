@@ -10,6 +10,7 @@ segment: "marketing-agency"
 hq:
   city: "San Francisco"
   country: "US"
+  source: "https://usepomo.ai/pages/privacy-policy.html"
 status: "active"
 funding:
   total_usd: 4500000
@@ -28,4 +29,4 @@ sources:
   - "https://usepomo.ai/pricing"
   - "https://usepomo.ai/pages/privacy-policy.html"
   - "https://kindredventures.com/announcement/our-investment-in-pomo/"
-last_verified: "2026-10-29"
+last_verified: "2026-10-30"

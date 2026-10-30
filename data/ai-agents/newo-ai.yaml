@@ -10,6 +10,7 @@ segment: "cx-sales"
 hq:
   city: "San Francisco"
   country: "US"
+  source: "https://newo.ai/terms-of-service"
 founded:
   year: 2023
   source: "https://newo.ai/about"
@@ -30,4 +31,4 @@ sources:
   - "https://newo.ai/pricing"
   - "https://newo.ai/terms-of-service"
   - "https://newo.ai/about"
-last_verified: "2026-10-29"
+last_verified: "2026-10-30"

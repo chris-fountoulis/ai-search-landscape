@@ -9,6 +9,7 @@ segment: "geo-tracking"
 hq:
   city: "London"
   country: "GB"
+  source: "https://dealroom.co/news/136900-geosurge-raises-9-4m-seed-to-shape-how-ai-models-remember-brands/"
 founded:
   year: 2025
   source: "https://pulse2.com/geosurge-raises-12-million-seed-round-to-advance-ai-visibility-platform/amp/"
@@ -23,4 +24,4 @@ pricing:
 sources:
   - "https://dealroom.co/news/136900-geosurge-raises-9-4m-seed-to-shape-how-ai-models-remember-brands/"
   - "https://pulse2.com/geosurge-raises-12-million-seed-round-to-advance-ai-visibility-platform/amp/"
-last_verified: "2026-10-26"
+last_verified: "2026-10-30"

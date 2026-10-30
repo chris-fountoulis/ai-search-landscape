@@ -9,6 +9,7 @@ segment: "local-and-smb"
 hq:
   city: "Edmonton"
   country: "CA"
+  source: "https://whitespark.ca/pricing/"
 status: "active"
 pricing:
   as_listed_by_vendor: "$33 to $149; $79 per location multi-location; managed SEO $499 to $1,999"
@@ -16,4 +17,4 @@ pricing:
 sources:
   - "https://whitespark.ca/pricing/"
   - "https://zyppy.com/companies/whitespark/"
-last_verified: "2026-10-26"
+last_verified: "2026-10-30"

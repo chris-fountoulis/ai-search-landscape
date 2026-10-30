@@ -9,6 +9,7 @@ segment: "infrastructure"
 hq:
   city: "San Francisco"
   country: "US"
+  source: "https://techcrunch.com/2026/06/25/patronus-ai-lands-50m-to-build-digital-worlds-that-stress-test-ai-agents/"
 founded:
   year: 2023
   source: "https://www.patronus.ai/contact"
@@ -29,4 +30,4 @@ sources:
   - "https://www.patronus.ai/terms-of-use"
   - "https://www.patronus.ai/contact"
   - "https://www.patronus.ai/pricing"
-last_verified: "2026-10-29"
+last_verified: "2026-10-30"

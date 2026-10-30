@@ -10,6 +10,7 @@ segment: "company-brain"
 hq:
   city: "San Jose"
   country: "US"
+  source: "https://siliconangle.com/2023/12/13/golinks-debuts-ai-powered-search-engine-employee-directory/"
 founded:
   year: 2023
   source: "https://siliconangle.com/2023/12/13/golinks-debuts-ai-powered-search-engine-employee-directory/"
@@ -26,4 +27,4 @@ sources:
   - "https://siliconangle.com/2023/12/13/golinks-debuts-ai-powered-search-engine-employee-directory/"
   - "https://www.gosearch.ai/terms"
   - "https://www.golinks.io/about.php"
-last_verified: "2026-10-29"
+last_verified: "2026-10-30"

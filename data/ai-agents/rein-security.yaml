@@ -9,6 +9,7 @@ segment: "infrastructure"
 hq:
   city: "Tel Aviv"
   country: "IL"
+  source: "https://reinsec.io/blog/series-a"
 status: "active"
 funding:
   total_usd: 35000000
@@ -26,4 +27,4 @@ sources:
   - "https://reinsec.io/news/8200-alumni-raise-8-million-seed-round-for-rein-security/"
   - "https://reinsec.io/terms-of-use/"
   - "https://reinsec.io/newsroom/"
-last_verified: "2026-10-29"
+last_verified: "2026-10-30"

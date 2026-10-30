@@ -9,6 +9,7 @@ segment: "marketing-agency"
 hq:
   city: "San Francisco"
   country: "US"
+  source: "https://uplane.com/terms-of-service/"
 founded:
   year: 2025
   source: "https://americanbazaaronline.com/2026/09/04/uplane-to-work-with-ag1-and-kalshi-to-replace-marketing-agencies-487603/"
@@ -27,4 +28,4 @@ sources:
   - "https://uplane.com/terms-of-service/"
   - "https://uplane.com/"
   - "https://www.ycombinator.com/companies/uplane"
-last_verified: "2026-10-29"
+last_verified: "2026-10-30"

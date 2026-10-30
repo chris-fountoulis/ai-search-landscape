@@ -10,6 +10,7 @@ segment: "cx-sales"
 hq:
   city: "Rotterdam"
   country: "NL"
+  source: "https://www.freeday.ai/service-terms"
 founded:
   year: 2020
   source: "https://www.freeday.ai/about-us"
@@ -31,4 +32,4 @@ sources:
   - "https://www.freeday.ai/pricing"
   - "https://www.freeday.ai/about-us"
   - "https://dutchitchannel.nl/697272/freeday-haalt-vier-miljoen-euro-op-om-de-groeistrategie-te-versnellen.html"
-last_verified: "2026-10-29"
+last_verified: "2026-10-30"

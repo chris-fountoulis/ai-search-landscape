@@ -7,7 +7,6 @@ company: "Clearscope"
 website: "clearscope.io"
 segment: "content-automation"
 hq:
-  city: "Unknown"
   country: "US"
 status: "active"
 pricing:
@@ -16,4 +15,4 @@ pricing:
 sources:
   - "https://www.clearscope.io/pricing"
   - "https://kustiq.com/company/clearscope.io"
-last_verified: "2026-10-26"
+last_verified: "2026-10-30"

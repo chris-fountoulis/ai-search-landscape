@@ -9,6 +9,7 @@ segment: "content-automation"
 hq:
   city: "San Francisco"
   country: "US"
+  source: "https://www.vcbacked.co/company/letterdrop"
 founded:
   year: 2021
   source: "https://www.ycombinator.com/companies/letterdrop"
@@ -24,4 +25,4 @@ sources:
   - "https://www.ycombinator.com/companies/letterdrop"
   - "https://www.vcbacked.co/company/letterdrop"
   - "https://letterdrop.com/pricing"
-last_verified: "2026-10-26"
+last_verified: "2026-10-30"

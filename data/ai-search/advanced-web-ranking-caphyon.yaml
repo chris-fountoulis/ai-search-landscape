@@ -9,10 +9,11 @@ segment: "incumbents"
 hq:
   city: "Craiova"
   country: "RO"
+  source: "https://www.advancedwebranking.com/pricing"
 status: "active"
 pricing:
   as_listed_by_vendor: "139 to 980 per month (Pro, Agency 279, Enterprise 699, Ent Plus 50k); currency not shown; 10% off annual"
   source: "https://www.advancedwebranking.com/pricing"
 sources:
   - "https://www.advancedwebranking.com/pricing"
-last_verified: "2026-10-26"
+last_verified: "2026-10-30"

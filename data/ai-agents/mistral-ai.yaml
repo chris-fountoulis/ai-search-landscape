@@ -10,6 +10,7 @@ segment: "company-brain"
 hq:
   city: "Paris"
   country: "FR"
+  source: "https://mistral.ai/products/vibe/"
 founded:
   year: 2023
   source: "https://mistral.ai/about"
@@ -30,4 +31,4 @@ sources:
   - "https://mistral.ai/pricing"
   - "https://mistral.ai/products/vibe/"
   - "https://mistral.ai/about"
-last_verified: "2026-10-29"
+last_verified: "2026-10-30"

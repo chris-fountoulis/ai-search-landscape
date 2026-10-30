@@ -9,6 +9,7 @@ segment: "local-and-smb"
 hq:
   city: "Vancouver"
   country: "CA"
+  source: "https://betakit.com/durable-raises-18-million-cad-as-it-looks-to-help-service-based-businesses-run-on-autopilot/"
 status: "active"
 funding:
   total_usd: 20000000
@@ -22,4 +23,4 @@ sources:
   - "https://betakit.com/durable-raises-18-million-cad-as-it-looks-to-help-service-based-businesses-run-on-autopilot/"
   - "https://techcouver.com/2023/12/12/durable-raises-14-million-to-fuel-growth/"
   - "https://durable.com/pricing"
-last_verified: "2026-10-26"
+last_verified: "2026-10-30"

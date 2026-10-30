@@ -10,6 +10,7 @@ segment: "infrastructure"
 hq:
   city: "Mountain View"
   country: "US"
+  source: "https://www.ultravox.ai/terms"
 founded:
   year: 2023
   source: "https://inworld.ai/blog/inworld-acquires-ultravox"
@@ -36,4 +37,4 @@ sources:
   - "https://www.ultravox.ai/terms-old"
   - "https://www.ultravox.ai/terms"
   - "https://techcrunch.com/2023/03/30/fixie-wants-to-make-it-easier-for-companies-to-build-on-top-of-language-models/"
-last_verified: "2026-10-29"
+last_verified: "2026-10-30"

@@ -10,6 +10,7 @@ segment: "vertical"
 hq:
   city: "New York"
   country: "US"
+  source: "https://www.alpha-sense.com/terms/"
 founded:
   year: 2011
   source: "https://www.alpha-sense.com/about/"
@@ -29,4 +30,4 @@ sources:
   - "https://www.alpha-sense.com/about/"
   - "https://www.alpha-sense.com/pricing/"
   - "https://www.alpha-sense.com/platform/superanalyst/"
-last_verified: "2026-10-29"
+last_verified: "2026-10-30"

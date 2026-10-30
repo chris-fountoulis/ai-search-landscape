@@ -10,6 +10,7 @@ segment: "builders"
 hq:
   city: "Vilnius"
   country: "LT"
+  source: "https://techcrunch.com/2025/10/20/european-ai-rising-star-nexos-ai-raises-30m-to-unlock-enterprise-ai-adoption/"
 status: "active"
 funding:
   total_usd: 41399000
@@ -22,4 +23,4 @@ pricing:
   as_listed_by_vendor: "custom"
 sources:
   - "https://techcrunch.com/2025/10/20/european-ai-rising-star-nexos-ai-raises-30m-to-unlock-enterprise-ai-adoption/"
-last_verified: "2026-10-29"
+last_verified: "2026-10-30"

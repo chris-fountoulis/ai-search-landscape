@@ -10,6 +10,7 @@ segment: "cx-sales"
 hq:
   city: "Sydney"
   country: "AU"
+  source: "https://www.startupdaily.net/topic/funding/ai-customer-support-startup-lorikeet-has-now-raised-75-million-in-just-10-months/"
 founded:
   year: 2023
   source: "https://www.startupdaily.net/topic/funding/ai-customer-support-startup-lorikeet-has-now-raised-75-million-in-just-10-months/"
@@ -31,4 +32,4 @@ sources:
   - "https://www.blackbird.vc/portfolio/lorikeet"
   - "https://www.lorikeetcx.ai/pricing"
   - "https://www.lorikeetcx.ai/terms-of-service"
-last_verified: "2026-10-29"
+last_verified: "2026-10-30"

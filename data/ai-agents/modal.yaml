@@ -10,6 +10,7 @@ segment: "infrastructure"
 hq:
   city: "New York"
   country: "US"
+  source: "https://modal.com/company"
 founded:
   year: 2021
   source: "https://modal.com/company"
@@ -34,4 +35,4 @@ sources:
   - "https://modal.com/pricing"
   - "https://modal.com/company"
   - "https://modal.com/legal/terms"
-last_verified: "2026-10-29"
+last_verified: "2026-10-30"

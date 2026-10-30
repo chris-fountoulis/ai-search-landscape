@@ -10,6 +10,7 @@ segment: "marketing-agency"
 hq:
   city: "San Francisco"
   country: "US"
+  source: "https://hightouch.com/privacy-policy"
 status: "active"
 funding:
   total_usd: 322200000
@@ -30,4 +31,4 @@ sources:
   - "https://hightouch.com/pricing"
   - "https://hightouch.com/privacy-policy"
   - "https://hightouch.com/terms-of-service"
-last_verified: "2026-10-29"
+last_verified: "2026-10-30"

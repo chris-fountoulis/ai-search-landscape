@@ -9,6 +9,7 @@ segment: "content-automation"
 hq:
   city: "Paris"
   country: "FR"
+  source: "https://www.outrank.so/"
 status: "active"
 pricing:
   as_listed_by_vendor: "from $99"
@@ -16,4 +17,4 @@ pricing:
 sources:
   - "https://www.arr.club/outrank/outrank-arr-hit-3m-300-300k-mrr-in-15-months-"
   - "https://www.outrank.so/"
-last_verified: "2026-10-26"
+last_verified: "2026-10-30"

@@ -10,6 +10,7 @@ segment: "infrastructure"
 hq:
   city: "New York"
   country: "US"
+  source: "https://www.credal.ai/careers"
 founded:
   year: 2023
   source: "https://techcrunch.com/2023/10/26/credal-aims-to-connect-company-data-to-llms-securely/"
@@ -30,4 +31,4 @@ sources:
   - "https://techcrunch.com/2023/10/26/credal-aims-to-connect-company-data-to-llms-securely/"
   - "https://www.credal.ai/pricing"
   - "https://www.credal.ai/policies/terms-and-conditions"
-last_verified: "2026-10-29"
+last_verified: "2026-10-30"

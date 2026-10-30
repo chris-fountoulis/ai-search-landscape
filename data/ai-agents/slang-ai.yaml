@@ -10,6 +10,7 @@ segment: "cx-sales"
 hq:
   city: "New York"
   country: "US"
+  source: "https://www.slang.ai/terms-of-service"
 founded:
   year: 2019
   source: "https://slang.ai/press-releases/slang-ai-raises-36m-series-b"
@@ -30,4 +31,4 @@ sources:
   - "https://www.slang.ai/pricing"
   - "https://www.slang.ai/terms-of-service"
   - "https://techcrunch.com/2023/06/28/slang-taps-ai-to-answer-phone-calls-for-brick-and-mortar-businesses/"
-last_verified: "2026-10-29"
+last_verified: "2026-10-30"

@@ -10,6 +10,7 @@ segment: "infrastructure"
 hq:
   city: "London"
   country: "GB"
+  source: "https://trent.ai/terms-of-service/"
 founded:
   year: 2025
   source: "https://trent.ai/about-us/"
@@ -29,4 +30,4 @@ sources:
   - "https://trent.ai/about-us/"
   - "https://trent.ai/terms-of-service/"
   - "https://trent.ai/"
-last_verified: "2026-10-29"
+last_verified: "2026-10-30"

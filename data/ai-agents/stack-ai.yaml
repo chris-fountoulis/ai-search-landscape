@@ -9,6 +9,7 @@ segment: "builders"
 hq:
   city: "San Francisco"
   country: "US"
+  source: "https://siliconangle.com/2026/05/28/asana-acquires-stackai-run-ai-agent-workflows-across-enterprise-systems/"
 founded:
   year: 2023
   source: "https://www.stack-ai.com/blog/stack-ai-raises-16m-series-a-to-create-ai-agents-for-every-job"
@@ -35,4 +36,4 @@ sources:
   - "https://www.stack-ai.com/blog/stack-ai-raises-16m-series-a-to-create-ai-agents-for-every-job"
   - "https://www.stackai.com/pricing"
   - "https://www.ycombinator.com/companies/stack-ai"
-last_verified: "2026-10-29"
+last_verified: "2026-10-30"

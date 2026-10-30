@@ -9,6 +9,7 @@ segment: "geo-tracking"
 hq:
   city: "London"
   country: "GB"
+  source: "https://trakkr.ai/llms-full.txt"
 founded:
   year: 2025
   source: "https://trakkr.ai/pricing"
@@ -19,4 +20,4 @@ pricing:
 sources:
   - "https://trakkr.ai/pricing"
   - "https://trakkr.ai/llms-full.txt"
-last_verified: "2026-10-26"
+last_verified: "2026-10-30"

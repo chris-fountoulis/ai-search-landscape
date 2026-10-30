@@ -10,6 +10,7 @@ segment: "infrastructure"
 hq:
   city: "London"
   country: "GB"
+  source: "https://siliconcanals.com/ai-startup-nia-raises-e747k/"
 status: "active"
 funding:
   total_usd: 6000000
@@ -23,4 +24,4 @@ sources:
   - "https://siliconcanals.com/ai-startup-nia-raises-e747k/"
   - "https://docs.trynia.ai/pricing.md"
   - "https://docs.trynia.ai/"
-last_verified: "2026-10-29"
+last_verified: "2026-10-30"

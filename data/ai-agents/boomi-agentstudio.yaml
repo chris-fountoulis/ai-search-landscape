@@ -10,6 +10,7 @@ segment: "builders"
 hq:
   city: "Conshohocken"
   country: "US"
+  source: "https://boomi.com/company/contact-us/"
 founded:
   year: 2000
   source: "https://boomi.com/company/contact-us/"
@@ -26,4 +27,4 @@ sources:
   - "https://boomi.com/pricing/"
   - "https://boomi.com/company/contact-us/"
   - "https://boomi.com/platform/agentstudio/"
-last_verified: "2026-10-29"
+last_verified: "2026-10-30"

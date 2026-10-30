@@ -10,6 +10,7 @@ segment: "company-brain"
 hq:
   city: "San Diego"
   country: "US"
+  source: "https://clickup.com/terms"
 founded:
   year: 2017
   source: "https://clickup.com/blog/clickup-raises-400m-in-series-c-funding/"
@@ -30,4 +31,4 @@ sources:
   - "https://clickup.com/pricing"
   - "https://clickup.com/terms"
   - "https://siliconangle.com/2026/05/12/exclusive-clickup-endows-brain-assistant-agentic-capabilities/"
-last_verified: "2026-10-29"
+last_verified: "2026-10-30"

@@ -9,6 +9,7 @@ segment: "geo-tracking"
 hq:
   city: "San Francisco"
   country: "US"
+  source: "https://www.ycombinator.com/companies/gauge/jobs/juhjUfl-founding-sales"
 founded:
   year: 2024
   source: "https://www.ycombinator.com/companies/gauge"
@@ -20,4 +21,4 @@ sources:
   - "https://www.ycombinator.com/companies/gauge/jobs/juhjUfl-founding-sales"
   - "https://www.ycombinator.com/companies/gauge"
   - "https://www.withgauge.com/pricing"
-last_verified: "2026-10-26"
+last_verified: "2026-10-30"

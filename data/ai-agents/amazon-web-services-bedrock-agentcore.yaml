@@ -10,6 +10,7 @@ segment: "infrastructure"
 hq:
   city: "Seattle"
   country: "US"
+  source: "https://aws.amazon.com/agreement/"
 status: "active"
 public_company: true
 pricing:
@@ -21,4 +22,4 @@ sources:
   - "https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-bedrock-agentcore-available/"
   - "https://aws.amazon.com/agreement/"
   - "https://techcrunch.com/2025/12/02/aws-announces-new-capabilities-for-its-ai-agent-builder/"
-last_verified: "2026-10-29"
+last_verified: "2026-10-30"

@@ -10,6 +10,7 @@ segment: "marketing-agency"
 hq:
   city: "Seattle"
   country: "US"
+  source: "https://gradial.com/terms-of-service"
 founded:
   year: 2023
   source: "https://gradial.com/about"
@@ -30,4 +31,4 @@ sources:
   - "https://gradial.com/about"
   - "https://gradial.com/terms-of-service"
   - "https://www.madrona.com/portfolio/"
-last_verified: "2026-10-29"
+last_verified: "2026-10-30"

@@ -10,6 +10,7 @@ segment: "cx-sales"
 hq:
   city: "San Francisco"
   country: "US"
+  source: "https://www.tidio.com/terms/"
 founded:
   year: 2013
   source: "https://www.tidio.com/about/"
@@ -30,4 +31,4 @@ sources:
   - "https://www.tidio.com/terms/"
   - "https://www.tidio.com/about/"
   - "https://techcrunch.com/2022/05/12/tidio-raises-25m-to-automate-customer-service-interactions/"
-last_verified: "2026-10-29"
+last_verified: "2026-10-30"

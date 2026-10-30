@@ -10,6 +10,7 @@ segment: "marketing-agency"
 hq:
   city: "San Francisco"
   country: "US"
+  source: "https://www.typeface.ai/terms-of-service"
 founded:
   year: 2022
   source: "https://typeface.ai/blog/typeface-announces-100-m-in-new-funding-to-fuel-global-expansion-of-its-personalized-generative-ai-platform-for-enterprises"
@@ -30,4 +31,4 @@ sources:
   - "https://www.typeface.ai/product/arc-agents"
   - "https://www.typeface.ai/terms-of-service"
   - "https://www.typeface.ai/newsroom"
-last_verified: "2026-10-29"
+last_verified: "2026-10-30"

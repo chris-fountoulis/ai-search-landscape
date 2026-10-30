@@ -9,6 +9,7 @@ segment: "coding"
 hq:
   city: "Seattle"
   country: "US"
+  source: "https://www.testsprite.com/terms"
 founded:
   year: 2024
   source: "https://www.testsprite.com/about"
@@ -32,4 +33,4 @@ sources:
   - "https://www.testsprite.com/pricing"
   - "https://www.testsprite.com/about"
   - "https://www.testsprite.com/terms"
-last_verified: "2026-10-29"
+last_verified: "2026-10-30"

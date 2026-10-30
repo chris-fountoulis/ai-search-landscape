@@ -10,6 +10,7 @@ segment: "cx-sales"
 hq:
   city: "Düsseldorf"
   country: "DE"
+  source: "https://www.cognigy.com/legal-notice"
 founded:
   year: 2016
   source: "https://www.cognigy.com/legal-notice"
@@ -36,4 +37,4 @@ sources:
   - "https://www.cognigy.com/about"
   - "https://dallasinnovates.com/nice-closes-955m-acquisition-of-cognigy-whose-u-s-hq-recently-relocated-to-plano/"
   - "https://techcrunch.com/2024/06/11/cognigy-lands-cash-to-grow-its-contact-center-automation-business/"
-last_verified: "2026-10-29"
+last_verified: "2026-10-30"

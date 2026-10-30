@@ -9,6 +9,7 @@ segment: "cx-sales"
 hq:
   city: "Metamorfosi"
   country: "GR"
+  source: "https://voicelogica.ai/el/company/"
 status: "active"
 pricing:
   as_listed_by_vendor: "EUR 49 to EUR 2,250 (as listed)"
@@ -19,4 +20,4 @@ sources:
   - "https://voicelogica.ai/el/company/"
   - "https://voicelogica.ai/el/"
   - "https://startupper.gr/news/241156/i-voice-logica-sto-greek-ai-startup-accelerator-tis-openai/"
-last_verified: "2026-10-29"
+last_verified: "2026-10-30"

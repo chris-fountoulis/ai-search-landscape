@@ -9,6 +9,7 @@ segment: "cx-sales"
 hq:
   city: "New York"
   country: "US"
+  source: "https://www.avoca.ai/terms-of-service"
 founded:
   year: 2023
   source: "https://www.avoca.ai/blog/avoca-raises-125m-series-b-1b-valuation"
@@ -26,4 +27,4 @@ sources:
   - "https://www.avoca.ai/blog/avoca-raises-125m-series-b-1b-valuation"
   - "https://fortune.com/2026/04/27/avoca-ai-agents-missed-calls-hvac-plumbing-roofing-kleiner-perkins-chen-shrivastava-braswell/"
   - "https://www.avoca.ai/terms-of-service"
-last_verified: "2026-10-29"
+last_verified: "2026-10-30"

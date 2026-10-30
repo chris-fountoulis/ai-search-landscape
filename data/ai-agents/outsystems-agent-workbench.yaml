@@ -10,6 +10,7 @@ segment: "builders"
 hq:
   city: "Boston"
   country: "US"
+  source: "https://www.outsystems.com/legal/"
 founded:
   year: 2001
   source: "https://www.outsystems.com/company/"
@@ -31,4 +32,4 @@ sources:
   - "https://www.outsystems.com/pricing-and-editions/"
   - "https://www.outsystems.com/legal/"
   - "https://www.outsystems.com/platform/agentic-ai-workbench"
-last_verified: "2026-10-29"
+last_verified: "2026-10-30"

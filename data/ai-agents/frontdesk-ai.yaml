@@ -10,6 +10,7 @@ segment: "cx-sales"
 hq:
   city: "New York"
   country: "US"
+  source: "https://www.myaifrontdesk.com/terms-of-service"
 status: "active"
 funding:
   latest_round:
@@ -25,4 +26,4 @@ sources:
   - "https://www.myaifrontdesk.com/terms-of-service"
   - "https://pear.vc/companies/"
   - "https://www.businessinsider.com/quit-job-meta-build-ai-company-leaving-wasnt-easy-2026-1"
-last_verified: "2026-10-29"
+last_verified: "2026-10-30"

@@ -9,6 +9,7 @@ segment: "cx-sales"
 hq:
   city: "Berlin"
   country: "DE"
+  source: "https://docs.synthflow.ai/docs/imprint"
 founded:
   year: 2023
   source: "https://synthflow.ai/company"
@@ -31,4 +32,4 @@ sources:
   - "https://techcrunch.com/2024/06/26/synthflow-picks-up-7-4m-for-no-code-voice-assistance-for-smes/"
   - "https://techcrunch.com/2025/06/24/how-synthflow-ai-is-cutting-through-the-noise-in-a-loud-ai-voice-category/"
   - "https://www.synthflow.ai/newsroom"
-last_verified: "2026-10-29"
+last_verified: "2026-10-30"

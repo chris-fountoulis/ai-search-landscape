@@ -9,6 +9,7 @@ segment: "local-and-smb"
 hq:
   city: "Brighton"
   country: "GB"
+  source: "https://www.brightlocal.com/about-us/"
 founded:
   year: 2009
   source: "https://www.brightlocal.com/about-us/"
@@ -19,4 +20,4 @@ pricing:
 sources:
   - "https://www.brightlocal.com/about-us/"
   - "https://www.brightlocal.com/pricing/"
-last_verified: "2026-10-26"
+last_verified: "2026-10-30"

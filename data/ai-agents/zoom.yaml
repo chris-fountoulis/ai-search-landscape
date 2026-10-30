@@ -10,6 +10,7 @@ segment: "company-brain"
 hq:
   city: "San Jose"
   country: "US"
+  source: "https://www.zoom.com/en/trust/terms/"
 founded:
   year: 2011
   source: "https://www.zoom.com/en/about/"
@@ -23,4 +24,4 @@ sources:
   - "https://www.zoom.com/en/products/ai-assistant/"
   - "https://www.zoom.com/en/about/"
   - "https://www.zoom.com/en/trust/terms/"
-last_verified: "2026-10-29"
+last_verified: "2026-10-30"

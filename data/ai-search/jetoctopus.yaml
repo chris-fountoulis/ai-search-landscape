@@ -9,6 +9,7 @@ segment: "incumbents"
 hq:
   city: "Tallinn"
   country: "EE"
+  source: "https://jetoctopus.com/about-us/"
 founded:
   year: 2018
   source: "https://jetoctopus.com/about-us/"
@@ -19,4 +20,4 @@ pricing:
 sources:
   - "https://jetoctopus.com/about-us/"
   - "https://jetoctopus.com/pricing/"
-last_verified: "2026-10-26"
+last_verified: "2026-10-30"

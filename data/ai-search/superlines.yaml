@@ -9,6 +9,7 @@ segment: "geo-tracking"
 hq:
   city: "Helsinki"
   country: "FI"
+  source: "https://www.superlines.io/about"
 founded:
   year: 2020
   source: "https://www.superlines.io/about"
@@ -19,4 +20,4 @@ pricing:
 sources:
   - "https://www.superlines.io/about"
   - "https://www.superlines.io/pricing"
-last_verified: "2026-10-26"
+last_verified: "2026-10-30"

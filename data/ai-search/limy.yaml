@@ -9,6 +9,7 @@ segment: "geo-tracking"
 hq:
   city: "New York"
   country: "US"
+  source: "https://www.superbcrew.com/limy-raises-10m-in-funding-led-by-flybridge/"
 founded:
   year: 2024
   source: "https://www.superbcrew.com/limy-raises-10m-in-funding-led-by-flybridge/"
@@ -23,4 +24,4 @@ pricing:
 sources:
   - "https://www.superbcrew.com/limy-raises-10m-in-funding-led-by-flybridge/"
   - "https://finder.startupnationcentral.org/company_page/limy-ai"
-last_verified: "2026-10-26"
+last_verified: "2026-10-30"

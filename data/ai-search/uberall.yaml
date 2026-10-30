@@ -9,6 +9,7 @@ segment: "local-and-smb"
 hq:
   city: "Berlin"
   country: "DE"
+  source: "https://techcrunch.com/2021/06/15/uberall-raises-115m-acquires-momentfeed-to-scale-up-its-location-marketing-services/"
 status: "active"
 funding:
   latest_round:
@@ -20,4 +21,4 @@ sources:
   - "https://techcrunch.com/2021/06/15/uberall-raises-115m-acquires-momentfeed-to-scale-up-its-location-marketing-services/"
   - "https://uberall.com/en-us/company/news-press/uberall-raises-115m-acquires-momentfeed-to-expand-location-services"
   - "https://tech.eu/brief/berlin-based-marketing-saas-uberall-raises-115-million-agrees-to-acquire-santa-monicas-proximity-search-optimisation-tool-momentfeed/"
-last_verified: "2026-10-26"
+last_verified: "2026-10-30"

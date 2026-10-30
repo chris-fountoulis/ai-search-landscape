@@ -9,6 +9,7 @@ segment: "incumbents"
 hq:
   city: "Nashville"
   country: "US"
+  source: "https://raventools.com/about-us/"
 status: "acquired"
 acquisition:
   acquirer: "TapClicks"
@@ -18,4 +19,4 @@ pricing:
 sources:
   - "https://martech.org/tapclicks-buys-raven-tools"
   - "https://raventools.com/about-us/"
-last_verified: "2026-10-26"
+last_verified: "2026-10-30"

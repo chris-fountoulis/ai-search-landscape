@@ -9,6 +9,7 @@ segment: "infrastructure"
 hq:
   city: "Austin"
   country: "US"
+  source: "https://hamming.ai/privacy"
 founded:
   year: 2024
   source: "https://hamming.ai/about"
@@ -31,4 +32,4 @@ sources:
   - "https://hamming.ai/about"
   - "https://hamming.ai/pricing"
   - "https://www.ycombinator.com/companies/hamming-ai"
-last_verified: "2026-10-29"
+last_verified: "2026-10-30"

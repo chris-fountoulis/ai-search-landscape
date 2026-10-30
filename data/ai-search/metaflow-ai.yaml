@@ -9,6 +9,7 @@ segment: "ai-native-agencies"
 hq:
   city: "San Francisco"
   country: "US"
+  source: "https://metaflow.life/"
 status: "active"
 pricing:
   as_listed_by_vendor: "$99 to $299 (software); agentic pilots from $7,500"
@@ -16,4 +17,4 @@ pricing:
 sources:
   - "https://metaflow.life/"
   - "https://metaflow.life/blog/best-ai-native-marketing-agencies-for-seed-stage-startups"
-last_verified: "2026-10-26"
+last_verified: "2026-10-30"

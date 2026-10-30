@@ -10,6 +10,7 @@ segment: "infrastructure"
 hq:
   city: "Berlin"
   country: "DE"
+  source: "https://restate.dev/imprint"
 founded:
   year: 2022
   source: "https://restate.dev/imprint"
@@ -31,4 +32,4 @@ sources:
   - "https://restate.dev/imprint"
   - "https://restate.dev/cloud"
   - "https://restate.dev/blog"
-last_verified: "2026-10-29"
+last_verified: "2026-10-30"

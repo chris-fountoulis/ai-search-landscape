@@ -9,6 +9,7 @@ segment: "builders"
 hq:
   city: "Berlin"
   country: "DE"
+  source: "https://www.langdock.com/imprint"
 founded:
   year: 2023
   source: "https://www.langdock.com/imprint"
@@ -32,4 +33,4 @@ sources:
   - "https://techcrunch.com/2024/04/19/langdock/"
   - "https://siliconangle.com/2024/04/19/langdock-reels-3m-llm-agnostic-enterprise-chatbot/"
   - "https://www.ycombinator.com/companies/langdock"
-last_verified: "2026-10-29"
+last_verified: "2026-10-30"

@@ -9,6 +9,7 @@ segment: "coding"
 hq:
   city: "Stockholm"
   country: "SE"
+  source: "https://qa.tech/about-us"
 founded:
   year: 2023
   source: "https://qa.tech/about-us"
@@ -31,4 +32,4 @@ sources:
   - "https://qa.tech/blog/qa-tech-raises-e3-million-provides-a-glimpse-into-the-future-of-programming"
   - "https://qa.tech/pricing"
   - "https://qa.tech/about-us"
-last_verified: "2026-10-29"
+last_verified: "2026-10-30"

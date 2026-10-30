@@ -10,6 +10,7 @@ segment: "infrastructure"
 hq:
   city: "San Francisco"
   country: "US"
+  source: "https://livekit.com/legal/terms-of-service"
 founded:
   year: 2021
   source: "https://techcrunch.com/2026/01/22/voice-ai-engine-and-openai-partner-livekit-hits-1b-valuation/"
@@ -33,4 +34,4 @@ sources:
   - "https://fortune.com/press-releases/livekit-raises-100m-1b-valuation-voice-first-computing-2026-01-22"
   - "https://livekit.com/pricing"
   - "https://livekit.com/legal/terms-of-service"
-last_verified: "2026-10-29"
+last_verified: "2026-10-30"

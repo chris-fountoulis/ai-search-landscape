@@ -9,6 +9,7 @@ segment: "incumbents"
 hq:
   city: "London"
   country: "GB"
+  source: "https://tech.eu/2020/03/10/londons-deepcrawl-scores-19-million-for-its-seo-platform/"
 status: "active"
 funding:
   total_usd: 26000000
@@ -21,4 +22,4 @@ pricing:
 sources:
   - "https://tech.eu/2020/03/10/londons-deepcrawl-scores-19-million-for-its-seo-platform/"
   - "https://www.lumar.io/pricing/"
-last_verified: "2026-10-26"
+last_verified: "2026-10-30"

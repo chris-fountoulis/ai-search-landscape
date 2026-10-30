@@ -10,6 +10,7 @@ segment: "infrastructure"
 hq:
   city: "San Francisco"
   country: "US"
+  source: "https://techcrunch.com/2024/08/28/san-franciscos-ai-hackathons-agency-lets-you-see-what-your-ai-agents-do/"
 founded:
   year: 2023
   source: "https://techcrunch.com/2024/08/28/san-franciscos-ai-hackathons-agency-lets-you-see-what-your-ai-agents-do/"
@@ -30,4 +31,4 @@ sources:
   - "https://www.agentops.ai/"
   - "https://github.com/AgentOps-AI/agentops"
   - "https://api.github.com/orgs/AgentOps-AI"
-last_verified: "2026-10-29"
+last_verified: "2026-10-30"

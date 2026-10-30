@@ -10,6 +10,7 @@ segment: "company-brain"
 hq:
   city: "San Francisco"
   country: "US"
+  source: "https://www.atomicwork.com/company/about"
 founded:
   year: 2022
   source: "https://www.atomicwork.com/company/about"
@@ -30,4 +31,4 @@ sources:
   - "https://siliconangle.com/2025/01/28/atomicwork-raises-25m-bring-agentic-ai-management/"
   - "https://www.atomicwork.com/pricing"
   - "https://www.atomicwork.com/company/about"
-last_verified: "2026-10-29"
+last_verified: "2026-10-30"

@@ -9,6 +9,7 @@ segment: "coding"
 hq:
   city: "Austin"
   country: "US"
+  source: "https://kilo.ai/terms"
 founded:
   year: 2025
   source: "https://kilo.ai/about"
@@ -34,4 +35,4 @@ sources:
   - "https://kilo.ai/about"
   - "https://kilo.ai/pricing"
   - "https://fortune.com/2026/03/17/how-cutting-out-product-management-enabled-kilo-to-compete-in-the-hyper-fast-ai-coding-market/"
-last_verified: "2026-10-29"
+last_verified: "2026-10-30"

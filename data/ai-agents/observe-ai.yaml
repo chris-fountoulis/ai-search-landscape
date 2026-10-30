@@ -9,6 +9,7 @@ segment: "cx-sales"
 hq:
   city: "Redwood City"
   country: "US"
+  source: "https://www.observe.ai/terms"
 founded:
   year: 2017
   source: "https://www.observe.ai/about-us"
@@ -27,4 +28,4 @@ sources:
   - "https://www.observe.ai/press-releases/observe-ai-raises-125m-series-c-to-usher-in-ai-empowered-era-for-contact-centers"
   - "https://www.observe.ai/about-us"
   - "https://www.observe.ai/terms"
-last_verified: "2026-10-29"
+last_verified: "2026-10-30"

@@ -9,6 +9,7 @@ segment: "ai-native-agencies"
 hq:
   city: "New York"
   country: "US"
+  source: "https://www.ycombinator.com/companies/geostar"
 founded:
   year: 2024
   source: "https://venturebeat.com/ai/geostar-pioneers-geo-as-traditional-seo-faces-25-decline-from-ai-chatbots"
@@ -17,4 +18,4 @@ sources:
   - "https://venturebeat.com/ai/geostar-pioneers-geo-as-traditional-seo-faces-25-decline-from-ai-chatbots"
   - "https://www.ycombinator.com/companies/geostar"
   - "https://www.geostar.ai"
-last_verified: "2026-10-26"
+last_verified: "2026-10-30"

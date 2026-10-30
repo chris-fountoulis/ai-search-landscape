@@ -10,6 +10,7 @@ segment: "coding"
 hq:
   city: "Redwood City"
   country: "US"
+  source: "https://neubird.ai/contact"
 status: "active"
 funding:
   total_usd: 63800000
@@ -29,4 +30,4 @@ sources:
   - "https://bridgemena.com/news/aramco-s-prosperity7-ventures-joins-19-3-m-funding-round-for-ai-company-neu-bird-ai"
   - "https://neubird.ai/contact"
   - "https://neubird.ai/pricing"
-last_verified: "2026-10-29"
+last_verified: "2026-10-30"

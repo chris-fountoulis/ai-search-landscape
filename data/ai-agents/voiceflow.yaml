@@ -9,6 +9,7 @@ segment: "cx-sales"
 hq:
   city: "Toronto"
   country: "CA"
+  source: "https://www.voiceflow.com/legal/terms"
 founded:
   year: 2019
   source: "https://www.voiceflow.com/legal/terms"
@@ -29,4 +30,4 @@ sources:
   - "https://www.voiceflow.com/legal/terms"
   - "https://www.voiceflow.com/pricing"
   - "https://www.voiceflow.com/about"
-last_verified: "2026-10-29"
+last_verified: "2026-10-30"

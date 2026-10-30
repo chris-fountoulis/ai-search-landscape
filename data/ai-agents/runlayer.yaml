@@ -9,6 +9,7 @@ segment: "infrastructure"
 hq:
   city: "New York"
   country: "US"
+  source: "https://www.runlayer.com/about"
 founded:
   year: 2025
   source: "https://www.runlayer.com/about"
@@ -28,4 +29,4 @@ sources:
   - "https://techcrunch.com/2025/11/17/mcp-ai-agent-security-startup-runlayer-launches-with-8-unicorns-11m-from-khoslas-keith-rabois-and-felicis/"
   - "https://techcrunch.com/2026/08/20/runlayer-rippling-drop-lawsuits-but-the-brouhaha-is-still-a-cautionary-tale-for-founders/"
   - "https://www.runlayer.com/about"
-last_verified: "2026-10-29"
+last_verified: "2026-10-30"

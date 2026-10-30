@@ -10,6 +10,7 @@ segment: "infrastructure"
 hq:
   city: "San Francisco"
   country: "US"
+  source: "https://arcjet.com/about"
 founded:
   year: 2023
   source: "https://arcjet.com/about"
@@ -32,4 +33,4 @@ sources:
   - "https://siliconangle.com/2026/09/17/exclusive-arcjet-launches-runtime-security-to-track-and-control-ai-agents-in-production/"
   - "https://arcjet.com/pricing"
   - "https://arcjet.com/terms"
-last_verified: "2026-10-29"
+last_verified: "2026-10-30"

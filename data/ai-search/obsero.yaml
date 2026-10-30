@@ -9,6 +9,7 @@ segment: "geo-tracking"
 hq:
   city: "London"
   country: "GB"
+  source: "https://dealroom.co/news/161930-obsero-raises-1-2m-to-help-brands-track-citations-across-ai-search/"
 founded:
   year: 2025
   source: "https://www.financemagnates.com/fintech/ig-group-alumni-raise-12-million-for-ai-search-startup/"
@@ -24,4 +25,4 @@ sources:
   - "https://dealroom.co/news/161930-obsero-raises-1-2m-to-help-brands-track-citations-across-ai-search/"
   - "https://www.financemagnates.com/fintech/ig-group-alumni-raise-12-million-for-ai-search-startup/"
   - "https://www.obsero.ai/"
-last_verified: "2026-10-26"
+last_verified: "2026-10-30"

@@ -7,7 +7,6 @@ company: "Local Falcon"
 website: "localfalcon.com"
 segment: "local-and-smb"
 hq:
-  city: "Unknown"
   country: "US"
 status: "active"
 pricing:
@@ -16,4 +15,4 @@ pricing:
 sources:
   - "https://www.localfalcon.com/pricing"
   - "https://www.localfalcon.com/about"
-last_verified: "2026-10-26"
+last_verified: "2026-10-30"

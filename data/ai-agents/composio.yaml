@@ -9,6 +9,7 @@ segment: "infrastructure"
 hq:
   city: "San Francisco"
   country: "US"
+  source: "https://india.entrepreneur.com/?p=83788"
 founded:
   year: 2023
   source: "https://siliconangle.com/2025/07/22/composio-raises-25m-funding-ease-ai-agent-development/"
@@ -29,4 +30,4 @@ sources:
   - "https://siliconangle.com/2025/07/22/composio-raises-25m-funding-ease-ai-agent-development/"
   - "https://composio.dev/pricing"
   - "https://composio.dev/terms"
-last_verified: "2026-10-29"
+last_verified: "2026-10-30"

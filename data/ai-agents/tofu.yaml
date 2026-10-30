@@ -9,6 +9,7 @@ segment: "marketing-agency"
 hq:
   city: "San Mateo"
   country: "US"
+  source: "https://www.tofuhq.com/terms-and-conditions"
 founded:
   year: 2023
   source: "https://www.signalfire.com/blog/generative-marketing-tofu-investor"
@@ -29,4 +30,4 @@ sources:
   - "https://www.indexventures.com/companies/tofu/"
   - "https://www.signalfire.com/blog/generative-marketing-tofu-investor"
   - "https://www.tofuhq.com/"
-last_verified: "2026-10-29"
+last_verified: "2026-10-30"

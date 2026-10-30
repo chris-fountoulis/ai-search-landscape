@@ -9,6 +9,7 @@ segment: "marketing-agency"
 hq:
   city: "Baunatal"
   country: "DE"
+  source: "https://superscale.ai/data/imprint"
 status: "active"
 funding:
   total_usd: 5000000
@@ -27,4 +28,4 @@ sources:
   - "https://superscale.ai/pricing"
   - "https://superscale.ai/data/imprint"
   - "https://superscale.ai/news"
-last_verified: "2026-10-29"
+last_verified: "2026-10-30"

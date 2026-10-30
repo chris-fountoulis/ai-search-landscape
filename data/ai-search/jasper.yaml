@@ -9,6 +9,7 @@ segment: "content-automation"
 hq:
   city: "Austin"
   country: "US"
+  source: "https://news.crunchbase.com/ai-robotics/unicorn-venture-funding-marketing-jasper/"
 status: "active"
 funding:
   total_usd: 131000000
@@ -22,4 +23,4 @@ sources:
   - "https://techcrunch.com/2022/10/18/ai-content-platform-jasper-raises-125m-at-a-1-7b-valuation/"
   - "https://news.crunchbase.com/ai-robotics/unicorn-venture-funding-marketing-jasper/"
   - "https://www.jasper.ai/pricing"
-last_verified: "2026-10-26"
+last_verified: "2026-10-30"

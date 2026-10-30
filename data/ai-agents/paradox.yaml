@@ -10,6 +10,7 @@ segment: "cx-sales"
 hq:
   city: "Scottsdale"
   country: "US"
+  source: "https://siliconangle.com/2021/12/28/recruiting-startup-paradox-valued-1-5b-following-200m-funding-round/"
 status: "acquired"
 funding:
   total_usd: 253300000
@@ -34,4 +35,4 @@ sources:
   - "https://1worktech.com/exclusive-interview-paradox-team-discusses-its-200m-series-c-round-and-1-5-billion-valuation/"
   - "https://www.paradox.ai/"
   - "https://www.paradox.ai/legal/terms-of-use"
-last_verified: "2026-10-29"
+last_verified: "2026-10-30"

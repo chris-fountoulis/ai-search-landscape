@@ -9,6 +9,7 @@ segment: "builders"
 hq:
   city: "West Hollywood"
   country: "US"
+  source: "https://www.mindstudio.ai/terms"
 status: "active"
 funding:
   total_usd: 36000000
@@ -21,4 +22,4 @@ sources:
   - "https://www.mindstudio.ai/about"
   - "https://www.mindstudio.ai/pricing"
   - "https://www.mindstudio.ai/terms"
-last_verified: "2026-10-29"
+last_verified: "2026-10-30"

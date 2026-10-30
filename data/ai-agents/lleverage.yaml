@@ -10,6 +10,7 @@ segment: "builders"
 hq:
   city: "Amsterdam"
   country: "NL"
+  source: "https://legal.lleverage.ai/terms-of-service"
 status: "active"
 funding:
   total_usd: 5566500
@@ -29,4 +30,4 @@ sources:
   - "https://legal.lleverage.ai/privacy-policy"
   - "https://www.lleverage.ai/pricing"
   - "https://www.lleverage.ai/company/about"
-last_verified: "2026-10-29"
+last_verified: "2026-10-30"

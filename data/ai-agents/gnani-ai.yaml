@@ -10,6 +10,7 @@ segment: "cx-sales"
 hq:
   city: "Bengaluru"
   country: "IN"
+  source: "https://www.businesstoday.in/amp/technology/story/gnaniai-raises-10-million-in-funding-from-aavishkaar-capital-to-scale-global-voice-ai-push-523218-2026-03-31"
 founded:
   year: 2016
   source: "https://www.gnani.ai/about-us"
@@ -30,4 +31,4 @@ sources:
   - "https://techcrunch.com/2019/07/10/samsung-venture-india-indusos/"
   - "https://www.gnani.ai/about-us"
   - "https://www.gnani.ai/legal/eula"
-last_verified: "2026-10-29"
+last_verified: "2026-10-30"

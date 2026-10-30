@@ -10,6 +10,7 @@ segment: "cx-sales"
 hq:
   city: "Danderyd"
   country: "SE"
+  source: "https://www.teneo.ai/privacy-policy"
 status: "active"
 public_company: true
 pricing:
@@ -21,4 +22,4 @@ sources:
   - "https://www.teneo.ai/investors"
   - "https://www.teneo.ai/investors/financial-information/financial-reports"
   - "https://tech.eu/2018/10/08/swedish-conversational-ai-startup-artificial-solutions-raises-e13-6-million/"
-last_verified: "2026-10-29"
+last_verified: "2026-10-30"

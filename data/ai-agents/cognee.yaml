@@ -10,6 +10,7 @@ segment: "infrastructure"
 hq:
   city: "Berlin"
   country: "DE"
+  source: "https://www.cognee.ai/impressum"
 founded:
   year: 2024
   source: "https://www.cognee.ai/impressum"
@@ -32,4 +33,4 @@ sources:
   - "https://www.cognee.ai/about-us"
   - "https://pebblebed.com/portfolio"
   - "https://github.com/topoteretes/cognee"
-last_verified: "2026-10-29"
+last_verified: "2026-10-30"

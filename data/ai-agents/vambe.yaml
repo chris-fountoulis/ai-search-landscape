@@ -9,6 +9,7 @@ segment: "cx-sales"
 hq:
   city: "Santiago"
   country: "CL"
+  source: "https://www.vambe.ai/terms"
 founded:
   year: 2023
   source: "https://siliconangle.com/2025/12/03/ai-startup-vambe-raises-14m-automate-conversational-commerce/"
@@ -30,4 +31,4 @@ sources:
   - "https://www.vambe.ai/terms"
   - "https://www.vambe.ai/llms.txt"
   - "https://techcrunch.com/2024/12/04/latam-startup-vambe-sees-arr-skyrocket-after-pivot-to-conversational-ai/"
-last_verified: "2026-10-29"
+last_verified: "2026-10-30"

@@ -9,6 +9,7 @@ segment: "cx-sales"
 hq:
   city: "London"
   country: "GB"
+  source: "https://poly.ai/about"
 founded:
   year: 2017
   source: "https://poly.ai/about"
@@ -30,4 +31,4 @@ sources:
   - "https://poly.ai/terms-of-use"
   - "https://poly.ai/about"
   - "https://poly.ai/pricing"
-last_verified: "2026-10-29"
+last_verified: "2026-10-30"

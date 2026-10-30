@@ -9,6 +9,7 @@ segment: "builders"
 hq:
   city: "San Francisco"
   country: "US"
+  source: "https://rasa.com/imprint/"
 founded:
   year: 2016
   source: "https://rasa.com/imprint/"
@@ -29,4 +30,4 @@ sources:
   - "https://rasa.com/imprint/"
   - "https://rasa.com/about/"
   - "https://rasa.com/pricing/"
-last_verified: "2026-10-29"
+last_verified: "2026-10-30"

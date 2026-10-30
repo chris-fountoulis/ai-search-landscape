@@ -9,6 +9,7 @@ segment: "content-automation"
 hq:
   city: "Paris"
   country: "FR"
+  source: "https://www.blogseo.io/pricing"
 status: "active"
 pricing:
   as_listed_by_vendor: "$59 to $97 monthly; Enterprise custom"
@@ -16,4 +17,4 @@ pricing:
 sources:
   - "https://www.blogseo.io/pricing"
   - "https://getlatka.com/companies/blogseo.ai"
-last_verified: "2026-10-26"
+last_verified: "2026-10-30"

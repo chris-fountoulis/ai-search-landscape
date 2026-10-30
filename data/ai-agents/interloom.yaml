@@ -9,6 +9,7 @@ segment: "infrastructure"
 hq:
   city: "Munich"
   country: "DE"
+  source: "https://www.interloom.com/en/press/"
 founded:
   year: 2024
   source: "https://www.interloom.com/en/imprint/"
@@ -29,4 +30,4 @@ sources:
   - "https://www.interloom.com/en/imprint/"
   - "https://www.interloom.com/en/pricing/"
   - "https://www.eu-startups.com/2026/03/german-startup-interloom-lands-e14-2-million-seed-funding-for-ai-agent-knowledge-infrastructure/"
-last_verified: "2026-10-29"
+last_verified: "2026-10-30"

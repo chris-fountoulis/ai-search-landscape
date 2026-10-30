@@ -10,6 +10,7 @@ segment: "coding"
 hq:
   city: "San Francisco"
   country: "US"
+  source: "https://www.anthropic.com/legal/consumer-terms"
 founded:
   year: 2021
   source: "https://www.anthropic.com/news/series-h"
@@ -32,4 +33,4 @@ sources:
   - "https://techcrunch.com/2026/10/26/anthropic-officially-files-for-its-public-debut/"
   - "https://siliconangle.com/2026/10/26/anthropic-files-s-1-paperwork-for-blockbuster-ai-ipo/"
   - "https://www.anthropic.com/legal/consumer-terms"
-last_verified: "2026-10-29"
+last_verified: "2026-10-30"

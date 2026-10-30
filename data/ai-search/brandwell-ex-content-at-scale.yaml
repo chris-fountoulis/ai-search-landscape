@@ -9,6 +9,7 @@ segment: "content-automation"
 hq:
   city: "Scottsdale, Arizona"
   country: "US"
+  source: "https://www.gpec.org/?p=26200"
 status: "active"
 pricing:
   as_listed_by_vendor: "$99 to $1,000"
@@ -17,4 +18,4 @@ sources:
   - "https://www.gpec.org/?p=26200"
   - "https://martechseries.com/content/content-at-scale-is-now-brandwell-an-all-in-one-growth-engine-for-sustainable-brand-growth/"
   - "https://brandwell.ai/pricing/"
-last_verified: "2026-10-26"
+last_verified: "2026-10-30"

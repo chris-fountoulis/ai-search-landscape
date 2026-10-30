@@ -9,6 +9,7 @@ segment: "incumbents"
 hq:
   city: "Henley-on-Thames"
   country: "GB"
+  source: "https://www.screamingfrog.co.uk/about/"
 founded:
   year: 2010
   source: "https://www.screamingfrog.co.uk/about/"
@@ -19,4 +20,4 @@ pricing:
 sources:
   - "https://www.screamingfrog.co.uk/about/"
   - "https://www.screamingfrog.co.uk/seo-spider/licence/"
-last_verified: "2026-10-26"
+last_verified: "2026-10-30"

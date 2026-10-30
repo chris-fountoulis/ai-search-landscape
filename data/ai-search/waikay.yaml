@@ -9,6 +9,7 @@ segment: "geo-tracking"
 hq:
   city: "Biggleswade"
   country: "GB"
+  source: "https://waikay.io/about/"
 status: "active"
 pricing:
   as_listed_by_vendor: "$24.95 to $199.95"
@@ -16,4 +17,4 @@ pricing:
 sources:
   - "https://waikay.io/about/"
   - "https://waikay.io/"
-last_verified: "2026-10-26"
+last_verified: "2026-10-30"

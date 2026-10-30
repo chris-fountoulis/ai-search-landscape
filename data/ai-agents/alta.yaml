@@ -10,6 +10,7 @@ segment: "cx-sales"
 hq:
   city: "Tel Aviv"
   country: "IL"
+  source: "https://www.calcalistech.com/ctechnews/article/byylhojqze"
 founded:
   year: 2023
   source: "https://www.calcalistech.com/ctechnews/article/byylhojqze"
@@ -29,4 +30,4 @@ sources:
   - "https://www.calcalistech.com/ctechnews/article/byylhojqze"
   - "https://www.altahq.com/pricing"
   - "https://www.altahq.com/terms-of-service"
-last_verified: "2026-10-29"
+last_verified: "2026-10-30"

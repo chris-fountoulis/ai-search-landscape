@@ -9,6 +9,7 @@ segment: "cx-sales"
 hq:
   city: "San Francisco"
   country: "US"
+  source: "https://www.bland.ai/legal/terms"
 founded:
   year: 2023
   source: "https://www.bland.ai/about"
@@ -29,4 +30,4 @@ sources:
   - "https://www.bland.ai/pricing"
   - "https://www.bland.ai/about"
   - "https://www.bland.ai/legal/terms"
-last_verified: "2026-10-29"
+last_verified: "2026-10-30"

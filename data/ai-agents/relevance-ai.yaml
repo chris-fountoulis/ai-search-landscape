@@ -9,6 +9,7 @@ segment: "builders"
 hq:
   city: "Sydney"
   country: "AU"
+  source: "https://techcrunch.com/2025/05/06/relevance-ai-raises-24m-series-b-to-help-anyone-build-teams-of-ai-agents/"
 status: "active"
 funding:
   total_usd: 37000000
@@ -25,4 +26,4 @@ sources:
   - "https://techcrunch.com/2025/05/06/relevance-ai-raises-24m-series-b-to-help-anyone-build-teams-of-ai-agents/"
   - "https://relevanceai.com/pricing"
   - "https://relevanceai.com/"
-last_verified: "2026-10-29"
+last_verified: "2026-10-30"

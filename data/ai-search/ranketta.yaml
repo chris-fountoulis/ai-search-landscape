@@ -9,6 +9,7 @@ segment: "geo-tracking"
 hq:
   city: "Prague"
   country: "CZ"
+  source: "https://ranketta.com/"
 status: "active"
 pricing:
   as_listed_by_vendor: "EUR 29 to 449"
@@ -16,4 +17,4 @@ pricing:
 sources:
   - "https://ranketta.com/"
   - "https://bebeez.eu/2025/11/27/ranketta-built-by-a-21-year-old-czech-ai-researcher-lands-e1-million-to-measure-brand-presence-in-llms/"
-last_verified: "2026-10-26"
+last_verified: "2026-10-30"

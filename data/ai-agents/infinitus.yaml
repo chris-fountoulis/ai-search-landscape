@@ -9,6 +9,7 @@ segment: "vertical"
 hq:
   city: "San Francisco"
   country: "US"
+  source: "https://web.archive.org/web/2026id_/https://www.infinitus.ai/terms"
 founded:
   year: 2019
   source: "https://www.healthcareittoday.com/2024/11/25/infinitus-systems-raises-51-5-million-series-c-funding-on-the-strength-of-ai-guardrails/"
@@ -29,4 +30,4 @@ sources:
   - "https://web.archive.org/web/2026id_/https://www.infinitus.ai/terms"
   - "https://web.archive.org/web/2026id_/https://www.infinitus.ai/pricing/"
   - "https://web.archive.org/web/2026id_/https://www.infinitus.ai/about-us/"
-last_verified: "2026-10-29"
+last_verified: "2026-10-30"

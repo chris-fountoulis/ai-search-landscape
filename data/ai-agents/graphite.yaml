@@ -10,6 +10,7 @@ segment: "coding"
 hq:
   city: "New York"
   country: "US"
+  source: "https://graphite.com/terms-of-service"
 status: "acquired"
 funding:
   total_usd: 72000000
@@ -35,4 +36,4 @@ sources:
   - "https://cursor.com/blog/joining-spacex"
   - "https://graphite.com/pricing"
   - "https://graphite.com/terms-of-service"
-last_verified: "2026-10-29"
+last_verified: "2026-10-30"

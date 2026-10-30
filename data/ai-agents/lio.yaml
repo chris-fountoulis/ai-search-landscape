@@ -10,6 +10,7 @@ segment: "cx-sales"
 hq:
   city: "Munich"
   country: "DE"
+  source: "https://www.lio.ai/legal/imprint"
 founded:
   year: 2023
   source: "https://www.lio.ai/legal/imprint"
@@ -29,4 +30,4 @@ sources:
   - "https://www.lio.ai/legal/imprint"
   - "https://www.lio.ai/about-us"
   - "https://www.lio.ai/"
-last_verified: "2026-10-29"
+last_verified: "2026-10-30"

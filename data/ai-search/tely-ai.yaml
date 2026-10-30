@@ -9,6 +9,7 @@ segment: "ai-native-agencies"
 hq:
   city: "San Francisco"
   country: "US"
+  source: "https://www.tely.ai/"
 status: "active"
 funding:
   latest_round:
@@ -19,4 +20,4 @@ pricing:
 sources:
   - "https://www.tely.ai/"
   - "https://tely.ai/"
-last_verified: "2026-10-26"
+last_verified: "2026-10-30"

@@ -9,10 +9,11 @@ segment: "ai-native-agencies"
 hq:
   city: "Halifax, Nova Scotia"
   country: "CA"
+  source: "https://foundationinc.co/team/ross-simmonds"
 status: "active"
 pricing:
   as_listed_by_vendor: "custom"
 sources:
   - "https://foundationinc.co/team/ross-simmonds"
   - "https://www.designrush.com/agency/profile/foundation-marketing"
-last_verified: "2026-10-26"
+last_verified: "2026-10-30"

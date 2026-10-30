@@ -9,6 +9,7 @@ segment: "cx-sales"
 hq:
   city: "Austin"
   country: "US"
+  source: "https://conversenow.ai/terms-and-conditions.html"
 founded:
   year: 2018
   source: "https://conversenow.ai/about.html"
@@ -27,4 +28,4 @@ sources:
   - "https://conversenow.ai/terms-and-conditions.html"
   - "https://conversenow.ai/about.html"
   - "https://techcrunch.com/2022/08/23/conversenow-drive-thru-ordering-tech-10m/"
-last_verified: "2026-10-29"
+last_verified: "2026-10-30"

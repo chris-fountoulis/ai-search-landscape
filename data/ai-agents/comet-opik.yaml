@@ -10,6 +10,7 @@ segment: "infrastructure"
 hq:
   city: "New York"
   country: "US"
+  source: "https://www.comet.com/site/terms-of-service/"
 founded:
   year: 2017
   source: "https://www.comet.com/site/about-us/"
@@ -31,4 +32,4 @@ sources:
   - "https://www.comet.com/site/pricing/"
   - "https://www.comet.com/site/about-us/"
   - "https://www.comet.com/site/terms-of-service/"
-last_verified: "2026-10-29"
+last_verified: "2026-10-30"

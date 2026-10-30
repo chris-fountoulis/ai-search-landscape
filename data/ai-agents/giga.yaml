@@ -10,6 +10,7 @@ segment: "cx-sales"
 hq:
   city: "San Francisco"
   country: "US"
+  source: "https://giga.ai/terms-of-service"
 founded:
   year: 2023
   source: "https://giga.ai/news/series-a"
@@ -30,4 +31,4 @@ sources:
   - "https://giga.ai/terms-of-service"
   - "https://techcrunch.com/2023/12/28/giga-ml-wants-to-help-companies-deploy-llms-offline/"
   - "https://www.ycombinator.com/companies/giga"
-last_verified: "2026-10-29"
+last_verified: "2026-10-30"

@@ -9,6 +9,7 @@ segment: "content-automation"
 hq:
   city: "Rehoboth Beach, Delaware"
   country: "US"
+  source: "https://www.alliai.com/about"
 founded:
   year: 2018
   source: "https://www.alliai.com/about"
@@ -19,4 +20,4 @@ pricing:
 sources:
   - "https://www.alliai.com/about"
   - "https://www.alliai.com/pricing"
-last_verified: "2026-10-26"
+last_verified: "2026-10-30"

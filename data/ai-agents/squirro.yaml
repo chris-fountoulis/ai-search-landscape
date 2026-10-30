@@ -10,6 +10,7 @@ segment: "company-brain"
 hq:
   city: "Zurich"
   country: "CH"
+  source: "https://squirro.com/general-terms-and-conditions"
 founded:
   year: 2012
   source: "https://squirro.com/about"
@@ -29,4 +30,4 @@ sources:
   - "https://tech.eu/2022/02/24/swiss-startup-squirro-lands-4-million-funding-as-it-buys-us-based-ai-platform"
   - "https://squirro.com/news-and-events/news/squirro-completes-financing-round-of-10-million-led-by-orange-growth-capital"
   - "https://squirro.com/about"
-last_verified: "2026-10-29"
+last_verified: "2026-10-30"

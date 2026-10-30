@@ -10,6 +10,7 @@ segment: "cx-sales"
 hq:
   city: "San Mateo"
   country: "US"
+  source: "https://sendbird.com/about"
 founded:
   year: 2013
   source: "https://sendbird.com/about"
@@ -27,4 +28,4 @@ sources:
   - "https://techcrunch.com/2019/02/19/sendbird-snags-52m-series-b-to-expand-messaging-api-tool/"
   - "https://delight.ai/pricing"
   - "https://sendbird.com/pricing/chat"
-last_verified: "2026-10-29"
+last_verified: "2026-10-30"

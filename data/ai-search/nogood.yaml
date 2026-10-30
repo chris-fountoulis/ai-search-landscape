@@ -9,6 +9,7 @@ segment: "ai-native-agencies"
 hq:
   city: "New York"
   country: "US"
+  source: "https://nogood.io/ai-marketing-agency/"
 founded:
   year: 2017
   source: "https://www.datanyze.com/companies/nogood/471391349"
@@ -18,4 +19,4 @@ pricing:
 sources:
   - "https://nogood.io/ai-marketing-agency/"
   - "https://www.datanyze.com/companies/nogood/471391349"
-last_verified: "2026-10-26"
+last_verified: "2026-10-30"

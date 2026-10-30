@@ -10,6 +10,7 @@ segment: "marketing-agency"
 hq:
   city: "Cambridge"
   country: "US"
+  source: "https://legal.hubspot.com/terms-of-service"
 status: "active"
 public_company: true
 pricing:
@@ -19,4 +20,4 @@ pricing:
 sources:
   - "https://www.hubspot.com/products/artificial-intelligence/ai-agents"
   - "https://legal.hubspot.com/terms-of-service"
-last_verified: "2026-10-29"
+last_verified: "2026-10-30"

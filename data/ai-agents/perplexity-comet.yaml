@@ -10,6 +10,7 @@ segment: "general-browser"
 hq:
   city: "San Francisco"
   country: "US"
+  source: "https://www.perplexity.ai/hub/legal/terms-of-service"
 founded:
   year: 2025
   source: "https://www.perplexity.ai/hub/legal/terms-of-service"
@@ -25,4 +26,4 @@ sources:
   - "https://techcrunch.com/2025/07/09/perplexity-launches-comet-an-ai-powered-web-browser/"
   - "https://techcrunch.com/2025/09/10/perplexity-reportedly-raised-200m-at-20b-valuation/"
   - "https://techcrunch.com/2025/08/12/perplexity-offers-to-buy-chrome-for-billions-more-than-its-raised/"
-last_verified: "2026-10-29"
+last_verified: "2026-10-30"

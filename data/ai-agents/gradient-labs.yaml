@@ -10,6 +10,7 @@ segment: "cx-sales"
 hq:
   city: "London"
   country: "GB"
+  source: "https://gradient-labs.ai/about"
 founded:
   year: 2023
   source: "https://gradient-labs.ai/about"
@@ -30,4 +31,4 @@ sources:
   - "https://gradient-labs.ai/terms-of-service/latest"
   - "https://gradient-labs.ai/about"
   - "https://gradient-labs.ai/pricing"
-last_verified: "2026-10-29"
+last_verified: "2026-10-30"

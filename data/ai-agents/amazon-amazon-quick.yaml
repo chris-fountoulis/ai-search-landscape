@@ -10,6 +10,7 @@ segment: "company-brain"
 hq:
   city: "Seattle"
   country: "US"
+  source: "https://aws.amazon.com/agreement/"
 status: "active"
 public_company: true
 pricing:
@@ -21,4 +22,4 @@ sources:
   - "https://aws.amazon.com/agreement/"
   - "https://www.theregister.com/2025/10/09/amazons_quick_suite/"
   - "https://aws.amazon.com/quick/"
-last_verified: "2026-10-29"
+last_verified: "2026-10-30"

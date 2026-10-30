@@ -10,6 +10,7 @@ segment: "builders"
 hq:
   city: "Menlo Park"
   country: "US"
+  source: "https://dify.ai/about-us"
 founded:
   year: 2023
   source: "https://dify.ai/about-us"
@@ -32,4 +33,4 @@ sources:
   - "https://dify.ai/pricing"
   - "https://dify.ai/legal/terms-of-service"
   - "https://news.mynavi.jp/techplus/article/20260415-4342190/"
-last_verified: "2026-10-29"
+last_verified: "2026-10-30"

@@ -10,6 +10,7 @@ segment: "vertical"
 hq:
   city: "New York"
   country: "US"
+  source: "https://www.hebbia.com/about/"
 founded:
   year: 2020
   source: "https://www.hebbia.com/about/"
@@ -30,4 +31,4 @@ sources:
   - "https://www.hebbia.com/about/"
   - "https://www.hebbia.com/terms-of-service/"
   - "https://www.hebbia.com/careers"
-last_verified: "2026-10-29"
+last_verified: "2026-10-30"

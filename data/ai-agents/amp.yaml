@@ -10,6 +10,7 @@ segment: "coding"
 hq:
   city: "San Francisco"
   country: "US"
+  source: "https://ampcode.com/terms"
 founded:
   year: 2025
   source: "https://ampcode.com/about"
@@ -24,4 +25,4 @@ sources:
   - "https://ampcode.com/news/amp-inc"
   - "https://ampcode.com/about"
   - "https://thenewstack.io/amp-neo-cli-agents/"
-last_verified: "2026-10-29"
+last_verified: "2026-10-30"

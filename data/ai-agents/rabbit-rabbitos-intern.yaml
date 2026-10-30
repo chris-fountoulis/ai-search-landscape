@@ -10,6 +10,7 @@ segment: "general-browser"
 hq:
   city: "Los Angeles"
   country: "US"
+  source: "https://www.rabbit.tech/terms-of-use"
 founded:
   year: 2023
   source: "https://pulse2.com/rabbit-10-million-funding/"
@@ -32,4 +33,4 @@ sources:
   - "https://www.rabbit.tech/rabbit-r1"
   - "https://www.rabbit.tech/terms-of-use"
   - "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/"
-last_verified: "2026-10-29"
+last_verified: "2026-10-30"

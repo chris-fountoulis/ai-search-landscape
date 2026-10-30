@@ -10,6 +10,7 @@ segment: "cx-sales"
 hq:
   city: "Palo Alto"
   country: "US"
+  source: "https://help.goodcall.com/en/articles/8007566-terms-of-service"
 founded:
   year: 2021
   source: "https://www.goodcall.com/about"
@@ -30,4 +31,4 @@ sources:
   - "https://techcrunch.com/2021/09/01/goodcall-picks-up-4m-yelp-partnership-to-answer-merchant-inbound-calls/"
   - "https://www.goodcall.com/about"
   - "https://help.goodcall.com/en/articles/8007566-terms-of-service"
-last_verified: "2026-10-29"
+last_verified: "2026-10-30"

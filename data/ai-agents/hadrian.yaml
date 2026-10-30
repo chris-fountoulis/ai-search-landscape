@@ -10,6 +10,7 @@ segment: "coding"
 hq:
   city: "Amsterdam"
   country: "NL"
+  source: "https://hadrian.io/terms-conditions/general"
 founded:
   year: 2021
   source: "https://hadrian.io/company"
@@ -30,4 +31,4 @@ sources:
   - "https://hadrian.io/pricing"
   - "https://hadrian.io/terms-conditions/general"
   - "https://hadrian.io/company"
-last_verified: "2026-10-29"
+last_verified: "2026-10-30"

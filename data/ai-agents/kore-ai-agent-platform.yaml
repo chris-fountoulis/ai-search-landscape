@@ -10,6 +10,7 @@ segment: "builders"
 hq:
   city: "Orlando"
   country: "US"
+  source: "https://www.kore.ai/about"
 founded:
   year: 2014
   source: "https://www.kore.ai/about"
@@ -27,4 +28,4 @@ sources:
   - "https://www.kore.ai/about"
   - "https://www.kore.ai/terms-of-service"
   - "https://siliconangle.com/2026/10/07/kore-ai-launches-autoloop-to-keep-tuning-enterprise-ai-agents-after-they-go-live/"
-last_verified: "2026-10-29"
+last_verified: "2026-10-30"

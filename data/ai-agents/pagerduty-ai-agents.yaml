@@ -10,6 +10,7 @@ segment: "coding"
 hq:
   city: "San Francisco"
   country: "US"
+  source: "https://www.pagerduty.com/terms-of-service/"
 status: "active"
 public_company: true
 pricing:
@@ -21,4 +22,4 @@ sources:
   - "https://www.pagerduty.com/pricing/incident-management/"
   - "https://www.pagerduty.com/terms-of-service/"
   - "https://siliconangle.com/2025/10/08/pagerduty-debuts-end-end-ai-agents-automate-accelerate-incident-management/"
-last_verified: "2026-10-29"
+last_verified: "2026-10-30"

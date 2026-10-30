@@ -10,6 +10,7 @@ segment: "vertical"
 hq:
   city: "Seattle"
   country: "US"
+  source: "https://www.supio.com/press/supio-announces-60m-series-b-to-accelerate-adoption-of-legal-ai-in-plaintiff-law"
 founded:
   year: 2021
   source: "https://www.supio.com/press/supio-announces-60m-series-b-to-accelerate-adoption-of-legal-ai-in-plaintiff-law"
@@ -30,4 +31,4 @@ sources:
   - "https://www.supio.com/press/supio-reports-landmark-first-half-of-2026"
   - "https://www.supio.com/about"
   - "https://www.supio.com/terms-of-service"
-last_verified: "2026-10-29"
+last_verified: "2026-10-30"

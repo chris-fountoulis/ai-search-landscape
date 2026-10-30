@@ -10,6 +10,7 @@ segment: "coding"
 hq:
   city: "San Francisco"
   country: "US"
+  source: "https://www.codeant.ai/terms-and-conditions"
 founded:
   year: 2023
   source: "https://www.codeant.ai/about"
@@ -30,4 +31,4 @@ sources:
   - "https://www.codeant.ai/about"
   - "https://www.codeant.ai/terms-and-conditions"
   - "https://www.codeant.ai/pricing"
-last_verified: "2026-10-29"
+last_verified: "2026-10-30"

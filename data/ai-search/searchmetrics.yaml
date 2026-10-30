@@ -9,6 +9,7 @@ segment: "incumbents"
 hq:
   city: "Berlin"
   country: "DE"
+  source: "https://www.conductor.com/blog/2023/02/conductor-acquires-searchmetrics/"
 status: "acquired"
 acquisition:
   acquirer: "Conductor"
@@ -18,4 +19,4 @@ pricing:
 sources:
   - "https://www.conductor.com/blog/2023/02/conductor-acquires-searchmetrics/"
   - "https://www.heuking.de/en/news-events/latest-news/article/market-leader-conductor-acquires-seo-specialist-searchmetrics-with-heuking.html"
-last_verified: "2026-10-26"
+last_verified: "2026-10-30"

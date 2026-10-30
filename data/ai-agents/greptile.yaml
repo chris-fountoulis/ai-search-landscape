@@ -9,6 +9,7 @@ segment: "coding"
 hq:
   city: "San Francisco"
   country: "US"
+  source: "https://techcrunch.com/2024/06/06/greptile-raises-4m-to-build-an-ai-code-base-expert/"
 founded:
   year: 2023
   source: "https://www.greptile.com/blog/series-b"
@@ -32,4 +33,4 @@ sources:
   - "https://www.greptile.com/terms-of-service"
   - "https://runtimewire.com/article/greptile-raises-50m-series-b-at-750m-valuation"
   - "https://www.ycombinator.com/companies/greptile"
-last_verified: "2026-10-29"
+last_verified: "2026-10-30"

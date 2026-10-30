@@ -10,6 +10,7 @@ segment: "infrastructure"
 hq:
   city: "San Francisco"
   country: "US"
+  source: "https://techcrunch.com/2023/08/09/weights-biases-who-counts-openai-as-a-customer-lands-50m/"
 founded:
   year: 2017
   source: "https://techcrunch.com/2023/08/09/weights-biases-who-counts-openai-as-a-customer-lands-50m/"
@@ -37,4 +38,4 @@ sources:
   - "https://investors.coreweave.com/news/news-details/2025/CoreWeave-Completes-Acquisition-of-Weights--Biases/default.aspx"
   - "https://wandb.ai/site/weave/"
   - "https://coreweave.com/forge-pricing"
-last_verified: "2026-10-29"
+last_verified: "2026-10-30"

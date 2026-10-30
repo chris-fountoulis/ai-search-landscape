@@ -9,6 +9,7 @@ segment: "geo-tracking"
 hq:
   city: "Seattle"
   country: "US"
+  source: "https://gumshoe.ai/pricing"
 status: "active"
 funding:
   total_usd: 2000000
@@ -21,4 +22,4 @@ pricing:
 sources:
   - "https://www.benzinga.com/25/05/45253407/marketers-are-panicking-about-chatgpts-impact-on-seo-gumshoe-just-raised-2m-from-top-tech-veterans-to-solve-the-a"
   - "https://gumshoe.ai/pricing"
-last_verified: "2026-10-26"
+last_verified: "2026-10-30"

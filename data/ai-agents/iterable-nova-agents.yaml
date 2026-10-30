@@ -10,6 +10,7 @@ segment: "marketing-agency"
 hq:
   city: "San Francisco"
   country: "US"
+  source: "https://iterable.com/company/"
 founded:
   year: 2013
   source: "https://iterable.com/company/"
@@ -29,4 +30,4 @@ sources:
   - "https://iterable.com/product/ai/"
   - "https://siliconangle.com/2026/04/22/iterable-launches-nova-agent-assist-markets-scaling-customer-personalization/"
   - "https://iterable.com/pricing/"
-last_verified: "2026-10-29"
+last_verified: "2026-10-30"

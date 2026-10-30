@@ -9,6 +9,7 @@ segment: "cx-sales"
 hq:
   city: "San Francisco"
   country: "US"
+  source: "https://www.conversica.com/legal-info/privacy-policy"
 status: "active"
 funding:
   total_usd: 87000000
@@ -27,4 +28,4 @@ sources:
   - "https://www.conversica.com/legal-info/privacy-policy"
   - "https://www.conversica.com/legal-info/conversica-api-terms-of-service"
   - "https://www.conversica.com/about"
-last_verified: "2026-10-29"
+last_verified: "2026-10-30"

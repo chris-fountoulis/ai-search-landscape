@@ -9,6 +9,7 @@ segment: "geo-tracking"
 hq:
   city: "Berlin"
   country: "DE"
+  source: "https://techcrunch.com/2026/05/23/peec-one-of-berlins-rising-startups-more-than-doubled-annualized-revenue-in-months-to-10m-sources-say/"
 founded:
   year: 2025
   source: "https://techcrunch.com/2026/05/23/peec-one-of-berlins-rising-startups-more-than-doubled-annualized-revenue-in-months-to-10m-sources-say/"
@@ -25,4 +26,4 @@ sources:
   - "https://www.ypog.law/en/press/ypog-advises-antler-on-peec-ais-usd-21-million-series-a-funding-round"
   - "https://everything-pr.com/berlins-peec-ai-rockets-to-4m-arr-in-ten-months-raises-21m-series-a-to-open-new-york-office"
   - "https://sifted.eu/articles/peec-ai-fundraise-new-valuation"
-last_verified: "2026-10-26"
+last_verified: "2026-10-30"

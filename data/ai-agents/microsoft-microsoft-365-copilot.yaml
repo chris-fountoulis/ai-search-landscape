@@ -10,6 +10,7 @@ segment: "company-brain"
 hq:
   city: "Redmond"
   country: "US"
+  source: "https://www.microsoft.com/en-us/legal/terms-of-use"
 status: "active"
 public_company: true
 pricing:
@@ -22,4 +23,4 @@ sources:
   - "https://techcrunch.com/2023/10/25/microsoft-alphabet-earnings-ai-analysis/"
   - "https://techcrunch.com/2026/04/29/microsoft-says-it-has-over-20m-paid-copilot-users-and-they-really-are-using-it/"
   - "https://www.microsoft.com/en-us/legal/terms-of-use"
-last_verified: "2026-10-29"
+last_verified: "2026-10-30"

@@ -10,6 +10,7 @@ segment: "cx-sales"
 hq:
   city: "San Francisco"
   country: "US"
+  source: "https://www.alex.com/terms-of-service"
 founded:
   year: 2024
   source: "https://www.alex.com/blog/we-raised-20m-to-help-ai-hire-more-humans"
@@ -29,4 +30,4 @@ sources:
   - "https://www.alex.com/terms-of-service"
   - "https://techcrunch.com/2025/09/29/ai-recruiter-alex-raises-17m-to-automate-initial-job-interviews/"
   - "https://www.alex.com/newsroom"
-last_verified: "2026-10-29"
+last_verified: "2026-10-30"

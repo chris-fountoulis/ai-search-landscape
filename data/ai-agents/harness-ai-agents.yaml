@@ -10,6 +10,7 @@ segment: "coding"
 hq:
   city: "San Francisco"
   country: "US"
+  source: "https://www.harness.io/legal/subscription-terms"
 founded:
   year: 2017
   source: "https://www.harness.io/company/about-us"
@@ -31,4 +32,4 @@ sources:
   - "https://www.harness.io/legal/subscription-terms"
   - "https://www.harness.io/pricing"
   - "https://www.harness.io/products/ai-sre"
-last_verified: "2026-10-29"
+last_verified: "2026-10-30"

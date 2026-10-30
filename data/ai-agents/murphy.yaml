@@ -9,6 +9,7 @@ segment: "cx-sales"
 hq:
   city: "Barcelona"
   country: "ES"
+  source: "https://www.getmurphy.ai/terms-of-service"
 founded:
   year: 2024
   source: "https://seedcamp.com/views/murphy-raises-15m-to-fix-the-broken-industry-of-debt-servicing-with-ai/"
@@ -28,4 +29,4 @@ sources:
   - "https://seedcamp.com/views/murphy-raises-15m-to-fix-the-broken-industry-of-debt-servicing-with-ai/"
   - "https://www.getmurphy.ai/terms-of-service"
   - "https://www.getmurphy.ai/"
-last_verified: "2026-10-29"
+last_verified: "2026-10-30"

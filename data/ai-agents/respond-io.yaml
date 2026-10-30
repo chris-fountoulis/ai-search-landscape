@@ -9,6 +9,7 @@ segment: "cx-sales"
 hq:
   city: "Kuala Lumpur"
   country: "MY"
+  source: "https://respond.io/about"
 founded:
   year: 2017
   source: "https://respond.io/about"
@@ -31,4 +32,4 @@ sources:
   - "https://respond.io/about"
   - "https://respond.io/pricing"
   - "https://respond.io/terms-of-service"
-last_verified: "2026-10-29"
+last_verified: "2026-10-30"

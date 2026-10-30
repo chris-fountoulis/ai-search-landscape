@@ -9,6 +9,7 @@ segment: "builders"
 hq:
   city: "Montreal"
   country: "CA"
+  source: "https://botpress.com/legal/terms-of-service"
 founded:
   year: 2017
   source: "https://botpress.com/legal/terms-of-service"
@@ -29,4 +30,4 @@ sources:
   - "https://techcrunch.com/2021/04/28/botpress-nabs-15m-series-a-to-help-developers-build-conversational-apps/"
   - "https://botpress.com/pricing"
   - "https://botpress.com/legal/terms-of-service"
-last_verified: "2026-10-29"
+last_verified: "2026-10-30"

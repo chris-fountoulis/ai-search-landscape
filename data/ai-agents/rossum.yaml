@@ -10,6 +10,7 @@ segment: "vertical"
 hq:
   city: "London"
   country: "GB"
+  source: "https://businesscloud.co.uk/news/coupa-snaps-up-uk-ai-firm-rossum-founded-by-uni-dropouts/"
 founded:
   year: 2017
   source: "https://rossum.ai/company/newsroom/press-release-coupa-acquires-rossum/"
@@ -39,4 +40,4 @@ sources:
   - "https://rossum.ai/company/"
   - "https://rossum.ai/terms/"
   - "https://drive.google.com/file/d/1VS5qICxnZHrLLGYuga6f58QZzs_rcUiS/view"
-last_verified: "2026-10-29"
+last_verified: "2026-10-30"

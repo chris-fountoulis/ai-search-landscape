@@ -10,6 +10,7 @@ segment: "cx-sales"
 hq:
   city: "San Francisco"
   country: "US"
+  source: "https://www.zendesk.com/company/agreements-and-terms/main-services-agreement/"
 status: "acquired"
 acquisition:
   acquirer: "Hellman & Friedman and Permira consortium (take-private)"
@@ -24,4 +25,4 @@ sources:
   - "https://www.zendesk.com/company/agreements-and-terms/main-services-agreement/"
   - "https://www.zendesk.com/company/"
   - "https://techcrunch.com/2026/03/11/zendesk-acquires-agentic-customer-service-startup-forethought/"
-last_verified: "2026-10-29"
+last_verified: "2026-10-30"

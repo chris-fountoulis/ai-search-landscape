@@ -9,6 +9,7 @@ segment: "builders"
 hq:
   city: "London"
   country: "GB"
+  source: "https://codewords.ai/about"
 founded:
   year: 2023
   source: "https://codewords.ai/about"
@@ -29,4 +30,4 @@ sources:
   - "https://codewords.ai/pricing"
   - "https://codewords.ai/about"
   - "https://find-and-update.company-information.service.gov.uk/search/companies?q=agemo+ai"
-last_verified: "2026-10-29"
+last_verified: "2026-10-30"

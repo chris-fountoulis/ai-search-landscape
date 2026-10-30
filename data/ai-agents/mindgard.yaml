@@ -9,6 +9,7 @@ segment: "infrastructure"
 hq:
   city: "London"
   country: "GB"
+  source: "https://mindgard.ai/terms-and-conditions"
 founded:
   year: 2022
   source: "https://mindgard.ai/contact-us"
@@ -28,4 +29,4 @@ sources:
   - "https://mindgard.ai/terms-and-conditions"
   - "https://mindgard.ai/contact-us"
   - "https://mindgard.ai/about"
-last_verified: "2026-10-29"
+last_verified: "2026-10-30"

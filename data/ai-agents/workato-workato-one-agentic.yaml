@@ -10,6 +10,7 @@ segment: "builders"
 hq:
   city: "Palo Alto"
   country: "US"
+  source: "https://www.workato.com/legal/terms-of-service"
 status: "active"
 funding:
   total_usd: 420000000
@@ -28,4 +29,4 @@ sources:
   - "https://www.workato.com/about_us"
   - "https://www.workato.com/pricing"
   - "https://siliconangle.com/2025/08/19/workato-unveils-squad-agentic-ai-genies-every-major-business-function/"
-last_verified: "2026-10-29"
+last_verified: "2026-10-30"

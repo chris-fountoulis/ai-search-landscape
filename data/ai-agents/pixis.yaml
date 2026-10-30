@@ -10,6 +10,7 @@ segment: "marketing-agency"
 hq:
   city: "New York"
   country: "US"
+  source: "https://pixis.ai/privacy-policy/"
 status: "active"
 funding:
   total_usd: 209000000
@@ -26,4 +27,4 @@ sources:
   - "https://pixis.ai/about/"
   - "https://pixis.ai/privacy-policy/"
   - "https://pixis.ai/products/prism/"
-last_verified: "2026-10-29"
+last_verified: "2026-10-30"

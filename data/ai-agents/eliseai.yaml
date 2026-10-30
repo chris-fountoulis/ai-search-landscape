@@ -10,6 +10,7 @@ segment: "vertical"
 hq:
   city: "New York"
   country: "US"
+  source: "https://eliseai.com/blog/eliseai-raises-250m-series-e"
 founded:
   year: 2017
   source: "https://eliseai.com/contact-us"
@@ -25,4 +26,4 @@ sources:
   - "https://eliseai.com/blog/eliseai-raises-250m-series-e"
   - "https://techcrunch.com/2024/08/14/eliseais-chatbots-for-property-owners-nets-it-75m-in-funding/"
   - "https://eliseai.com/contact-us"
-last_verified: "2026-10-29"
+last_verified: "2026-10-30"

@@ -10,6 +10,7 @@ segment: "infrastructure"
 hq:
   city: "San Francisco"
   country: "US"
+  source: "https://tensorlake.ai/terms"
 status: "active"
 funding:
   total_usd: 8600000
@@ -24,4 +25,4 @@ sources:
   - "https://tensorlake.ai/careers"
   - "https://tensorlake.ai/"
   - "https://tensorlake.ai/terms"
-last_verified: "2026-10-29"
+last_verified: "2026-10-30"

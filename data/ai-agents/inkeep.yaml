@@ -9,6 +9,7 @@ segment: "builders"
 hq:
   city: "San Francisco"
   country: "US"
+  source: "https://inkeep.com/policies/terms-of-service"
 status: "active"
 funding:
   total_usd: 13000000
@@ -24,4 +25,4 @@ sources:
   - "https://inkeep.com/blog/inkeep-funding-announcement"
   - "https://inkeep.com/policies/terms-of-service"
   - "https://github.com/inkeep/agents"
-last_verified: "2026-10-29"
+last_verified: "2026-10-30"

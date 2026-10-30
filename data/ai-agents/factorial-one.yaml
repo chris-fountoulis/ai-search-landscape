@@ -10,6 +10,7 @@ segment: "cx-sales"
 hq:
   city: "Barcelona"
   country: "ES"
+  source: "https://factorial.com/legal"
 founded:
   year: 2016
   source: "https://www.thenewbarcelonapost.com/en/factorial-raises-150-million-dollars-and-scales-to-a-2-5-billion-valuation/"
@@ -32,4 +33,4 @@ sources:
   - "https://factorial.com/pricing"
   - "https://factorial.com/ai"
   - "https://tools.prnewswire.com/en-us/live/20813/release/20260603EN74006"
-last_verified: "2026-10-29"
+last_verified: "2026-10-30"

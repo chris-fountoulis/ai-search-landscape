@@ -10,6 +10,7 @@ segment: "vertical"
 hq:
   city: "San Francisco"
   country: "US"
+  source: "https://www.eve.legal/press"
 founded:
   year: 2023
   source: "https://www.artificiallawyer.com/2025/09/30/eve-bags-103m-hits-1bn-valuation/"
@@ -30,4 +31,4 @@ sources:
   - "https://www.eve.legal/eve-enterprise-terms"
   - "https://www.legal.io/articles/5738408/AI-Startup-Eve-Reaches-1B-Valuation-With-New-Funding-Round"
   - "https://www.eve.legal/blogs/the-dawn-of-a-new-era-in-plaintiff-law-eve-secures-47m-series-a"
-last_verified: "2026-10-29"
+last_verified: "2026-10-30"

@@ -10,6 +10,7 @@ segment: "cx-sales"
 hq:
   city: "San Francisco"
   country: "US"
+  source: "https://www.amplemarket.com/legal/terms"
 founded:
   year: 2019
   source: "https://www.amplemarket.com/legal/terms"
@@ -31,4 +32,4 @@ sources:
   - "https://www.amplemarket.com/funding"
   - "https://techcrunch.com/2022/04/06/amplemarket-nabs-12m-to-ramp-up-sales-enablement-using-ai/"
   - "https://dinheirovivo.dn.pt/fazedores/amplemarket-capta-11-milhoes-de-euros-para-levar-ia-as-equipas-de-vendas-14772377.html"
-last_verified: "2026-10-29"
+last_verified: "2026-10-30"

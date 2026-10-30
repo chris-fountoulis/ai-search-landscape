@@ -10,6 +10,7 @@ segment: "builders"
 hq:
   city: "Aventura"
   country: "US"
+  source: "https://coloradosun.com/2026/02/17/palantir-leaving-denver-moving-miami/"
 status: "active"
 public_company: true
 pricing:
@@ -19,4 +20,4 @@ sources:
   - "https://coloradosun.com/2026/02/17/palantir-leaving-denver-moving-miami/"
   - "https://www.palantir.com/platforms/aip/"
   - "https://techcrunch.com/2025/10/23/palantir-enters-200m-partnership-with-telco-lumen-for-enterprise-ai-services/"
-last_verified: "2026-10-29"
+last_verified: "2026-10-30"

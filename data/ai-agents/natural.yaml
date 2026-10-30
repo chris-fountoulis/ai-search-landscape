@@ -9,6 +9,7 @@ segment: "infrastructure"
 hq:
   city: "San Francisco"
   country: "US"
+  source: "https://thenextweb.com/news/natural-series-a-agentic-payments-ai-agents"
 founded:
   year: 2025
   source: "https://techcrunch.com/2026/07/20/natural-raises-30m-to-reinvent-payments-for-ai-agents-and-take-on-stripe/"
@@ -29,4 +30,4 @@ sources:
   - "https://thenextweb.com/news/natural-series-a-agentic-payments-ai-agents"
   - "https://www.natural.com/pricing"
   - "https://www.natural.com/privacy"
-last_verified: "2026-10-29"
+last_verified: "2026-10-30"

@@ -9,6 +9,7 @@ segment: "cx-sales"
 hq:
   city: "New York"
   country: "US"
+  source: "https://moveo.ai/terms-of-use"
 founded:
   year: 2020
   source: "https://moveo.ai/about-us"
@@ -29,4 +30,4 @@ sources:
   - "https://tech.eu/2024/08/27/moveo-ai-secures-2-6m-to-enable-enterprises-to-build-personalised-llm-models/"
   - "https://moveo.ai/about-us"
   - "https://moveo.ai/our-plans"
-last_verified: "2026-10-29"
+last_verified: "2026-10-30"

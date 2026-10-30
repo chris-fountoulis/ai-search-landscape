@@ -10,6 +10,7 @@ segment: "vertical"
 hq:
   city: "Berlin"
   country: "DE"
+  source: "https://taktile.com/imprint"
 founded:
   year: 2020
   source: "https://taktile.com/imprint"
@@ -29,4 +30,4 @@ sources:
   - "https://fortune.com/2026/06/24/exclusive-taktile-goldman-sachs-ai-bank-insurance-funding/"
   - "https://taktile.com/imprint"
   - "https://taktile.com/about"
-last_verified: "2026-10-29"
+last_verified: "2026-10-30"

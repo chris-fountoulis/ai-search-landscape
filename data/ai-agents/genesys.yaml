@@ -10,6 +10,7 @@ segment: "cx-sales"
 hq:
   city: "Menlo Park"
   country: "US"
+  source: "https://www.genesys.com/company"
 founded:
   year: 1990
   source: "https://www.genesys.com/company"
@@ -23,4 +24,4 @@ sources:
   - "https://www.genesys.com/company"
   - "https://www.genesys.com/pricing"
   - "https://www.nojitter.com/ai-automation/genesys-launches-agentic-orchestration-features"
-last_verified: "2026-10-29"
+last_verified: "2026-10-30"

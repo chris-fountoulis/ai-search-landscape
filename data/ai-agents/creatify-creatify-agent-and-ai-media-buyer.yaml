@@ -10,6 +10,7 @@ segment: "marketing-agency"
 hq:
   city: "Mountain View"
   country: "US"
+  source: "https://creatify.ai/terms"
 status: "active"
 funding:
   total_usd: 23000000
@@ -27,4 +28,4 @@ sources:
   - "https://techcrunch.com/2025/06/02/former-dreamworks-ceo-jeffrey-katzenberg-co-leads-15-5m-series-a-for-ai-video-ad-platform/"
   - "https://creatify.ai/pricing"
   - "https://creatify.ai/terms"
-last_verified: "2026-10-29"
+last_verified: "2026-10-30"

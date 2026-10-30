@@ -10,6 +10,7 @@ segment: "coding"
 hq:
   city: "Seattle"
   country: "US"
+  source: "https://www.pulumi.com/terms-and-conditions/"
 founded:
   year: 2017
   source: "https://www.pulumi.com/about/"
@@ -32,4 +33,4 @@ sources:
   - "https://siliconangle.com/2023/10/03/pulumi-raises-41m-funding-grow-infrastructure-code-automation-cloud/"
   - "https://www.pulumi.com/about/newsroom/"
   - "https://siliconangle.com/2025/09/16/pulumi-debuts-first-ai-agents-take-cloud-platform-engineering/"
-last_verified: "2026-10-29"
+last_verified: "2026-10-30"

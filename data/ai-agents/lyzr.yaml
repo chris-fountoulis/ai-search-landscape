@@ -9,6 +9,7 @@ segment: "builders"
 hq:
   city: "Jersey City"
   country: "US"
+  source: "https://www.lyzr.ai/terms/"
 founded:
   year: 2023
   source: "https://www.lyzr.ai/contact/"
@@ -31,4 +32,4 @@ sources:
   - "https://www.lyzr.ai/pricing/"
   - "https://www.lyzr.ai/terms/"
   - "https://www.lyzr.ai/contact/"
-last_verified: "2026-10-29"
+last_verified: "2026-10-30"

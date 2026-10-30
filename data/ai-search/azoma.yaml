@@ -9,6 +9,7 @@ segment: "geo-tracking"
 hq:
   city: "London"
   country: "GB"
+  source: "https://startuprise.co.uk/london-based-azoma-raises-4m-to-accelerate-growth/"
 status: "active"
 funding:
   total_usd: 15200000
@@ -21,4 +22,4 @@ sources:
   - "https://runtimewire.com/article/azoma-series-a-ai-shopping-agents"
   - "https://seedtable.com/companies/azoma/funding-rounds/seed-2025-12"
   - "https://startuprise.co.uk/london-based-azoma-raises-4m-to-accelerate-growth/"
-last_verified: "2026-10-26"
+last_verified: "2026-10-30"

@@ -10,6 +10,7 @@ segment: "coding"
 hq:
   city: "San Francisco"
   country: "US"
+  source: "https://vercel.com/legal/terms"
 status: "active"
 funding:
   latest_round:
@@ -28,4 +29,4 @@ sources:
   - "https://v0.app/pricing"
   - "https://vercel.com/legal/terms"
   - "https://techcrunch.com/2026/04/13/vercel-ceo-guillermo-rauch-signals-ipo-readiness-as-ai-agents-fuel-revenue-surge/"
-last_verified: "2026-10-29"
+last_verified: "2026-10-30"

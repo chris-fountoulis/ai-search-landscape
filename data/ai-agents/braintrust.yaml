@@ -10,6 +10,7 @@ segment: "infrastructure"
 hq:
   city: "San Francisco"
   country: "US"
+  source: "https://www.braintrust.dev/legal/terms-of-service"
 status: "active"
 funding:
   total_usd: 125000000
@@ -29,4 +30,4 @@ sources:
   - "https://www.braintrust.dev/pricing"
   - "https://www.braintrust.dev/legal/terms-of-service"
   - "https://www.braintrust.dev/careers"
-last_verified: "2026-10-29"
+last_verified: "2026-10-30"

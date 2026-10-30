@@ -10,6 +10,7 @@ segment: "cx-sales"
 hq:
   city: "London"
   country: "GB"
+  source: "https://www.workable.com/terms"
 founded:
   year: 2012
   source: "https://www.workable.com/about"
@@ -32,4 +33,4 @@ sources:
   - "https://www.workable.com/pricing"
   - "https://www.workable.com/workable-ai"
   - "https://techcrunch.com/2014/03/07/workable-raises-1-5m-from-greylock-il-to-build-cloud-based-recruitment-software-for-smes/"
-last_verified: "2026-10-29"
+last_verified: "2026-10-30"

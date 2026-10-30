@@ -9,6 +9,7 @@ segment: "general-browser"
 hq:
   city: "London"
   country: "GB"
+  source: "https://find-and-update.company-information.service.gov.uk/company/15189973"
 founded:
   year: 2024
   source: "https://www.fyxer.com/blog/series-b-statement"
@@ -30,4 +31,4 @@ sources:
   - "https://www.fyxer.com/pricing"
   - "https://find-and-update.company-information.service.gov.uk/company/15189973"
   - "https://businesscloud.co.uk/news/fyxer-ai-raises-22m-as-it-continues-rapid-expansion/"
-last_verified: "2026-10-29"
+last_verified: "2026-10-30"

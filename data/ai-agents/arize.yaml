@@ -10,6 +10,7 @@ segment: "infrastructure"
 hq:
   city: "Berkeley"
   country: "US"
+  source: "https://techcrunch.com/2025/02/20/arize-ai-hopes-it-has-first-mover-advantage-in-ai-observability/"
 founded:
   year: 2020
   source: "https://www.dynatrace.com/news/press-release/dynatrace-completes-acquisition-of-arize/"
@@ -37,4 +38,4 @@ sources:
   - "https://techcrunch.com/2025/02/20/arize-ai-hopes-it-has-first-mover-advantage-in-ai-observability/"
   - "https://arize.com/pricing/"
   - "https://arize.com/terms-of-service/"
-last_verified: "2026-10-29"
+last_verified: "2026-10-30"

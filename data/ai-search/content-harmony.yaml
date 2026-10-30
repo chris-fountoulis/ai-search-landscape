@@ -9,6 +9,7 @@ segment: "content-automation"
 hq:
   city: "Seattle (team now remote)"
   country: "US"
+  source: "https://www.contentharmony.com/about-us/"
 founded:
   year: 2009
   source: "https://www.contentharmony.com/about-us/"
@@ -19,4 +20,4 @@ pricing:
 sources:
   - "https://www.contentharmony.com/about-us/"
   - "https://www.contentharmony.com/pricing/"
-last_verified: "2026-10-26"
+last_verified: "2026-10-30"

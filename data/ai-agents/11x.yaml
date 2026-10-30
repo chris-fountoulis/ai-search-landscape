@@ -9,6 +9,7 @@ segment: "cx-sales"
 hq:
   city: "San Francisco"
   country: "US"
+  source: "https://www.11x.ai/about-us"
 founded:
   year: 2022
   source: "https://www.11x.ai/about-us"
@@ -28,4 +29,4 @@ sources:
   - "https://techcrunch.com/2024/09/16/ai-digital-employee-startup-11xai-raises-24m-led-by-benchmark/"
   - "https://www.intelligentcio.com/north-america/?p=41417"
   - "https://techcrunch.com/2025/03/24/a16z-and-benchmark-backed-11x-has-been-claiming-customers-it-doesnt-have"
-last_verified: "2026-10-29"
+last_verified: "2026-10-30"

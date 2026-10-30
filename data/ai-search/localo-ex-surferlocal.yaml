@@ -9,6 +9,7 @@ segment: "local-and-smb"
 hq:
   city: "Wroclaw"
   country: "PL"
+  source: "https://www.tooljunction.io/ai-tools/localo/company"
 status: "active"
 pricing:
   as_listed_by_vendor: "$39 to $169 (plus VAT); Enterprise custom"
@@ -16,4 +17,4 @@ pricing:
 sources:
   - "https://localo.com/pricing"
   - "https://www.tooljunction.io/ai-tools/localo/company"
-last_verified: "2026-10-26"
+last_verified: "2026-10-30"

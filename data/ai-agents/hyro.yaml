@@ -9,6 +9,7 @@ segment: "vertical"
 hq:
   city: "New York"
   country: "US"
+  source: "https://www.calcalistech.com/ctechnews/article/rylcu6valg"
 founded:
   year: 2018
   source: "https://hlth.com/insights/news/hyro-secures-45m-growth-round-led-by-healthier-capital-to-expand-ai-agent-adoption-in-healthcare-2025-10-23"
@@ -29,4 +30,4 @@ sources:
   - "https://tech.cornell.edu/news/hyro-cornell-tech"
   - "https://pulse2.com/hyro-45-million-raised-to-advance-ai-agent-adoption-across-healthcare-systems/"
   - "https://techcrunch.com/2023/05/31/hyro-secures-30m-for-its-ai-powered-healthcare-focused-conversational-platform/"
-last_verified: "2026-10-29"
+last_verified: "2026-10-30"

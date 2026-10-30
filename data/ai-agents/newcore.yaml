@@ -9,6 +9,7 @@ segment: "infrastructure"
 hq:
   city: "Tel Aviv"
   country: "IL"
+  source: "https://newcore.com/legal/terms"
 status: "active"
 funding:
   total_usd: 66000000
@@ -26,4 +27,4 @@ sources:
   - "https://newcore.com/about"
   - "https://newcore.com/legal/terms"
   - "https://newcore.com/get-in-touch"
-last_verified: "2026-10-29"
+last_verified: "2026-10-30"

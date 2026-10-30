@@ -10,6 +10,7 @@ segment: "cx-sales"
 hq:
   city: "San Francisco"
   country: "US"
+  source: "https://www.salesforce.com/company/locations/"
 status: "active"
 public_company: true
 pricing:
@@ -21,4 +22,4 @@ sources:
   - "https://www.salesforce.com/sales/ai-sales-agent/"
   - "https://www.salesforce.com/company/locations/"
   - "https://www.telesemana.com/blog/2024/09/17/salesforce-lanza-sus-agentes-de-ventas-con-ia-y-promete-revolucionar-la-productividad-en-la-empresa/"
-last_verified: "2026-10-29"
+last_verified: "2026-10-30"

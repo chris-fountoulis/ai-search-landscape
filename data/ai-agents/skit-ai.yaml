@@ -9,6 +9,7 @@ segment: "cx-sales"
 hq:
   city: "New York"
   country: "US"
+  source: "https://skit.ai/terms-of-service/"
 founded:
   year: 2016
   source: "https://skit.ai/about-us/"
@@ -29,4 +30,4 @@ sources:
   - "https://skit.ai/about-us/"
   - "https://skit.ai/terms-of-service/"
   - "https://skit.ai/resources/newsroom/"
-last_verified: "2026-10-29"
+last_verified: "2026-10-30"

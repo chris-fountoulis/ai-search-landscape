@@ -10,6 +10,7 @@ segment: "cx-sales"
 hq:
   city: "Boston"
   country: "US"
+  source: "https://psgequity.com/news/enterprise-companies-fear-no-more-commbox-secures-15m-investment-prioritizing-ai-in-customer-experience"
 founded:
   year: 2013
   source: "https://www.commbox.io/about-us/"
@@ -30,4 +31,4 @@ sources:
   - "https://www.commbox.io/about-us/"
   - "https://www.commbox.io/pricing/"
   - "https://www.commbox.io/"
-last_verified: "2026-10-29"
+last_verified: "2026-10-30"

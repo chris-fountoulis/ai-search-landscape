@@ -9,6 +9,7 @@ segment: "ai-native-agencies"
 hq:
   city: "Aubais"
   country: "FR"
+  source: "https://kalicube.com/about/kalicube-head-office/"
 founded:
   year: 2015
   source: "https://kalicube.com/about/kalicube-head-office/"
@@ -18,4 +19,4 @@ pricing:
 sources:
   - "https://kalicube.com/about/kalicube-head-office/"
   - "https://kalicube.com/about/"
-last_verified: "2026-10-26"
+last_verified: "2026-10-30"

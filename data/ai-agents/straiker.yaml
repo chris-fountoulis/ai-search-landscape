@@ -9,6 +9,7 @@ segment: "infrastructure"
 hq:
   city: "Mountain View"
   country: "US"
+  source: "https://www.straiker.ai/about"
 founded:
   year: 2025
   source: "https://www.straiker.ai/about"
@@ -28,4 +29,4 @@ sources:
   - "https://www.straiker.ai/about"
   - "https://www.straiker.ai/legal/terms-of-service"
   - "https://www.straiker.ai/"
-last_verified: "2026-10-29"
+last_verified: "2026-10-30"

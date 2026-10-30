@@ -9,6 +9,7 @@ segment: "infrastructure"
 hq:
   city: "Fresnes"
   country: "FR"
+  source: "https://www.linkup.so/terms-of-use"
 status: "active"
 funding:
   total_usd: 13339900
@@ -27,4 +28,4 @@ sources:
   - "https://www.linkup.so/pricing"
   - "https://www.linkup.so/terms-of-use"
   - "https://www.linkup.so/contact"
-last_verified: "2026-10-29"
+last_verified: "2026-10-30"

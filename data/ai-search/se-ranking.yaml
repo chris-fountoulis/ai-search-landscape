@@ -9,6 +9,7 @@ segment: "incumbents"
 hq:
   city: "London"
   country: "GB"
+  source: "https://seranking.com/about.html"
 founded:
   year: 2013
   source: "https://seranking.com/about.html"
@@ -19,4 +20,4 @@ pricing:
 sources:
   - "https://seranking.com/about.html"
   - "https://seranking.com/subscription.html"
-last_verified: "2026-10-26"
+last_verified: "2026-10-30"

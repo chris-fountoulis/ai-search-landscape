@@ -9,6 +9,7 @@ segment: "coding"
 hq:
   city: "San Francisco"
   country: "US"
+  source: "https://inc42.com/buzz/emergent-joins-unicorn-club-after-raising-130-mn-at-1-5-bn-valuation/"
 founded:
   year: 2024
   source: "https://inc42.com/buzz/emergent-joins-unicorn-club-after-raising-130-mn-at-1-5-bn-valuation/"
@@ -28,4 +29,4 @@ sources:
   - "https://inc42.com/buzz/emergent-joins-unicorn-club-after-raising-130-mn-at-1-5-bn-valuation/"
   - "https://emergent.sh/pricing"
   - "https://siliconangle.com/2026/04/15/emergent-launches-wingman-personal-ai-agent-everyone/"
-last_verified: "2026-10-29"
+last_verified: "2026-10-30"

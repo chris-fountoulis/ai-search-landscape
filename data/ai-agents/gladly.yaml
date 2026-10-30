@@ -10,6 +10,7 @@ segment: "cx-sales"
 hq:
   city: "Millbrae"
   country: "US"
+  source: "https://www.gladly.ai/terms-of-service/"
 status: "active"
 pricing:
   as_listed_by_vendor: "custom"
@@ -19,4 +20,4 @@ sources:
   - "https://www.nea.com/portfolio/gladly"
   - "https://www.gladly.ai/about-us/"
   - "https://www.gladly.ai/"
-last_verified: "2026-10-29"
+last_verified: "2026-10-30"

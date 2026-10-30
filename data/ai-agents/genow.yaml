@@ -10,6 +10,7 @@ segment: "cx-sales"
 hq:
   city: "Darmstadt"
   country: "DE"
+  source: "https://www.genow.ai/en/legal-notice/"
 founded:
   year: 2023
   source: "https://www.genow.ai/en/legal-notice/"
@@ -29,4 +30,4 @@ sources:
   - "https://www.starting-up.de/news/news-investments/genow-darmstaedter-deeptech-start-up-sichert-sich-165-mio-euro.html"
   - "https://www.genow.ai/en/company/"
   - "https://www.genow.ai/en/"
-last_verified: "2026-10-29"
+last_verified: "2026-10-30"

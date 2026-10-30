@@ -10,6 +10,7 @@ segment: "infrastructure"
 hq:
   city: "Paris"
   country: "FR"
+  source: "https://alpic.ai/legal/notice"
 founded:
   year: 2025
   source: "https://alpic.ai/legal/notice"
@@ -32,4 +33,4 @@ sources:
   - "https://alpic.ai/about"
   - "https://alpic.ai/press"
   - "https://techcrunch.com/2026/07/06/station-f-ramps-up-as-a-launchpad-for-europes-hottest-ai-startups/"
-last_verified: "2026-10-29"
+last_verified: "2026-10-30"

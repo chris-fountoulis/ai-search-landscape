@@ -10,6 +10,7 @@ segment: "coding"
 hq:
   city: "San Mateo"
   country: "US"
+  source: "https://techcrunch.com/2026/04/15/gitar-a-startup-that-uses-agents-to-secure-code-emerges-from-stealth-with-9-million/"
 status: "acquired"
 funding:
   total_usd: 9000000
@@ -32,4 +33,4 @@ sources:
   - "https://techcrunch.com/2026/04/15/gitar-a-startup-that-uses-agents-to-secure-code-emerges-from-stealth-with-9-million/"
   - "https://www.sonarsource.com/products/gitar/"
   - "https://siliconangle.com/2026/05/21/ai-code-quality-startup-sonar-buys-ai-code-review-startup-gitar/"
-last_verified: "2026-10-29"
+last_verified: "2026-10-30"

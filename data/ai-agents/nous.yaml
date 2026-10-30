@@ -9,6 +9,7 @@ segment: "general-browser"
 hq:
   city: "London"
   country: "GB"
+  source: "https://www.nous.co/terms-of-use"
 founded:
   year: 2021
   source: "https://thenextweb.com/news/nous-raises-17m-household-ai-agent"
@@ -30,4 +31,4 @@ sources:
   - "https://techcrunch.com/2022/02/18/nous-seed/"
   - "https://www.nous.co/pricing"
   - "https://www.nous.co/terms-of-use"
-last_verified: "2026-10-29"
+last_verified: "2026-10-30"

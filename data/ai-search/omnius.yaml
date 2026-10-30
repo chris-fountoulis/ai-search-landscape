@@ -9,10 +9,11 @@ segment: "ai-native-agencies"
 hq:
   city: "London"
   country: "GB"
+  source: "https://omnius.so/about"
 status: "active"
 pricing:
   as_listed_by_vendor: "custom"
 sources:
   - "https://omnius.so/about"
   - "https://www.caplight.com/company/omnius-so"
-last_verified: "2026-10-26"
+last_verified: "2026-10-30"

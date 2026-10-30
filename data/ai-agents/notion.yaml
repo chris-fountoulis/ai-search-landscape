@@ -10,6 +10,7 @@ segment: "company-brain"
 hq:
   city: "San Francisco"
   country: "US"
+  source: "https://www.notion.com/about"
 status: "active"
 pricing:
   as_listed_by_vendor: "EUR 9.5 to EUR 19.5 (as listed)"
@@ -21,4 +22,4 @@ sources:
   - "https://www.notion.com/about"
   - "https://www.notion.com/product/agents"
   - "https://techcrunch.com/2025/09/18/notion-launches-agents-for-data-analysis-and-task-automation/"
-last_verified: "2026-10-29"
+last_verified: "2026-10-30"

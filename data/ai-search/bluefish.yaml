@@ -9,6 +9,7 @@ segment: "geo-tracking"
 hq:
   city: "New York"
   country: "US"
+  source: "https://www.thesaasnews.com/news/bluefish-raises-43m-series-b"
 founded:
   year: 2024
   source: "https://www.thesaasnews.com/news/bluefish-raises-43m-series-b"
@@ -26,4 +27,4 @@ sources:
   - "https://www.thesaasnews.com/news/bluefish-raises-43m-series-b"
   - "https://www.alleywatch.com/2026/04/the-alleywatch-startup-daily-funding-report-4-14-2026/"
   - "https://pulse2.com/bluefish-20-million-series-a-raised-for-ai-marketing-platform"
-last_verified: "2026-10-26"
+last_verified: "2026-10-30"

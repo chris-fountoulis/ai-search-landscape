@@ -10,6 +10,7 @@ segment: "builders"
 hq:
   city: "San Francisco"
   country: "US"
+  source: "https://www.lindy.ai/terms"
 status: "active"
 funding:
   latest_round:
@@ -25,4 +26,4 @@ sources:
   - "https://www.lindy.ai/careers"
   - "https://www.lindy.ai/security"
   - "https://techcrunch.com/2024/08/21/this-founder-had-to-train-his-ai-to-not-rickroll-people/"
-last_verified: "2026-10-29"
+last_verified: "2026-10-30"

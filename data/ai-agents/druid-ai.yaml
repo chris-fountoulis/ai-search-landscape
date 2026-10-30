@@ -9,6 +9,7 @@ segment: "builders"
 hq:
   city: "Bucharest"
   country: "RO"
+  source: "https://www.druidai.com/privacy-policy"
 founded:
   year: 2018
   source: "https://www.druidai.com/about-us"
@@ -31,4 +32,4 @@ sources:
   - "https://www.druidai.com/about-us"
   - "https://www.druidai.com/pricing"
   - "https://www.druidai.com/news"
-last_verified: "2026-10-29"
+last_verified: "2026-10-30"

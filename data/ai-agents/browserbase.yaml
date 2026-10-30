@@ -10,6 +10,7 @@ segment: "infrastructure"
 hq:
   city: "San Francisco"
   country: "US"
+  source: "https://www.browserbase.com/terms-of-service"
 status: "active"
 funding:
   latest_round:
@@ -27,4 +28,4 @@ sources:
   - "https://www.browserbase.com/careers"
   - "https://www.browserbase.com/terms-of-service"
   - "https://kleinerperkins.com/partnerships/"
-last_verified: "2026-10-29"
+last_verified: "2026-10-30"

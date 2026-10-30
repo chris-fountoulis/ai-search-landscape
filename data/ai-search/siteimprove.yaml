@@ -9,6 +9,7 @@ segment: "incumbents"
 hq:
   city: "Copenhagen"
   country: "DK"
+  source: "https://www.nordiccapital.com/portfolio-cases/investments/siteimprove/"
 status: "active"
 pricing:
   as_listed_by_vendor: "custom"
@@ -16,4 +17,4 @@ sources:
   - "https://www.proff.dk/regnskab/siteimprove-as/kc3b8benhavn-v/internetdesign-og-programmering/0F7CHLI0C2C"
   - "https://www.nordiccapital.com/portfolio-cases/investments/siteimprove/"
   - "https://craft.co/siteimprove"
-last_verified: "2026-10-26"
+last_verified: "2026-10-30"

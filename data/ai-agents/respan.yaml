@@ -9,6 +9,7 @@ segment: "infrastructure"
 hq:
   city: "Alameda"
   country: "US"
+  source: "https://respan.ai/legal/terms-of-use"
 founded:
   year: 2024
   source: "https://respan.ai/legal/terms-of-use"
@@ -29,4 +30,4 @@ sources:
   - "https://respan.ai/legal/terms-of-use"
   - "https://respan.ai/about"
   - "https://respan.ai/pricing"
-last_verified: "2026-10-29"
+last_verified: "2026-10-30"

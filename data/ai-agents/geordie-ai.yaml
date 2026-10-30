@@ -9,6 +9,7 @@ segment: "infrastructure"
 hq:
   city: "London"
   country: "GB"
+  source: "https://www.geordie.ai/legals/terms-of-use/"
 founded:
   year: 2025
   source: "https://www.geordie.ai/legals/terms-of-use/"
@@ -29,4 +30,4 @@ sources:
   - "https://siliconangle.com/2025/09/09/geordie-launches-6-5m-funding-bring-security-agentic-ai-adoption/"
   - "https://www.geordie.ai/legals/terms-of-use/"
   - "https://www.geordie.ai/about/"
-last_verified: "2026-10-29"
+last_verified: "2026-10-30"

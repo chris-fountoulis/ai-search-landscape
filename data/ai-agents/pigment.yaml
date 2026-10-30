@@ -10,6 +10,7 @@ segment: "vertical"
 hq:
   city: "Paris"
   country: "FR"
+  source: "https://www.pigment.com/legal-notices"
 founded:
   year: 2019
   source: "https://www.pigment.com/legal-notices"
@@ -31,4 +32,4 @@ sources:
   - "https://www.pigment.com/newsroom"
   - "https://tech.eu/2026/10/21/scaleup-europe-fund-leads-ps250m-funding-round-in-pigment//"
   - "https://thenextweb.com/news/pigment-250m-series-e-scaleup-europe-fund"
-last_verified: "2026-10-29"
+last_verified: "2026-10-30"

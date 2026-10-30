@@ -9,6 +9,7 @@ segment: "cx-sales"
 hq:
   city: "Boston"
   country: "US"
+  source: "https://www.mavenagi.com/legal-privacy"
 founded:
   year: 2023
   source: "https://www.mavenagi.com/about-us"
@@ -32,4 +33,4 @@ sources:
   - "https://www.mavenagi.com/about-us"
   - "https://www.mavenagi.com/legal-privacy"
   - "https://www.mavenagi.com/pricing"
-last_verified: "2026-10-29"
+last_verified: "2026-10-30"

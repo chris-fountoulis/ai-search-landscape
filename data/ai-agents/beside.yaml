@@ -10,6 +10,7 @@ segment: "cx-sales"
 hq:
   city: "Richmond"
   country: "US"
+  source: "https://www.beside.com/terms-of-service"
 status: "active"
 funding:
   total_usd: 31900000
@@ -29,4 +30,4 @@ sources:
   - "https://www.beside.com/about"
   - "https://www.beside.com/terms-of-service"
   - "https://www.beside.com/blog"
-last_verified: "2026-10-29"
+last_verified: "2026-10-30"

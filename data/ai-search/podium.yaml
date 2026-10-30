@@ -9,6 +9,7 @@ segment: "local-and-smb"
 hq:
   city: "Lehi"
   country: "US"
+  source: "https://summitpartners.com/news/podium-raises-201m-in-series-d-funding-to-accelerate-the-digital-evolution-for-local-businesses"
 founded:
   year: 2014
   source: "https://summitpartners.com/news/podium-raises-201m-in-series-d-funding-to-accelerate-the-digital-evolution-for-local-businesses"
@@ -24,4 +25,4 @@ sources:
   - "https://summitpartners.com/news/podium-raises-201m-in-series-d-funding-to-accelerate-the-digital-evolution-for-local-businesses"
   - "https://sacra.com/c/podium"
   - "https://www.retailtouchpoints.com/topics/customer-experience/podium-raises-201-million-in-latest-funding-round"
-last_verified: "2026-10-26"
+last_verified: "2026-10-30"

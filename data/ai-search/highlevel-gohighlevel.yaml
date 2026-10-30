@@ -9,6 +9,7 @@ segment: "local-and-smb"
 hq:
   city: "Dallas"
   country: "US"
+  source: "https://dallasinnovates.com/dallas-sales-marketing-software-company-highlevel-gets-minority-growth-investment-from-general-atlantic/"
 founded:
   year: 2018
   source: "https://dallasinnovates.com/dallas-sales-marketing-software-company-highlevel-gets-minority-growth-investment-from-general-atlantic/"
@@ -26,4 +27,4 @@ sources:
   - "https://www.gohighlevel.com/post/highlevel-raises-60m-doubles-down-as-the-market-leader-in-agency-saas/"
   - "https://www.paulweiss.com/insights/client-news/general-atlantic-invests-in-highlevel"
   - "https://www.gohighlevel.com/pricing"
-last_verified: "2026-10-26"
+last_verified: "2026-10-30"

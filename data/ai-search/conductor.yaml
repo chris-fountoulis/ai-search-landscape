@@ -9,6 +9,7 @@ segment: "incumbents"
 hq:
   city: "New York"
   country: "US"
+  source: "https://www.sagemount.com/news/conductor-raises-150m-in-funding-to-power-the-company-s-next-phase-of-growth-in-the-organic-marketing-revolution"
 founded:
   year: 2006
   source: "https://www.sagemount.com/news/conductor-raises-150m-in-funding-to-power-the-company-s-next-phase-of-growth-in-the-organic-marketing-revolution"
@@ -23,4 +24,4 @@ sources:
   - "https://www.sagemount.com/news/conductor-raises-150m-in-funding-to-power-the-company-s-next-phase-of-growth-in-the-organic-marketing-revolution"
   - "https://en.wikipedia.org/wiki/Conductor_(company)"
   - "https://www.conductor.com/blog/2023/02/conductor-acquires-searchmetrics/"
-last_verified: "2026-10-26"
+last_verified: "2026-10-30"

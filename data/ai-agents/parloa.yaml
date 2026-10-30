@@ -9,6 +9,7 @@ segment: "cx-sales"
 hq:
   city: "Berlin"
   country: "DE"
+  source: "https://www.parloa.com/imprint/"
 status: "active"
 funding:
   total_usd: 560000000
@@ -27,4 +28,4 @@ sources:
   - "https://www.parloa.com/imprint/"
   - "https://www.parloa.com/company/about/"
   - "https://www.parloa.com/platform/pricing/"
-last_verified: "2026-10-29"
+last_verified: "2026-10-30"

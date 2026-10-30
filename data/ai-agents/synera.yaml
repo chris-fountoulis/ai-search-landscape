@@ -9,6 +9,7 @@ segment: "builders"
 hq:
   city: "Bremen"
   country: "DE"
+  source: "https://www.synera.ai/imprint"
 founded:
   year: 2018
   source: "https://siliconangle.com/2026/04/14/german-startup-synera-lands-40-million-automate-engineering-workflows-ai-agents/"
@@ -27,4 +28,4 @@ sources:
   - "https://siliconangle.com/2026/04/14/german-startup-synera-lands-40-million-automate-engineering-workflows-ai-agents/"
   - "https://www.synera.ai/imprint"
   - "https://www.synera.ai/pricing"
-last_verified: "2026-10-29"
+last_verified: "2026-10-30"

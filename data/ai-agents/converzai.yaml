@@ -10,6 +10,7 @@ segment: "cx-sales"
 hq:
   city: "Seattle"
   country: "US"
+  source: "https://converzai.com/contact-us"
 status: "active"
 funding:
   total_usd: 16000000
@@ -26,4 +27,4 @@ sources:
   - "https://converzai.com/contact-us"
   - "https://converzai.com/privacy-policy/"
   - "https://converzai.com/"
-last_verified: "2026-10-29"
+last_verified: "2026-10-30"

@@ -9,6 +9,7 @@ segment: "coding"
 hq:
   city: "San Francisco"
   country: "US"
+  source: "https://momentic.ai/legal/tos"
 founded:
   year: 2023
   source: "https://momentic.ai/about"
@@ -29,4 +30,4 @@ sources:
   - "https://momentic.ai/pricing"
   - "https://momentic.ai/about"
   - "https://momentic.ai/legal/tos"
-last_verified: "2026-10-29"
+last_verified: "2026-10-30"

@@ -9,6 +9,7 @@ segment: "infrastructure"
 hq:
   city: "Tel Aviv"
   country: "IL"
+  source: "https://siliconangle.com/2026/09/02/lasso-security-launches-cpu-only-ai-guardrail-raises-30m/"
 founded:
   year: 2023
   source: "https://siliconangle.com/2026/09/02/lasso-security-launches-cpu-only-ai-guardrail-raises-30m/"
@@ -28,4 +29,4 @@ sources:
   - "https://siliconangle.com/2023/11/20/samsung-backs-6m-round-llm-cybersecurity-startup-lasso-security/"
   - "https://www.lasso.security/"
   - "https://www.lasso.security/privacy-policy"
-last_verified: "2026-10-29"
+last_verified: "2026-10-30"

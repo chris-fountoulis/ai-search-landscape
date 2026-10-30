@@ -9,10 +9,11 @@ segment: "ai-native-agencies"
 hq:
   city: "Athens"
   country: "GR"
+  source: "https://www.advengers.gr"
 status: "active"
 pricing:
   as_listed_by_vendor: "custom"
 sources:
   - "https://writesonic.com/customers/advengers"
   - "https://www.advengers.gr"
-last_verified: "2026-10-26"
+last_verified: "2026-10-30"

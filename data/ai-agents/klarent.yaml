@@ -9,6 +9,7 @@ segment: "coding"
 hq:
   city: "Zurich"
   country: "CH"
+  source: "https://klarent.ai/terms/"
 founded:
   year: 2023
   source: "https://klarent.ai/about/"
@@ -28,4 +29,4 @@ sources:
   - "https://klarent.ai/about/"
   - "https://klarent.ai/terms/"
   - "https://klarent.ai/contact/"
-last_verified: "2026-10-29"
+last_verified: "2026-10-30"

@@ -10,6 +10,7 @@ segment: "coding"
 hq:
   city: "Miami"
   country: "US"
+  source: "https://www.moderne.ai/terms-of-service"
 founded:
   year: 2020
   source: "https://www.moderne.ai/press/moderne-secures-30m-to-drive-billions-in-enterprise-code-modernization-savings"
@@ -30,4 +31,4 @@ sources:
   - "https://www.moderne.ai/terms-of-service"
   - "https://www.moderne.ai/pricing"
   - "https://www.moderne.ai/newsroom"
-last_verified: "2026-10-29"
+last_verified: "2026-10-30"

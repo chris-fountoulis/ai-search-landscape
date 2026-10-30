@@ -9,6 +9,7 @@ segment: "infrastructure"
 hq:
   city: "San Francisco"
   country: "US"
+  source: "https://e2b.dev/terms"
 founded:
   year: 2023
   source: "https://e2b.dev/about"
@@ -30,4 +31,4 @@ sources:
   - "https://e2b.dev/pricing"
   - "https://e2b.dev/terms"
   - "https://e2b.dev/careers"
-last_verified: "2026-10-29"
+last_verified: "2026-10-30"

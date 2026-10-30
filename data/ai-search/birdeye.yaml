@@ -9,6 +9,7 @@ segment: "local-and-smb"
 hq:
   city: "Palo Alto"
   country: "US"
+  source: "https://www.accel-kkr.com/birdeye-raises-60m-series-c-funding-led-by-accel-kkr-to-help-local-businesses-grow/"
 founded:
   year: 2013
   source: "https://www.accel-kkr.com/birdeye-raises-60m-series-c-funding-led-by-accel-kkr-to-help-local-businesses-grow/"
@@ -23,4 +24,4 @@ sources:
   - "https://www.localogy.com/2023/06/birdeye-crosses-100m-arr-milestone/"
   - "https://www.localogy.com/2022/03/11/"
   - "https://birdeye.com/blog/celebrating-100m-arr-milestone/"
-last_verified: "2026-10-26"
+last_verified: "2026-10-30"

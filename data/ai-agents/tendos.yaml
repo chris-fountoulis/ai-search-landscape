@@ -9,6 +9,7 @@ segment: "cx-sales"
 hq:
   city: "Munich"
   country: "DE"
+  source: "https://www.startbase.de/news/tendos-erhaelt-12-millionen-euro-fuer-tendos-zur-ki-automatisierung-in-der-baustoffindustrie/"
 status: "active"
 funding:
   total_usd: 13359600
@@ -24,4 +25,4 @@ sources:
   - "https://www.startbase.de/news/tendos-erhaelt-12-millionen-euro-fuer-tendos-zur-ki-automatisierung-in-der-baustoffindustrie/"
   - "https://tendos.ai/impressum"
   - "https://tendos.ai/"
-last_verified: "2026-10-29"
+last_verified: "2026-10-30"

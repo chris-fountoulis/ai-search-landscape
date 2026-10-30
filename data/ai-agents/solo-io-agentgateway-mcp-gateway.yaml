@@ -10,6 +10,7 @@ segment: "infrastructure"
 hq:
   city: "Boston"
   country: "US"
+  source: "https://www.solo.io/company/about-us"
 founded:
   year: 2017
   source: "https://www.solo.io/company/about-us"
@@ -31,4 +32,4 @@ sources:
   - "https://siliconangle.com/2021/10/07/microservices-connectivity-firm-solo-io-raises-135m-series-c-funding/"
   - "https://siliconangle.com/2020/10/01/api-infrastructure-startup-solo-io-raises-23m-series-b-round/"
   - "https://www.solo.io/pricing"
-last_verified: "2026-10-29"
+last_verified: "2026-10-30"

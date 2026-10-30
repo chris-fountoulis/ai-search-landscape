@@ -9,6 +9,7 @@ segment: "marketing-agency"
 hq:
   city: "Bengaluru"
   country: "IN"
+  source: "https://india.entrepreneur.com/news-and-trends/ai-powered-observability-platform-segwise-raises-usd-16mn/469764"
 founded:
   year: 2023
   source: "https://india.entrepreneur.com/news-and-trends/ai-powered-observability-platform-segwise-raises-usd-16mn/469764"
@@ -29,4 +30,4 @@ sources:
   - "https://segwise.ai/pricing"
   - "https://segwise.ai/privacy-policy"
   - "https://segwise.ai/"
-last_verified: "2026-10-29"
+last_verified: "2026-10-30"

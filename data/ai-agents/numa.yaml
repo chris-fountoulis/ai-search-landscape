@@ -9,6 +9,7 @@ segment: "cx-sales"
 hq:
   city: "Oakland"
   country: "US"
+  source: "https://techcrunch.com/2024/10/01/numa-is-bringing-ai-and-automation-to-car-dealerships/"
 founded:
   year: 2017
   source: "https://numa.com/about"
@@ -29,4 +30,4 @@ sources:
   - "https://numa.com/terms"
   - "https://numa.com/press"
   - "https://numa.com/about"
-last_verified: "2026-10-29"
+last_verified: "2026-10-30"

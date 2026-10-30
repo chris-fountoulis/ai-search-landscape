@@ -9,6 +9,7 @@ segment: "vertical"
 hq:
   city: "New York"
   country: "US"
+  source: "https://www.tennr.com/privacy-policy"
 founded:
   year: 2021
   source: "https://www.tennr.com/about"
@@ -30,4 +31,4 @@ sources:
   - "https://www.tennr.com/about"
   - "https://www.tennr.com/privacy-policy"
   - "https://www.tennr.com/press"
-last_verified: "2026-10-29"
+last_verified: "2026-10-30"

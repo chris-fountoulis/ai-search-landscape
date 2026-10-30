@@ -9,6 +9,7 @@ segment: "geo-tracking"
 hq:
   city: "London"
   country: "GB"
+  source: "https://uktech.news/ai/ai-search-visibility-startup-secures-3m-investment-20251203"
 founded:
   year: 2025
   source: "https://startupsmagazine.co.uk/searchable-raises-14m-to-capture-the-ai-search-opportunity"
@@ -23,4 +24,4 @@ sources:
   - "https://uktech.news/ai/ai-search-visibility-startup-secures-3m-investment-20251203"
   - "https://vcnewsdaily.com/Searchable/venture-funding.php"
   - "https://brightonseo.com/people/chris-donnelly"
-last_verified: "2026-10-26"
+last_verified: "2026-10-30"

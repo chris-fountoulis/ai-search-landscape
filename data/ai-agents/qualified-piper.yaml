@@ -10,6 +10,7 @@ segment: "marketing-agency"
 hq:
   city: "San Francisco"
   country: "US"
+  source: "https://www.qualified.com/newsroom/salesforce-signs-definitive-agreement-to-acquire-qualified"
 status: "acquired"
 funding:
   total_usd: 163000000
@@ -33,4 +34,4 @@ sources:
   - "https://www.qualified.com/newsroom/qualified-announces-95m-series-c-to-transform-pipeline-generation-for-b2b-enterprises"
   - "https://www.redpoint.com/companies/qualified/"
   - "https://www.qualified.com/pricing"
-last_verified: "2026-10-29"
+last_verified: "2026-10-30"

@@ -9,6 +9,7 @@ segment: "builders"
 hq:
   city: "Dublin"
   country: "IE"
+  source: "https://techcrunch.com/2024/04/24/tines-taps-50m-to-expand-its-workflow-automation-beyond-security-teams/"
 founded:
   year: 2018
   source: "https://techcrunch.com/2024/04/24/tines-taps-50m-to-expand-its-workflow-automation-beyond-security-teams/"
@@ -29,4 +30,4 @@ sources:
   - "https://www.tines.com/pricing"
   - "https://www.tines.com/terms/"
   - "https://techcrunch.com/2024/04/24/tines-taps-50m-to-expand-its-workflow-automation-beyond-security-teams/"
-last_verified: "2026-10-29"
+last_verified: "2026-10-30"

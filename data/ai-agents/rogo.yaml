@@ -10,6 +10,7 @@ segment: "vertical"
 hq:
   city: "New York"
   country: "US"
+  source: "https://rogo.com/legal/terms-of-use"
 founded:
   year: 2024
   source: "https://rogo.com/blog/series-d"
@@ -34,4 +35,4 @@ sources:
   - "https://techcrunch.com/2026/07/05/almost-40-new-unicorns-have-been-minted-so-far-this-year-here-they-are/"
   - "https://rogo.com/legal/terms-of-use"
   - "https://fintech.global/2026/01/28/rogo-raises-75m-series-c-to-scale-ai-finance-platform/"
-last_verified: "2026-10-29"
+last_verified: "2026-10-30"

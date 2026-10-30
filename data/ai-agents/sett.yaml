@@ -9,6 +9,7 @@ segment: "marketing-agency"
 hq:
   city: "Tel Aviv"
   country: "IL"
+  source: "https://sett.ai/terms"
 founded:
   year: 2022
   source: "https://siliconangle.com/2026/03/30/sett-raises-30m-grow-agent-based-ai-platform-game-studios/"
@@ -28,4 +29,4 @@ sources:
   - "https://techcrunch.com/2025/05/07/game-sett-funding-a-startup-building-ai-agents-for-game-development-emerges-from-stealth-with-27m/"
   - "https://sett.ai/terms"
   - "https://sett.ai/privacy-policy"
-last_verified: "2026-10-29"
+last_verified: "2026-10-30"

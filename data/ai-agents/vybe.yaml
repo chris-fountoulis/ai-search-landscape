@@ -10,6 +10,7 @@ segment: "builders"
 hq:
   city: "San Francisco"
   country: "US"
+  source: "https://www.vybe.build/terms-of-service"
 founded:
   year: 2025
   source: "https://www.vybe.build/about"
@@ -32,4 +33,4 @@ sources:
   - "https://www.vybe.build/about"
   - "https://www.ycombinator.com/companies/vybe"
   - "https://techcrunch.com/2025/06/13/11-startups-from-yc-demo-day-that-investors-are-talking-about/"
-last_verified: "2026-10-29"
+last_verified: "2026-10-30"

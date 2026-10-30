@@ -10,6 +10,7 @@ segment: "builders"
 hq:
   city: "Waltham"
   country: "US"
+  source: "https://www.pega.com/about/office-locations"
 status: "active"
 public_company: true
 pricing:
@@ -21,4 +22,4 @@ sources:
   - "https://siliconangle.com/2026/06/08/pega-expands-ai-platform-agent-orchestration-development-tools-new-pricing-model/"
   - "https://www.pega.com/about/office-locations"
   - "https://www.pega.com/pricing"
-last_verified: "2026-10-29"
+last_verified: "2026-10-30"

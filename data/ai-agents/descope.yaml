@@ -10,6 +10,7 @@ segment: "infrastructure"
 hq:
   city: "Cupertino"
   country: "US"
+  source: "https://www.descope.com/terms"
 founded:
   year: 2022
   source: "https://www.descope.com/about"
@@ -31,4 +32,4 @@ sources:
   - "https://techcrunch.com/2023/02/15/passwordless-authentication-startup-descope-lands-whopping-53m-seed-round/"
   - "https://www.descope.com/pricing"
   - "https://www.descope.com/terms"
-last_verified: "2026-10-29"
+last_verified: "2026-10-30"

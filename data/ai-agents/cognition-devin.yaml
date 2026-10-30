@@ -10,6 +10,7 @@ segment: "coding"
 hq:
   city: "San Francisco"
   country: "US"
+  source: "https://cognition.com/legal/platform-terms-of-service"
 founded:
   year: 2024
   source: "https://cognition.com/blog/series-e"
@@ -32,4 +33,4 @@ sources:
   - "https://techcrunch.com/2026/09/08/cognition-hits-48b-valuation-signaling-investors-believe-ai-coding-is-far-from-a-winner-take-all-market/"
   - "https://devin.ai/pricing"
   - "https://cognition.com/legal/platform-terms-of-service"
-last_verified: "2026-10-29"
+last_verified: "2026-10-30"

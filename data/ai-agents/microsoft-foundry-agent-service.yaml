@@ -10,6 +10,7 @@ segment: "builders"
 hq:
   city: "Redmond"
   country: "US"
+  source: "https://www.microsoft.com/en-us/servicesagreement"
 status: "active"
 public_company: true
 pricing:
@@ -19,4 +20,4 @@ sources:
   - "https://azure.microsoft.com/en-us/products/ai-foundry/agent-service"
   - "https://techcrunch.com/2024/11/19/microsoft-brings-together-its-enterprise-ai-offerings-in-the-azure-ai-foundry/"
   - "https://www.microsoft.com/en-us/servicesagreement"
-last_verified: "2026-10-29"
+last_verified: "2026-10-30"

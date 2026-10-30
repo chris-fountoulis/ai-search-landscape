@@ -9,6 +9,7 @@ segment: "local-and-smb"
 hq:
   city: "San Diego"
   country: "US"
+  source: "https://multiples.vc/private-comps/soci"
 status: "active"
 funding:
   latest_round:
@@ -21,4 +22,4 @@ sources:
   - "https://www.fsrmagazine.com/industry-news/marketing-platform-soci-raises-120m/"
   - "https://multiples.vc/private-comps/soci"
   - "https://www.soci.ai/"
-last_verified: "2026-10-26"
+last_verified: "2026-10-30"

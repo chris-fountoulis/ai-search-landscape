@@ -10,6 +10,7 @@ segment: "general-browser"
 hq:
   city: "Singapore"
   country: "SG"
+  source: "https://terms.alicdn.com/legal-agreement/terms/common_product_agreement/20260805095132623/20260805095132623.html"
 status: "active"
 public_company: true
 pricing:
@@ -21,4 +22,4 @@ sources:
   - "https://www.caixinglobal.com/2026-08-04/alibaba-releases-new-qwen-model-consolidates-ai-office-tools-102471189.html"
   - "https://terms.alicdn.com/legal-agreement/terms/common_product_agreement/20260805095132623/20260805095132623.html"
   - "https://qwenwork.ai/"
-last_verified: "2026-10-29"
+last_verified: "2026-10-30"

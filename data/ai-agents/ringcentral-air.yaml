@@ -10,6 +10,7 @@ segment: "cx-sales"
 hq:
   city: "Belmont"
   country: "US"
+  source: "https://www.ringcentral.com/whyringcentral/company.html"
 status: "active"
 public_company: true
 pricing:
@@ -21,4 +22,4 @@ sources:
   - "https://www.ringcentral.com/ai-receptionist.html"
   - "https://www.nojitter.com/ucaas/ringcentral-posts-strong-ai-receptionist-customer-growth"
   - "https://www.ringcentral.com/whyringcentral/company.html"
-last_verified: "2026-10-29"
+last_verified: "2026-10-30"

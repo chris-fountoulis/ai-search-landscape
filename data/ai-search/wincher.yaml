@@ -9,6 +9,7 @@ segment: "incumbents"
 hq:
   city: "Stockholm"
   country: "SE"
+  source: "https://www.wincher.com/about"
 status: "active"
 pricing:
   as_listed_by_vendor: "not verified"
@@ -16,4 +17,4 @@ pricing:
 sources:
   - "https://www.wincher.com/about"
   - "https://www.wincher.com/pricing"
-last_verified: "2026-10-26"
+last_verified: "2026-10-30"

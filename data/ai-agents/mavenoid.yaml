@@ -9,6 +9,7 @@ segment: "cx-sales"
 hq:
   city: "Stockholm"
   country: "SE"
+  source: "https://www.mavenoid.com/en/privacy/privacy-policy"
 founded:
   year: 2017
   source: "https://www.mavenoid.com/en/about"
@@ -28,4 +29,4 @@ sources:
   - "https://www.mavenoid.com/en/privacy/privacy-policy"
   - "https://www.mavenoid.com/en/press"
   - "https://www.mavenoid.com/en"
-last_verified: "2026-10-29"
+last_verified: "2026-10-30"

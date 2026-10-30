@@ -10,6 +10,7 @@ segment: "cx-sales"
 hq:
   city: "San Francisco"
   country: "US"
+  source: "https://www.1mind.com/terms-of-use"
 status: "active"
 funding:
   total_usd: 40000000
@@ -25,4 +26,4 @@ sources:
   - "https://techcrunch.com/2025/11/10/6sense-founder-amanda-kahlow-raises-30-million-for-new-human-replacement-ai-sales-startup-1mind/"
   - "https://www.1mind.com/terms-of-use"
   - "https://www.1mind.com/"
-last_verified: "2026-10-29"
+last_verified: "2026-10-30"

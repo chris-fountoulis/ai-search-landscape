@@ -9,6 +9,7 @@ segment: "content-automation"
 hq:
   city: "Oranmore, Co. Galway"
   country: "IE"
+  source: "https://harborseo.ai/terms"
 status: "active"
 pricing:
   as_listed_by_vendor: "EUR 24 to 82; free tier"
@@ -16,4 +17,4 @@ pricing:
 sources:
   - "https://harborseo.ai/terms"
   - "https://harborseo.ai/pricing"
-last_verified: "2026-10-26"
+last_verified: "2026-10-30"

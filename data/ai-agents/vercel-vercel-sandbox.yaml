@@ -10,6 +10,7 @@ segment: "infrastructure"
 hq:
   city: "San Francisco"
   country: "US"
+  source: "https://vercel.com/legal/terms"
 status: "active"
 funding:
   latest_round:
@@ -27,4 +28,4 @@ sources:
   - "https://vercel.com/sandbox"
   - "https://vercel.com/legal/terms"
   - "https://siliconangle.com/2026/06/17/vercel-launches-new-framework-enterprise-controls-agentic-ai-infrastructure/"
-last_verified: "2026-10-29"
+last_verified: "2026-10-30"

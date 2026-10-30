@@ -10,6 +10,7 @@ segment: "coding"
 hq:
   city: "Foster City"
   country: "US"
+  source: "https://replit.com/news/funding-announcement"
 founded:
   year: 2016
   source: "https://replit.com/news/funding-announcement"
@@ -31,4 +32,4 @@ sources:
   - "https://www.trendingtopics.eu/replit-raises-400m-tripling-its-valuation-to-9-billion-in-six-months/"
   - "https://replit.com/pricing"
   - "https://replit.com/terms-of-service"
-last_verified: "2026-10-29"
+last_verified: "2026-10-30"

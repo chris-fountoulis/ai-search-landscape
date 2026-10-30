@@ -10,6 +10,7 @@ segment: "infrastructure"
 hq:
   city: "San Francisco"
   country: "US"
+  source: "https://mem0.ai/terms"
 founded:
   year: 2024
   source: "https://mem0.ai/about-us"
@@ -31,4 +32,4 @@ sources:
   - "https://mem0.ai/terms"
   - "https://mem0.ai/privacy-policy"
   - "https://mem0.ai/about-us"
-last_verified: "2026-10-29"
+last_verified: "2026-10-30"

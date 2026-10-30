@@ -9,6 +9,7 @@ segment: "builders"
 hq:
   city: "Amsterdam"
   country: "NL"
+  source: "https://orq.ai/terms-of-service"
 founded:
   year: 2022
   source: "https://tech.eu/2025/12/03/orqai-lands-eur5m-seed-to-close-the-ai-production-gap-for-enterprises/"
@@ -29,4 +30,4 @@ sources:
   - "https://orq.ai/pricing"
   - "https://orq.ai/terms-of-service"
   - "https://tech.eu/2024/03/12/orqai-europes-first-all-in-one-generative-ai-platform-for-enterprises/"
-last_verified: "2026-10-29"
+last_verified: "2026-10-30"

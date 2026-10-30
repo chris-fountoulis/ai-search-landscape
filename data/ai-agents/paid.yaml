@@ -9,6 +9,7 @@ segment: "infrastructure"
 hq:
   city: "London"
   country: "GB"
+  source: "https://paid.ai/legal/terms"
 founded:
   year: 2025
   source: "https://paid.ai/legal/terms"
@@ -29,4 +30,4 @@ sources:
   - "https://techcrunch.com/2025/03/25/outreach-founder-manny-medina-has-a-new-startup-that-helps-ai-agents-get-paid/"
   - "https://paid.ai/legal/terms"
   - "https://paid.ai/about"
-last_verified: "2026-10-29"
+last_verified: "2026-10-30"

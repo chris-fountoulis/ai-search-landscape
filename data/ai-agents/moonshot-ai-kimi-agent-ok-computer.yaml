@@ -10,6 +10,7 @@ segment: "general-browser"
 hq:
   city: "Beijing"
   country: "CN"
+  source: "https://www.kimi.com/user/agreement/modelUse"
 founded:
   year: 2023
   source: "https://pulse2.com/moonshot-ai-2-billion-funding-round-values-kimi-chatbot-maker-above-20-billion/"
@@ -24,4 +25,4 @@ sources:
   - "https://pulse2.com/moonshot-ai-2-billion-funding-round-values-kimi-chatbot-maker-above-20-billion/"
   - "https://www2.yicaiglobal.com/news/moonshot-ais-latest-fundraiser-lifts-valuation-to-usd35-billion-amid-kimis-silicon-valley-buzz"
   - "https://eu.36kr.com/en/newsflashes/3916524344045192"
-last_verified: "2026-10-29"
+last_verified: "2026-10-30"

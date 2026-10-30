@@ -9,6 +9,7 @@ segment: "company-brain"
 hq:
   city: "Raleigh"
   country: "US"
+  source: "https://www.pryon.com/about"
 founded:
   year: 2017
   source: "https://www.pryon.com/about"
@@ -29,4 +30,4 @@ sources:
   - "https://lp.pryon.com/hubfs/Site-Assets/Pryon-SaaS-Agreement.pdf"
   - "https://www.pryon.com/about"
   - "https://www.pryon.com/about/news"
-last_verified: "2026-10-29"
+last_verified: "2026-10-30"

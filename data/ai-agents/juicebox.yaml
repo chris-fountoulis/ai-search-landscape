@@ -10,6 +10,7 @@ segment: "cx-sales"
 hq:
   city: "San Francisco"
   country: "US"
+  source: "https://juicebox.ai/privacy-policy"
 status: "active"
 funding:
   total_usd: 116000000
@@ -29,4 +30,4 @@ sources:
   - "https://pulse2.com/juicebox-80-million-at-850-million-valuation-raised-for-ai-recruiting-platform"
   - "https://juicebox.ai/pricing"
   - "https://juicebox.ai/privacy-policy"
-last_verified: "2026-10-29"
+last_verified: "2026-10-30"

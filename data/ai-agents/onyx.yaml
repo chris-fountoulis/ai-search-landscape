@@ -9,6 +9,7 @@ segment: "company-brain"
 hq:
   city: "San Francisco"
   country: "US"
+  source: "https://techcrunch.com/2025/03/12/why-onyx-thinks-its-open-source-solution-will-win-enterprise-search/"
 founded:
   year: 2023
   source: "https://news.zoom.com/zoom-acquires-onyx-adding-open-source-enterprise-knowledge-search-to-zoom-ai-services/"
@@ -35,4 +36,4 @@ sources:
   - "https://onyx.app/pricing"
   - "https://techcrunch.com/2025/03/12/why-onyx-thinks-its-open-source-solution-will-win-enterprise-search/"
   - "https://github.com/onyx-dot-app/onyx/blob/main/LICENSE"
-last_verified: "2026-10-29"
+last_verified: "2026-10-30"

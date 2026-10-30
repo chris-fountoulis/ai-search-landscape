@@ -9,6 +9,7 @@ segment: "incumbents"
 hq:
   city: "Chicago"
   country: "US"
+  source: "https://www.builtinchicago.org/company/seoclarity"
 status: "active"
 pricing:
   as_listed_by_vendor: "$2,500 to $4,500 (page says representative as of Oct 2022); Rankings custom"
@@ -16,4 +17,4 @@ pricing:
 sources:
   - "https://www.seoclarity.net/pricing"
   - "https://www.builtinchicago.org/company/seoclarity"
-last_verified: "2026-10-26"
+last_verified: "2026-10-30"

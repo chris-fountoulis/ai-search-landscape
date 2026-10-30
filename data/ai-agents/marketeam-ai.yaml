@@ -10,6 +10,7 @@ segment: "marketing-agency"
 hq:
   city: "Tel Aviv"
   country: "IL"
+  source: "https://marketeam.ai/legal/terms-of-use"
 status: "active"
 funding:
   total_usd: 5000000
@@ -26,4 +27,4 @@ sources:
   - "https://marketeam.ai/legal/terms-of-use"
   - "https://marketeam.ai/about"
   - "https://www.prnewswire.com/il/news-releases/marketeamai-wins-proactive-ai-assistance-solution-of-the-year-in-the-2025-ai-breakthrough-awards-demonstrating-unprecedented-end-to-end-autonomous-marketing-capabilities-302492179.html"
-last_verified: "2026-10-29"
+last_verified: "2026-10-30"

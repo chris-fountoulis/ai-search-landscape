@@ -10,6 +10,7 @@ segment: "infrastructure"
 hq:
   city: "Pleasanton"
   country: "US"
+  source: "https://pipedream.com/terms"
 founded:
   year: 2019
   source: "https://siliconangle.com/2025/11/19/workday-acquire-pipedream-extend-ai-agent-integrations-across-enterprise-apps/"
@@ -32,4 +33,4 @@ sources:
   - "https://pipedream.com/pricing"
   - "https://pipedream.com/terms"
   - "https://pipedream.com/"
-last_verified: "2026-10-29"
+last_verified: "2026-10-30"

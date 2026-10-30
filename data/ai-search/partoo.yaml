@@ -9,6 +9,7 @@ segment: "local-and-smb"
 hq:
   city: "Paris"
   country: "FR"
+  source: "https://www.frenchweb.fr/e-commerce-partoo-leve-15-millions-deuros-aupres-de-webedia/421876"
 founded:
   year: 2014
   source: "https://www.frenchweb.fr/e-commerce-partoo-leve-15-millions-deuros-aupres-de-webedia/421876"
@@ -25,4 +26,4 @@ sources:
   - "https://www.frenchweb.fr/e-commerce-partoo-leve-15-millions-deuros-aupres-de-webedia/421876"
   - "https://funding.tech.eu/companies/031158AB-045C-4515-917F-68226F5ABEA9"
   - "https://www.partoo.co/en/pricing/"
-last_verified: "2026-10-26"
+last_verified: "2026-10-30"

@@ -10,6 +10,7 @@ segment: "vertical"
 hq:
   city: "New York"
   country: "US"
+  source: "https://techcrunch.com/2026/03/10/legora-reaches-5-55-billion-valuation-as-ai-legaltech-boom-endures/"
 founded:
   year: 2023
   source: "https://legora.com/legal/privacy-policy"
@@ -31,4 +32,4 @@ sources:
   - "https://legora.com/newsroom/legora-raises-550-million-series-d-to-fuel-us-growth"
   - "https://legora.com/legal/privacy-policy"
   - "https://legora.com/legal"
-last_verified: "2026-10-29"
+last_verified: "2026-10-30"

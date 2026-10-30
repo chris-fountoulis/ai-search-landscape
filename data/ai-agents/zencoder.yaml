@@ -10,6 +10,7 @@ segment: "coding"
 hq:
   city: "Campbell"
   country: "US"
+  source: "https://zencoder.ai/terms-of-service"
 founded:
   year: 2023
   source: "https://zencoder.ai/about"
@@ -25,4 +26,4 @@ sources:
   - "https://siliconangle.com/2025/05/09/ai-startup-zencoder-launches-coding-agent-platform/"
   - "https://siliconangle.com/2026/04/09/zencoder-launches-ai-platform-automate-surrounding-work-coding-agents-dont-handle/"
   - "https://zencoder.ai/about"
-last_verified: "2026-10-29"
+last_verified: "2026-10-30"

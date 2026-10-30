@@ -10,6 +10,7 @@ segment: "company-brain"
 hq:
   city: "New York"
   country: "US"
+  source: "https://leena.ai/blog/series-b-weve-raised-30m-and-are-all-set-for-our-next-growth-chapter"
 founded:
   year: 2018
   source: "https://leena.ai/blog/series-b-weve-raised-30m-and-are-all-set-for-our-next-growth-chapter"
@@ -29,4 +30,4 @@ sources:
   - "https://leena.ai/blog/series-b-weve-raised-30m-and-are-all-set-for-our-next-growth-chapter"
   - "https://leena.ai/pricing"
   - "https://techcrunch.com/2020/11/02/leena-ai-nabs-8m-series-as-it-expands-from-chatbots-to-hr-service-platform/"
-last_verified: "2026-10-29"
+last_verified: "2026-10-30"

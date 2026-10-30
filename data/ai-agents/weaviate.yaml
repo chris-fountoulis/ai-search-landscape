@@ -10,6 +10,7 @@ segment: "infrastructure"
 hq:
   city: "Amsterdam"
   country: "NL"
+  source: "https://siliconangle.com/2023/04/21/weaviate-reels-50m-ai-optimized-vector-database/"
 founded:
   year: 2019
   source: "https://weaviate.io/company/about-us"
@@ -30,4 +31,4 @@ sources:
   - "https://siliconcanals.com/weaviate-io-secures-45-6m/"
   - "https://weaviate.io/pricing"
   - "https://weaviate.io/company/about-us"
-last_verified: "2026-10-29"
+last_verified: "2026-10-30"

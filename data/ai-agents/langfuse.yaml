@@ -9,6 +9,7 @@ segment: "infrastructure"
 hq:
   city: "Berlin"
   country: "DE"
+  source: "https://langfuse.com/imprint"
 founded:
   year: 2023
   source: "https://langfuse.com/imprint"
@@ -35,4 +36,4 @@ sources:
   - "https://langfuse.com/pricing"
   - "https://langfuse.com/blog/announcing-our-seed-round"
   - "https://siliconangle.com/2026/01/16/database-maker-clickhouse-raises-400m-acquires-ai-observability-startup-langfuse/"
-last_verified: "2026-10-29"
+last_verified: "2026-10-30"

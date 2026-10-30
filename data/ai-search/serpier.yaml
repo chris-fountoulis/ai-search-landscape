@@ -9,6 +9,7 @@ segment: "content-automation"
 hq:
   city: "Aarhus"
   country: "DK"
+  source: "https://bebeez.eu/2026/06/29/danish-martech-company-serpier-raises-e1-4-million-to-expand-ai-visibility-tools-for-online-retailers/"
 founded:
   year: 2024
   source: "https://bebeez.eu/2026/06/29/danish-martech-company-serpier-raises-e1-4-million-to-expand-ai-visibility-tools-for-online-retailers/"
@@ -24,4 +25,4 @@ sources:
   - "https://bebeez.eu/2026/06/29/danish-martech-company-serpier-raises-e1-4-million-to-expand-ai-visibility-tools-for-online-retailers/"
   - "https://www.thesaasnews.com/news/serpier-raises-eur1-4m-pre-seed"
   - "https://www.trysignalbase.com/news/funding/serpier-secures-16m-seed-round-funding"
-last_verified: "2026-10-26"
+last_verified: "2026-10-30"

@@ -9,6 +9,7 @@ segment: "coding"
 hq:
   city: "Bengaluru"
   country: "IN"
+  source: "https://theaiinsider.tech/2025/01/13/ai-startup-quash-raises-635k-for-mobile-app-testing/"
 status: "active"
 funding:
   total_usd: 635000
@@ -26,4 +27,4 @@ sources:
   - "https://quashbugs.com/pricing"
   - "https://quashbugs.com/terms-and-conditions"
   - "https://quashbugs.com/about"
-last_verified: "2026-10-29"
+last_verified: "2026-10-30"

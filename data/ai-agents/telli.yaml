@@ -9,6 +9,7 @@ segment: "cx-sales"
 hq:
   city: "Berlin"
   country: "DE"
+  source: "https://www.telli.com/imprint"
 status: "active"
 funding:
   total_usd: 18500000
@@ -26,4 +27,4 @@ sources:
   - "https://techcrunch.com/2025/04/15/telli-a-yc-alum-raises-pre-seed-funding-for-its-ai-voice-agents/"
   - "https://telli.com/"
   - "https://www.telli.com/pricing"
-last_verified: "2026-10-29"
+last_verified: "2026-10-30"

@@ -10,6 +10,7 @@ segment: "vertical"
 hq:
   city: "San Francisco"
   country: "US"
+  source: "https://www.harvey.ai/legal/terms-of-service"
 founded:
   year: 2022
   source: "https://www.harvey.ai/blog/harvey-raises-dollar550m-at-a-dollar155b-valuation-to-help-legal-teams-own-their-intelligence"
@@ -30,4 +31,4 @@ sources:
   - "https://techcrunch.com/2026/09/09/harvey-hits-15-5b-valuation-months-after-reaching-11b/"
   - "https://www.harvey.ai/legal/terms-of-service"
   - "https://www.harvey.ai/company"
-last_verified: "2026-10-29"
+last_verified: "2026-10-30"

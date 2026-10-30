@@ -9,6 +9,7 @@ segment: "builders"
 hq:
   city: "London"
   country: "GB"
+  source: "https://techcrunch.com/2022/01/28/causalens-gets-45m-for-no-code-technology-that-introduces-cause-and-effect-into-ai-decision-making/"
 status: "active"
 funding:
   latest_round:
@@ -23,4 +24,4 @@ sources:
   - "https://techcrunch.com/2022/01/28/causalens-gets-45m-for-no-code-technology-that-introduces-cause-and-effect-into-ai-decision-making/"
   - "https://causalens.com"
   - "https://causalens.com/join-us"
-last_verified: "2026-10-29"
+last_verified: "2026-10-30"

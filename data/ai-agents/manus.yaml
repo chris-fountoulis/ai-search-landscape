@@ -9,6 +9,7 @@ segment: "general-browser"
 hq:
   city: "Singapore"
   country: "SG"
+  source: "https://siliconangle.com/2026/10/08/ai-agent-developer-manus-raises-500m-at-reported-4b-valuation/"
 founded:
   year: 2022
   source: "https://siliconangle.com/2026/10/08/ai-agent-developer-manus-raises-500m-at-reported-4b-valuation/"
@@ -30,4 +31,4 @@ sources:
   - "https://techcrunch.com/2026/09/18/manus-seeks-4b-valuation-in-new-500m-fundraise-as-it-resumes-independent-ops/"
   - "https://manus.im/pricing"
   - "https://manus.im/terms"
-last_verified: "2026-10-29"
+last_verified: "2026-10-30"

@@ -9,6 +9,7 @@ segment: "geo-tracking"
 hq:
   city: "Barcelona"
   country: "ES"
+  source: "https://llmpulse.ai/legal-notice"
 founded:
   year: 2025
   source: "https://llmpulse.ai/about"
@@ -25,4 +26,4 @@ sources:
   - "https://llmpulse.ai/customers/llm-pulse"
   - "https://llmpulse.ai/pricing"
   - "https://www.producthunt.com/products/llm-pulse-2"
-last_verified: "2026-10-27"
+last_verified: "2026-10-30"

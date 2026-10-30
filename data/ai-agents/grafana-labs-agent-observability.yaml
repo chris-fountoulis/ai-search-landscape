@@ -10,6 +10,7 @@ segment: "infrastructure"
 hq:
   city: "New York"
   country: "US"
+  source: "https://siliconangle.com/2024/08/21/infrastructure-monitoring-startup-grafana-labs-raises-270m-6b-valuation/"
 status: "active"
 funding:
   latest_round:
@@ -26,4 +27,4 @@ sources:
   - "https://siliconangle.com/2024/08/21/infrastructure-monitoring-startup-grafana-labs-raises-270m-6b-valuation/"
   - "https://siliconangle.com/2026/10/20/grafana-labs-leans-on-ai-agents-to-automate-ai-agent-observability/"
   - "https://grafana.com/products/cloud/ai-observability/"
-last_verified: "2026-10-29"
+last_verified: "2026-10-30"

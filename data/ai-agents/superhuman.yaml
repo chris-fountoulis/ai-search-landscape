@@ -10,6 +10,7 @@ segment: "company-brain"
 hq:
   city: "San Francisco"
   country: "US"
+  source: "https://superhuman.com/legal/terms"
 status: "active"
 pricing:
   as_listed_by_vendor: "EUR 12 to EUR 40 (as listed)"
@@ -21,4 +22,4 @@ sources:
   - "https://techcrunch.com/2025/05/29/grammarly-secures-1b-in-non-dilutive-funding-from-general-catalyst/"
   - "https://techcrunch.com/2025/10/29/grammarly-rebrands-to-superhuman-launches-a-new-ai-assistant/"
   - "https://techcrunch.com/2026/09/14/superhuman-acquires-yc-backed-notetaker-fathom-as-productivity-platforms-push-for-agentic-work/"
-last_verified: "2026-10-29"
+last_verified: "2026-10-30"

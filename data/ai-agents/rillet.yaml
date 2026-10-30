@@ -10,6 +10,7 @@ segment: "vertical"
 hq:
   city: "New York"
   country: "US"
+  source: "https://www.rillet.com/terms-and-conditions"
 founded:
   year: 2024
   source: "https://www.rillet.com/about"
@@ -31,4 +32,4 @@ sources:
   - "https://www.rillet.com/terms-and-conditions"
   - "https://techcrunch.com/2026/08/21/how-ai-accounting-startup-rillet-raised-100m-and-became-a-unicorn-in-48-hours/"
   - "https://www.rillet.com/pricing"
-last_verified: "2026-10-29"
+last_verified: "2026-10-30"

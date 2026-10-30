@@ -10,6 +10,7 @@ segment: "cx-sales"
 hq:
   city: "London"
   country: "GB"
+  source: "https://attio.com/legal/terms-and-conditions"
 founded:
   year: 2019
   source: "https://attio.com/legal/terms-and-conditions"
@@ -30,4 +31,4 @@ sources:
   - "https://attio.com/pricing"
   - "https://attio.com/legal/terms-and-conditions"
   - "https://techcrunch.com/2023/03/02/attio-raises-23-5m-to-build-a-next-gen-crm-platform/"
-last_verified: "2026-10-29"
+last_verified: "2026-10-30"

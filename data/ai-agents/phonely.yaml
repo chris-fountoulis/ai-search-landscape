@@ -10,6 +10,7 @@ segment: "cx-sales"
 hq:
   city: "San Francisco"
   country: "US"
+  source: "https://www.phonely.ai/blogs/phonely-series-a-16m-funding"
 founded:
   year: 2023
   source: "https://www.phonely.ai/blogs/phonely-series-a-16m-funding"
@@ -31,4 +32,4 @@ sources:
   - "https://www.phonely.ai/pricing"
   - "https://www.phonely.ai/terms-of-service"
   - "https://www.startupdaily.net/topic/funding/y-combinator-backs-ai-based-virtual-receptionist-startup-phonely-with-750000/"
-last_verified: "2026-10-29"
+last_verified: "2026-10-30"

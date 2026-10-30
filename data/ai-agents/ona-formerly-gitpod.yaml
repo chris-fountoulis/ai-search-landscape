@@ -9,6 +9,7 @@ segment: "coding"
 hq:
   city: "Kiel"
   country: "DE"
+  source: "https://ona.com/legal/imprint"
 founded:
   year: 2019
   source: "https://ona.com/legal/imprint"
@@ -35,4 +36,4 @@ sources:
   - "https://siliconangle.com/2026/06/11/openai-acquires-ai-agent-orchestration-startup-ona/"
   - "https://siliconangle.com/2022/11/03/open-source-developer-platform-startup-gitpod-raises-15m/"
   - "https://ona.com/pricing"
-last_verified: "2026-10-29"
+last_verified: "2026-10-30"

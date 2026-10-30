@@ -10,6 +10,7 @@ segment: "infrastructure"
 hq:
   city: "Prague"
   country: "CZ"
+  source: "https://docs.apify.com/legal"
 founded:
   year: 2015
   source: "https://docs.apify.com/legal"
@@ -31,4 +32,4 @@ sources:
   - "https://apify.com/pricing"
   - "https://apify.com/about"
   - "https://www.lupa.cz/aktuality/cesky-obchod-s-aplikacemi-uz-vyvojarum-mesicne-vyplaci-milion-dolaru-nakopl-ho-rozvoj-ai/"
-last_verified: "2026-10-29"
+last_verified: "2026-10-30"

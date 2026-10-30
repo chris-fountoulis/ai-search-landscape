@@ -10,6 +10,7 @@ segment: "builders"
 hq:
   city: "San Francisco"
   country: "US"
+  source: "https://tasklet.ai/terms-of-service"
 founded:
   year: 2025
   source: "https://tasklet.ai/blog/2026-04-07-20m-funding"
@@ -27,4 +28,4 @@ sources:
   - "https://tasklet.ai/terms-of-service"
   - "https://tasklet.ai/careers"
   - "https://techcrunch.com/2026/06/18/the-11-standout-startups-from-ycs-demo-day-according-to-vcs/"
-last_verified: "2026-10-29"
+last_verified: "2026-10-30"

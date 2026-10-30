@@ -10,6 +10,7 @@ segment: "infrastructure"
 hq:
   city: "Zug"
   country: "CH"
+  source: "https://nevermined.ai/legal/terms"
 status: "active"
 funding:
   total_usd: 4000000
@@ -28,4 +29,4 @@ sources:
   - "https://nevermined.ai/pricing"
   - "https://pymnts.com/news/investment-tracker/2025/nevermined-raises-4-million-to-help-ai-agents-pay-and-get-paid"
   - "https://pulse2.com/nevermined-ai-payment-infrastructure-company-raises-over-4-million"
-last_verified: "2026-10-29"
+last_verified: "2026-10-30"

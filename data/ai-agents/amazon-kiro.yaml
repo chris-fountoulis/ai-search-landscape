@@ -10,6 +10,7 @@ segment: "coding"
 hq:
   city: "Seattle"
   country: "US"
+  source: "https://aws.amazon.com/agreement/"
 status: "active"
 public_company: true
 pricing:
@@ -22,4 +23,4 @@ sources:
   - "https://kiro.dev/"
   - "https://aws.amazon.com/agreement/"
   - "https://techcrunch.com/2025/12/02/amazon-previews-3-ai-agents-including-kiro-that-can-code-on-its-own-for-days/"
-last_verified: "2026-10-29"
+last_verified: "2026-10-30"

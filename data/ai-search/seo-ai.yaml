@@ -9,6 +9,7 @@ segment: "content-automation"
 hq:
   city: "Kongens Lyngby"
   country: "DK"
+  source: "https://seo.ai/pricing"
 founded:
   year: 2022
   source: "https://thehub.io/startups/seoai"
@@ -23,4 +24,4 @@ pricing:
 sources:
   - "https://thehub.io/startups/seoai"
   - "https://seo.ai/pricing"
-last_verified: "2026-10-26"
+last_verified: "2026-10-30"

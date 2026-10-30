@@ -9,6 +9,7 @@ segment: "incumbents"
 hq:
   city: "Scottsdale"
   country: "US"
+  source: "https://linkedin.com/company/spyfu"
 founded:
   year: 2006
   source: "https://www.spyfu.com/Company"
@@ -18,4 +19,4 @@ pricing:
 sources:
   - "https://www.spyfu.com/Company"
   - "https://linkedin.com/company/spyfu"
-last_verified: "2026-10-26"
+last_verified: "2026-10-30"

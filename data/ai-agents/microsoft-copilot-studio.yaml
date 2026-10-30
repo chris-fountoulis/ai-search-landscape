@@ -10,6 +10,7 @@ segment: "builders"
 hq:
   city: "Redmond"
   country: "US"
+  source: "https://www.microsoft.com/en-us/legal/terms-of-use"
 status: "active"
 public_company: true
 pricing:
@@ -21,4 +22,4 @@ sources:
   - "https://techcrunch.com/2023/11/16/microsoft-ignite-2023-copilot-ai-expansions-custom-chips-and-all-the-other-announcements/"
   - "https://www.microsoft.com/en-us/legal/terms-of-use"
   - "https://siliconangle.com/2026/06/08/silverfort-brings-runtime-identity-controls-microsoft-copilot-studio-agents/"
-last_verified: "2026-10-29"
+last_verified: "2026-10-30"

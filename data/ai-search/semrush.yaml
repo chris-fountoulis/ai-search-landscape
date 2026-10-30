@@ -9,6 +9,7 @@ segment: "incumbents"
 hq:
   city: "Boston"
   country: "US"
+  source: "https://www.semrush.com/news/435826-adobe-to-acquire-semrush/"
 founded:
   year: 2008
   source: "https://www.sec.gov/Archives/edgar/data/1831840/000114036126017299/ef20071354_8k.htm"
@@ -27,4 +28,4 @@ sources:
   - "https://www.sec.gov/Archives/edgar/data/1831840/000114036126017299/ef20071354_8k.htm"
   - "https://www.semrush.com/news/435826-adobe-to-acquire-semrush/"
   - "https://www.sec.gov/Archives/edgar/data/1831840/000162828026013251/semrush8-kexhibit991q42025.htm"
-last_verified: "2026-10-26"
+last_verified: "2026-10-30"

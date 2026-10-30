@@ -10,6 +10,7 @@ segment: "infrastructure"
 hq:
   city: "Cupertino"
   country: "US"
+  source: "https://techcrunch.com/2023/06/13/vectara-lands-28-5m-to-supercharge-enterprise-search/"
 founded:
   year: 2022
   source: "https://www.vectara.com/legal/terms-of-service"
@@ -31,4 +32,4 @@ sources:
   - "https://www.vectara.com/pricing"
   - "https://www.vectara.com/legal/terms-of-service"
   - "https://www.vectara.com/company/newsroom"
-last_verified: "2026-10-29"
+last_verified: "2026-10-30"

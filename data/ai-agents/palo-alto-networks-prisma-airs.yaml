@@ -10,6 +10,7 @@ segment: "infrastructure"
 hq:
   city: "Santa Clara"
   country: "US"
+  source: "https://www.paloaltonetworks.com/legal-notices/terms-of-use"
 status: "active"
 public_company: true
 pricing:
@@ -19,4 +20,4 @@ sources:
   - "https://www.paloaltonetworks.com/ai-security/prisma-airs"
   - "https://siliconangle.com/2026/09/24/ai-agent-security-palo-alto-networks-googlecloudaiagentsinaction/"
   - "https://www.paloaltonetworks.com/legal-notices/terms-of-use"
-last_verified: "2026-10-29"
+last_verified: "2026-10-30"

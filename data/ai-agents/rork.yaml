@@ -9,6 +9,7 @@ segment: "coding"
 hq:
   city: "San Francisco"
   country: "US"
+  source: "https://rork.com/terms"
 founded:
   year: 2025
   source: "https://www.vcaonline.com/news/2026040906/rork-raises-15m-to-power-the-next-generation-of-app-store-entrepreneurs/"
@@ -30,4 +31,4 @@ sources:
   - "https://rork.com/terms"
   - "https://rork.com/faq"
   - "https://rork.com/pricing"
-last_verified: "2026-10-29"
+last_verified: "2026-10-30"
