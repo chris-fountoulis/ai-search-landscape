@@ -1,0 +1,74 @@
+name: Add a company
+description: Propose a company or product for one of the datasets. Every field needs a public source.
+title: "[Add] "
+labels: ["data", "add-company"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for suggesting a company. Please check the [inclusion rubric](https://github.com/chris-fountoulis/ai-search-landscape/blob/main/CONTRIBUTING.md#inclusion-rubric) first. Vendors may propose themselves; the same rules apply to everyone and nobody pays to be listed.
+        Leave a field empty when it is not public. A blank is fine, a guess is not.
+  - type: dropdown
+    id: dataset
+    attributes:
+      label: Dataset
+      options:
+        - AI search optimization (data/ai-search)
+        - AI agents (data/ai-agents)
+    validations:
+      required: true
+  - type: input
+    id: name
+    attributes:
+      label: Company or product name
+      placeholder: Acme Search
+    validations:
+      required: true
+  - type: input
+    id: website
+    attributes:
+      label: Website
+      placeholder: acme.example
+    validations:
+      required: true
+  - type: input
+    id: segment
+    attributes:
+      label: Segment
+      description: An id from schema/vocab/segments.json, for example geo-tracking or cx-sales.
+    validations:
+      required: true
+  - type: textarea
+    id: product
+    attributes:
+      label: What the product does and where the site says so
+      description: For AI agents, show that it takes multi-step actions in other systems. Link the page.
+    validations:
+      required: true
+  - type: input
+    id: notability
+    attributes:
+      label: Independent dated source (notability floor)
+      description: An investor announcement, a bylined press article or a regulatory filing naming the company. Accelerator or directory pages alone do not count.
+      placeholder: https://
+    validations:
+      required: true
+  - type: textarea
+    id: facts
+    attributes:
+      label: Facts with sources
+      description: One per line, each with its URL. HQ is the legal seat from your Terms or Imprint.
+      placeholder: |
+        HQ: Berlin, DE (https://acme.example/imprint)
+        Founded: 2024 (https://acme.example/about)
+        Funding: $21M total, Series A $21M 2025-11 (https://news.example/acme-raises)
+        Price as listed: $95 to $495 per month (https://acme.example/pricing)
+  - type: checkboxes
+    id: confirm
+    attributes:
+      label: Confirmation
+      options:
+        - label: Every fact above has a public URL, and none comes from a data aggregator.
+          required: true
+        - label: I agree that this contribution is published under CC BY 4.0.
+          required: true

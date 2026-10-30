@@ -1,0 +1,50 @@
+name: Company closed or acquired
+description: Report a shutdown, a sunset product or an acquisition that has closed.
+title: "[Status] "
+labels: ["data", "status-change"]
+body:
+  - type: input
+    id: record
+    attributes:
+      label: Record
+      placeholder: data/ai-agents/acme-agents.yaml
+    validations:
+      required: true
+  - type: dropdown
+    id: event
+    attributes:
+      label: What happened
+      options:
+        - Acquired (deal has closed)
+        - Acquisition announced, not yet closed
+        - Product or company shut down
+        - Product sunset or no longer sold
+        - Renamed or rebranded
+    validations:
+      required: true
+  - type: input
+    id: date
+    attributes:
+      label: Date
+      description: YYYY-MM-DD, or YYYY-MM if the day is not public.
+  - type: input
+    id: acquirer
+    attributes:
+      label: Acquirer (for acquisitions)
+  - type: input
+    id: price
+    attributes:
+      label: Disclosed price (for acquisitions)
+      description: Only a price disclosed by a party to the deal, a filing or named press. Leave blank otherwise.
+  - type: input
+    id: source
+    attributes:
+      label: Public source
+      description: The acquirer's or company's announcement, a filing or a bylined article.
+      placeholder: https://
+    validations:
+      required: true
+  - type: markdown
+    attributes:
+      value: |
+        In the AI agent dataset a row becomes `acquired` only when the deal has closed; an announced deal is noted and applied at closing. Acquired rows stay in the dataset so it records each deal.

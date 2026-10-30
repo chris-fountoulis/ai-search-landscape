@@ -1,0 +1,52 @@
+name: Correct a company
+description: Fix a wrong or outdated field in an existing row. Reviewed within five working days.
+title: "[Correct] "
+labels: ["data", "correction"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Each row is a YAML file under `data/`. You can also open a pull request directly; see [CONTRIBUTING.md](https://github.com/chris-fountoulis/ai-search-landscape/blob/main/CONTRIBUTING.md).
+        If the correct fact is not public anywhere yet, adding it to your own About, pricing or legal page and linking that page is the fastest route.
+  - type: input
+    id: record
+    attributes:
+      label: Record
+      description: The YAML file or the company name.
+      placeholder: data/ai-search/acme-search.yaml
+    validations:
+      required: true
+  - type: textarea
+    id: changes
+    attributes:
+      label: Fields to change
+      description: One line per field, current value then correct value.
+      placeholder: |
+        hq: Prague, CZ  ->  Austin, US
+        founded.year: (blank)  ->  2022
+    validations:
+      required: true
+  - type: textarea
+    id: sources
+    attributes:
+      label: Public sources
+      description: One URL per changed field. Aggregators, screenshots and private documents cannot be used.
+      placeholder: https://acme.example/terms
+    validations:
+      required: true
+  - type: dropdown
+    id: relation
+    attributes:
+      label: Your relation to the company
+      options:
+        - I work at or for this company
+        - Independent
+    validations:
+      required: true
+  - type: checkboxes
+    id: confirm
+    attributes:
+      label: Confirmation
+      options:
+        - label: Each change is supported by a public URL listed above.
+          required: true
