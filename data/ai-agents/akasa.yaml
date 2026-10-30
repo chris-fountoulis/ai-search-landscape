@@ -1,0 +1,24 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "AKASA"
+slug: "akasa"
+dataset: "ai-agents"
+company: "AKASA"
+website: "akasa.com"
+segment: "vertical"
+hq:
+  city: "South San Francisco"
+  country: "US"
+status: "active"
+funding:
+  total_usd: 205000000
+  source: "https://techcrunch.com/2024/12/20/heres-the-full-list-of-49-us-ai-startups-that-have-raised-100m-or-more-in-2024/"
+pricing:
+  as_listed_by_vendor: "custom"
+  model: "custom"
+sources:
+  - "https://techcrunch.com/2024/12/20/heres-the-full-list-of-49-us-ai-startups-that-have-raised-100m-or-more-in-2024/"
+  - "https://akasa.com/press/autonomous-mid-cycle"
+  - "https://akasa.com/about-us/"
+  - "https://akasa.com/newsroom"
+last_verified: "2026-10-29"

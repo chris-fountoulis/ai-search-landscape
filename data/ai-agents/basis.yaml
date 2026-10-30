@@ -1,0 +1,28 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "Basis"
+slug: "basis"
+dataset: "ai-agents"
+company: "Basis"
+website: "getbasis.ai"
+segment: "vertical"
+hq:
+  city: "New York"
+  country: "US"
+status: "active"
+funding:
+  total_usd: 138000000
+  latest_round:
+    name: "Series B"
+    date: "2026-02"
+    amount_usd: 100000000
+  source: "https://www.cpapracticeadvisor.com/2026/02/24/basis-raises-100-million-to-deploy-ai-agents-for-accounting-firms/178759/"
+pricing:
+  as_listed_by_vendor: "custom"
+  model: "custom"
+sources:
+  - "https://www.cpapracticeadvisor.com/2026/02/24/basis-raises-100-million-to-deploy-ai-agents-for-accounting-firms/178759/"
+  - "https://www.getbasis.ai/legal/website-terms"
+  - "https://www.getbasis.ai/legal/privacy-policy"
+  - "https://www.bloomberg.com/news/articles/2026-02-24/ai-for-accounting-startup-basis-hits-1-15-billion-valuation"
+last_verified: "2026-10-29"

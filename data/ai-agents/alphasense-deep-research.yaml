@@ -1,0 +1,31 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "AlphaSense (Deep Research)"
+slug: "alphasense-deep-research"
+dataset: "ai-agents"
+company: "AlphaSense"
+product: "SuperAnalyst; Deep Research"
+website: "alpha-sense.com"
+segment: "vertical"
+hq:
+  city: "New York"
+  country: "US"
+founded:
+  year: 2011
+  source: "https://www.alpha-sense.com/about/"
+status: "active"
+funding:
+  total_usd: 1000000000
+  source: "https://fintech.global/2026/06/04/alphasense-raises-350m-at-7-5bn-valuation/"
+pricing:
+  as_listed_by_vendor: "custom"
+  model: "custom"
+sources:
+  - "https://fintech.global/2026/06/04/alphasense-raises-350m-at-7-5bn-valuation/"
+  - "https://www.alpha-sense.com/newsroom/"
+  - "https://fortune.com/2026/04/14/exclusive-alphasense-names-new-cfo-as-revenue-tops-500-million/"
+  - "https://www.alpha-sense.com/terms/"
+  - "https://www.alpha-sense.com/about/"
+  - "https://www.alpha-sense.com/pricing/"
+  - "https://www.alpha-sense.com/platform/superanalyst/"
+last_verified: "2026-10-29"

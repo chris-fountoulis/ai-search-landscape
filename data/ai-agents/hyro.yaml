@@ -1,0 +1,32 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "Hyro"
+slug: "hyro"
+dataset: "ai-agents"
+company: "Hyro"
+website: "hyro.ai"
+segment: "vertical"
+hq:
+  city: "New York"
+  country: "US"
+founded:
+  year: 2018
+  source: "https://hlth.com/insights/news/hyro-secures-45m-growth-round-led-by-healthier-capital-to-expand-ai-agent-adoption-in-healthcare-2025-10-23"
+status: "active"
+funding:
+  total_usd: 95000000
+  latest_round:
+    name: "Growth round"
+    date: "2025-10"
+    amount_usd: 45000000
+  source: "https://hlth.com/insights/news/hyro-secures-45m-growth-round-led-by-healthier-capital-to-expand-ai-agent-adoption-in-healthcare-2025-10-23"
+pricing:
+  as_listed_by_vendor: "custom"
+  model: "custom"
+sources:
+  - "https://hlth.com/insights/news/hyro-secures-45m-growth-round-led-by-healthier-capital-to-expand-ai-agent-adoption-in-healthcare-2025-10-23"
+  - "https://www.calcalistech.com/ctechnews/article/rylcu6valg"
+  - "https://tech.cornell.edu/news/hyro-cornell-tech"
+  - "https://pulse2.com/hyro-45-million-raised-to-advance-ai-agent-adoption-across-healthcare-systems/"
+  - "https://techcrunch.com/2023/05/31/hyro-secures-30m-for-its-ai-powered-healthcare-focused-conversational-platform/"
+last_verified: "2026-10-29"

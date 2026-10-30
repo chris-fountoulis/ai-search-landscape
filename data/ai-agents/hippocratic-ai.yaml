@@ -1,0 +1,28 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "Hippocratic AI"
+slug: "hippocratic-ai"
+dataset: "ai-agents"
+company: "Hippocratic AI"
+website: "hippocraticai.com"
+segment: "vertical"
+hq:
+  country: "US"
+status: "active"
+funding:
+  total_usd: 404000000
+  latest_round:
+    name: "Series C"
+    date: "2025-11"
+    amount_usd: 126000000
+  source: "https://siliconangle.com/2025/11/03/hippocratic-ais-valuation-soars-3-5b-raising-126m-new-funding/"
+pricing:
+  as_listed_by_vendor: "custom"
+  model: "custom"
+sources:
+  - "https://siliconangle.com/2025/11/03/hippocratic-ais-valuation-soars-3-5b-raising-126m-new-funding/"
+  - "https://techcrunch.com/2025/01/09/hippocratic-ai-raises-141m-for-creating-patient-facing-ai-agents/"
+  - "https://siliconangle.com/2025/01/09/hippocratic-ai-raises-141m-staff-hospitals-clinical-ai-agents/"
+  - "https://hippocraticai.com/press/"
+  - "https://hippocraticai.com/contact-us/"
+last_verified: "2026-10-29"

@@ -1,0 +1,33 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "Hebbia"
+slug: "hebbia"
+dataset: "ai-agents"
+company: "Hebbia"
+product: "Matrix"
+website: "hebbia.com"
+segment: "vertical"
+hq:
+  city: "New York"
+  country: "US"
+founded:
+  year: 2020
+  source: "https://www.hebbia.com/about/"
+status: "active"
+funding:
+  total_usd: 160000000
+  latest_round:
+    name: "Series B"
+    date: "2024-07"
+    amount_usd: 130000000
+  source: "https://techcrunch.com/2024/07/09/ai-startup-hebbia-rased-130m-at-a-700m-valuation-on-13-million-of-profitable-revenue/"
+pricing:
+  as_listed_by_vendor: "custom"
+  model: "custom"
+sources:
+  - "https://techcrunch.com/2024/07/09/ai-startup-hebbia-rased-130m-at-a-700m-valuation-on-13-million-of-profitable-revenue/"
+  - "https://techcrunch.com/?p=2802498"
+  - "https://www.hebbia.com/about/"
+  - "https://www.hebbia.com/terms-of-service/"
+  - "https://www.hebbia.com/careers"
+last_verified: "2026-10-29"

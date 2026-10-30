@@ -1,0 +1,33 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "Assort Health"
+slug: "assort-health"
+dataset: "ai-agents"
+company: "Assort Health"
+website: "assorthealth.com"
+segment: "vertical"
+hq:
+  city: "San Francisco"
+  country: "US"
+founded:
+  year: 2023
+  source: "https://www.assorthealth.com/about-us"
+status: "active"
+funding:
+  total_usd: 222000000
+  latest_round:
+    name: "Series C"
+    date: "2026-06"
+    amount_usd: 120000000
+  source: "https://www.assorthealth.com/press/senior-executives-from-samsara-luma-health-and-gusto-join-assort-health-following-222m-in-funding"
+pricing:
+  as_listed_by_vendor: "custom"
+  model: "custom"
+sources:
+  - "https://www.assorthealth.com/press/senior-executives-from-samsara-luma-health-and-gusto-join-assort-health-following-222m-in-funding"
+  - "https://www.assorthealth.com/about-us"
+  - "https://www.assorthealth.com/press"
+  - "https://www.healthcareittoday.com/2026/07/06/assort-health-raises-120-million-series-c-telepatia-raises-33-million-series-a/"
+  - "https://www.forbes.com/sites/amyfeldman/2026/06/24/these-29-year-olds-ai-chatbot-for-scheduling-doctor-visits-is-now-worth-12-billion/"
+  - "https://fortune.com/2025/09/30/exclusive-assort-health-raises-76-million-series-b-to-build-on-voice-ai-healthcare-platform/"
+last_verified: "2026-10-29"

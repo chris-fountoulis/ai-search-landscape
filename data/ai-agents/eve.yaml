@@ -1,0 +1,33 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "Eve"
+slug: "eve"
+dataset: "ai-agents"
+company: "Eve"
+product: "Eve Agents"
+website: "eve.legal"
+segment: "vertical"
+hq:
+  city: "San Francisco"
+  country: "US"
+founded:
+  year: 2023
+  source: "https://www.artificiallawyer.com/2025/09/30/eve-bags-103m-hits-1bn-valuation/"
+status: "active"
+funding:
+  total_usd: 164000000
+  latest_round:
+    name: "Series B"
+    date: "2025-09"
+    amount_usd: 103000000
+  source: "https://www.artificiallawyer.com/2025/09/30/eve-bags-103m-hits-1bn-valuation/"
+pricing:
+  as_listed_by_vendor: "custom"
+  model: "custom"
+sources:
+  - "https://www.artificiallawyer.com/2025/09/30/eve-bags-103m-hits-1bn-valuation/"
+  - "https://www.eve.legal/press"
+  - "https://www.eve.legal/eve-enterprise-terms"
+  - "https://www.legal.io/articles/5738408/AI-Startup-Eve-Reaches-1B-Valuation-With-New-Funding-Round"
+  - "https://www.eve.legal/blogs/the-dawn-of-a-new-era-in-plaintiff-law-eve-secures-47m-series-a"
+last_verified: "2026-10-29"

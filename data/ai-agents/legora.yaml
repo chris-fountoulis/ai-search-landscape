@@ -1,0 +1,34 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "Legora"
+slug: "legora"
+dataset: "ai-agents"
+company: "Legora"
+product: "Legora aOS"
+website: "legora.com"
+segment: "vertical"
+hq:
+  city: "New York"
+  country: "US"
+founded:
+  year: 2023
+  source: "https://legora.com/legal/privacy-policy"
+status: "active"
+funding:
+  latest_round:
+    name: "Series E"
+    date: "2026-10"
+    amount_usd: 550000000
+    valuation_usd: 8800000000
+  source: "https://legora.com/newsroom/legora-raises-550-million-series-e-at-8.8-billion-valuation-to-accelerate-growth"
+pricing:
+  as_listed_by_vendor: "custom"
+  model: "custom"
+sources:
+  - "https://legora.com/newsroom/legora-raises-550-million-series-e-at-8.8-billion-valuation-to-accelerate-growth"
+  - "https://techcrunch.com/2026/10/21/legal-ai-startup-legora-raises-550m-series-e-at-8-8b-valuation/"
+  - "https://techcrunch.com/2026/03/10/legora-reaches-5-55-billion-valuation-as-ai-legaltech-boom-endures/"
+  - "https://legora.com/newsroom/legora-raises-550-million-series-d-to-fuel-us-growth"
+  - "https://legora.com/legal/privacy-policy"
+  - "https://legora.com/legal"
+last_verified: "2026-10-29"

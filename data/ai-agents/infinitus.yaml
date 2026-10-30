@@ -1,0 +1,32 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "Infinitus"
+slug: "infinitus"
+dataset: "ai-agents"
+company: "Infinitus"
+website: "infinitus.ai"
+segment: "vertical"
+hq:
+  city: "San Francisco"
+  country: "US"
+founded:
+  year: 2019
+  source: "https://www.healthcareittoday.com/2024/11/25/infinitus-systems-raises-51-5-million-series-c-funding-on-the-strength-of-ai-guardrails/"
+status: "active"
+funding:
+  total_usd: 102900000
+  latest_round:
+    name: "Series C"
+    date: "2024-10"
+    amount_usd: 51500000
+  source: "https://www.healthcareittoday.com/2024/11/25/infinitus-systems-raises-51-5-million-series-c-funding-on-the-strength-of-ai-guardrails/"
+pricing:
+  as_listed_by_vendor: "custom"
+  model: "custom"
+sources:
+  - "https://www.healthcareittoday.com/2024/11/25/infinitus-systems-raises-51-5-million-series-c-funding-on-the-strength-of-ai-guardrails/"
+  - "https://techcrunch.com/2021/02/04/infinitus-emerges-from-stealth-with-21m-for-voice-rpa-aimed-at-healthcare-companies/"
+  - "https://web.archive.org/web/2026id_/https://www.infinitus.ai/terms"
+  - "https://web.archive.org/web/2026id_/https://www.infinitus.ai/pricing/"
+  - "https://web.archive.org/web/2026id_/https://www.infinitus.ai/about-us/"
+last_verified: "2026-10-29"

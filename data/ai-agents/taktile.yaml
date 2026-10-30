@@ -1,0 +1,32 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "Taktile"
+slug: "taktile"
+dataset: "ai-agents"
+company: "Taktile"
+product: "AI Agent Manager"
+website: "taktile.com"
+segment: "vertical"
+hq:
+  city: "Berlin"
+  country: "DE"
+founded:
+  year: 2020
+  source: "https://taktile.com/imprint"
+status: "active"
+funding:
+  total_usd: 184000000
+  latest_round:
+    name: "Series C"
+    date: "2026-06"
+    amount_usd: 110000000
+  source: "https://taktile.com/blog/taktile-secures-110m-in-goldman-sachs-led-series-c-to-power-ai-transformation-in-financial-institutions"
+pricing:
+  as_listed_by_vendor: "custom"
+  model: "custom"
+sources:
+  - "https://taktile.com/blog/taktile-secures-110m-in-goldman-sachs-led-series-c-to-power-ai-transformation-in-financial-institutions"
+  - "https://fortune.com/2026/06/24/exclusive-taktile-goldman-sachs-ai-bank-insurance-funding/"
+  - "https://taktile.com/imprint"
+  - "https://taktile.com/about"
+last_verified: "2026-10-29"

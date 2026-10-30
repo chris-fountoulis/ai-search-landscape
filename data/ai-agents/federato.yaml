@@ -1,0 +1,33 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "Federato"
+slug: "federato"
+dataset: "ai-agents"
+company: "Federato"
+product: "RiskOps"
+website: "federato.ai"
+segment: "vertical"
+hq:
+  city: "Palo Alto"
+  country: "US"
+founded:
+  year: 2020
+  source: "https://www.federato.ai/about"
+status: "active"
+funding:
+  total_usd: 180000000
+  latest_round:
+    name: "Series D"
+    date: "2025-11"
+    amount_usd: 100000000
+  source: "https://www.federato.ai/articles/goldman-sachs-100m-series-d"
+pricing:
+  as_listed_by_vendor: "custom"
+  model: "custom"
+sources:
+  - "https://www.federato.ai/articles/goldman-sachs-100m-series-d"
+  - "https://www.intelligentinsurer.com/ai-powers-federato-to-dollar100m-in-goldman-sachs-led-fundraise"
+  - "https://techcrunch.com/2024/11/20/federato-fixes-insurance-risk-analysis-with-ai-raises-40m/"
+  - "https://www.federato.ai/about"
+  - "https://www.federato.ai/privacy-policy"
+last_verified: "2026-10-29"

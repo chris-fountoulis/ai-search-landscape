@@ -1,0 +1,37 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "Rogo"
+slug: "rogo"
+dataset: "ai-agents"
+company: "Rogo"
+product: "Felix by Rogo"
+website: "rogo.ai"
+segment: "vertical"
+hq:
+  city: "New York"
+  country: "US"
+founded:
+  year: 2024
+  source: "https://rogo.com/blog/series-d"
+status: "active"
+funding:
+  total_usd: 325000000
+  latest_round:
+    name: "Series D"
+    date: "2026-04"
+    amount_usd: 160000000
+  source: "https://rogo.com/blog/series-d"
+pricing:
+  as_listed_by_vendor: "custom"
+  model: "custom"
+sources:
+  - "https://rogo.com/blog/series-d"
+  - "https://rogo.com/blog/scaling-rogo-to-build-the-future-of-investment-banking-our-75m-series-c-and-european-expansion"
+  - "https://rogo.com/blog/rogo-announces-50m-series-b"
+  - "https://rogo.com/blog/rogo-series-a-with-khosla-ventures"
+  - "https://rogo.com/blog/announcing-our-seed-round"
+  - "https://rogo.com/blog/strategic-investors"
+  - "https://techcrunch.com/2026/07/05/almost-40-new-unicorns-have-been-minted-so-far-this-year-here-they-are/"
+  - "https://rogo.com/legal/terms-of-use"
+  - "https://fintech.global/2026/01/28/rogo-raises-75m-series-c-to-scale-ai-finance-platform/"
+last_verified: "2026-10-29"

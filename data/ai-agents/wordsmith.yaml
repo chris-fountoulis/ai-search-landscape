@@ -1,0 +1,35 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "Wordsmith"
+slug: "wordsmith"
+dataset: "ai-agents"
+company: "Wordsmith"
+website: "wordsmith.ai"
+segment: "vertical"
+hq:
+  city: "Edinburgh"
+  country: "GB"
+founded:
+  year: 2023
+  source: "https://www.artificiallawyer.com/2026/08/05/wordsmith-celebrates-14m-series-b-extension/"
+status: "active"
+funding:
+  total_usd: 114000000
+  latest_round:
+    name: "Series B extension"
+    date: "2026-08"
+    amount_usd: 14000000
+  source: "https://www.artificiallawyer.com/2026/08/05/wordsmith-celebrates-14m-series-b-extension/"
+pricing:
+  as_listed_by_vendor: "custom"
+  model: "custom"
+sources:
+  - "https://www.artificiallawyer.com/2026/08/05/wordsmith-celebrates-14m-series-b-extension/"
+  - "https://www.artificiallawyer.com/2026/06/03/wordsmith-raises-70m-series-b/"
+  - "https://indexventures.com/perspectives/wordsmith-funding"
+  - "https://tech.eu/2025/06/03/wordsmith-ai-raises-25m-for-agentic-legaltech/"
+  - "https://siliconangle.com/2025/06/04/wordsmith-ai-raises-25m-build-legal-ai-house-teams/"
+  - "https://www.wordsmith.ai/terms-of-service"
+  - "https://www.wordsmith.ai/pricing"
+  - "https://find-and-update.company-information.service.gov.uk/search/companies?q=wordsmith+ai+ltd"
+last_verified: "2026-10-29"
