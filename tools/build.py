@@ -220,6 +220,8 @@ def stats_md(all_stats, vocab):
         out += ["", "### By segment", "", "| Segment | Rows | Disclosed funding |", "|---|---:|---:|"]
         for sid, seg in s["segments"].items():
             out.append(f"| {seg['label']} (`{sid}`) | {seg['rows']} | {money(seg['funding_usd']) or '$0'} |")
+        out += ["", "Segment funding counts each company once per segment. A company with products in several "
+                "segments counts in each of them, so the segment column can add up to more than the total above."]
         out += ["", "### By region", "", "| Region | Rows |", "|---|---:|"]
         out += [f"| {region} | {n} |" for region, n in s["by_region"]]
         out += ["", "### By country", "", "| Country | Code | Rows |", "|---|---|---:|"]

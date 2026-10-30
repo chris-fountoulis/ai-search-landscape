@@ -30,6 +30,8 @@ Study: <https://growthofinfluence.com/ai-search-optimization-companies/>. Last v
 | Established SEO platforms (`incumbents`) | 31 | $174M |
 | Local and small-business products (`local-and-smb`) | 22 | $1.04B |
 
+Segment funding counts each company once per segment. A company with products in several segments counts in each of them, so the segment column can add up to more than the total above.
+
 ### By region
 
 | Region | Rows |
@@ -127,6 +129,8 @@ Study: <https://growthofinfluence.com/ai-agent-companies/>. Last verified: 2026-
 | Marketing and agency agents (`marketing-agency`) | 25 | $1.61B |
 | Agent infrastructure (`infrastructure`) | 103 | $6.20B |
 | Vertical agents (`vertical`) | 25 | $7.38B |
+
+Segment funding counts each company once per segment. A company with products in several segments counts in each of them, so the segment column can add up to more than the total above.
 
 ### By region
 
