@@ -27,10 +27,11 @@ acquisition:
 pricing:
   as_listed_by_vendor: "$20 to $40 (as listed)"
   model: "per seat"
-  source: "https://www.sonarsource.com/company/press-releases/sonar-acquires-gitar/"
+  source: "https://www.sonarsource.com/plans-and-pricing/gitar/"
 sources:
   - "https://www.sonarsource.com/company/press-releases/sonar-acquires-gitar/"
   - "https://techcrunch.com/2026/04/15/gitar-a-startup-that-uses-agents-to-secure-code-emerges-from-stealth-with-9-million/"
   - "https://www.sonarsource.com/products/gitar/"
   - "https://siliconangle.com/2026/05/21/ai-code-quality-startup-sonar-buys-ai-code-review-startup-gitar/"
+  - "https://www.sonarsource.com/plans-and-pricing/gitar/"
 last_verified: "2026-10-30"

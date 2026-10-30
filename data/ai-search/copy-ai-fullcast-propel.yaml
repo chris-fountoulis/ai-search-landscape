@@ -21,9 +21,10 @@ acquisition:
   source: "https://www.fullcast.ai/content/fullcast-announces-the-acquisition-of-copy-ai/"
 pricing:
   as_listed_by_vendor: "$24 to $3,000 (annual); Enterprise custom"
-  source: "https://techcrunch.com/2021/10/14/writing-helper-copy-ai-closes-on-its-second-funding-round-this-year/"
+  source: "https://www.copy.ai/prices"
 sources:
   - "https://techcrunch.com/2021/10/14/writing-helper-copy-ai-closes-on-its-second-funding-round-this-year/"
   - "https://www.fullcast.ai/content/fullcast-announces-the-acquisition-of-copy-ai/"
   - "https://www.copy.ai/blog/series-a"
+  - "https://www.copy.ai/prices"
 last_verified: "2026-10-30"

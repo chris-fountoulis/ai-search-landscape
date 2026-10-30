@@ -21,10 +21,6 @@ funding:
     date: "2025-09"
     amount_usd: 21600000
   source: "https://techcrunch.com/2025/09/28/paid-the-ai-agent-results-based-billing-startup-from-manny-medina-raises-huge-21m-seed/"
-pricing:
-  as_listed_by_vendor: "$29.99 to $79.99 (as listed)"
-  model: "custom"
-  source: "https://techcrunch.com/2025/09/28/paid-the-ai-agent-results-based-billing-startup-from-manny-medina-raises-huge-21m-seed/"
 sources:
   - "https://techcrunch.com/2025/09/28/paid-the-ai-agent-results-based-billing-startup-from-manny-medina-raises-huge-21m-seed/"
   - "https://techcrunch.com/2025/03/25/outreach-founder-manny-medina-has-a-new-startup-that-helps-ai-agents-get-paid/"

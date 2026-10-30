@@ -30,11 +30,12 @@ acquisition:
 pricing:
   as_listed_by_vendor: "$19 to $199 (as listed)"
   model: "flat"
-  source: "https://techcrunch.com/2026/04/08/poke-makes-ai-agents-as-easy-as-sending-a-text/"
+  source: "https://poke.com/pricing"
 sources:
   - "https://cognition.com/blog/interaction"
   - "https://techcrunch.com/2026/04/08/poke-makes-ai-agents-as-easy-as-sending-a-text/"
   - "https://techcrunch.com/2026/10/24/all-the-ai-agents-that-can-live-in-your-text-messages/"
   - "https://poke.com/"
   - "https://poke.com/terms"
+  - "https://poke.com/pricing"
 last_verified: "2026-10-30"
