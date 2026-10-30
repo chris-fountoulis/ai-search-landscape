@@ -1,0 +1,28 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "Delos"
+slug: "delos"
+dataset: "ai-agents"
+company: "Delos"
+product: "Delos AI Workers"
+website: "delos.so"
+segment: "company-brain"
+hq:
+  country: "FR"
+status: "active"
+funding:
+  total_usd: 13916250
+  latest_round:
+    name: "Series A"
+    date: "2026-09"
+    amount_usd: 11133000
+  source: "https://www.lemondeinformatique.fr/actualites/lire-delos-leve-10-meteuro-pour-deployer-ses--ai-workers-100791.html"
+pricing:
+  as_listed_by_vendor: "from $30 (as listed)"
+  model: "per agent"
+  source: "https://delos.so/pricing"
+sources:
+  - "https://www.lemondeinformatique.fr/actualites/lire-delos-leve-10-meteuro-pour-deployer-ses--ai-workers-100791.html"
+  - "https://delos.so/pricing"
+  - "https://delos.so/"
+last_verified: "2026-10-29"

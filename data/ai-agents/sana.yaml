@@ -1,0 +1,34 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "Sana"
+slug: "sana"
+dataset: "ai-agents"
+company: "Sana"
+product: "Sana Agents"
+website: "sana.ai"
+segment: "company-brain"
+hq:
+  city: "Stockholm"
+  country: "SE"
+founded:
+  year: 2016
+  source: "https://techfundingnews.com/swedish-ai-tech-sana-raises-55m-at-500m-valuation-to-redefine-workplace-training-with-ai/"
+status: "acquired"
+funding:
+  total_usd: 137000000
+  source: "https://techfundingnews.com/swedish-ai-tech-sana-raises-55m-at-500m-valuation-to-redefine-workplace-training-with-ai/"
+acquisition:
+  acquirer: "Workday"
+  date: "2025-11"
+  date_type: "closed"
+  source: "https://newsroom.workday.com/2025-11-04-Workday-Completes-Acquisition-of-Sana"
+pricing:
+  as_listed_by_vendor: "custom"
+  model: "custom"
+sources:
+  - "https://newsroom.workday.com/2025-11-04-Workday-Completes-Acquisition-of-Sana"
+  - "https://en-gb.newsroom.workday.com/2025-09-16-Workday-Signs-Definitive-Agreement-to-Acquire-Sana"
+  - "https://techfundingnews.com/swedish-ai-tech-sana-raises-55m-at-500m-valuation-to-redefine-workplace-training-with-ai/"
+  - "https://techcrunch.com/2022/12/13/sana-raises-34m-for-its-ai-based-knowledge-management-and-learning-platform-for-workplaces/"
+  - "https://sanalabs.com/products/sana/pricing"
+last_verified: "2026-10-29"

@@ -1,0 +1,37 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "Moveworks"
+slug: "moveworks"
+dataset: "ai-agents"
+company: "Moveworks"
+website: "moveworks.com"
+segment: "company-brain"
+hq:
+  city: "Mountain View"
+  country: "US"
+founded:
+  year: 2016
+  source: "https://moveworks.com/us/en/company/news/press-releases/moveworks-raises-200-million-series-c-funding"
+status: "acquired"
+funding:
+  total_usd: 315000000
+  latest_round:
+    name: "Series C"
+    date: "2021-06"
+    amount_usd: 200000000
+  source: "https://moveworks.com/us/en/company/news/press-releases/moveworks-raises-200-million-series-c-funding"
+acquisition:
+  acquirer: "ServiceNow"
+  date: "2025-12"
+  date_type: "closed"
+  price_usd: 2850000000
+  source: "https://techcrunch.com/2025/03/10/servicenow-buys-moveworks-for-2-85b-to-grow-its-ai-portfolio/"
+pricing:
+  as_listed_by_vendor: "custom"
+  model: "custom"
+sources:
+  - "https://moveworks.com/us/en/company/news/press-releases/moveworks-raises-200-million-series-c-funding"
+  - "https://techcrunch.com/2025/03/10/servicenow-buys-moveworks-for-2-85b-to-grow-its-ai-portfolio/"
+  - "https://newsroom.servicenow.com/press-releases/details/2025/ServiceNow-completes-acquisition-of-Moveworks/default.aspx"
+  - "https://www.moveworks.com/"
+last_verified: "2026-10-29"

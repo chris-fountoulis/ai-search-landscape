@@ -1,0 +1,33 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "Dust"
+slug: "dust"
+dataset: "ai-agents"
+company: "Dust"
+website: "dust.tt"
+segment: "company-brain"
+hq:
+  city: "Paris"
+  country: "FR"
+founded:
+  year: 2023
+  source: "https://tech.eu/2026/05/18/dust-raises-40m-series-b-to-build-the-multiplayer-operating-system-for-enterprise-ai/"
+status: "active"
+funding:
+  total_usd: 61500000
+  latest_round:
+    name: "Series B"
+    date: "2026-05"
+    amount_usd: 40000000
+  source: "https://tech.eu/2026/05/18/dust-raises-40m-series-b-to-build-the-multiplayer-operating-system-for-enterprise-ai/"
+pricing:
+  as_listed_by_vendor: "EUR 30 to EUR 150 (as listed)"
+  model: "per seat"
+  source: "https://dust.tt/home/pricing"
+sources:
+  - "https://tech.eu/2026/05/18/dust-raises-40m-series-b-to-build-the-multiplayer-operating-system-for-enterprise-ai/"
+  - "https://hackernoon.com/dust-raises-%2440m-led-by-sequoia-and-abstract-to-build-workspace-ai-infrastructure-for-enterprise"
+  - "https://techcrunch.com/2023/06/27/dust-use-large-language-models-on-internal-data-to-improve-team-productivity/"
+  - "https://techcrunch.com/2024/06/27/dust-grabs-another-16-million-for-its-enterprise-ai-assistants-connected-to-internal-data/"
+  - "https://dust.tt/home/pricing"
+last_verified: "2026-10-29"

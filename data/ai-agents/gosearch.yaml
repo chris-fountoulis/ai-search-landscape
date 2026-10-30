@@ -1,0 +1,29 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "GoSearch"
+slug: "gosearch"
+dataset: "ai-agents"
+company: "GoSearch"
+product: "GoSearch"
+website: "gosearch.ai"
+segment: "company-brain"
+hq:
+  city: "San Jose"
+  country: "US"
+founded:
+  year: 2023
+  source: "https://siliconangle.com/2023/12/13/golinks-debuts-ai-powered-search-engine-employee-directory/"
+status: "active"
+funding:
+  total_usd: 27000000
+  source: "https://siliconangle.com/2023/12/13/golinks-debuts-ai-powered-search-engine-employee-directory/"
+pricing:
+  as_listed_by_vendor: "from $20 (as listed)"
+  model: "per seat"
+  source: "https://www.gosearch.ai/pricing"
+sources:
+  - "https://www.gosearch.ai/pricing"
+  - "https://siliconangle.com/2023/12/13/golinks-debuts-ai-powered-search-engine-employee-directory/"
+  - "https://www.gosearch.ai/terms"
+  - "https://www.golinks.io/about.php"
+last_verified: "2026-10-29"

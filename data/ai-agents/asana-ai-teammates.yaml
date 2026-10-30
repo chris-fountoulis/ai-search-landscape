@@ -1,0 +1,25 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "Asana (AI Teammates)"
+slug: "asana-ai-teammates"
+dataset: "ai-agents"
+company: "Asana"
+product: "AI Teammates"
+website: "asana.com"
+segment: "company-brain"
+hq:
+  city: "San Francisco"
+  country: "US"
+status: "active"
+public_company: true
+pricing:
+  as_listed_by_vendor: "$13.49 to $30.49 (as listed)"
+  model: "per seat"
+  source: "https://asana.com/pricing"
+sources:
+  - "https://asana.com/pricing"
+  - "https://asana.com/product/ai/ai-teammates"
+  - "https://techcrunch.com/2024/06/05/asana-introduces-ai-teammates-designed-to-work-alongside-human-employees/"
+  - "https://asana.com/company"
+  - "https://asana.com/terms"
+last_verified: "2026-10-29"

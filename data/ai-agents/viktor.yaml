@@ -1,0 +1,31 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "Viktor"
+slug: "viktor"
+dataset: "ai-agents"
+company: "Viktor"
+product: "Viktor"
+website: "viktor.com"
+segment: "company-brain"
+founded:
+  year: 2026
+  source: "https://viktor.com/impressum"
+status: "active"
+funding:
+  total_usd: 75000000
+  latest_round:
+    name: "Series A"
+    date: "2026-05"
+    amount_usd: 75000000
+  source: "https://fortune.com/2026/05/19/viktor-ai-startup-raises-75-million-for-virtual-coworker-exclusive/"
+pricing:
+  as_listed_by_vendor: "from $100 (as listed)"
+  model: "usage or credits"
+  source: "https://viktor.com/pricing"
+sources:
+  - "https://fortune.com/2026/05/19/viktor-ai-startup-raises-75-million-for-virtual-coworker-exclusive/"
+  - "https://accel.com/news/welcome-viktor-the-ai-coworker-for-the-modern-workplace"
+  - "https://viktor.com/pricing"
+  - "https://viktor.com/impressum"
+  - "https://vestbee.com/insights/articles/viktor-raises-75-m"
+last_verified: "2026-10-29"

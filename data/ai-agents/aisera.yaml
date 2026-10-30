@@ -1,0 +1,37 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "Aisera"
+slug: "aisera"
+dataset: "ai-agents"
+company: "Aisera"
+website: "aisera.com"
+segment: "company-brain"
+hq:
+  city: "Santa Clara"
+  country: "US"
+founded:
+  year: 2017
+  source: "https://techcrunch.com/2022/08/03/aisera-lands-90m-to-automate-customer-service-requests-with-ai/"
+status: "acquired"
+funding:
+  total_usd: 180000000
+  latest_round:
+    name: "Series D"
+    date: "2022-08"
+    amount_usd: 90000000
+  source: "https://techcrunch.com/2022/08/03/aisera-lands-90m-to-automate-customer-service-requests-with-ai/"
+acquisition:
+  acquirer: "Automation Anywhere"
+  date: "2025-11"
+  date_type: "closed"
+  source: "https://www.automationanywhere.com/company/press-room/automation-anywhere-acquires-aisera-supercharge-autonomous-enterprise"
+pricing:
+  as_listed_by_vendor: "custom"
+  model: "custom"
+sources:
+  - "https://www.automationanywhere.com/company/press-room/automation-anywhere-acquires-aisera-supercharge-autonomous-enterprise"
+  - "https://techcrunch.com/2022/08/03/aisera-lands-90m-to-automate-customer-service-requests-with-ai/"
+  - "https://techcrunch.com/2020/02/18/aisera-an-ai-tool-to-help-with-customer-service-and-internal-operations-exits-stealth-with-50m/"
+  - "https://aisera.com/privacy-policy/"
+  - "https://aisera.com/"
+last_verified: "2026-10-29"

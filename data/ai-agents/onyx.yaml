@@ -1,0 +1,38 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "Onyx"
+slug: "onyx"
+dataset: "ai-agents"
+company: "Onyx"
+website: "onyx.app"
+segment: "company-brain"
+hq:
+  city: "San Francisco"
+  country: "US"
+founded:
+  year: 2023
+  source: "https://news.zoom.com/zoom-acquires-onyx-adding-open-source-enterprise-knowledge-search-to-zoom-ai-services/"
+status: "acquired"
+funding:
+  total_usd: 10000000
+  latest_round:
+    name: "Seed"
+    date: "2025-03"
+    amount_usd: 10000000
+  source: "https://news.zoom.com/zoom-acquires-onyx-adding-open-source-enterprise-knowledge-search-to-zoom-ai-services/"
+acquisition:
+  acquirer: "Zoom"
+  date: "2026-10"
+  date_type: "closed"
+  source: "https://news.zoom.com/zoom-acquires-onyx-adding-open-source-enterprise-knowledge-search-to-zoom-ai-services/"
+pricing:
+  as_listed_by_vendor: "from $20 (as listed)"
+  model: "per seat"
+  source: "https://onyx.app/pricing"
+sources:
+  - "https://news.zoom.com/zoom-acquires-onyx-adding-open-source-enterprise-knowledge-search-to-zoom-ai-services/"
+  - "https://onyx.app/blog/onyx-joins-zoom"
+  - "https://onyx.app/pricing"
+  - "https://techcrunch.com/2025/03/12/why-onyx-thinks-its-open-source-solution-will-win-enterprise-search/"
+  - "https://github.com/onyx-dot-app/onyx/blob/main/LICENSE"
+last_verified: "2026-10-29"

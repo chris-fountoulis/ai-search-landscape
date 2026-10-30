@@ -1,0 +1,30 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "Egnyte"
+slug: "egnyte"
+dataset: "ai-agents"
+company: "Egnyte"
+product: "Egnyte AI (AI Agents)"
+website: "egnyte.com"
+segment: "company-brain"
+hq:
+  city: "Mountain View"
+  country: "US"
+founded:
+  year: 2008
+  source: "https://www.ta.com/news/egnyte-announces-majority-investment-from-gi-partners-and-ta/"
+status: "active"
+funding:
+  total_usd: 137000000
+  source: "https://www.ta.com/news/egnyte-announces-majority-investment-from-gi-partners-and-ta/"
+pricing:
+  as_listed_by_vendor: "$22 to $48 (as listed)"
+  model: "per seat"
+  source: "https://www.egnyte.com/pricing"
+sources:
+  - "https://www.ta.com/news/egnyte-announces-majority-investment-from-gi-partners-and-ta/"
+  - "https://techcrunch.com/2023/07/19/egnyte-storage-ipo/"
+  - "https://techcrunch.com/2022/02/10/with-steady-growth-egnyte-reaches-150m-arr-and-looks-to-future-ipo/"
+  - "https://www.egnyte.com/pricing"
+  - "https://www.egnyte.com/ai"
+last_verified: "2026-10-29"

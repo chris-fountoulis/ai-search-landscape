@@ -1,0 +1,26 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "Zoom"
+slug: "zoom"
+dataset: "ai-agents"
+company: "Zoom"
+product: "ZoomMate (formerly AI Companion)"
+website: "zoom.com"
+segment: "company-brain"
+hq:
+  city: "San Jose"
+  country: "US"
+founded:
+  year: 2011
+  source: "https://www.zoom.com/en/about/"
+status: "active"
+public_company: true
+pricing:
+  as_listed_by_vendor: "from EUR 18.4 (as listed)"
+  model: "per seat"
+  source: "https://www.zoom.com/en/products/ai-assistant/"
+sources:
+  - "https://www.zoom.com/en/products/ai-assistant/"
+  - "https://www.zoom.com/en/about/"
+  - "https://www.zoom.com/en/trust/terms/"
+last_verified: "2026-10-29"

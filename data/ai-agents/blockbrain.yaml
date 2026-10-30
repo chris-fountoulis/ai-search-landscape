@@ -1,0 +1,31 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "Blockbrain"
+slug: "blockbrain"
+dataset: "ai-agents"
+company: "Blockbrain"
+website: "blockbrain.ai"
+segment: "company-brain"
+hq:
+  city: "Stuttgart"
+  country: "DE"
+founded:
+  year: 2022
+  source: "https://blockbrain.ai/impressum"
+status: "active"
+funding:
+  total_usd: 25049250
+  latest_round:
+    name: "Series A"
+    date: "2026-02"
+    amount_usd: 19482750
+  source: "https://www.starting-up.de/news/news-investments/blockbrain-sichert-sich-175-mio-euro-in-series-a-runde.html"
+pricing:
+  as_listed_by_vendor: "custom"
+  model: "custom"
+sources:
+  - "https://www.starting-up.de/news/news-investments/blockbrain-sichert-sich-175-mio-euro-in-series-a-runde.html"
+  - "https://blockbrain.ai/impressum"
+  - "https://blockbrain.ai/presse"
+  - "https://www.thesaasnews.com/news/blockbrain-raises-17-5-million-in-series-a"
+last_verified: "2026-10-29"

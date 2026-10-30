@@ -1,0 +1,25 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "Microsoft (Microsoft 365 Copilot)"
+slug: "microsoft-microsoft-365-copilot"
+dataset: "ai-agents"
+company: "Microsoft"
+product: "Microsoft 365 Copilot"
+website: "microsoft.com"
+segment: "company-brain"
+hq:
+  city: "Redmond"
+  country: "US"
+status: "active"
+public_company: true
+pricing:
+  as_listed_by_vendor: "$21 to $30 (as listed)"
+  model: "per seat"
+  source: "https://www.microsoft.com/en-us/microsoft-365-copilot/pricing"
+sources:
+  - "https://www.microsoft.com/en-us/microsoft-365-copilot/pricing"
+  - "https://www.microsoft.com/en-us/microsoft-365-copilot/pricing/copilot-studio"
+  - "https://techcrunch.com/2023/10/25/microsoft-alphabet-earnings-ai-analysis/"
+  - "https://techcrunch.com/2026/04/29/microsoft-says-it-has-over-20m-paid-copilot-users-and-they-really-are-using-it/"
+  - "https://www.microsoft.com/en-us/legal/terms-of-use"
+last_verified: "2026-10-29"

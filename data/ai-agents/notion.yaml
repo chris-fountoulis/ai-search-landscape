@@ -1,0 +1,24 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "Notion"
+slug: "notion"
+dataset: "ai-agents"
+company: "Notion"
+product: "Notion AI and Custom Agents"
+website: "notion.com"
+segment: "company-brain"
+hq:
+  city: "San Francisco"
+  country: "US"
+status: "active"
+pricing:
+  as_listed_by_vendor: "EUR 9.5 to EUR 19.5 (as listed)"
+  model: "per seat"
+  source: "https://www.notion.com/pricing"
+sources:
+  - "https://www.notion.com/pricing"
+  - "https://notion.com/blog/gic-sequoia-index-purchase-notion-shares"
+  - "https://www.notion.com/about"
+  - "https://www.notion.com/product/agents"
+  - "https://techcrunch.com/2025/09/18/notion-launches-agents-for-data-analysis-and-task-automation/"
+last_verified: "2026-10-29"

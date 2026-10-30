@@ -1,0 +1,34 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "Sentra"
+slug: "sentra"
+dataset: "ai-agents"
+company: "Sentra"
+product: "Sentra"
+website: "sentra.app"
+segment: "company-brain"
+hq:
+  city: "San Francisco"
+  country: "US"
+founded:
+  year: 2025
+  source: "https://siliconangle.com/2026/01/28/sentra-app-raises-5m-build-ai-teammate-organize-enterprise-memory/"
+status: "active"
+funding:
+  total_usd: 5000000
+  latest_round:
+    name: "Seed"
+    date: "2026-01"
+    amount_usd: 5000000
+  source: "https://siliconangle.com/2026/01/28/sentra-app-raises-5m-build-ai-teammate-organize-enterprise-memory/"
+pricing:
+  as_listed_by_vendor: "from $16 (as listed)"
+  model: "per seat"
+  source: "https://www.sentra.app/pricing"
+sources:
+  - "https://siliconangle.com/2026/01/28/sentra-app-raises-5m-build-ai-teammate-organize-enterprise-memory/"
+  - "https://www.sentra.app/pricing"
+  - "https://www.sentra.app/terms"
+  - "https://speedrun.a16z.com/companies/sentra"
+  - "https://www.vcaonline.com/news/2026012815/sentra-app-raises-5m-to-build-the-collective-mind-for-next-generation-enterprises/"
+last_verified: "2026-10-29"

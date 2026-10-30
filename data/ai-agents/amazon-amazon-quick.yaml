@@ -1,0 +1,24 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "Amazon (Amazon Quick)"
+slug: "amazon-amazon-quick"
+dataset: "ai-agents"
+company: "Amazon"
+product: "Amazon Quick"
+website: "amazon.com"
+segment: "company-brain"
+hq:
+  city: "Seattle"
+  country: "US"
+status: "active"
+public_company: true
+pricing:
+  as_listed_by_vendor: "$20 to $125 (as listed)"
+  model: "per seat"
+  source: "https://aws.amazon.com/quick/pricing/"
+sources:
+  - "https://aws.amazon.com/quick/pricing/"
+  - "https://aws.amazon.com/agreement/"
+  - "https://www.theregister.com/2025/10/09/amazons_quick_suite/"
+  - "https://aws.amazon.com/quick/"
+last_verified: "2026-10-29"

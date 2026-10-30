@@ -1,0 +1,39 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "Sinequa"
+slug: "sinequa"
+dataset: "ai-agents"
+company: "Sinequa"
+product: "Sinequa Enterprise AI Agents"
+website: "sinequa.com"
+segment: "company-brain"
+hq:
+  city: "Suresnes"
+  country: "FR"
+founded:
+  year: 2002
+  source: "https://www.sinequa.com/legal-information/"
+status: "acquired"
+funding:
+  total_usd: 23000000
+  latest_round:
+    name: "Series B"
+    date: "2019-07"
+    amount_usd: 23000000
+  source: "https://jolt-capital.com/news/sinequa-acquired-by-chapsvision"
+acquisition:
+  acquirer: "ChapsVision"
+  date: "2024-11"
+  date_type: "closed"
+  source: "https://jolt-capital.com/news/sinequa-acquired-by-chapsvision"
+pricing:
+  as_listed_by_vendor: "custom"
+  model: "custom"
+sources:
+  - "https://jolt-capital.com/news/sinequa-acquired-by-chapsvision"
+  - "https://tech.eu/2019/07/09/french-ai-tech-company-sinequa-raises-23-million-from-jolt-capital-and-others"
+  - "https://www.sinequa.com/legal-information/"
+  - "https://www.sinequa.com/company/"
+  - "https://www.sinequa.com/company/press/"
+  - "https://tech-clarity.com/chapsvision-shares-ai-progress/23208"
+last_verified: "2026-10-29"

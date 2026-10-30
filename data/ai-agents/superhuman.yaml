@@ -1,0 +1,24 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "Superhuman"
+slug: "superhuman"
+dataset: "ai-agents"
+company: "Superhuman"
+product: "Superhuman Go"
+website: "superhuman.com"
+segment: "company-brain"
+hq:
+  city: "San Francisco"
+  country: "US"
+status: "active"
+pricing:
+  as_listed_by_vendor: "EUR 12 to EUR 40 (as listed)"
+  model: "per seat"
+  source: "https://superhuman.com/plans/go"
+sources:
+  - "https://superhuman.com/plans/go"
+  - "https://superhuman.com/legal/terms"
+  - "https://techcrunch.com/2025/05/29/grammarly-secures-1b-in-non-dilutive-funding-from-general-catalyst/"
+  - "https://techcrunch.com/2025/10/29/grammarly-rebrands-to-superhuman-launches-a-new-ai-assistant/"
+  - "https://techcrunch.com/2026/09/14/superhuman-acquires-yc-backed-notetaker-fathom-as-productivity-platforms-push-for-agentic-work/"
+last_verified: "2026-10-29"

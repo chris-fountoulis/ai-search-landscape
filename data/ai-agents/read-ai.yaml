@@ -1,0 +1,35 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "Read AI"
+slug: "read-ai"
+dataset: "ai-agents"
+company: "Read AI"
+product: "Ada (digital twin) and Search Copilot"
+website: "read.ai"
+segment: "company-brain"
+hq:
+  city: "Seattle"
+  country: "US"
+founded:
+  year: 2021
+  source: "https://www.read.ai/about"
+status: "active"
+funding:
+  total_usd: 81000000
+  latest_round:
+    name: "Series B"
+    date: "2024-10"
+    amount_usd: 50000000
+  source: "https://techcrunch.com/2024/10/28/read-ai-raises-50m-to-integrate-its-bot-with-slack-email-and-more/"
+pricing:
+  as_listed_by_vendor: "$19.75 to $39.75 (as listed)"
+  model: "per seat"
+  source: "https://www.read.ai/plans-pricing"
+sources:
+  - "https://www.read.ai/about"
+  - "https://techcrunch.com/2026/02/26/read-ai-launches-an-email-based-digital-twin-to-help-you-with-schedules-and-answers/"
+  - "https://techcrunch.com/2024/10/28/read-ai-raises-50m-to-integrate-its-bot-with-slack-email-and-more/"
+  - "https://uk.finance.yahoo.com/news/ai-startup-read-announces-funding-120358434.html"
+  - "https://www.read.ai/plans-pricing"
+  - "https://www.read.ai/press"
+last_verified: "2026-10-29"

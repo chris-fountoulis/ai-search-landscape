@@ -1,0 +1,33 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "Mistral AI"
+slug: "mistral-ai"
+dataset: "ai-agents"
+company: "Mistral AI"
+product: "Mistral Vibe (formerly Le Chat)"
+website: "mistral.ai"
+segment: "company-brain"
+hq:
+  city: "Paris"
+  country: "FR"
+founded:
+  year: 2023
+  source: "https://mistral.ai/about"
+status: "active"
+model_lab: true
+funding:
+  latest_round:
+    name: "Series D"
+    date: "2026-09"
+    amount_usd: 3339900000
+  source: "https://techcrunch.com/2026/09/08/mistral-raises-e3b-as-sovereign-ai-becomes-big-business/"
+pricing:
+  as_listed_by_vendor: "$14.99 to $24.99 (as listed)"
+  model: "per seat"
+  source: "https://mistral.ai/pricing"
+sources:
+  - "https://techcrunch.com/2026/09/08/mistral-raises-e3b-as-sovereign-ai-becomes-big-business/"
+  - "https://mistral.ai/pricing"
+  - "https://mistral.ai/products/vibe/"
+  - "https://mistral.ai/about"
+last_verified: "2026-10-29"

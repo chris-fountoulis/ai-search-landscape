@@ -1,0 +1,31 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "Leena AI"
+slug: "leena-ai"
+dataset: "ai-agents"
+company: "Leena AI"
+product: "AI Colleagues"
+website: "leena.ai"
+segment: "company-brain"
+hq:
+  city: "New York"
+  country: "US"
+founded:
+  year: 2018
+  source: "https://leena.ai/blog/series-b-weve-raised-30m-and-are-all-set-for-our-next-growth-chapter"
+status: "active"
+funding:
+  total_usd: 40000000
+  latest_round:
+    name: "Series B"
+    date: "2021-09"
+    amount_usd: 30000000
+  source: "https://leena.ai/blog/series-b-weve-raised-30m-and-are-all-set-for-our-next-growth-chapter"
+pricing:
+  as_listed_by_vendor: "custom"
+  model: "custom"
+sources:
+  - "https://leena.ai/blog/series-b-weve-raised-30m-and-are-all-set-for-our-next-growth-chapter"
+  - "https://leena.ai/pricing"
+  - "https://techcrunch.com/2020/11/02/leena-ai-nabs-8m-series-as-it-expands-from-chatbots-to-hr-service-platform/"
+last_verified: "2026-10-29"

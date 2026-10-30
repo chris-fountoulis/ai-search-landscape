@@ -1,0 +1,33 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "Glean"
+slug: "glean"
+dataset: "ai-agents"
+company: "Glean"
+product: "Glean Agents"
+website: "glean.com"
+segment: "company-brain"
+hq:
+  city: "San Francisco"
+  country: "US"
+founded:
+  year: 2019
+  source: "https://www.glean.com/about"
+status: "active"
+funding:
+  latest_round:
+    name: "Series F"
+    date: "2025-06"
+    amount_usd: 150000000
+  source: "https://techcrunch.com/2026/05/28/gleans-top-line-crosses-300m-as-ai-budget-cutting-becomes-its-major-selling-point/"
+pricing:
+  as_listed_by_vendor: "custom"
+  model: "custom"
+sources:
+  - "https://techcrunch.com/2026/05/28/gleans-top-line-crosses-300m-as-ai-budget-cutting-becomes-its-major-selling-point/"
+  - "https://www.glean.com/press/glean-surpasses-300m-arr-unrivaled-enterprise-context-fuels-ai-adoption"
+  - "https://techcrunch.com/2025/06/10/enterprise-ai-startup-glean-lands-a-7-2b-valuation/"
+  - "https://www.glean.com/website-terms"
+  - "https://www.glean.com/about"
+  - "https://www.glean.com/pricing"
+last_verified: "2026-10-29"

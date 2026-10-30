@@ -1,0 +1,33 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "ClickUp"
+slug: "clickup"
+dataset: "ai-agents"
+company: "ClickUp"
+product: "ClickUp Brain (Super Agents)"
+website: "clickup.com"
+segment: "company-brain"
+hq:
+  city: "San Diego"
+  country: "US"
+founded:
+  year: 2017
+  source: "https://clickup.com/blog/clickup-raises-400m-in-series-c-funding/"
+status: "active"
+funding:
+  total_usd: 535000000
+  latest_round:
+    name: "Series C"
+    date: "2021-10"
+    amount_usd: 400000000
+  source: "https://clickup.com/blog/clickup-raises-400m-in-series-c-funding/"
+pricing:
+  as_listed_by_vendor: "$12 to $120 (as listed)"
+  model: "per seat"
+  source: "https://clickup.com/pricing"
+sources:
+  - "https://clickup.com/blog/clickup-raises-400m-in-series-c-funding/"
+  - "https://clickup.com/pricing"
+  - "https://clickup.com/terms"
+  - "https://siliconangle.com/2026/05/12/exclusive-clickup-endows-brain-assistant-agentic-capabilities/"
+last_verified: "2026-10-29"

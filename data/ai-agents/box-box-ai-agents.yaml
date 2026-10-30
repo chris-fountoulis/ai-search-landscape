@@ -1,0 +1,23 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "Box (Box AI Agents)"
+slug: "box-box-ai-agents"
+dataset: "ai-agents"
+company: "Box"
+product: "Box Agent (Box AI Agents)"
+website: "box.com"
+segment: "company-brain"
+hq:
+  city: "Redwood City"
+  country: "US"
+status: "active"
+public_company: true
+pricing:
+  as_listed_by_vendor: "custom"
+  model: "per seat"
+sources:
+  - "https://www.box.com/ai"
+  - "https://www.box.com/pricing"
+  - "https://www.box.com/about-us"
+  - "https://siliconangle.com/2025/05/15/box-expands-toolbox-ai-agents-search-research-data-extraction/"
+last_verified: "2026-10-29"
