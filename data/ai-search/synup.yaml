@@ -14,10 +14,10 @@ founded:
   source: "https://inc42.com/buzz/synup-funding-vertex-ventures-marketing"
 status: "active"
 funding:
-  total_usd: 6500000
+  total_usd: 6000000
   latest_round:
     name: "Series A"
-  source: "https://inc42.com/buzz/synup-funding-vertex-ventures-marketing"
+  source: "https://entrackr.com/2017/09/synup-gets-6-mn"
 pricing:
   as_listed_by_vendor: "$49 to $899; Enterprise custom"
   source: "https://www.synup.com/pricing"
@@ -26,4 +26,4 @@ sources:
   - "https://entrackr.com/2017/09/synup-gets-6-mn"
   - "https://www.cbinsights.com/company/synup/financials"
   - "https://www.synup.com/pricing"
-last_verified: "2026-10-26"
+last_verified: "2026-10-30"

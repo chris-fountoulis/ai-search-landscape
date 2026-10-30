@@ -11,7 +11,7 @@ hq:
   country: "US"
 founded:
   year: 2006
-  source: "https://reputation.com/press-room/reputation-announces-150-million-growth-funding-round-to-drive-dominance-in-the-customer-feedback-market/"
+  source: "https://law.stanford.edu/stanford-lawyer/articles/that-stanford-thing-the-story-of-a-startup-and-the-students-behind-it/"
 status: "active"
 funding:
   latest_round:
@@ -23,4 +23,5 @@ sources:
   - "https://reputation.com/press-room/reputation-announces-150-million-growth-funding-round-to-drive-dominance-in-the-customer-feedback-market/"
   - "https://www.localogy.com/2022/01/reputation-lands-150m-in-growth-funding-and-100m-arr"
   - "https://en.wikipedia.org/wiki/Reputation.com"
-last_verified: "2026-10-26"
+  - "https://law.stanford.edu/stanford-lawyer/articles/that-stanford-thing-the-story-of-a-startup-and-the-students-behind-it/"
+last_verified: "2026-10-30"

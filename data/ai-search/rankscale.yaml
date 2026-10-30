@@ -11,7 +11,7 @@ hq:
   country: "AT"
 founded:
   year: 2024
-  source: "https://rankscale.ai/pricing"
+  source: "https://rankscale.ai/"
 status: "active"
 pricing:
   as_listed_by_vendor: "$20 to $780 list (lower on yearly billing); custom"
@@ -19,4 +19,5 @@ pricing:
 sources:
   - "https://rankscale.ai/pricing"
   - "https://getlatka.com/companies/countries/austria/cities/k%C3%B6nigstetten?cap=small"
-last_verified: "2026-10-26"
+  - "https://rankscale.ai/"
+last_verified: "2026-10-30"

@@ -16,6 +16,9 @@ funding:
   latest_round:
     name: "Series A"
   source: "https://runtimewire.com/article/azoma-series-a-ai-shopping-agents"
+  total_sources:
+    - "https://startuprise.co.uk/london-based-azoma-raises-4m-to-accelerate-growth/"
+    - "https://runtimewire.com/article/azoma-series-a-ai-shopping-agents"
 pricing:
   as_listed_by_vendor: "custom"
 sources:

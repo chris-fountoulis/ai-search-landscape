@@ -10,7 +10,7 @@ hq:
   country: "US"
 founded:
   year: 2023
-  source: "https://scrunch.com/about"
+  source: "https://techcrunch.com/2025/03/04/scrunch-ai-is-helping-companies-stand-out-in-ai-search"
 status: "acquired"
 funding:
   total_usd: 26000000
@@ -34,4 +34,5 @@ sources:
   - "https://scrunch.com/about"
   - "https://www.bandt.com.au/sitecore-acquires-scrunch-in-potential-225-million-deal/"
   - "https://scrunch.com/pricing"
-last_verified: "2026-10-26"
+  - "https://techcrunch.com/2025/03/04/scrunch-ai-is-helping-companies-stand-out-in-ai-search"
+last_verified: "2026-10-30"

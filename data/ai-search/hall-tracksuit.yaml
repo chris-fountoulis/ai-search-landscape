@@ -11,21 +11,23 @@ hq:
   country: "AU"
 founded:
   year: 2023
-  source: "https://direct.businessnewsaustralia.com/articles/blackbird-tips--2m-into-sydney-startup-that-measures-brand-performance-in-ai-search.html"
+  source: "https://www.bandt.com.au/tracksuit-acquires-ai-brand-monitoring-startup-hall/"
 status: "acquired"
 funding:
   total_usd: 2000000
   latest_round:
     name: "Pre-seed"
-  source: "https://direct.businessnewsaustralia.com/articles/blackbird-tips--2m-into-sydney-startup-that-measures-brand-performance-in-ai-search.html"
+  source: "https://www.startupdaily.net/topic/funding/ai-marketing-startup-raises-2-million-pre-seed-for-post-google-seo-solutions/"
 acquisition:
   acquirer: "Tracksuit"
   date: "2026-07"
   date_type: "announced"
-  source: "https://www.bandt.com.au/tracksuit-acquires-ai-brand-monitoring-startup-hall/"
+  source: "https://blackbird.vc/blog/when-two-portfolio-companies-join-forces-tracksuit-acquires-hall"
 pricing:
   as_listed_by_vendor: "n/a (folded into Tracksuit)"
 sources:
   - "https://www.bandt.com.au/tracksuit-acquires-ai-brand-monitoring-startup-hall/"
   - "https://direct.businessnewsaustralia.com/articles/blackbird-tips--2m-into-sydney-startup-that-measures-brand-performance-in-ai-search.html"
-last_verified: "2026-10-26"
+  - "https://www.startupdaily.net/topic/funding/ai-marketing-startup-raises-2-million-pre-seed-for-post-google-seo-solutions/"
+  - "https://blackbird.vc/blog/when-two-portfolio-companies-join-forces-tracksuit-acquires-hall"
+last_verified: "2026-10-30"

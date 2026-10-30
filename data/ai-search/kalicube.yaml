@@ -12,7 +12,7 @@ hq:
   source: "https://kalicube.com/about/kalicube-head-office/"
 founded:
   year: 2015
-  source: "https://kalicube.com/about/kalicube-head-office/"
+  source: "https://kalicube.com/about/"
 status: "active"
 pricing:
   as_listed_by_vendor: "custom (free audit)"

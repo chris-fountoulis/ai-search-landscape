@@ -17,7 +17,7 @@ funding:
     date: "2026-08"
     amount_usd: 240000000
     valuation_usd: 2300000000
-  source: "https://am.gs.com/en-ae/advisors/news/press-release/2026/owner-raises-240m-gs-alts"
+  source: "https://sacra.com/c/owner"
 pricing:
   as_listed_by_vendor: "$249 to $499 (Flexible 249 plus 5% per order; Flat Rate 499)"
   source: "https://www.owner.com/pricing"
@@ -25,4 +25,4 @@ sources:
   - "https://am.gs.com/en-ae/advisors/news/press-release/2026/owner-raises-240m-gs-alts"
   - "https://sacra.com/c/owner"
   - "https://www.owner.com/pricing"
-last_verified: "2026-10-26"
+last_verified: "2026-10-30"

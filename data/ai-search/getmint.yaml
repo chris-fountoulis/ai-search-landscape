@@ -14,7 +14,7 @@ funding:
   total_usd: 4320000
   latest_round:
     name: "Pre-seed"
-  source: "https://funding.tech.eu/deals/C01AA63C-9613-441A-9C10-9706793FCC28"
+  source: "https://www.getmint.ai/"
 pricing:
   as_listed_by_vendor: "custom"
   source: "https://www.getmint.ai/pricing"
@@ -22,4 +22,4 @@ sources:
   - "https://funding.tech.eu/deals/C01AA63C-9613-441A-9C10-9706793FCC28"
   - "https://www.getmint.ai/"
   - "https://www.getmint.ai/pricing"
-last_verified: "2026-10-26"
+last_verified: "2026-10-30"

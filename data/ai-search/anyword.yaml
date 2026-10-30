@@ -12,13 +12,13 @@ hq:
   source: "https://www.anyword.com/blog/series-b-funding-round"
 founded:
   year: 2013
-  source: "https://www.businesswire.com/news/home/20211118005193/en/Anyword-an-AI-based-Tool-That-Combines-Language-Models-With-Performance-Data-to-Reinvent-Writing-for-Marketing-and-Sales-Raises-$21-Million-in-New-Funding"
+  source: "https://thewisemarketer.com/anyword-introduces-first-language-optimization-platform-for-performance-marketing/"
 status: "active"
 funding:
   total_usd: 30000000
   latest_round:
     name: "Series B"
-  source: "https://www.businesswire.com/news/home/20211118005193/en/Anyword-an-AI-based-Tool-That-Combines-Language-Models-With-Performance-Data-to-Reinvent-Writing-for-Marketing-and-Sales-Raises-$21-Million-in-New-Funding"
+  source: "https://www.calcalistech.com/ctech/articles/0,7340,L-3922904,00.html"
 pricing:
   as_listed_by_vendor: "$49 to $99; Business and Enterprise custom"
   source: "https://www.anyword.com/blog/series-b-funding-round"
@@ -27,4 +27,5 @@ sources:
   - "https://www.anyword.com/blog/series-b-funding-round"
   - "https://www.calcalistech.com/ctech/articles/0,7340,L-3922904,00.html"
   - "https://en.wikipedia.org/wiki/Anyword"
+  - "https://thewisemarketer.com/anyword-introduces-first-language-optimization-platform-for-performance-marketing/"
 last_verified: "2026-10-30"

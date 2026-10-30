@@ -15,11 +15,12 @@ funding:
   total_usd: 2000000
   latest_round:
     name: "Pre-seed"
-  source: "https://www.benzinga.com/25/05/45253407/marketers-are-panicking-about-chatgpts-impact-on-seo-gumshoe-just-raised-2m-from-top-tech-veterans-to-solve-the-a"
+  source: "https://www.geekwire.com/2025/marketers-are-freaking-out-about-ai-search-this-seattle-startup-just-raised-2m-to-help/"
 pricing:
   as_listed_by_vendor: "$99 to $299 per project (Starter, Pro)"
   source: "https://gumshoe.ai/pricing"
 sources:
   - "https://www.benzinga.com/25/05/45253407/marketers-are-panicking-about-chatgpts-impact-on-seo-gumshoe-just-raised-2m-from-top-tech-veterans-to-solve-the-a"
   - "https://gumshoe.ai/pricing"
+  - "https://www.geekwire.com/2025/marketers-are-freaking-out-about-ai-search-this-seattle-startup-just-raised-2m-to-help/"
 last_verified: "2026-10-30"

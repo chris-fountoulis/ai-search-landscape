@@ -11,11 +11,12 @@ hq:
   country: "US"
 founded:
   year: 2012
-  source: "https://siegemedia.com/team"
+  source: "https://www.siegemedia.com/"
 status: "active"
 pricing:
   as_listed_by_vendor: "custom"
 sources:
   - "https://siegemedia.com/team"
   - "https://ghost.bitscale.ai/siege-media/"
-last_verified: "2026-10-26"
+  - "https://www.siegemedia.com/"
+last_verified: "2026-10-30"

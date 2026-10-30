@@ -11,7 +11,7 @@ hq:
   country: "US"
 founded:
   year: 2006
-  source: "https://www.sec.gov/Archives/edgar/data/1614178/000162828026016005/ex991q4fy26earningsrelease.htm"
+  source: "https://www.sec.gov/Archives/edgar/data/1614178/000161417818000095/form10-kfy18.htm"
 status: "active"
 public_company: true
 pricing:
@@ -19,4 +19,5 @@ pricing:
 sources:
   - "https://www.sec.gov/Archives/edgar/data/1614178/000162828026016005/ex991q4fy26earningsrelease.htm"
   - "https://www.nasdaq.com/articles/yext-ceo-withdraws-9-shr-buyout-proposal-plans-150-mln-tender"
-last_verified: "2026-10-26"
+  - "https://www.sec.gov/Archives/edgar/data/1614178/000161417818000095/form10-kfy18.htm"
+last_verified: "2026-10-30"

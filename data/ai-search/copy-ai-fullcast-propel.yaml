@@ -8,9 +8,6 @@ website: "copy.ai"
 segment: "content-automation"
 hq:
   country: "US"
-founded:
-  year: 2020
-  source: "https://techcrunch.com/2021/10/14/writing-helper-copy-ai-closes-on-its-second-funding-round-this-year/"
 status: "acquired"
 funding:
   total_usd: 13900000

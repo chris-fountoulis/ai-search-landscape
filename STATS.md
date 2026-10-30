@@ -14,10 +14,10 @@ Study: <https://growthofinfluence.com/ai-search-optimization-companies/>. Last v
 | Companies | 151 |
 | Countries (HQ known) | 28 |
 | Rows with HQ country | 144 |
-| Disclosed equity funding | $2.60B across 43 companies |
+| Disclosed equity funding | $2.59B across 43 companies |
 | Acquired | 16 |
 | Public companies | 5 |
-| Founded year known | 72 (25 founded 2023 or later) |
+| Founded year known | 70 (25 founded 2023 or later) |
 | Price published with a source | 88 |
 
 ### By segment
@@ -26,7 +26,7 @@ Study: <https://growthofinfluence.com/ai-search-optimization-companies/>. Last v
 |---|---:|---:|
 | AI search visibility trackers (`geo-tracking`) | 37 | $597.9M |
 | AI-native SEO agencies (`ai-native-agencies`) | 29 | $61.1M |
-| AI content and workflow platforms (`content-automation`) | 32 | $731.6M |
+| AI content and workflow platforms (`content-automation`) | 32 | $725.6M |
 | Established SEO platforms (`incumbents`) | 31 | $174M |
 | Local and small-business products (`local-and-smb`) | 22 | $1.04B |
 
@@ -81,19 +81,17 @@ Segment funding counts each company once per segment. A company with products in
 |---|---:|
 | 2004 | 3 |
 | 2006 | 5 |
-| 2007 | 1 |
 | 2008 | 2 |
-| 2009 | 2 |
+| 2009 | 3 |
 | 2010 | 3 |
 | 2011 | 1 |
 | 2012 | 3 |
 | 2013 | 7 |
 | 2014 | 3 |
 | 2015 | 1 |
-| 2016 | 1 |
 | 2017 | 3 |
 | 2018 | 4 |
-| 2020 | 4 |
+| 2020 | 3 |
 | 2021 | 2 |
 | 2022 | 2 |
 | 2023 | 4 |

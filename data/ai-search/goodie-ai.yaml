@@ -11,7 +11,7 @@ hq:
   country: "US"
 founded:
   year: 2024
-  source: "https://www.caplight.com/company/higoodie"
+  source: "https://higoodie.com/about"
 status: "active"
 pricing:
   as_listed_by_vendor: "$295 to $999 (Core, Pro); Enterprise custom"
@@ -20,4 +20,5 @@ sources:
   - "https://higoodie.com/pricing"
   - "https://www.caplight.com/company/higoodie"
   - "https://getlatka.com/companies/higoodie.com/funding"
-last_verified: "2026-10-26"
+  - "https://higoodie.com/about"
+last_verified: "2026-10-30"

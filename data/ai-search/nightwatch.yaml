@@ -8,9 +8,6 @@ website: "nightwatch.io"
 segment: "incumbents"
 hq:
   country: "SI"
-founded:
-  year: 2016
-  source: "https://nightwatch.io/pricing/"
 status: "active"
 pricing:
   as_listed_by_vendor: "EUR 79 to 399 monthly (Starter, Professional 159, Agency); 20% off yearly; Enterprise custom"
@@ -18,4 +15,4 @@ pricing:
 sources:
   - "https://nightwatch.io/pricing/"
   - "https://getlatka.com/companies/nightwatch"
-last_verified: "2026-10-26"
+last_verified: "2026-10-30"

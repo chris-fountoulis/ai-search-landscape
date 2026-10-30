@@ -11,12 +11,13 @@ hq:
   country: "US"
 founded:
   year: 2004
-  source: "https://www.geekwire.com/2021/seo-software-startup-moz-acquired-icontact-marketing-corp-17-years-launching-seattle/"
+  source: "https://moz.com/about"
 status: "acquired"
 acquisition:
   acquirer: "iContact Marketing Corp. (J2 Global, now Ziff Davis)"
-  source: "https://www.geekwire.com/2021/seo-software-startup-moz-acquired-icontact-marketing-corp-17-years-launching-seattle/"
+  source: "https://searchengineland.com/moz-acquired-by-icontact-subsidiary-of-j2-global-349273"
 sources:
   - "https://www.geekwire.com/2021/seo-software-startup-moz-acquired-icontact-marketing-corp-17-years-launching-seattle/"
   - "https://searchengineland.com/moz-acquired-by-icontact-subsidiary-of-j2-global-349273"
-last_verified: "2026-10-26"
+  - "https://moz.com/about"
+last_verified: "2026-10-30"

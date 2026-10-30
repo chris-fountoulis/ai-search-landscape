@@ -12,7 +12,7 @@ hq:
   source: "https://www.tryprofound.com/newsroom/profound-raises-usd180m-series-d-at-usd1-8b-valuation-to-build-the-ai-platform-for-marketing-teams"
 founded:
   year: 2024
-  source: "https://www.tryprofound.com/newsroom/profound-raises-usd180m-series-d-at-usd1-8b-valuation-to-build-the-ai-platform-for-marketing-teams"
+  source: "https://tryprofound.com/ai-instructions"
 status: "active"
 funding:
   total_usd: 335000000
@@ -21,7 +21,8 @@ funding:
     date: "2026-09"
     amount_usd: 180000000
     valuation_usd: 1800000000
-  source: "https://www.tryprofound.com/newsroom/profound-raises-usd180m-series-d-at-usd1-8b-valuation-to-build-the-ai-platform-for-marketing-teams"
+    source: "https://www.tryprofound.com/newsroom/profound-raises-usd180m-series-d-at-usd1-8b-valuation-to-build-the-ai-platform-for-marketing-teams"
+  source: "https://www.vcnewsdaily.com/Profound/venture-capital-funding/tkxtlxrtrf"
 pricing:
   as_listed_by_vendor: "custom (free trial; Enterprise and Agency Growth sales-only)"
   source: "https://www.tryprofound.com/pricing"
@@ -30,4 +31,6 @@ sources:
   - "https://pulse2.com/profound-raises-180-million-series-d-at-1-8-billion-valuation-to-build-ai-platform-for-marketing-teams/"
   - "https://www.fortune.com/2026/02/24/exclusive-as-ai-threatens-search-profound-raises-96-million-to-help-brands-stay-visible"
   - "https://www.tryprofound.com/pricing"
+  - "https://www.vcnewsdaily.com/Profound/venture-capital-funding/tkxtlxrtrf"
+  - "https://tryprofound.com/ai-instructions"
 last_verified: "2026-10-30"

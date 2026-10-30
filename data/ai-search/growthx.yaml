@@ -14,11 +14,11 @@ funding:
   total_usd: 29120000
   latest_round:
     name: "Series A"
-  source: "https://madrona.com/investing-in-growthx-redefining-traditional-marketing-workflow/"
+  source: "https://www.sec.gov/Archives/edgar/data/2056451/000205645125000001/primary_doc.xml"
 pricing:
   as_listed_by_vendor: "custom"
 sources:
   - "https://www.sec.gov/Archives/edgar/data/2056451/000205645125000001/primary_doc.xml"
   - "https://madrona.com/investing-in-growthx-redefining-traditional-marketing-workflow/"
   - "https://www.builtinnyc.com/job/account-executive/9344626"
-last_verified: "2026-10-26"
+last_verified: "2026-10-30"

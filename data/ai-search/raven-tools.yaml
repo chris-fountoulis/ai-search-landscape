@@ -13,7 +13,7 @@ hq:
 status: "acquired"
 acquisition:
   acquirer: "TapClicks"
-  source: "https://martech.org/tapclicks-buys-raven-tools"
+  source: "https://raventools.com/about-us/"
 pricing:
   as_listed_by_vendor: "not verified"
 sources:
