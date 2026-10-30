@@ -25,7 +25,7 @@ acquisition:
   acquirer: "Salesforce"
   date: "2026-09-10"
   date_type: "closed"
-  source: "https://www.indexventures.com/perspectives/intercom-announces-125-million-series-d-round/"
+  source: "https://investor.salesforce.com/news/news-details/2026/Salesforce-Completes-Acquisition-of-Fin/default.aspx"
 pricing:
   as_listed_by_vendor: "$0.99 per outcome, 50 outcomes per month minimum (as listed)"
   model: "per outcome"
@@ -36,4 +36,5 @@ sources:
   - "https://fin.ai/customer-agent"
   - "https://www.intercom.com/legal/terms-and-policies"
   - "https://www.indexventures.com/companies/intercom/"
+  - "https://investor.salesforce.com/news/news-details/2026/Salesforce-Completes-Acquisition-of-Fin/default.aspx"
 last_verified: "2026-10-29"
