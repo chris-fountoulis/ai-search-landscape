@@ -62,6 +62,11 @@ def field_sources(record):
     rnd = (record.get("funding") or {}).get("latest_round") if isinstance(record.get("funding"), dict) else None
     if isinstance(rnd, dict) and isinstance(rnd.get("source"), str):
         yield "funding.latest_round.source", rnd["source"]
+    totals = (record.get("funding") or {}).get("total_sources") if isinstance(record.get("funding"), dict) else None
+    if isinstance(totals, list):
+        for i, url in enumerate(totals):
+            if isinstance(url, str):
+                yield f"funding.total_sources[{i}]", url
 
 
 def check_record(record, dataset, path, schema, vocab):
@@ -96,7 +101,7 @@ def check_record(record, dataset, path, schema, vocab):
 
     # URLs
     for key_path, value in common.iter_strings(record):
-        if key_path and (key_path[-1] == "source" or key_path[0] == "sources"):
+        if key_path and (key_path[-1] == "source" or key_path[0] == "sources" or "total_sources" in key_path):
             problem = check_url(value)
             if problem:
                 errors.append(f"{'/'.join(map(str, key_path))}: URL {problem}")
@@ -114,6 +119,8 @@ def check_record(record, dataset, path, schema, vocab):
     if isinstance(funding, dict):
         if funding.get("bootstrapped") and funding.get("total_usd"):
             errors.append("funding: bootstrapped and a funding total cannot both be set")
+        if funding.get("total_sources") and "total_usd" not in funding:
+            errors.append("funding/total_sources: only used with total_usd")
         if record.get("public_company") and "total_usd" in funding:
             errors.append("funding/total_usd: public companies carry no funding total (see METHODOLOGY.md)")
 

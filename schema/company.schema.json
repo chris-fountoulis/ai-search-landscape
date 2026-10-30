@@ -97,7 +97,14 @@
             "source": {"description": "Page that states the round, when it is not funding.source (for example when the total adds several rounds).", "$ref": "#/$defs/url"}
           }
         },
-        "source": {"$ref": "#/$defs/url"}
+        "source": {"$ref": "#/$defs/url"},
+        "total_sources": {
+          "description": "Set when no single page states total_usd: the pages that state each round added into it. Their amounts sum to total_usd.",
+          "type": "array",
+          "minItems": 2,
+          "uniqueItems": true,
+          "items": {"$ref": "#/$defs/url"}
+        }
       }
     },
     "acquisition": {
