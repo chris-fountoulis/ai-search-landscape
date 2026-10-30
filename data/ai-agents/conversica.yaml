@@ -1,0 +1,30 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "Conversica"
+slug: "conversica"
+dataset: "ai-agents"
+company: "Conversica"
+website: "conversica.com"
+segment: "cx-sales"
+hq:
+  city: "San Francisco"
+  country: "US"
+status: "active"
+funding:
+  total_usd: 87000000
+  latest_round:
+    name: "Series C"
+    date: "2018-10"
+    amount_usd: 31000000
+  source: "https://techcrunch.com/2018/10/30/conversica-which-uses-ai-to-replicate-sales-agents-raises-31m-now-valued-around-300m/"
+pricing:
+  as_listed_by_vendor: "custom"
+  model: "custom"
+sources:
+  - "https://techcrunch.com/2018/10/30/conversica-which-uses-ai-to-replicate-sales-agents-raises-31m-now-valued-around-300m/"
+  - "https://techcrunch.com/2016/12/14/conversica-lands-34-million-series-b-to-build-intelligent-sales-assistants/"
+  - "https://siliconangle.com/2018/10/29/sales-ai-provider-conversica-lands-31m-new-funding/"
+  - "https://www.conversica.com/legal-info/privacy-policy"
+  - "https://www.conversica.com/legal-info/conversica-api-terms-of-service"
+  - "https://www.conversica.com/about"
+last_verified: "2026-10-29"

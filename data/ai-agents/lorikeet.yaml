@@ -1,0 +1,34 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "Lorikeet"
+slug: "lorikeet"
+dataset: "ai-agents"
+company: "Lorikeet"
+product: "Lorikeet AI concierge"
+website: "lorikeetcx.ai"
+segment: "cx-sales"
+hq:
+  city: "Sydney"
+  country: "AU"
+founded:
+  year: 2023
+  source: "https://www.startupdaily.net/topic/funding/ai-customer-support-startup-lorikeet-has-now-raised-75-million-in-just-10-months/"
+status: "active"
+funding:
+  total_usd: 49000000
+  latest_round:
+    name: "Series A"
+    date: "2025-08"
+    amount_usd: 35000000
+  source: "https://www.startupdaily.net/topic/funding/ai-customer-support-startup-lorikeet-has-now-raised-75-million-in-just-10-months/"
+pricing:
+  as_listed_by_vendor: "$2,100 to $5,100 (as listed)"
+  model: "per outcome"
+  source: "https://www.lorikeetcx.ai/pricing"
+sources:
+  - "https://www.startupdaily.net/topic/funding/ai-customer-support-startup-lorikeet-has-now-raised-75-million-in-just-10-months/"
+  - "https://www.blackbird.vc/blog/investment-notes-lorikeet"
+  - "https://www.blackbird.vc/portfolio/lorikeet"
+  - "https://www.lorikeetcx.ai/pricing"
+  - "https://www.lorikeetcx.ai/terms-of-service"
+last_verified: "2026-10-29"

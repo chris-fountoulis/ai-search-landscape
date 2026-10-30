@@ -1,0 +1,35 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "Yellow.ai"
+slug: "yellow-ai"
+dataset: "ai-agents"
+company: "Yellow.ai"
+product: "Yellow.ai Agentic AI Platform"
+website: "yellow.ai"
+segment: "cx-sales"
+hq:
+  city: "San Mateo"
+  country: "US"
+founded:
+  year: 2016
+  source: "https://yellow.ai/about-us/"
+status: "active"
+funding:
+  total_usd: 103000000
+  latest_round:
+    name: "Series C"
+    date: "2021-08"
+    amount_usd: 78150000
+  source: "https://yellow.ai/investors/"
+pricing:
+  as_listed_by_vendor: "custom (free plan, then $0.99 per resolution)"
+  model: "per outcome"
+  source: "https://yellow.ai/pricing/"
+sources:
+  - "https://yellow.ai/investors/"
+  - "https://voicebot.ai/2021/08/04/yellow-ai-raises-78-15m/"
+  - "https://inc42.com/buzz/exclusive-yellow-ai-lays-off-over-100-employees-amid-automation-push/"
+  - "https://yellow.ai/about-us/"
+  - "https://yellow.ai/terms-of-service/"
+  - "https://yellow.ai/pricing/"
+last_verified: "2026-10-29"

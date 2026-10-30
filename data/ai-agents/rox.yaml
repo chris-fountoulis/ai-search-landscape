@@ -1,0 +1,32 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "Rox"
+slug: "rox"
+dataset: "ai-agents"
+company: "Rox"
+website: "rox.com"
+segment: "cx-sales"
+hq:
+  city: "San Francisco"
+  country: "US"
+founded:
+  year: 2024
+  source: "https://rox.com/company"
+status: "active"
+funding:
+  total_usd: 50000000
+  latest_round:
+    name: "Series A"
+    date: "2024-11"
+  source: "https://techcrunch.com/2026/03/12/sales-automation-startup-rox-ai-hits-1-2b-valuation-sources-say/"
+pricing:
+  as_listed_by_vendor: "$100 to $255 (as listed)"
+  model: "usage or credits"
+  source: "https://rox.com/pricing"
+sources:
+  - "https://techcrunch.com/2026/03/12/sales-automation-startup-rox-ai-hits-1-2b-valuation-sources-say/"
+  - "https://rox.com/company"
+  - "https://rox.com/pricing"
+  - "https://rox.com/"
+  - "https://www.generalcatalyst.com/companies/rox"
+last_verified: "2026-10-29"

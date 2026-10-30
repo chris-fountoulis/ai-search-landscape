@@ -1,0 +1,33 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "Giga"
+slug: "giga"
+dataset: "ai-agents"
+company: "Giga"
+product: "Giga voice and chat support agents"
+website: "giga.ai"
+segment: "cx-sales"
+hq:
+  city: "San Francisco"
+  country: "US"
+founded:
+  year: 2023
+  source: "https://giga.ai/news/series-a"
+status: "active"
+funding:
+  total_usd: 61000000
+  latest_round:
+    name: "Series A"
+    date: "2025-11"
+    amount_usd: 61000000
+  source: "https://giga.ai/news/series-a"
+pricing:
+  as_listed_by_vendor: "custom"
+  model: "custom"
+sources:
+  - "https://giga.ai/news/series-a"
+  - "https://www.redpoint.com/companies/giga/"
+  - "https://giga.ai/terms-of-service"
+  - "https://techcrunch.com/2023/12/28/giga-ml-wants-to-help-companies-deploy-llms-offline/"
+  - "https://www.ycombinator.com/companies/giga"
+last_verified: "2026-10-29"

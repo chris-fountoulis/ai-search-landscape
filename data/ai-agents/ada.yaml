@@ -1,0 +1,30 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "Ada"
+slug: "ada"
+dataset: "ai-agents"
+company: "Ada"
+product: "Ada AI agents"
+website: "ada.cx"
+segment: "cx-sales"
+hq:
+  city: "Toronto"
+  country: "CA"
+founded:
+  year: 2016
+  source: "https://techcrunch.com/2023/04/18/ada-announces-automated-generative-ai-driven-customer-service-suite/"
+status: "active"
+funding:
+  total_usd: 190000000
+  latest_round:
+    name: "Series C"
+    amount_usd: 130000000
+  source: "https://techcrunch.com/2023/04/18/ada-announces-automated-generative-ai-driven-customer-service-suite/"
+pricing:
+  as_listed_by_vendor: "custom"
+  model: "custom"
+sources:
+  - "https://techcrunch.com/2023/04/18/ada-announces-automated-generative-ai-driven-customer-service-suite/"
+  - "https://www.ada.cx/terms"
+  - "https://www.ada.cx/pricing"
+last_verified: "2026-10-29"

@@ -1,0 +1,32 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "Vapi"
+slug: "vapi"
+dataset: "ai-agents"
+company: "Vapi"
+website: "vapi.ai"
+segment: "cx-sales"
+hq:
+  city: "San Francisco"
+  country: "US"
+founded:
+  year: 2023
+  source: "https://techcrunch.com/2026/05/12/vapi-hits-500m-valuation-as-amazon-ring-chose-its-ai-platform-over-40-rivals/"
+status: "active"
+funding:
+  total_usd: 72000000
+  latest_round:
+    name: "Series B"
+    date: "2026-05"
+    amount_usd: 50000000
+  source: "https://techcrunch.com/2026/05/12/vapi-hits-500m-valuation-as-amazon-ring-chose-its-ai-platform-over-40-rivals/"
+pricing:
+  as_listed_by_vendor: "$29 to $999 (as listed)"
+  model: "usage or credits"
+  source: "https://vapi.ai/pricing"
+sources:
+  - "https://techcrunch.com/2026/05/12/vapi-hits-500m-valuation-as-amazon-ring-chose-its-ai-platform-over-40-rivals/"
+  - "https://siliconangle.com/2026/05/12/vapi-nabs-50m-make-voice-ai-human/"
+  - "https://vapi.ai/pricing"
+  - "https://vapi.ai/terms-of-service"
+last_verified: "2026-10-29"

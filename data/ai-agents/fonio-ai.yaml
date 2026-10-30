@@ -1,0 +1,35 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "fonio.ai"
+slug: "fonio-ai"
+dataset: "ai-agents"
+company: "fonio.ai"
+product: "fonio AI phone assistant"
+website: "fonio.ai"
+segment: "cx-sales"
+hq:
+  city: "Vienna"
+  country: "AT"
+founded:
+  year: 2024
+  source: "https://www.fonio.ai/impressum/"
+status: "active"
+funding:
+  total_usd: 22266000
+  latest_round:
+    name: "Seed"
+    date: "2026-06"
+    amount_usd: 17000000
+  source: "https://www.fonio.ai/de/news-cool-stuff/pm-14mio-seed-funding-20vc/"
+pricing:
+  as_listed_by_vendor: "EUR 119 to EUR 599 (as listed)"
+  model: "usage or credits"
+  source: "https://www.fonio.ai/pricing/"
+sources:
+  - "https://www.fonio.ai/de/news-cool-stuff/pm-14mio-seed-funding-20vc/"
+  - "https://www.fonio.ai/impressum/"
+  - "https://www.fonio.ai/pricing/"
+  - "https://tech.eu/2026/06/09/led-by-20vc-fonioai-raises-17m-for-omnichannel-ai-platform/"
+  - "https://www.fonio.ai/en/news-cool-stuff/fonio-ai-sichert-sich-3-millionen-euro-in-einer-der-grossten-angel-runden-europas/"
+  - "https://www.startbase.com/news/146-millionen-euro-seed-fuer-fonio-ai-zu-120-mio-euro-bewertung/"
+last_verified: "2026-10-29"

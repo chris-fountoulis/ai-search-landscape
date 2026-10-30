@@ -1,0 +1,32 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "Bland AI"
+slug: "bland-ai"
+dataset: "ai-agents"
+company: "Bland AI"
+website: "bland.ai"
+segment: "cx-sales"
+hq:
+  city: "San Francisco"
+  country: "US"
+founded:
+  year: 2023
+  source: "https://www.bland.ai/about"
+status: "active"
+funding:
+  total_usd: 106000000
+  latest_round:
+    name: "Series C"
+    date: "2026-06"
+    amount_usd: 50000000
+  source: "https://fortune.com/2026/06/16/voice-ai-bland-50-million-after-being-rejected-by-180-investors/"
+pricing:
+  as_listed_by_vendor: "from $299 (as listed)"
+  model: "usage or credits"
+  source: "https://www.bland.ai/pricing"
+sources:
+  - "https://fortune.com/2026/06/16/voice-ai-bland-50-million-after-being-rejected-by-180-investors/"
+  - "https://www.bland.ai/pricing"
+  - "https://www.bland.ai/about"
+  - "https://www.bland.ai/legal/terms"
+last_verified: "2026-10-29"

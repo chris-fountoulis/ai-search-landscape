@@ -1,0 +1,34 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "Retell AI"
+slug: "retell-ai"
+dataset: "ai-agents"
+company: "Retell AI"
+website: "retellai.com"
+segment: "cx-sales"
+hq:
+  city: "San Francisco"
+  country: "US"
+founded:
+  year: 2023
+  source: "https://www.retellai.com/about-us"
+status: "active"
+funding:
+  total_usd: 4600000
+  latest_round:
+    name: "Seed"
+    date: "2024-08"
+    amount_usd: 4600000
+  source: "https://www.retellai.com/blog/seed-announcement"
+pricing:
+  as_listed_by_vendor: "usage: $0.07 to $0.31 per minute for voice agents (as listed); enterprise custom"
+  model: "usage or credits"
+  source: "https://www.retellai.com/pricing"
+sources:
+  - "https://www.retellai.com/about-us"
+  - "https://www.retellai.com/blog/seed-announcement"
+  - "https://techcrunch.com/2024/05/09/retell-ai-lets-companies-build-agents-to-answer-their-calls/"
+  - "https://www.retellai.com/pricing"
+  - "https://www.retellai.com/legal/terms-of-service"
+  - "https://www.ycombinator.com/companies/retell-ai"
+last_verified: "2026-10-29"

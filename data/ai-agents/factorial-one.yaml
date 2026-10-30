@@ -1,0 +1,35 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "Factorial (One)"
+slug: "factorial-one"
+dataset: "ai-agents"
+company: "Factorial"
+product: "One"
+website: "factorialhr.com"
+segment: "cx-sales"
+hq:
+  city: "Barcelona"
+  country: "ES"
+founded:
+  year: 2016
+  source: "https://www.thenewbarcelonapost.com/en/factorial-raises-150-million-dollars-and-scales-to-a-2-5-billion-valuation/"
+status: "active"
+funding:
+  latest_round:
+    name: "Series D"
+    date: "2026-06"
+    amount_usd: 150000000
+  source: "https://www.thenewbarcelonapost.com/en/factorial-raises-150-million-dollars-and-scales-to-a-2-5-billion-valuation/"
+pricing:
+  as_listed_by_vendor: "from $8 (as listed)"
+  model: "per seat"
+  source: "https://factorial.com/pricing"
+sources:
+  - "https://en.ara.cat/economy/factorial-consolidates-itself-among-the-most-valuable-scale-ups-in-europe_1_5756515.html"
+  - "https://www.thenewbarcelonapost.com/en/factorial-raises-150-million-dollars-and-scales-to-a-2-5-billion-valuation/"
+  - "https://en.ara.cat/economy/factorial-completes-the-jump-to-ai-for-companies-with-new-personal-agent_1_5872571.html"
+  - "https://factorial.com/legal"
+  - "https://factorial.com/pricing"
+  - "https://factorial.com/ai"
+  - "https://tools.prnewswire.com/en-us/live/20813/release/20260603EN74006"
+last_verified: "2026-10-29"

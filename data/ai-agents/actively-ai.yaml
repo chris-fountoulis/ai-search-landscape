@@ -1,0 +1,31 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "Actively AI"
+slug: "actively-ai"
+dataset: "ai-agents"
+company: "Actively AI"
+product: "Per-Account Agents"
+website: "actively.ai"
+segment: "cx-sales"
+hq:
+  city: "New York"
+  country: "US"
+founded:
+  year: 2022
+  source: "https://techcrunch.com/2025/04/02/actively-ai-raises-22-5m-to-offer-sales-superintelligence-says-ai-sdrs-failed/"
+status: "active"
+funding:
+  total_usd: 22500000
+  latest_round:
+    name: "Series A"
+    date: "2025-04"
+    amount_usd: 17500000
+  source: "https://techcrunch.com/2025/04/02/actively-ai-raises-22-5m-to-offer-sales-superintelligence-says-ai-sdrs-failed/"
+pricing:
+  as_listed_by_vendor: "custom"
+  model: "custom"
+sources:
+  - "https://techcrunch.com/2025/04/02/actively-ai-raises-22-5m-to-offer-sales-superintelligence-says-ai-sdrs-failed/"
+  - "https://www.actively.ai/terms"
+  - "https://www.actively.ai/"
+last_verified: "2026-10-29"

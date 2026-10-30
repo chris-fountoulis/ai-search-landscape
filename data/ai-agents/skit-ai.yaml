@@ -1,0 +1,32 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "Skit.ai"
+slug: "skit-ai"
+dataset: "ai-agents"
+company: "Skit.ai"
+website: "skit.ai"
+segment: "cx-sales"
+hq:
+  city: "New York"
+  country: "US"
+founded:
+  year: 2016
+  source: "https://skit.ai/about-us/"
+status: "active"
+funding:
+  total_usd: 30000000
+  latest_round:
+    name: "Series B"
+    date: "2021-09"
+    amount_usd: 23000000
+  source: "https://techcrunch.com/2021/09/01/skit-raises-23m-series-b-round-led-by-westbridge-capital-to-accelerate-its-growth/"
+pricing:
+  as_listed_by_vendor: "custom"
+  model: "custom"
+sources:
+  - "https://techcrunch.com/2021/09/01/skit-raises-23m-series-b-round-led-by-westbridge-capital-to-accelerate-its-growth/"
+  - "https://skit.ai/"
+  - "https://skit.ai/about-us/"
+  - "https://skit.ai/terms-of-service/"
+  - "https://skit.ai/resources/newsroom/"
+last_verified: "2026-10-29"

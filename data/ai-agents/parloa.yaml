@@ -1,0 +1,29 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "Parloa"
+slug: "parloa"
+dataset: "ai-agents"
+company: "Parloa"
+website: "parloa.com"
+segment: "cx-sales"
+hq:
+  city: "Berlin"
+  country: "DE"
+status: "active"
+funding:
+  total_usd: 560000000
+  latest_round:
+    name: "Series D"
+    date: "2026-01"
+    amount_usd: 350000000
+  source: "https://siliconangle.com/2026/01/15/parloa-raises-350m-make-enterprise-customer-experience-fully-conversational/"
+pricing:
+  as_listed_by_vendor: "custom"
+  model: "usage or credits"
+sources:
+  - "https://siliconangle.com/2026/01/15/parloa-raises-350m-make-enterprise-customer-experience-fully-conversational/"
+  - "https://finance.yahoo.com/news/german-ai-startup-parloa-triples-135110599.html"
+  - "https://www.parloa.com/imprint/"
+  - "https://www.parloa.com/company/about/"
+  - "https://www.parloa.com/platform/pricing/"
+last_verified: "2026-10-29"

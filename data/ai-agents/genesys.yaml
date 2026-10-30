@@ -1,0 +1,26 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "Genesys"
+slug: "genesys"
+dataset: "ai-agents"
+company: "Genesys"
+product: "Genesys Cloud Agentic Virtual Agent"
+website: "genesys.com"
+segment: "cx-sales"
+hq:
+  city: "Menlo Park"
+  country: "US"
+founded:
+  year: 1990
+  source: "https://www.genesys.com/company"
+status: "active"
+pricing:
+  as_listed_by_vendor: "$75 to $240 (as listed)"
+  model: "per seat"
+  source: "https://www.genesys.com/pricing"
+sources:
+  - "https://www.genesys.com/capabilities/virtual-agents"
+  - "https://www.genesys.com/company"
+  - "https://www.genesys.com/pricing"
+  - "https://www.nojitter.com/ai-automation/genesys-launches-agentic-orchestration-features"
+last_verified: "2026-10-29"

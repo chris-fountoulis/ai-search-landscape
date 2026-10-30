@@ -1,0 +1,31 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "11x"
+slug: "11x"
+dataset: "ai-agents"
+company: "11x"
+website: "11x.ai"
+segment: "cx-sales"
+hq:
+  city: "San Francisco"
+  country: "US"
+founded:
+  year: 2022
+  source: "https://www.11x.ai/about-us"
+status: "active"
+funding:
+  total_usd: 75000000
+  latest_round:
+    name: "Series B"
+    date: "2024-11"
+    amount_usd: 50000000
+  source: "https://techcrunch.com/2024/09/16/ai-digital-employee-startup-11xai-raises-24m-led-by-benchmark/"
+pricing:
+  as_listed_by_vendor: "custom"
+  model: "custom"
+sources:
+  - "https://www.11x.ai/about-us"
+  - "https://techcrunch.com/2024/09/16/ai-digital-employee-startup-11xai-raises-24m-led-by-benchmark/"
+  - "https://www.intelligentcio.com/north-america/?p=41417"
+  - "https://techcrunch.com/2025/03/24/a16z-and-benchmark-backed-11x-has-been-claiming-customers-it-doesnt-have"
+last_verified: "2026-10-29"

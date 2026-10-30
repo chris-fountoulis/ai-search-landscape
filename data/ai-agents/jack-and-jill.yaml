@@ -1,0 +1,35 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "Jack & Jill"
+slug: "jack-and-jill"
+dataset: "ai-agents"
+company: "Jack & Jill"
+product: "Jack (careers agent) and Jill (hiring agent)"
+website: "jackandjill.ai"
+segment: "cx-sales"
+hq:
+  city: "London"
+  country: "GB"
+founded:
+  year: 2025
+  source: "https://siliconangle.com/2026/09/16/jack-jill-raises-40m-to-change-the-face-of-job-hunting-with-ai-agents/"
+status: "active"
+funding:
+  total_usd: 60000000
+  latest_round:
+    name: "Series A"
+    date: "2026-09"
+    amount_usd: 40000000
+  source: "https://siliconangle.com/2026/09/16/jack-jill-raises-40m-to-change-the-face-of-job-hunting-with-ai-agents/"
+pricing:
+  as_listed_by_vendor: "10% of first-year salary per hire (as listed); free for candidates"
+  model: "per outcome"
+  source: "https://www.jackandjill.ai/pricing"
+sources:
+  - "https://siliconangle.com/2026/09/16/jack-jill-raises-40m-to-change-the-face-of-job-hunting-with-ai-agents/"
+  - "https://thenextweb.com/news/jack-and-jill-40m-series-a"
+  - "https://techcrunch.com/2025/10/16/jack-jill-raises-20-million-to-bring-conversational-ai-to-job-hunting/"
+  - "https://www.jackandjill.ai/terms"
+  - "https://www.jackandjill.ai/pricing"
+  - "https://find-and-update.company-information.service.gov.uk/company/16324763"
+last_verified: "2026-10-29"

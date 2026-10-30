@@ -1,0 +1,32 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "Numa"
+slug: "numa"
+dataset: "ai-agents"
+company: "Numa"
+website: "numa.com"
+segment: "cx-sales"
+hq:
+  city: "Oakland"
+  country: "US"
+founded:
+  year: 2017
+  source: "https://numa.com/about"
+status: "active"
+funding:
+  total_usd: 48000000
+  latest_round:
+    name: "Series B"
+    date: "2024-09"
+    amount_usd: 32000000
+  source: "https://siliconangle.com/2024/10/01/numa-raises-32m-develop-ai-tools-car-dealerships/"
+pricing:
+  as_listed_by_vendor: "custom"
+  model: "custom"
+sources:
+  - "https://techcrunch.com/2024/10/01/numa-is-bringing-ai-and-automation-to-car-dealerships/"
+  - "https://siliconangle.com/2024/10/01/numa-raises-32m-develop-ai-tools-car-dealerships/"
+  - "https://numa.com/terms"
+  - "https://numa.com/press"
+  - "https://numa.com/about"
+last_verified: "2026-10-29"

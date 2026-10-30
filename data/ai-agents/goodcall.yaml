@@ -1,0 +1,33 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "Goodcall"
+slug: "goodcall"
+dataset: "ai-agents"
+company: "Goodcall"
+product: "Goodcall AI phone agent"
+website: "goodcall.com"
+segment: "cx-sales"
+hq:
+  city: "Palo Alto"
+  country: "US"
+founded:
+  year: 2021
+  source: "https://www.goodcall.com/about"
+status: "active"
+funding:
+  total_usd: 4000000
+  latest_round:
+    name: "Seed"
+    date: "2021-09"
+    amount_usd: 4000000
+  source: "https://techcrunch.com/2021/09/01/goodcall-picks-up-4m-yelp-partnership-to-answer-merchant-inbound-calls/"
+pricing:
+  as_listed_by_vendor: "$79 to $299 (as listed)"
+  model: "flat"
+  source: "https://www.goodcall.com/pricing"
+sources:
+  - "https://www.goodcall.com/pricing"
+  - "https://techcrunch.com/2021/09/01/goodcall-picks-up-4m-yelp-partnership-to-answer-merchant-inbound-calls/"
+  - "https://www.goodcall.com/about"
+  - "https://help.goodcall.com/en/articles/8007566-terms-of-service"
+last_verified: "2026-10-29"

@@ -1,0 +1,34 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "Maven AGI"
+slug: "maven-agi"
+dataset: "ai-agents"
+company: "Maven AGI"
+website: "mavenagi.com"
+segment: "cx-sales"
+hq:
+  city: "Boston"
+  country: "US"
+founded:
+  year: 2023
+  source: "https://www.mavenagi.com/about-us"
+status: "active"
+funding:
+  total_usd: 78000000
+  latest_round:
+    name: "Series B"
+    date: "2025-06"
+    amount_usd: 50000000
+  source: "https://www.mavenagi.com/resources/post/series-b"
+pricing:
+  as_listed_by_vendor: "custom"
+  model: "custom"
+sources:
+  - "https://www.mavenagi.com/resources/post/series-b"
+  - "https://siliconangle.com/2024/05/29/maven-agi-unveils-ai-platform-securing-20m-global-expansion/"
+  - "https://bridgemena.com/news/maven-agi-raises-50-million-series-b-to-advance-enterprise-ai-led-by-dell-technologies-capital"
+  - "https://www.lw.com/en/news/latham-watkins-advises-maven-agi-in-us50-million-series-b-funding-round"
+  - "https://www.mavenagi.com/about-us"
+  - "https://www.mavenagi.com/legal-privacy"
+  - "https://www.mavenagi.com/pricing"
+last_verified: "2026-10-29"

@@ -1,0 +1,35 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "Pylon"
+slug: "pylon"
+dataset: "ai-agents"
+company: "Pylon"
+website: "usepylon.com"
+segment: "cx-sales"
+hq:
+  city: "San Francisco"
+  country: "US"
+founded:
+  year: 2022
+  source: "https://www.usepylon.com/legal/terms"
+status: "active"
+funding:
+  total_usd: 51000000
+  latest_round:
+    name: "Series B"
+    date: "2025-08"
+    amount_usd: 31000000
+  source: "https://www.usepylon.com/blog/announcing-our-31m-series-b"
+pricing:
+  as_listed_by_vendor: "$89 to $139 (as listed)"
+  model: "per seat"
+  source: "https://www.usepylon.com/pricing"
+sources:
+  - "https://www.usepylon.com/blog/announcing-our-31m-series-b"
+  - "https://a16z.com/announcement/investing-in-pylon/"
+  - "https://techcrunch.com/2024/08/28/pylon-lands-17m-investment-to-build-a-full-service-b2b-customer-service-platform/"
+  - "https://techcrunch.com/2023/07/11/pylon-wants-to-make-it-easier-to-manage-b2b-conversations-in-slack/"
+  - "https://www.usepylon.com/pricing"
+  - "https://www.usepylon.com/legal/terms"
+  - "https://www.usepylon.com/about"
+last_verified: "2026-10-29"

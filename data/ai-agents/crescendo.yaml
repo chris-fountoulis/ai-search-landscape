@@ -1,0 +1,31 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "Crescendo"
+slug: "crescendo"
+dataset: "ai-agents"
+company: "Crescendo"
+website: "crescendo.ai"
+segment: "cx-sales"
+hq:
+  city: "San Francisco"
+  country: "US"
+founded:
+  year: 2023
+  source: "https://www.crescendo.ai/company"
+status: "active"
+funding:
+  total_usd: 50000000
+  latest_round:
+    name: "Series C"
+    date: "2024-10"
+  source: "https://www.crescendo.ai/news/crescendo-closes-50-million-in-total-financing-with-latest-round-led-by-general-catalyst"
+pricing:
+  as_listed_by_vendor: "custom"
+  model: "per outcome"
+sources:
+  - "https://www.crescendo.ai/news/crescendo-closes-50-million-in-total-financing-with-latest-round-led-by-general-catalyst"
+  - "https://www.crescendo.ai/news/crescendo-expands-europe"
+  - "https://www.crescendo.ai/news/crescendo-to-exceed-100m-arr-as-global-adoption-of-its-first-ai-native-contact-center-accelerates"
+  - "https://www.crescendo.ai/company"
+  - "https://www.crescendo.ai/news"
+last_verified: "2026-10-29"

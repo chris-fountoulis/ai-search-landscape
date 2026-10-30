@@ -1,0 +1,33 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "Bardeen"
+slug: "bardeen"
+dataset: "ai-agents"
+company: "Bardeen"
+product: "Bardeen Agents"
+website: "bardeen.ai"
+segment: "cx-sales"
+hq:
+  country: "US"
+founded:
+  year: 2020
+  source: "https://techcrunch.com/2024/08/08/ai-business-agent-startup-bardeen-pulls-in-strategic-investment-from-dropbox-and-hubspot/"
+status: "active"
+funding:
+  total_usd: 22000000
+  latest_round:
+    name: "Strategic"
+    date: "2024-08"
+    amount_usd: 3000000
+  source: "https://techcrunch.com/2024/08/08/ai-business-agent-startup-bardeen-pulls-in-strategic-investment-from-dropbox-and-hubspot/"
+pricing:
+  as_listed_by_vendor: "$10 to $50 (as listed)"
+  model: "usage or credits"
+  source: "https://www.bardeen.ai/pricing"
+sources:
+  - "https://techcrunch.com/2024/08/08/ai-business-agent-startup-bardeen-pulls-in-strategic-investment-from-dropbox-and-hubspot/"
+  - "https://www.bardeen.ai/pricing"
+  - "https://www.bardeen.ai/terms-of-service"
+  - "https://www.bardeen.ai/privacy-policy"
+  - "https://siliconangle.com/2022/02/17/no-code-workflow-automation-startup-bardeen-launches-3-5m-funding/"
+last_verified: "2026-10-29"

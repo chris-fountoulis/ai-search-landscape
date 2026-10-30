@@ -1,0 +1,31 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "Dialpad"
+slug: "dialpad"
+dataset: "ai-agents"
+company: "Dialpad"
+product: "Dialpad AI Agents"
+website: "dialpad.com"
+segment: "cx-sales"
+hq:
+  city: "San Ramon"
+  country: "US"
+status: "active"
+funding:
+  total_usd: 415000000
+  latest_round:
+    name: "Series F"
+    date: "2021-12"
+    amount_usd: 170000000
+  source: "https://www.dialpad.com/blog/dialpad-raises-170m/"
+pricing:
+  as_listed_by_vendor: "custom"
+  model: "per task or conversation"
+sources:
+  - "https://www.dialpad.com/blog/dialpad-raises-170m/"
+  - "https://techcrunch.com/?p=2056270"
+  - "https://www.dialpad.com/legal/"
+  - "https://www.dialpad.com/pricing/"
+  - "https://siliconangle.com/2026/03/05/closing-ai-execution-gap-dialpad-releases-production-ready-ai-agents/"
+  - "https://www.businesswire.com/news/home/20210311005336/en/Dialpad-Marks-Ten-Year-Anniversary-and-One-Year-of-Remote-Work-with-Record-Growth-and-Widespread-Market-Recognition"
+last_verified: "2026-10-29"

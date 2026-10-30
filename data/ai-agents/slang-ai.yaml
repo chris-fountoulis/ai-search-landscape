@@ -1,0 +1,33 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "Slang AI"
+slug: "slang-ai"
+dataset: "ai-agents"
+company: "Slang AI"
+product: "Superhost"
+website: "slang.ai"
+segment: "cx-sales"
+hq:
+  city: "New York"
+  country: "US"
+founded:
+  year: 2019
+  source: "https://slang.ai/press-releases/slang-ai-raises-36m-series-b"
+status: "active"
+funding:
+  total_usd: 60000000
+  latest_round:
+    name: "Series B"
+    date: "2026-02"
+    amount_usd: 28000000
+  source: "https://slang.ai/press-releases/slang-ai-raises-36m-series-b"
+pricing:
+  as_listed_by_vendor: "$399 to $599 (as listed)"
+  model: "flat"
+  source: "https://www.slang.ai/pricing"
+sources:
+  - "https://slang.ai/press-releases/slang-ai-raises-36m-series-b"
+  - "https://www.slang.ai/pricing"
+  - "https://www.slang.ai/terms-of-service"
+  - "https://techcrunch.com/2023/06/28/slang-taps-ai-to-answer-phone-calls-for-brick-and-mortar-businesses/"
+last_verified: "2026-10-29"

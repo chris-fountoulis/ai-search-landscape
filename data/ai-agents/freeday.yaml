@@ -1,0 +1,33 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "Freeday"
+slug: "freeday"
+dataset: "ai-agents"
+company: "Freeday"
+product: "Digital employees"
+website: "freeday.ai"
+segment: "cx-sales"
+hq:
+  city: "Rotterdam"
+  country: "NL"
+founded:
+  year: 2020
+  source: "https://www.freeday.ai/about-us"
+status: "active"
+funding:
+  total_usd: 4453200
+  latest_round:
+    name: "Seed"
+    date: "2022-05"
+    amount_usd: 4453200
+  source: "https://tech.eu/2022/05/10/enabling-businesses-accelerate-digital-transformation-brings-eur4-million-to-rotterdam-platform/"
+pricing:
+  as_listed_by_vendor: "custom"
+  model: "per outcome"
+sources:
+  - "https://tech.eu/2022/05/10/enabling-businesses-accelerate-digital-transformation-brings-eur4-million-to-rotterdam-platform/"
+  - "https://www.freeday.ai/service-terms"
+  - "https://www.freeday.ai/pricing"
+  - "https://www.freeday.ai/about-us"
+  - "https://dutchitchannel.nl/697272/freeday-haalt-vier-miljoen-euro-op-om-de-groeistrategie-te-versnellen.html"
+last_verified: "2026-10-29"

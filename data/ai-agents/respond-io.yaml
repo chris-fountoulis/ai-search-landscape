@@ -1,0 +1,34 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "Respond.io"
+slug: "respond-io"
+dataset: "ai-agents"
+company: "Respond.io"
+website: "respond.io"
+segment: "cx-sales"
+hq:
+  city: "Kuala Lumpur"
+  country: "MY"
+founded:
+  year: 2017
+  source: "https://respond.io/about"
+status: "active"
+funding:
+  total_usd: 69500000
+  latest_round:
+    name: "Series B"
+    date: "2026-06"
+    amount_usd: 62500000
+  source: "https://respond.io/blog/respond-io-raises-62-million-series-b"
+pricing:
+  as_listed_by_vendor: "$99 to $349 (as listed)"
+  model: "flat"
+  source: "https://respond.io/pricing"
+sources:
+  - "https://respond.io/blog/respond-io-raises-62-million-series-b"
+  - "https://www.itweb.co.za/article/respondio-raises-625m-series-b-to-scale-ai-powered-customer-conversations-into-north-america-and-europe/JN1gP7OA8eoqjL6m"
+  - "https://techcrunch.com/2022/09/20/malaysia-based-respond-io-helps-businesses-juggle-multiple-messaging-apps/"
+  - "https://respond.io/about"
+  - "https://respond.io/pricing"
+  - "https://respond.io/terms-of-service"
+last_verified: "2026-10-29"

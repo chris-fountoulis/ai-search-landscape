@@ -1,0 +1,34 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "Phonely"
+slug: "phonely"
+dataset: "ai-agents"
+company: "Phonely"
+product: "AI receptionist"
+website: "phonely.ai"
+segment: "cx-sales"
+hq:
+  city: "San Francisco"
+  country: "US"
+founded:
+  year: 2023
+  source: "https://www.phonely.ai/blogs/phonely-series-a-16m-funding"
+status: "active"
+funding:
+  total_usd: 19000000
+  latest_round:
+    name: "Series A"
+    date: "2026-04"
+    amount_usd: 16000000
+  source: "https://www.phonely.ai/blogs/phonely-series-a-16m-funding"
+pricing:
+  as_listed_by_vendor: "$50 to $150 (as listed)"
+  model: "per seat"
+  source: "https://www.phonely.ai/pricing"
+sources:
+  - "https://www.phonely.ai/blogs/phonely-series-a-16m-funding"
+  - "https://www.startupdaily.net/topic/funding/y-combinator-backed-ai-call-receptionist-raises-22-million-series-a/"
+  - "https://www.phonely.ai/pricing"
+  - "https://www.phonely.ai/terms-of-service"
+  - "https://www.startupdaily.net/topic/funding/y-combinator-backs-ai-based-virtual-receptionist-startup-phonely-with-750000/"
+last_verified: "2026-10-29"

@@ -1,0 +1,33 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "Unify"
+slug: "unify"
+dataset: "ai-agents"
+company: "Unify"
+website: "unifygtm.com"
+segment: "cx-sales"
+hq:
+  city: "San Francisco"
+  country: "US"
+founded:
+  year: 2023
+  source: "https://www.unifygtm.com/legal/terms-and-conditions"
+status: "active"
+funding:
+  total_usd: 58600000
+  latest_round:
+    name: "Series B"
+    date: "2025-07"
+    amount_usd: 40000000
+  source: "https://siliconangle.com/2025/07/15/unify-lands-40-million-help-sales-teams-engage-high-intent-buyers/"
+pricing:
+  as_listed_by_vendor: "$20 to $60 (as listed)"
+  model: "per seat"
+  source: "https://www.unifygtm.com/pricing"
+sources:
+  - "https://siliconangle.com/2025/07/15/unify-lands-40-million-help-sales-teams-engage-high-intent-buyers/"
+  - "https://unifygtm.com/blog/series-b"
+  - "https://techcrunch.com/2024/10/08/unify-an-openai-converge-accelerator-grad-lands-12m-for-warm-outbound-messages/"
+  - "https://www.unifygtm.com/pricing"
+  - "https://www.unifygtm.com/legal/terms-and-conditions"
+last_verified: "2026-10-29"

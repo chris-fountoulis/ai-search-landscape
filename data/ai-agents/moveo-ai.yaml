@@ -1,0 +1,31 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "Moveo.AI"
+slug: "moveo-ai"
+dataset: "ai-agents"
+company: "Moveo.AI"
+website: "moveo.ai"
+segment: "cx-sales"
+hq:
+  city: "New York"
+  country: "US"
+founded:
+  year: 2020
+  source: "https://moveo.ai/about-us"
+status: "active"
+funding:
+  total_usd: 3000000
+  latest_round:
+    name: "Seed"
+    date: "2024-08"
+    amount_usd: 2600000
+  source: "https://tech.eu/2024/08/27/moveo-ai-secures-2-6m-to-enable-enterprises-to-build-personalised-llm-models/"
+pricing:
+  as_listed_by_vendor: "custom"
+  model: "custom"
+sources:
+  - "https://moveo.ai/terms-of-use"
+  - "https://tech.eu/2024/08/27/moveo-ai-secures-2-6m-to-enable-enterprises-to-build-personalised-llm-models/"
+  - "https://moveo.ai/about-us"
+  - "https://moveo.ai/our-plans"
+last_verified: "2026-10-29"

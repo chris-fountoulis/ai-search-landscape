@@ -1,0 +1,27 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "Tendos"
+slug: "tendos"
+dataset: "ai-agents"
+company: "Tendos"
+website: "tendos.ai"
+segment: "cx-sales"
+hq:
+  city: "Munich"
+  country: "DE"
+status: "active"
+funding:
+  total_usd: 13359600
+  latest_round:
+    name: "Seed"
+    date: "2026-10"
+    amount_usd: 13359600
+  source: "https://www.startbase.de/news/tendos-erhaelt-12-millionen-euro-fuer-tendos-zur-ki-automatisierung-in-der-baustoffindustrie/"
+pricing:
+  as_listed_by_vendor: "custom"
+  model: "custom"
+sources:
+  - "https://www.startbase.de/news/tendos-erhaelt-12-millionen-euro-fuer-tendos-zur-ki-automatisierung-in-der-baustoffindustrie/"
+  - "https://tendos.ai/impressum"
+  - "https://tendos.ai/"
+last_verified: "2026-10-29"

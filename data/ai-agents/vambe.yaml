@@ -1,0 +1,33 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "Vambe"
+slug: "vambe"
+dataset: "ai-agents"
+company: "Vambe"
+website: "vambe.ai"
+segment: "cx-sales"
+hq:
+  city: "Santiago"
+  country: "CL"
+founded:
+  year: 2023
+  source: "https://siliconangle.com/2025/12/03/ai-startup-vambe-raises-14m-automate-conversational-commerce/"
+status: "active"
+funding:
+  total_usd: 18400000
+  latest_round:
+    name: "Series A"
+    date: "2025-12"
+    amount_usd: 14000000
+  source: "https://siliconangle.com/2025/12/03/ai-startup-vambe-raises-14m-automate-conversational-commerce/"
+pricing:
+  as_listed_by_vendor: "$574 to $2,647 (as listed)"
+  model: "flat"
+  source: "https://www.vambe.ai/pricing"
+sources:
+  - "https://siliconangle.com/2025/12/03/ai-startup-vambe-raises-14m-automate-conversational-commerce/"
+  - "https://www.vambe.ai/pricing"
+  - "https://www.vambe.ai/terms"
+  - "https://www.vambe.ai/llms.txt"
+  - "https://techcrunch.com/2024/12/04/latam-startup-vambe-sees-arr-skyrocket-after-pivot-to-conversational-ai/"
+last_verified: "2026-10-29"

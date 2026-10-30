@@ -1,0 +1,22 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "Gladly"
+slug: "gladly"
+dataset: "ai-agents"
+company: "Gladly"
+product: "Gladly AI"
+website: "gladly.ai"
+segment: "cx-sales"
+hq:
+  city: "Millbrae"
+  country: "US"
+status: "active"
+pricing:
+  as_listed_by_vendor: "custom"
+  model: "custom"
+sources:
+  - "https://www.gladly.ai/terms-of-service/"
+  - "https://www.nea.com/portfolio/gladly"
+  - "https://www.gladly.ai/about-us/"
+  - "https://www.gladly.ai/"
+last_verified: "2026-10-29"

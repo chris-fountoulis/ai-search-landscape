@@ -1,0 +1,22 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "Smith.ai"
+slug: "smith-ai"
+dataset: "ai-agents"
+company: "Smith.ai"
+product: "AI Receptionist"
+website: "smith.ai"
+segment: "cx-sales"
+hq:
+  country: "US"
+status: "active"
+pricing:
+  as_listed_by_vendor: "$150 to $800 (as listed)"
+  model: "per task or conversation"
+  source: "https://smith.ai/pricing/ai-receptionist"
+sources:
+  - "https://smith.ai/pricing/ai-receptionist"
+  - "https://smith.ai/"
+  - "https://smith.ai/press"
+  - "https://smith.ai/privacy"
+last_verified: "2026-10-29"

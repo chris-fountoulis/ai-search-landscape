@@ -1,0 +1,30 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "Regal"
+slug: "regal"
+dataset: "ai-agents"
+company: "Regal"
+website: "regal.ai"
+segment: "cx-sales"
+hq:
+  city: "New York"
+  country: "US"
+status: "active"
+funding:
+  total_usd: 83000000
+  latest_round:
+    name: "Unnamed round"
+    date: "2024-10"
+    amount_usd: 40000000
+  source: "https://techcrunch.com/2022/09/07/regal-secures-capital-to-grow-its-platform-for-branded-calls-and-texts/"
+pricing:
+  as_listed_by_vendor: "custom"
+  model: "custom"
+sources:
+  - "https://techcrunch.com/2022/09/07/regal-secures-capital-to-grow-its-platform-for-branded-calls-and-texts/"
+  - "https://www.regal.ai/press"
+  - "https://fintech.global/2024/10/31/regal-raises-40m-to-revolutionise-customer-experiences-with-ai-phone-agents/"
+  - "https://www.regal.ai/terms-of-service"
+  - "https://www.regal.ai/pricing"
+  - "https://www.regal.ai/about"
+last_verified: "2026-10-29"

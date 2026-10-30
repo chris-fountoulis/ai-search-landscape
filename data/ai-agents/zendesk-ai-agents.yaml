@@ -1,0 +1,27 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "Zendesk (AI agents)"
+slug: "zendesk-ai-agents"
+dataset: "ai-agents"
+company: "Zendesk"
+product: "Zendesk AI agents"
+website: "zendesk.com"
+segment: "cx-sales"
+hq:
+  city: "San Francisco"
+  country: "US"
+status: "acquired"
+acquisition:
+  acquirer: "Hellman & Friedman and Permira consortium (take-private)"
+  source: "https://techcrunch.com/2026/03/11/zendesk-acquires-agentic-customer-service-startup-forethought/"
+pricing:
+  as_listed_by_vendor: "$25 to $149 (as listed)"
+  model: "per seat"
+  source: "https://www.zendesk.com/pricing/"
+sources:
+  - "https://www.zendesk.com/service/ai/ai-agents/"
+  - "https://www.zendesk.com/pricing/"
+  - "https://www.zendesk.com/company/agreements-and-terms/main-services-agreement/"
+  - "https://www.zendesk.com/company/"
+  - "https://techcrunch.com/2026/03/11/zendesk-acquires-agentic-customer-service-startup-forethought/"
+last_verified: "2026-10-29"

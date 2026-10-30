@@ -1,0 +1,30 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "Observe.AI"
+slug: "observe-ai"
+dataset: "ai-agents"
+company: "Observe.AI"
+website: "observe.ai"
+segment: "cx-sales"
+hq:
+  city: "Redwood City"
+  country: "US"
+founded:
+  year: 2017
+  source: "https://www.observe.ai/about-us"
+status: "active"
+funding:
+  total_usd: 213000000
+  latest_round:
+    name: "Series C"
+    date: "2022-04"
+    amount_usd: 125000000
+  source: "https://www.observe.ai/press-releases/observe-ai-raises-125m-series-c-to-usher-in-ai-empowered-era-for-contact-centers"
+pricing:
+  as_listed_by_vendor: "custom"
+  model: "custom"
+sources:
+  - "https://www.observe.ai/press-releases/observe-ai-raises-125m-series-c-to-usher-in-ai-empowered-era-for-contact-centers"
+  - "https://www.observe.ai/about-us"
+  - "https://www.observe.ai/terms"
+last_verified: "2026-10-29"

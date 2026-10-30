@@ -1,0 +1,35 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "ElevenLabs"
+slug: "elevenlabs"
+dataset: "ai-agents"
+company: "ElevenLabs"
+product: "ElevenAgents (Agents Platform)"
+website: "elevenlabs.io"
+segment: "cx-sales"
+hq:
+  city: "New York"
+  country: "US"
+founded:
+  year: 2022
+  source: "https://elevenlabs.io/blog/series-d"
+status: "active"
+funding:
+  total_usd: 781000000
+  latest_round:
+    name: "Series D"
+    date: "2026-02"
+    amount_usd: 500000000
+    valuation_usd: 11000000000
+  source: "https://elevenlabs.io/blog/series-d"
+pricing:
+  as_listed_by_vendor: "$6 to $990 (as listed)"
+  model: "usage or credits"
+  source: "https://elevenlabs.io/pricing"
+sources:
+  - "https://elevenlabs.io/blog/series-d"
+  - "https://techcrunch.com/2026/09/30/ai-voice-startup-elevenlabs-doubles-valuation-to-22b/"
+  - "https://elevenlabs.io/pricing"
+  - "https://elevenlabs.io/terms-of-use"
+  - "https://elevenlabs.io/agents"
+last_verified: "2026-10-29"

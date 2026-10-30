@@ -1,0 +1,32 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "Neople"
+slug: "neople"
+dataset: "ai-agents"
+company: "Neople"
+website: "neople.io"
+segment: "cx-sales"
+hq:
+  city: "Utrecht"
+  country: "NL"
+founded:
+  year: 2023
+  source: "https://www.neople.io/about-us"
+status: "active"
+funding:
+  total_usd: 8349750
+  latest_round:
+    name: "Funding round (stage not named)"
+    date: "2024-06"
+    amount_usd: 6679800
+  source: "https://ioplus.nl/archive/en/ai-startup-neople-raises-e1-5m-for-digital-co-workers-revolution"
+pricing:
+  as_listed_by_vendor: "from EUR 4,500 (as listed)"
+  model: "per task or conversation"
+  source: "https://www.neople.io/pricing"
+sources:
+  - "https://www.neople.io/about-us"
+  - "https://ioplus.nl/archive/en/ai-startup-neople-raises-e1-5m-for-digital-co-workers-revolution"
+  - "https://www.neople.io/terms-conditions"
+  - "https://www.neople.io/pricing"
+last_verified: "2026-10-29"

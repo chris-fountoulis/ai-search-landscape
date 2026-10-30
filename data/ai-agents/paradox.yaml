@@ -1,0 +1,37 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "Paradox"
+slug: "paradox"
+dataset: "ai-agents"
+company: "Paradox"
+product: "Paradox Candidate Experience Agent (Olivia)"
+website: "paradox.ai"
+segment: "cx-sales"
+hq:
+  city: "Scottsdale"
+  country: "US"
+status: "acquired"
+funding:
+  total_usd: 253300000
+  latest_round:
+    name: "Series C"
+    date: "2021-12"
+    amount_usd: 200000000
+  source: "https://siliconangle.com/2021/12/28/recruiting-startup-paradox-valued-1-5b-following-200m-funding-round/"
+acquisition:
+  acquirer: "Workday"
+  date: "2025-10"
+  date_type: "closed"
+  price_usd: 1000000000
+  source: "https://newsroom.workday.com/2025-10-01-Workday-Completes-Acquisition-of-Paradox"
+pricing:
+  as_listed_by_vendor: "custom"
+  model: "custom"
+sources:
+  - "https://newsroom.workday.com/2025-10-01-Workday-Completes-Acquisition-of-Paradox"
+  - "https://www.orrick.com/en/News/2025/08/AI-Powered-Talent-Acquisition-Workday-to-Acquire-Paradox"
+  - "https://siliconangle.com/2021/12/28/recruiting-startup-paradox-valued-1-5b-following-200m-funding-round/"
+  - "https://1worktech.com/exclusive-interview-paradox-team-discusses-its-200m-series-c-round-and-1-5-billion-valuation/"
+  - "https://www.paradox.ai/"
+  - "https://www.paradox.ai/legal/terms-of-use"
+last_verified: "2026-10-29"

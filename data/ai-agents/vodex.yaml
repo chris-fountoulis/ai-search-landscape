@@ -1,0 +1,32 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "Vodex"
+slug: "vodex"
+dataset: "ai-agents"
+company: "Vodex"
+website: "vodex.ai"
+segment: "cx-sales"
+hq:
+  city: "Rewa"
+  country: "IN"
+founded:
+  year: 2022
+  source: "https://vodex.ai/company/about"
+status: "active"
+funding:
+  total_usd: 3500000
+  latest_round:
+    name: "Seed"
+    date: "2024-04"
+    amount_usd: 2000000
+  source: "https://vodex.ai/company/investors"
+pricing:
+  as_listed_by_vendor: "custom"
+  model: "usage or credits"
+sources:
+  - "https://vodex.ai/company/about"
+  - "https://vodex.ai/terms-of-use"
+  - "https://vodex.ai/company/investors"
+  - "https://inc42.com/buzz/gen-ai-saas-startup-vodex-bags-funding-from-unicorn-india-pentathlon-ventures/"
+  - "https://vodex.ai/pricing"
+last_verified: "2026-10-29"

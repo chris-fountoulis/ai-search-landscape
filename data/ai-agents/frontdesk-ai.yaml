@@ -1,0 +1,28 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "Frontdesk AI"
+slug: "frontdesk-ai"
+dataset: "ai-agents"
+company: "Frontdesk AI"
+product: "Frontdesk AI receptionist"
+website: "myaifrontdesk.com"
+segment: "cx-sales"
+hq:
+  city: "New York"
+  country: "US"
+status: "active"
+funding:
+  latest_round:
+    name: "Seed"
+  source: "https://pear.vc/companies/"
+pricing:
+  as_listed_by_vendor: "from $99 (as listed)"
+  model: "flat"
+  source: "https://www.myaifrontdesk.com/pricing"
+sources:
+  - "https://www.myaifrontdesk.com/pricing"
+  - "https://www.myaifrontdesk.com/about"
+  - "https://www.myaifrontdesk.com/terms-of-service"
+  - "https://pear.vc/companies/"
+  - "https://www.businessinsider.com/quit-job-meta-build-ai-company-leaving-wasnt-easy-2026-1"
+last_verified: "2026-10-29"

@@ -1,0 +1,29 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "Avoca AI"
+slug: "avoca-ai"
+dataset: "ai-agents"
+company: "Avoca AI"
+website: "avoca.ai"
+segment: "cx-sales"
+hq:
+  city: "New York"
+  country: "US"
+founded:
+  year: 2023
+  source: "https://www.avoca.ai/blog/avoca-raises-125m-series-b-1b-valuation"
+status: "active"
+funding:
+  total_usd: 125000000
+  latest_round:
+    name: "Series B"
+    date: "2026-04"
+  source: "https://www.avoca.ai/blog/avoca-raises-125m-series-b-1b-valuation"
+pricing:
+  as_listed_by_vendor: "custom"
+  model: "custom"
+sources:
+  - "https://www.avoca.ai/blog/avoca-raises-125m-series-b-1b-valuation"
+  - "https://fortune.com/2026/04/27/avoca-ai-agents-missed-calls-hvac-plumbing-roofing-kleiner-perkins-chen-shrivastava-braswell/"
+  - "https://www.avoca.ai/terms-of-service"
+last_verified: "2026-10-29"

@@ -1,0 +1,35 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "Gorgias"
+slug: "gorgias"
+dataset: "ai-agents"
+company: "Gorgias"
+product: "Gorgias AI Agent"
+website: "gorgias.com"
+segment: "cx-sales"
+hq:
+  city: "San Francisco"
+  country: "US"
+founded:
+  year: 2015
+  source: "https://www.gorgias.com/about-us"
+status: "active"
+funding:
+  total_usd: 100000000
+  latest_round:
+    name: "Series C"
+    date: "2022-08"
+    amount_usd: 30000000
+  source: "https://techcrunch.com/2022/08/15/gorgias-valuation-710m-series-c-e-commerce-customer-support/"
+pricing:
+  as_listed_by_vendor: "$40 to $1,430 (as listed)"
+  model: "per task or conversation"
+  source: "https://www.gorgias.com/pricing"
+sources:
+  - "https://www.gorgias.com/about-us"
+  - "https://techcrunch.com/2022/08/15/gorgias-valuation-710m-series-c-e-commerce-customer-support/"
+  - "https://techcrunch.com/2020/12/10/gorgias-series-b/"
+  - "https://www.thesaasnews.com/news/gorgias-raises-30-million-in-series-c/"
+  - "https://www.gorgias.com/pricing"
+  - "https://www.gorgias.com/legal/terms-of-service"
+last_verified: "2026-10-29"

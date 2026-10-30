@@ -1,0 +1,32 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "Alex"
+slug: "alex"
+dataset: "ai-agents"
+company: "Alex"
+product: "Alex AI Recruiter"
+website: "alex.com"
+segment: "cx-sales"
+hq:
+  city: "San Francisco"
+  country: "US"
+founded:
+  year: 2024
+  source: "https://www.alex.com/blog/we-raised-20m-to-help-ai-hire-more-humans"
+status: "active"
+funding:
+  total_usd: 20000000
+  latest_round:
+    name: "Series A"
+    date: "2025-09"
+    amount_usd: 17000000
+  source: "https://www.alex.com/blog/we-raised-20m-to-help-ai-hire-more-humans"
+pricing:
+  as_listed_by_vendor: "custom"
+  model: "custom"
+sources:
+  - "https://www.alex.com/blog/we-raised-20m-to-help-ai-hire-more-humans"
+  - "https://www.alex.com/terms-of-service"
+  - "https://techcrunch.com/2025/09/29/ai-recruiter-alex-raises-17m-to-automate-initial-job-interviews/"
+  - "https://www.alex.com/newsroom"
+last_verified: "2026-10-29"

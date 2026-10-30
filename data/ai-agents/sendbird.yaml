@@ -1,0 +1,29 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "Sendbird"
+slug: "sendbird"
+dataset: "ai-agents"
+company: "Sendbird"
+product: "delight.ai"
+website: "sendbird.com"
+segment: "cx-sales"
+hq:
+  city: "San Mateo"
+  country: "US"
+founded:
+  year: 2013
+  source: "https://sendbird.com/about"
+status: "active"
+funding:
+  total_usd: 220000000
+  source: "https://techcrunch.com/2021/04/06/sendbird-raises-100m-at-a-1b-valuation-says-150m-users-now-interact-using-its-chat-and-video-apis/"
+pricing:
+  as_listed_by_vendor: "custom"
+  model: "custom"
+sources:
+  - "https://sendbird.com/about"
+  - "https://techcrunch.com/2021/04/06/sendbird-raises-100m-at-a-1b-valuation-says-150m-users-now-interact-using-its-chat-and-video-apis/"
+  - "https://techcrunch.com/2019/02/19/sendbird-snags-52m-series-b-to-expand-messaging-api-tool/"
+  - "https://delight.ai/pricing"
+  - "https://sendbird.com/pricing/chat"
+last_verified: "2026-10-29"

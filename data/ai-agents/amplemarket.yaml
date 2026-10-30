@@ -1,0 +1,34 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "Amplemarket"
+slug: "amplemarket"
+dataset: "ai-agents"
+company: "Amplemarket"
+product: "Duo"
+website: "amplemarket.com"
+segment: "cx-sales"
+hq:
+  city: "San Francisco"
+  country: "US"
+founded:
+  year: 2019
+  source: "https://www.amplemarket.com/legal/terms"
+status: "active"
+funding:
+  total_usd: 12000000
+  latest_round:
+    name: "Series A"
+    date: "2022-04"
+    amount_usd: 12000000
+  source: "https://www.amplemarket.com/funding"
+pricing:
+  as_listed_by_vendor: "from $600 (as listed)"
+  model: "flat"
+  source: "https://www.amplemarket.com/pricing"
+sources:
+  - "https://www.amplemarket.com/pricing"
+  - "https://www.amplemarket.com/legal/terms"
+  - "https://www.amplemarket.com/funding"
+  - "https://techcrunch.com/2022/04/06/amplemarket-nabs-12m-to-ramp-up-sales-enablement-using-ai/"
+  - "https://dinheirovivo.dn.pt/fazedores/amplemarket-capta-11-milhoes-de-euros-para-levar-ia-as-equipas-de-vendas-14772377.html"
+last_verified: "2026-10-29"

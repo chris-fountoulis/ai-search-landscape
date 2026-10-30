@@ -1,0 +1,39 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "NiCE Cognigy"
+slug: "nice-cognigy"
+dataset: "ai-agents"
+company: "NiCE Cognigy"
+product: "Cognigy.AI"
+website: "cognigy.com"
+segment: "cx-sales"
+hq:
+  city: "Düsseldorf"
+  country: "DE"
+founded:
+  year: 2016
+  source: "https://www.cognigy.com/legal-notice"
+status: "acquired"
+funding:
+  total_usd: 175000000
+  latest_round:
+    name: "Series C"
+    date: "2024-06"
+    amount_usd: 100000000
+  source: "https://dallasinnovates.com/nice-closes-955m-acquisition-of-cognigy-whose-u-s-hq-recently-relocated-to-plano/"
+acquisition:
+  acquirer: "NICE"
+  date: "2025-09"
+  date_type: "closed"
+  price_usd: 955000000
+  source: "https://www.cognigy.com/news/nice-closes-acquisition-of-cognigy"
+pricing:
+  as_listed_by_vendor: "custom"
+  model: "custom"
+sources:
+  - "https://www.cognigy.com/news/nice-closes-acquisition-of-cognigy"
+  - "https://www.cognigy.com/legal-notice"
+  - "https://www.cognigy.com/about"
+  - "https://dallasinnovates.com/nice-closes-955m-acquisition-of-cognigy-whose-u-s-hq-recently-relocated-to-plano/"
+  - "https://techcrunch.com/2024/06/11/cognigy-lands-cash-to-grow-its-contact-center-automation-business/"
+last_verified: "2026-10-29"

@@ -1,0 +1,24 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "Salesforce (Agentforce Sales)"
+slug: "salesforce-agentforce-sales"
+dataset: "ai-agents"
+company: "Salesforce"
+product: "Agentforce for Sales"
+website: "salesforce.com"
+segment: "cx-sales"
+hq:
+  city: "San Francisco"
+  country: "US"
+status: "active"
+public_company: true
+pricing:
+  as_listed_by_vendor: "$125 to $550 (as listed)"
+  model: "per seat"
+  source: "https://www.salesforce.com/sales/pricing/"
+sources:
+  - "https://www.salesforce.com/sales/pricing/"
+  - "https://www.salesforce.com/sales/ai-sales-agent/"
+  - "https://www.salesforce.com/company/locations/"
+  - "https://www.telesemana.com/blog/2024/09/17/salesforce-lanza-sus-agentes-de-ventas-con-ia-y-promete-revolucionar-la-productividad-en-la-empresa/"
+last_verified: "2026-10-29"

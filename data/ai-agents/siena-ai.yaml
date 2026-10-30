@@ -1,0 +1,33 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "Siena AI"
+slug: "siena-ai"
+dataset: "ai-agents"
+company: "Siena AI"
+website: "siena.cx"
+segment: "cx-sales"
+hq:
+  city: "New York"
+  country: "US"
+founded:
+  year: 2023
+  source: "https://www.siena.cx/blog/siena-raises-17m-series-a"
+status: "active"
+funding:
+  total_usd: 29700000
+  latest_round:
+    name: "Series A"
+    date: "2026-10"
+    amount_usd: 17000000
+  source: "https://www.siena.cx/blog/siena-raises-17m-series-a"
+pricing:
+  as_listed_by_vendor: "from $750 (as listed)"
+  model: "per task or conversation"
+  source: "https://www.siena.cx/pricing"
+sources:
+  - "https://www.siena.cx/blog/siena-raises-17m-series-a"
+  - "https://thenextweb.com/news/siena-17m-series-a-york-ie-ai-agents"
+  - "https://techcrunch.com/2023/11/16/siena-ai-4-7m-ai-customer-service-agent/"
+  - "https://www.siena.cx/pricing"
+  - "https://www.siena.cx/terms-of-service"
+last_verified: "2026-10-29"

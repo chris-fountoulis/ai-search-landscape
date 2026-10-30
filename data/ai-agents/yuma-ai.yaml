@@ -1,0 +1,33 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "Yuma AI"
+slug: "yuma-ai"
+dataset: "ai-agents"
+company: "Yuma AI"
+product: "Yuma AI Agents"
+website: "yuma.ai"
+segment: "cx-sales"
+hq:
+  city: "Boston"
+  country: "US"
+founded:
+  year: 2022
+  source: "https://yuma.ai/about-us"
+status: "active"
+funding:
+  total_usd: 5000000
+  latest_round:
+    name: "Seed"
+    date: "2024-10"
+    amount_usd: 5000000
+  source: "https://theaiinsider.tech/2024/10/30/yuma-ai-raises-5m-to-transform-e-commerce-customer-support-with-advanced-ai-agents/"
+pricing:
+  as_listed_by_vendor: "$1,200 to $7,500 (as listed)"
+  model: "per outcome"
+  source: "https://yuma.ai/pricing"
+sources:
+  - "https://yuma.ai/pricing"
+  - "https://yuma.ai/about-us"
+  - "https://yuma.ai/terms-of-service"
+  - "https://theaiinsider.tech/2024/10/30/yuma-ai-raises-5m-to-transform-e-commerce-customer-support-with-advanced-ai-agents/"
+last_verified: "2026-10-29"

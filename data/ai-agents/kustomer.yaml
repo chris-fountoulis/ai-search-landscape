@@ -1,0 +1,35 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "Kustomer"
+slug: "kustomer"
+dataset: "ai-agents"
+company: "Kustomer"
+product: "Kustomer AI agents"
+website: "kustomer.com"
+segment: "cx-sales"
+hq:
+  city: "New York"
+  country: "US"
+founded:
+  year: 2015
+  source: "https://www.kustomer.com/legal/website-terms-of-use/"
+status: "active"
+funding:
+  total_usd: 90000000
+  latest_round:
+    name: "Series B"
+    date: "2025-08"
+    amount_usd: 30000000
+  source: "https://boldstart.vc/news/meta-acquired-his-company-for-1-billion-and-then-changed-its-mind-now-hes-charting-a-new-path/"
+pricing:
+  as_listed_by_vendor: "custom"
+  model: "custom"
+sources:
+  - "https://boldstart.vc/news/meta-acquired-his-company-for-1-billion-and-then-changed-its-mind-now-hes-charting-a-new-path/"
+  - "https://www.kustomer.com/resources/blog/new-chapter-standalone-company/"
+  - "https://techcrunch.com/2023/05/16/kustomer-meta-spin-out/"
+  - "https://www.redpoint.com/companies/kustomer/"
+  - "https://www.kustomer.com/legal/website-terms-of-use/"
+  - "https://www.kustomer.com/about-us/"
+  - "https://www.kustomer.com/pricing/"
+last_verified: "2026-10-29"

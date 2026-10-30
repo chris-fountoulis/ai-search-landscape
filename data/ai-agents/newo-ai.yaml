@@ -1,0 +1,33 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "Newo.ai"
+slug: "newo-ai"
+dataset: "ai-agents"
+company: "Newo.ai"
+product: "AI Receptionist"
+website: "newo.ai"
+segment: "cx-sales"
+hq:
+  city: "San Francisco"
+  country: "US"
+founded:
+  year: 2023
+  source: "https://newo.ai/about"
+status: "active"
+funding:
+  total_usd: 32000000
+  latest_round:
+    name: "Series A"
+    date: "2026-02"
+    amount_usd: 25000000
+  source: "https://siliconangle.com/2026/02/10/newo-lands-25m-bring-production-ready-ai-receptionists-small-businesses/"
+pricing:
+  as_listed_by_vendor: "from $299 (as listed)"
+  model: "flat"
+  source: "https://newo.ai/pricing"
+sources:
+  - "https://siliconangle.com/2026/02/10/newo-lands-25m-bring-production-ready-ai-receptionists-small-businesses/"
+  - "https://newo.ai/pricing"
+  - "https://newo.ai/terms-of-service"
+  - "https://newo.ai/about"
+last_verified: "2026-10-29"

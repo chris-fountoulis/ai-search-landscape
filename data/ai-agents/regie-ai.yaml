@@ -1,0 +1,33 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "Regie.ai"
+slug: "regie-ai"
+dataset: "ai-agents"
+company: "Regie.ai"
+website: "regie.ai"
+segment: "cx-sales"
+hq:
+  city: "San Francisco"
+  country: "US"
+founded:
+  year: 2021
+  source: "https://regie.ai/about"
+status: "active"
+funding:
+  total_usd: 50800000
+  latest_round:
+    name: "Series B"
+    date: "2025-02"
+    amount_usd: 30000000
+  source: "https://www.scalevp.com/press/regie-ai-raises--30m-series-b-to-scale-ai-powered-sales-strategies"
+pricing:
+  as_listed_by_vendor: "$49 to $150 (as listed)"
+  model: "per seat"
+  source: "https://regie.ai/pricing"
+sources:
+  - "https://techcrunch.com/2025/02/26/regie-ai-injects-sales-enablement-with-ai-but-keeps-humans-in-the-loop/"
+  - "https://www.scalevp.com/press/regie-ai-raises--30m-series-b-to-scale-ai-powered-sales-strategies"
+  - "https://regie.ai/pricing"
+  - "https://regie.ai/terms"
+  - "https://regie.ai/about"
+last_verified: "2026-10-29"

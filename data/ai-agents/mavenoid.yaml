@@ -1,0 +1,31 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "Mavenoid"
+slug: "mavenoid"
+dataset: "ai-agents"
+company: "Mavenoid"
+website: "mavenoid.com"
+segment: "cx-sales"
+hq:
+  city: "Stockholm"
+  country: "SE"
+founded:
+  year: 2017
+  source: "https://www.mavenoid.com/en/about"
+status: "active"
+funding:
+  latest_round:
+    name: "Series B"
+    date: "2022-08"
+    amount_usd: 30000000
+  source: "https://techcrunch.com/2022/08/30/mavenoid-which-automates-technical-support-and-onboarding-for-hardware-companies-raises-30m/"
+pricing:
+  as_listed_by_vendor: "custom"
+  model: "custom"
+sources:
+  - "https://techcrunch.com/2022/08/30/mavenoid-which-automates-technical-support-and-onboarding-for-hardware-companies-raises-30m/"
+  - "https://www.mavenoid.com/en/about"
+  - "https://www.mavenoid.com/en/privacy/privacy-policy"
+  - "https://www.mavenoid.com/en/press"
+  - "https://www.mavenoid.com/en"
+last_verified: "2026-10-29"

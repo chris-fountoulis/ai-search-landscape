@@ -1,0 +1,30 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "Cresta"
+slug: "cresta"
+dataset: "ai-agents"
+company: "Cresta"
+product: "Cresta AI Agent; Deputy Agent"
+website: "cresta.com"
+segment: "cx-sales"
+hq:
+  city: "Sunnyvale"
+  country: "US"
+founded:
+  year: 2017
+  source: "https://cresta.com/about-us"
+status: "active"
+funding:
+  total_usd: 270000000
+  latest_round:
+    name: "Series D"
+    amount_usd: 125000000
+  source: "https://cresta.com/about-us"
+pricing:
+  as_listed_by_vendor: "custom"
+  model: "custom"
+sources:
+  - "https://cresta.com/about-us"
+  - "https://cresta.com/legal/terms-of-service"
+  - "https://cresta.com/trust"
+last_verified: "2026-10-29"

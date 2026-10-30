@@ -1,0 +1,34 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "Forethought"
+slug: "forethought"
+dataset: "ai-agents"
+company: "Forethought"
+product: "Forethought AI Agents by Zendesk"
+website: "forethought.ai"
+segment: "cx-sales"
+hq:
+  city: "San Francisco"
+  country: "US"
+founded:
+  year: 2018
+  source: "https://forethought.ai/blog/forethought-raises-65-million-series-c"
+status: "acquired"
+funding:
+  total_usd: 115000000
+  source: "https://forethought.ai/blog/forethought-raises-65-million-series-c"
+acquisition:
+  acquirer: "Zendesk"
+  date: "2026-03"
+  date_type: "closed"
+  source: "https://techcrunch.com/2026/03/11/zendesk-acquires-agentic-customer-service-startup-forethought/"
+pricing:
+  as_listed_by_vendor: "custom"
+  model: "custom"
+sources:
+  - "https://techcrunch.com/2026/03/11/zendesk-acquires-agentic-customer-service-startup-forethought/"
+  - "https://forethought.ai/"
+  - "https://forethought.ai/pricing"
+  - "https://forethought.ai/blog/forethought-raises-65-million-series-c"
+  - "https://techcrunch.com/2025/11/13/build-mode-starts-at-the-beginning-how-forethought-ai-found-product-market-fit/"
+last_verified: "2026-10-29"

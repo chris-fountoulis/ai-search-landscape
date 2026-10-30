@@ -1,0 +1,27 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "Paraglide"
+slug: "paraglide"
+dataset: "ai-agents"
+company: "Paraglide"
+website: "paraglide.ai"
+segment: "cx-sales"
+hq:
+  city: "Malmö"
+  country: "SE"
+status: "active"
+funding:
+  total_usd: 5000000
+  latest_round:
+    name: "Seed"
+    date: "2026-02"
+    amount_usd: 5000000
+  source: "https://arcticstartup.com/paraglide-raises-e4-2m-seed/"
+pricing:
+  as_listed_by_vendor: "custom"
+  model: "custom"
+sources:
+  - "https://arcticstartup.com/paraglide-raises-e4-2m-seed/"
+  - "https://paraglide.ai/legals/terms-and-conditions"
+  - "https://paraglide.ai/"
+last_verified: "2026-10-29"

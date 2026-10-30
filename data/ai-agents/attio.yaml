@@ -1,0 +1,33 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "Attio"
+slug: "attio"
+dataset: "ai-agents"
+company: "Attio"
+product: "Custom Agents, Web Agent, Ask Attio"
+website: "attio.com"
+segment: "cx-sales"
+hq:
+  city: "London"
+  country: "GB"
+founded:
+  year: 2019
+  source: "https://attio.com/legal/terms-and-conditions"
+status: "active"
+funding:
+  total_usd: 116000000
+  latest_round:
+    name: "Series B"
+    date: "2025-08"
+    amount_usd: 52000000
+  source: "https://builtinlondon.uk/articles/attio-raises-52m-series-b-20250827"
+pricing:
+  as_listed_by_vendor: "$44 to $99 (as listed)"
+  model: "per seat"
+  source: "https://attio.com/pricing"
+sources:
+  - "https://builtinlondon.uk/articles/attio-raises-52m-series-b-20250827"
+  - "https://attio.com/pricing"
+  - "https://attio.com/legal/terms-and-conditions"
+  - "https://techcrunch.com/2023/03/02/attio-raises-23-5m-to-build-a-next-gen-crm-platform/"
+last_verified: "2026-10-29"

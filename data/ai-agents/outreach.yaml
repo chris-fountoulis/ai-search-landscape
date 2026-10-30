@@ -1,0 +1,32 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "Outreach"
+slug: "outreach"
+dataset: "ai-agents"
+company: "Outreach"
+website: "outreach.io"
+segment: "cx-sales"
+hq:
+  city: "Seattle"
+  country: "US"
+founded:
+  year: 2014
+  source: "https://salestechstar.com/proactive-sales-engagement/outreach-closes-200-million-round-4-4-billion-valuation-for-sales-engagement-category-leader/"
+status: "active"
+funding:
+  total_usd: 489000000
+  latest_round:
+    name: "Series G"
+    date: "2021-06"
+    amount_usd: 200000000
+  source: "https://salestechstar.com/proactive-sales-engagement/outreach-closes-200-million-round-4-4-billion-valuation-for-sales-engagement-category-leader/"
+pricing:
+  as_listed_by_vendor: "custom"
+  model: "per seat"
+sources:
+  - "https://www.outreach.ai/company/about"
+  - "https://www.outreach.ai/terms"
+  - "https://www.outreach.ai/pricing"
+  - "https://salestechstar.com/proactive-sales-engagement/outreach-closes-200-million-round-4-4-billion-valuation-for-sales-engagement-category-leader/"
+  - "https://www.outreach.ai/resources/blog/series-e"
+last_verified: "2026-10-29"

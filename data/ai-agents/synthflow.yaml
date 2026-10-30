@@ -1,0 +1,34 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "Synthflow"
+slug: "synthflow"
+dataset: "ai-agents"
+company: "Synthflow"
+website: "synthflow.ai"
+segment: "cx-sales"
+hq:
+  city: "Berlin"
+  country: "DE"
+founded:
+  year: 2023
+  source: "https://synthflow.ai/company"
+status: "active"
+funding:
+  total_usd: 30000000
+  latest_round:
+    name: "Series A"
+    date: "2025-06"
+    amount_usd: 20000000
+  source: "https://techcrunch.com/2024/06/26/synthflow-picks-up-7-4m-for-no-code-voice-assistance-for-smes/"
+pricing:
+  as_listed_by_vendor: "from $2,500 (as listed)"
+  model: "custom"
+  source: "https://synthflow.ai/pricing"
+sources:
+  - "https://synthflow.ai/company"
+  - "https://docs.synthflow.ai/docs/imprint"
+  - "https://synthflow.ai/pricing"
+  - "https://techcrunch.com/2024/06/26/synthflow-picks-up-7-4m-for-no-code-voice-assistance-for-smes/"
+  - "https://techcrunch.com/2025/06/24/how-synthflow-ai-is-cutting-through-the-noise-in-a-loud-ai-voice-category/"
+  - "https://www.synthflow.ai/newsroom"
+last_verified: "2026-10-29"

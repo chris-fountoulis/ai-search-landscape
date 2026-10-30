@@ -1,0 +1,32 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "Decagon"
+slug: "decagon"
+dataset: "ai-agents"
+company: "Decagon"
+product: "Decagon AI agents"
+website: "decagon.ai"
+segment: "cx-sales"
+hq:
+  city: "San Francisco"
+  country: "US"
+status: "active"
+funding:
+  total_usd: 481000000
+  latest_round:
+    name: "Series D"
+    date: "2026-01"
+    amount_usd: 250000000
+  source: "https://decagon.ai/blog/series-d-announcement"
+pricing:
+  as_listed_by_vendor: "custom"
+  model: "custom"
+sources:
+  - "https://decagon.ai/blog/series-d-announcement"
+  - "https://decagon.ai/blog/series-c-announcement"
+  - "https://decagon.ai/blog/series-b"
+  - "https://techcrunch.com/2026/03/04/decagon-completes-first-tender-offer-at-4-5b-valuation/"
+  - "https://a16z.com/announcement/investing-in-decagon/"
+  - "https://decagon.ai/legal/privacy"
+  - "https://decagon.ai/about"
+last_verified: "2026-10-29"

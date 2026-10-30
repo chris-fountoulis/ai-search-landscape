@@ -1,0 +1,33 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "Replicant"
+slug: "replicant"
+dataset: "ai-agents"
+company: "Replicant"
+website: "replicant.com"
+segment: "cx-sales"
+hq:
+  city: "San Francisco"
+  country: "US"
+founded:
+  year: 2017
+  source: "https://replicant.com/about"
+status: "active"
+funding:
+  total_usd: 113000000
+  latest_round:
+    name: "Series B"
+    date: "2022-04"
+    amount_usd: 78000000
+  source: "https://replicant.com/blog/replicant-series-b-announcement"
+pricing:
+  as_listed_by_vendor: "custom"
+  model: "custom"
+sources:
+  - "https://replicant.com/blog/replicant-series-b-announcement"
+  - "https://replicant.com/blog/replicant-ai-raises-27m-to-modernize-customer-service-with-the-worlds-first-autonomous-contact-center"
+  - "https://siliconangle.com/2019/07/24/replicant-raises-7-million-conversational-ai-system-contact-centers/"
+  - "https://replicant.com/about"
+  - "https://replicant.com/legal/terms-of-service"
+  - "https://salesforceventures.com/companies/replicant/"
+last_verified: "2026-10-29"

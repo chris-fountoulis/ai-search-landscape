@@ -1,0 +1,32 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "Beside"
+slug: "beside"
+dataset: "ai-agents"
+company: "Beside"
+product: "Beside AI receptionist"
+website: "beside.com"
+segment: "cx-sales"
+hq:
+  city: "Richmond"
+  country: "US"
+status: "active"
+funding:
+  total_usd: 31900000
+  latest_round:
+    name: "Series A"
+    date: "2025-11"
+    amount_usd: 20000000
+  source: "https://fortune.com/2025/11/11/beside-ai-voice-startup-raises-32-million-ai-receptionist-for-small-business/"
+pricing:
+  as_listed_by_vendor: "$29 to $250 (as listed)"
+  model: "flat"
+  source: "https://www.beside.com/pricing"
+sources:
+  - "https://fortune.com/2025/11/11/beside-ai-voice-startup-raises-32-million-ai-receptionist-for-small-business/"
+  - "https://www.beside.com/pricing"
+  - "https://www.beside.com/phone/pricing"
+  - "https://www.beside.com/about"
+  - "https://www.beside.com/terms-of-service"
+  - "https://www.beside.com/blog"
+last_verified: "2026-10-29"
