@@ -6,11 +6,23 @@ dataset: "ai-search"
 company: "LLM Pulse"
 website: "llmpulse.ai"
 segment: "geo-tracking"
+hq:
+  city: "Barcelona"
+  country: "ES"
+founded:
+  year: 2025
+  source: "https://llmpulse.ai/about"
 status: "active"
+funding:
+  bootstrapped: true
+  source: "https://llmpulse.ai/about"
 pricing:
   as_listed_by_vendor: "EUR 49 to 5,999 excl. VAT (weekly Starter to daily Partner++); Enterprise custom"
   source: "https://llmpulse.ai/pricing"
 sources:
+  - "https://llmpulse.ai/legal-notice"
+  - "https://llmpulse.ai/about"
+  - "https://llmpulse.ai/customers/llm-pulse"
   - "https://llmpulse.ai/pricing"
   - "https://www.producthunt.com/products/llm-pulse-2"
-last_verified: "2026-10-26"
+last_verified: "2026-10-27"
