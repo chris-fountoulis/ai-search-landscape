@@ -79,10 +79,11 @@ curl -s https://raw.githubusercontent.com/chris-fountoulis/ai-search-landscape/m
 ```
 
 ```python
-# Disclosed funding by AI agent segment (pandas)
+# Disclosed funding by AI agent segment, each company counted once per segment (pandas)
 import pandas as pd
 df = pd.read_csv("https://raw.githubusercontent.com/chris-fountoulis/ai-search-landscape/main/dist/ai-agents.csv")
-print(df[~df.model_lab].groupby("segment_label").funding_total_usd.sum().sort_values())
+funded = df[~df.model_lab].drop_duplicates(["segment_label", "company"])
+print(funded.groupby("segment_label").funding_total_usd.sum().div(1e9).round(2).sort_values())
 ```
 
 Or clone it and run the same checks CI runs (Python 3.9 or newer, standard library only):
