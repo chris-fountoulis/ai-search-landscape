@@ -7,8 +7,9 @@ company: "Otterly.AI"
 website: "otterly.ai"
 segment: "geo-tracking"
 hq:
-  city: "Vienna"
+  city: "Persenbeug"
   country: "AT"
+  source: "https://otterly.ai/imprint"
 founded:
   year: 2024
   source: "https://otterly.ai/about"
@@ -19,4 +20,5 @@ pricing:
 sources:
   - "https://otterly.ai/pricing"
   - "https://otterly.ai/about"
-last_verified: "2026-10-26"
+  - "https://otterly.ai/imprint"
+last_verified: "2026-10-30"

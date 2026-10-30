@@ -9,6 +9,7 @@ segment: "local-and-smb"
 hq:
   city: "New York"
   country: "US"
+  source: "https://www.synup.com/privacy-policy"
 founded:
   year: 2013
   source: "https://inc42.com/buzz/synup-funding-vertex-ventures-marketing"
@@ -26,4 +27,5 @@ sources:
   - "https://entrackr.com/2017/09/synup-gets-6-mn"
   - "https://www.cbinsights.com/company/synup/financials"
   - "https://www.synup.com/pricing"
+  - "https://www.synup.com/privacy-policy"
 last_verified: "2026-10-30"

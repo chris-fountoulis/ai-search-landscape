@@ -9,6 +9,7 @@ segment: "company-brain"
 hq:
   city: "Santa Clara"
   country: "US"
+  source: "https://aisera.com/privacy-policy/"
 founded:
   year: 2017
   source: "https://techcrunch.com/2022/08/03/aisera-lands-90m-to-automate-customer-service-requests-with-ai/"
@@ -34,4 +35,4 @@ sources:
   - "https://techcrunch.com/2020/02/18/aisera-an-ai-tool-to-help-with-customer-service-and-internal-operations-exits-stealth-with-50m/"
   - "https://aisera.com/privacy-policy/"
   - "https://aisera.com/"
-last_verified: "2026-10-29"
+last_verified: "2026-10-30"

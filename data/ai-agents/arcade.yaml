@@ -7,9 +7,6 @@ company: "Arcade"
 product: "Arcade (actions runtime)"
 website: "arcade.dev"
 segment: "infrastructure"
-hq:
-  city: "San Francisco"
-  country: "US"
 founded:
   year: 2024
   source: "https://siliconangle.com/2026/06/15/ai-agent-authorization-startup-arcade-nabs-60m-investment/"

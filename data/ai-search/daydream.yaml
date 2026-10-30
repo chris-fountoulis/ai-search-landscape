@@ -9,6 +9,7 @@ segment: "ai-native-agencies"
 hq:
   city: "San Francisco"
   country: "US"
+  source: "https://www.aap.com.au/aapreleases/cision20260402ae25640"
 status: "active"
 funding:
   total_usd: 21000000
@@ -21,4 +22,4 @@ pricing:
 sources:
   - "https://www.aap.com.au/aapreleases/cision20260402ae25640"
   - "https://www.withdaydream.com/pricing"
-last_verified: "2026-10-26"
+last_verified: "2026-10-30"

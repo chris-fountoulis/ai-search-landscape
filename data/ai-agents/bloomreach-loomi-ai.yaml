@@ -10,6 +10,7 @@ segment: "marketing-agency"
 hq:
   city: "Mountain View"
   country: "US"
+  source: "https://www.bloomreach.com/en/news/2026/bloomreach-announces-the-general-availability-of-loomi-marketing-agent/"
 status: "active"
 funding:
   total_usd: 420000000

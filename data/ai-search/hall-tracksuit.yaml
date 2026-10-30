@@ -9,6 +9,7 @@ segment: "geo-tracking"
 hq:
   city: "Sydney"
   country: "AU"
+  source: "https://www.bandt.com.au/tracksuit-acquires-ai-brand-monitoring-startup-hall/"
 founded:
   year: 2023
   source: "https://www.bandt.com.au/tracksuit-acquires-ai-brand-monitoring-startup-hall/"

@@ -9,6 +9,7 @@ segment: "content-automation"
 hq:
   city: "Boston"
   country: "US"
+  source: "https://www.marketmuse.com/privacy-policy/"
 founded:
   year: 2013
   source: "https://www.siteimprove.com/press/marketmuse/"
@@ -22,4 +23,5 @@ sources:
   - "https://www.siteimprove.com/press/marketmuse/"
   - "https://www.geekwire.com/2024/siteimprove-to-acquire-content-marketing-firm-marketmuse/"
   - "https://searchenginejournal.com/marketmuse-acquired-by-siteimprove/529593/"
+  - "https://www.marketmuse.com/privacy-policy/"
 last_verified: "2026-10-30"

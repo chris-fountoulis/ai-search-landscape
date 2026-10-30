@@ -9,6 +9,7 @@ segment: "cx-sales"
 hq:
   city: "San Francisco"
   country: "US"
+  source: "https://www.vcaonline.com/news/2026051211/monaco-secures-50-million-in-series-b-funding-to-grow-ai-powered-sales-platform-amid-strong-customer-demand/"
 founded:
   year: 2026
   source: "https://www.vcaonline.com/news/2026021116/monaco-launches-ai-native-sales-platform-to-accelerate-revenue-growth-for-startups/"

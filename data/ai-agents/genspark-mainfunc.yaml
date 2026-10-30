@@ -10,6 +10,7 @@ segment: "general-browser"
 hq:
   city: "Palo Alto"
   country: "US"
+  source: "https://lanchiventures.com/?p=396"
 founded:
   year: 2023
   source: "https://techcrunch.com/2026/07/05/almost-40-new-unicorns-have-been-minted-so-far-this-year-here-they-are/"
@@ -31,4 +32,5 @@ sources:
   - "https://pulse2.com/genspark-raises-100-million-series-b-extension-at-2-6-billion-valuation/"
   - "https://www.01net.it/genspark-ai-extends-series-b-to-485m-at-2-6b-post-money-valuation-appoints-jamison-powell-as-chief-revenue-officer/"
   - "https://www.genspark.ai/terms"
+  - "https://lanchiventures.com/?p=396"
 last_verified: "2026-10-30"

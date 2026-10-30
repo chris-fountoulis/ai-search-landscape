@@ -7,8 +7,9 @@ company: "Rankscale"
 website: "rankscale.ai"
 segment: "geo-tracking"
 hq:
-  city: "Konigstetten"
+  city: "Vienna"
   country: "AT"
+  source: "https://rankscale.ai/imprint"
 founded:
   year: 2024
   source: "https://rankscale.ai/"
@@ -20,4 +21,5 @@ sources:
   - "https://rankscale.ai/pricing"
   - "https://getlatka.com/companies/countries/austria/cities/k%C3%B6nigstetten?cap=small"
   - "https://rankscale.ai/"
+  - "https://rankscale.ai/imprint"
 last_verified: "2026-10-30"

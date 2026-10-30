@@ -9,6 +9,7 @@ segment: "local-and-smb"
 hq:
   city: "San Francisco"
   country: "US"
+  source: "https://am.gs.com/en-ae/advisors/news/press-release/2026/owner-raises-240m-gs-alts"
 status: "active"
 funding:
   total_usd: 418700000

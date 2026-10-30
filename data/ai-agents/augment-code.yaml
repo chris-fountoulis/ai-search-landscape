@@ -10,6 +10,7 @@ segment: "coding"
 hq:
   city: "Palo Alto"
   country: "US"
+  source: "https://augmentcode.com/blog/augment-inc-raises-227-million"
 founded:
   year: 2022
   source: "https://lsvp.com/company/augment"

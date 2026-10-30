@@ -9,6 +9,7 @@ segment: "local-and-smb"
 hq:
   city: "Tel Aviv"
   country: "IL"
+  source: "https://www.sec.gov/Archives/edgar/data/1576789/000162828026015222/wix-20251231.htm"
 founded:
   year: 2006
   source: "https://www.wix.com/about/us"

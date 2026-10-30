@@ -7,8 +7,9 @@ company: "GetMint"
 website: "getmint.ai"
 segment: "geo-tracking"
 hq:
-  city: "Paris"
+  city: "Ris-Orangis"
   country: "FR"
+  source: "https://www.getmint.ai/privacy-policy"
 status: "active"
 funding:
   total_usd: 4320000
@@ -22,4 +23,5 @@ sources:
   - "https://funding.tech.eu/deals/C01AA63C-9613-441A-9C10-9706793FCC28"
   - "https://www.getmint.ai/"
   - "https://www.getmint.ai/pricing"
+  - "https://www.getmint.ai/privacy-policy"
 last_verified: "2026-10-30"

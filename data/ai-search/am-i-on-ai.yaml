@@ -6,9 +6,6 @@ dataset: "ai-search"
 company: "Am I On AI"
 website: "amionai.com"
 segment: "geo-tracking"
-hq:
-  city: "New York"
-  country: "US"
 founded:
   year: 2025
   source: "https://flippa.com/13527476"
@@ -19,4 +16,4 @@ pricing:
 sources:
   - "https://flippa.com/13527476"
   - "https://www.amionai.com/pricing"
-last_verified: "2026-10-26"
+last_verified: "2026-10-30"

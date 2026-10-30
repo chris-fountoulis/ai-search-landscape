@@ -9,6 +9,7 @@ segment: "ai-native-agencies"
 hq:
   city: "Bennington"
   country: "US"
+  source: "https://www.agilitypr.com/pr-agency-news/search-engine-and-performance-marketing-leader-eight-oh-two-adds-new-sem-analyst/"
 status: "acquired"
 acquisition:
   acquirer: "TBA Worldwide"

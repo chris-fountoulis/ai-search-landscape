@@ -9,6 +9,7 @@ segment: "content-automation"
 hq:
   city: "Gurugram"
   country: "IN"
+  source: "https://www.scalenut.com/privacy-policy"
 founded:
   year: 2020
   source: "https://inc42.com/company/scalenut/financials/"
@@ -25,4 +26,5 @@ sources:
   - "https://inc42.com/company/scalenut/financials/"
   - "https://www.thesaasnews.com/news/scalenut-raises-3-1-million-in-funding/"
   - "https://www.scalenut.com/pricing"
-last_verified: "2026-10-26"
+  - "https://www.scalenut.com/privacy-policy"
+last_verified: "2026-10-30"

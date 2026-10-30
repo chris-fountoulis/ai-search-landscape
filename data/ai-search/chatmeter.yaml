@@ -9,6 +9,7 @@ segment: "local-and-smb"
 hq:
   city: "San Diego"
   country: "US"
+  source: "https://www.chatmeter.com/privacy-policy/"
 status: "acquired"
 acquisition:
   acquirer: "Alchemer"
@@ -21,4 +22,5 @@ sources:
   - "https://www.businesswire.com/news/home/20250924193562/en"
   - "https://www.alchemer.com/resources/blog/alchemer-acquires-chatmeter-to-unify-customer-feedback-intelligence/"
   - "https://www.dechert.com/knowledge/news/2025/9/dechert-advises-alchemer-on-acquisition-of-chatmeter.html"
-last_verified: "2026-10-26"
+  - "https://www.chatmeter.com/privacy-policy/"
+last_verified: "2026-10-30"

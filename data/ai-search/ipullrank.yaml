@@ -6,13 +6,10 @@ dataset: "ai-search"
 company: "iPullRank"
 website: "ipullrank.com"
 segment: "ai-native-agencies"
-hq:
-  city: "New York"
-  country: "US"
 status: "active"
 pricing:
   as_listed_by_vendor: "custom"
 sources:
   - "https://ipullrank.com/about"
   - "https://metaflow.life/blog/best-ai-native-marketing-agencies-for-seed-stage-startups"
-last_verified: "2026-10-26"
+last_verified: "2026-10-30"

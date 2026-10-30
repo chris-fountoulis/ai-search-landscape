@@ -9,6 +9,7 @@ segment: "ai-native-agencies"
 hq:
   city: "San Francisco"
   country: "US"
+  source: "https://www.sec.gov/Archives/edgar/data/2056451/000205645125000001/primary_doc.xml"
 status: "active"
 funding:
   total_usd: 29120000

@@ -9,6 +9,7 @@ segment: "content-automation"
 hq:
   city: "Wroclaw"
   country: "PL"
+  source: "https://surferseo.com/privacy-policy/"
 founded:
   year: 2017
   source: "https://theygotacquired.com/saas/surfer-seo-acquired-by-positive-group/"
@@ -26,4 +27,5 @@ sources:
   - "https://surferseo.com/blog/surfer-acquisition"
   - "https://searchenginejournal.com/surfer-seo-acquired-by-positive-group/558918"
   - "https://finder.techleap.nl/news/feed/positive-group-acquires-ai-seo-firm-surfer"
-last_verified: "2026-10-26"
+  - "https://surferseo.com/privacy-policy/"
+last_verified: "2026-10-30"

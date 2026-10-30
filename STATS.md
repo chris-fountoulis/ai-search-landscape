@@ -13,7 +13,7 @@ Study: <https://growthofinfluence.com/ai-search-optimization-companies/>. Last v
 | Rows | 151 |
 | Companies | 151 |
 | Countries (HQ known) | 28 |
-| Rows with HQ country | 144 |
+| Rows with HQ country | 139 |
 | Disclosed equity funding | $2.59B across 43 companies |
 | Acquired | 16 |
 | Public companies | 5 |
@@ -36,9 +36,9 @@ Segment funding counts each company once per segment. A company with products in
 
 | Region | Rows |
 |---|---:|
-| North America | 77 |
-| Europe | 59 |
-| Asia | 4 |
+| North America | 74 |
+| Europe | 58 |
+| Asia | 3 |
 | Middle East | 3 |
 | Oceania | 1 |
 
@@ -46,19 +46,19 @@ Segment funding counts each company once per segment. A company with products in
 
 | Country | Code | Rows |
 |---|---|---:|
-| United States | US | 73 |
-| United Kingdom | GB | 14 |
+| United States | US | 70 |
+| United Kingdom | GB | 13 |
 | France | FR | 8 |
 | Germany | DE | 7 |
 | Denmark | DK | 5 |
 | Canada | CA | 4 |
 | Poland | PL | 4 |
 | Israel | IL | 3 |
-| Singapore | SG | 3 |
 | Austria | AT | 2 |
 | Estonia | EE | 2 |
 | Greece | GR | 2 |
 | Netherlands | NL | 2 |
+| Singapore | SG | 2 |
 | Australia | AU | 1 |
 | Belgium | BE | 1 |
 | Cyprus | CY | 1 |
@@ -107,7 +107,7 @@ Study: <https://growthofinfluence.com/ai-agent-companies/>. Last verified: 2026-
 | Rows | 437 |
 | Companies | 420 |
 | Countries (HQ known) | 28 |
-| Rows with HQ country | 431 |
+| Rows with HQ country | 430 |
 | Disclosed equity funding | $40.28B across 329 companies |
 | Acquired | 33 |
 | Public companies | 50 |
@@ -134,7 +134,7 @@ Segment funding counts each company once per segment. A company with products in
 
 | Region | Rows |
 |---|---:|
-| North America | 309 |
+| North America | 308 |
 | Europe | 93 |
 | Middle East | 14 |
 | Asia | 11 |
@@ -145,7 +145,7 @@ Segment funding counts each company once per segment. A company with products in
 
 | Country | Code | Rows |
 |---|---|---:|
-| United States | US | 303 |
+| United States | US | 302 |
 | United Kingdom | GB | 25 |
 | Germany | DE | 22 |
 | Israel | IL | 14 |

@@ -6,9 +6,6 @@ dataset: "ai-search"
 company: "Byword"
 website: "byword.ai"
 segment: "content-automation"
-hq:
-  city: "London"
-  country: "GB"
 founded:
   year: 2021
   source: "https://www.starterstory.com/byword-breakdown"
@@ -19,4 +16,4 @@ pricing:
 sources:
   - "https://www.starterstory.com/byword-breakdown"
   - "https://byword.ai/pricing"
-last_verified: "2026-10-26"
+last_verified: "2026-10-30"

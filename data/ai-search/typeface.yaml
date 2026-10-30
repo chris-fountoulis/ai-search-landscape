@@ -7,8 +7,9 @@ company: "Typeface"
 website: "typeface.ai"
 segment: "content-automation"
 hq:
-  city: "San Francisco"
+  city: "Palo Alto"
   country: "US"
+  source: "https://www.typeface.ai/privacy-policy"
 founded:
   year: 2022
   source: "https://techcrunch.com/?p=2878419"
@@ -23,4 +24,5 @@ pricing:
 sources:
   - "https://typeface.ai/blog/typeface-announces-100-m-in-new-funding-to-fuel-global-expansion-of-its-personalized-generative-ai-platform-for-enterprises"
   - "https://techcrunch.com/?p=2878419"
+  - "https://www.typeface.ai/privacy-policy"
 last_verified: "2026-10-30"

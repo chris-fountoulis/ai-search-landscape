@@ -9,6 +9,7 @@ segment: "geo-tracking"
 hq:
   city: "Los Altos"
   country: "US"
+  source: "https://optimizegeo.ai/privacy-policy"
 status: "active"
 funding:
   latest_round:
@@ -20,4 +21,5 @@ sources:
   - "https://www.adweek.com/dealroom/michael-kassan-invests-in-80m-startup-optimizegeo/"
   - "https://dealroom.co/news/158294-kassan-backs-geo-startup-optimizegeo-at-80m-valuation/"
   - "https://alpha-maven.com/story/venture-capital/optimizegeo-closes-funding-finsmes"
-last_verified: "2026-10-26"
+  - "https://optimizegeo.ai/privacy-policy"
+last_verified: "2026-10-30"

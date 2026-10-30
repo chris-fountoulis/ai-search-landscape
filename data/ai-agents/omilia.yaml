@@ -9,6 +9,7 @@ segment: "cx-sales"
 hq:
   city: "Larnaca"
   country: "CY"
+  source: "https://omilia.com/data-protection-notice-sep-25/"
 founded:
   year: 2002
   source: "https://techcrunch.com/2026/08/06/omilia-raises-67m-to-scale-its-customer-support-platform/"
@@ -27,4 +28,4 @@ sources:
   - "https://techcrunch.com/2026/08/06/omilia-raises-67m-to-scale-its-customer-support-platform/"
   - "https://omilia.com/data-protection-notice-sep-25/"
   - "https://omilia.com/"
-last_verified: "2026-10-29"
+last_verified: "2026-10-30"

@@ -9,6 +9,7 @@ segment: "geo-tracking"
 hq:
   city: "Saint-Mande"
   country: "FR"
+  source: "https://meteoria.ai/a-propos/legal"
 status: "active"
 pricing:
   as_listed_by_vendor: "EUR 75 to 700+"
@@ -17,4 +18,5 @@ sources:
   - "https://meteoria.ai/"
   - "https://www.vcbacked.co/company/meteoria"
   - "https://pitchbook.com/profiles/company/1308622-60"
-last_verified: "2026-10-26"
+  - "https://meteoria.ai/a-propos/legal"
+last_verified: "2026-10-30"

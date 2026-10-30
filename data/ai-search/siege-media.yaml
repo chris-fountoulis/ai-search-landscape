@@ -6,9 +6,6 @@ dataset: "ai-search"
 company: "Siege Media"
 website: "siegemedia.com"
 segment: "ai-native-agencies"
-hq:
-  city: "San Diego, California"
-  country: "US"
 founded:
   year: 2012
   source: "https://www.siegemedia.com/"

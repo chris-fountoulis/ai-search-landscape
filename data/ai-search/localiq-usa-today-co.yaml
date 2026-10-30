@@ -9,6 +9,7 @@ segment: "local-and-smb"
 hq:
   city: "Pittsford"
   country: "US"
+  source: "https://www.sec.gov/Archives/edgar/data/1579684/000157968426000047/tday-20260630.htm"
 status: "active"
 public_company: true
 pricing:
@@ -16,4 +17,4 @@ pricing:
 sources:
   - "https://www.sec.gov/Archives/edgar/data/1579684/000157968426000008/tdayq42025ex991earningsrel.htm"
   - "https://www.sec.gov/Archives/edgar/data/1579684/000157968426000047/tday-20260630.htm"
-last_verified: "2026-10-26"
+last_verified: "2026-10-30"
