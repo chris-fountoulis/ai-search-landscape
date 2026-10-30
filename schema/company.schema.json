@@ -51,7 +51,8 @@
       "minProperties": 1,
       "properties": {
         "city": {"type": "string", "minLength": 1, "maxLength": 80},
-        "country": {"description": "ISO 3166-1 alpha-2 code from schema/vocab/countries.json.", "type": "string", "pattern": "^[A-Z]{2}$"}
+        "country": {"description": "ISO 3166-1 alpha-2 code from schema/vocab/countries.json.", "type": "string", "pattern": "^[A-Z]{2}$"},
+        "source": {"description": "Page that states the headquarters (Terms, Imprint, Legal Notice, About page or press).", "$ref": "#/$defs/url"}
       }
     },
     "founded": {
@@ -92,7 +93,8 @@
             "name": {"type": "string", "minLength": 1, "maxLength": 80},
             "date": {"$ref": "#/$defs/partial_date"},
             "amount_usd": {"type": "integer", "minimum": 0},
-            "valuation_usd": {"type": "integer", "minimum": 0}
+            "valuation_usd": {"type": "integer", "minimum": 0},
+            "source": {"description": "Page that states the round, when it is not funding.source (for example when the total adds several rounds).", "$ref": "#/$defs/url"}
           }
         },
         "source": {"$ref": "#/$defs/url"}

@@ -52,6 +52,15 @@ class ValidateTests(unittest.TestCase):
         self.assertIn("funding.source: https://news.example/acme-raises must also be listed", errs)
         self.assertIn("pricing.source", errs)
 
+    def test_hq_and_round_sources_must_be_listed(self):
+        self.repo.write(record(
+            hq={"city": "Berlin", "country": "DE", "source": "https://acme.example/imprint"},
+            funding={"total_usd": 21000000, "source": "https://news.example/acme-raises",
+                     "latest_round": {"name": "Series A", "source": "https://news.example/acme-series-a"}}))
+        errs = "\n".join(self.only_errors())
+        self.assertIn("hq.source: https://acme.example/imprint must also be listed", errs)
+        self.assertIn("funding.latest_round.source: https://news.example/acme-series-a must also be listed", errs)
+
     def test_price_with_number_needs_source(self):
         self.repo.write(record(pricing={"as_listed_by_vendor": "from $49"}))
         self.assertIn("pricing: a price with a number needs pricing.source", self.only_errors())

@@ -55,10 +55,13 @@ def check_url(url):
 
 def field_sources(record):
     """Yield (path, url) for every field-level source in a record."""
-    for block in ("founded", "funding", "acquisition", "closure", "pricing"):
+    for block in ("hq", "founded", "funding", "acquisition", "closure", "pricing"):
         value = record.get(block)
         if isinstance(value, dict) and isinstance(value.get("source"), str):
             yield block + ".source", value["source"]
+    rnd = (record.get("funding") or {}).get("latest_round") if isinstance(record.get("funding"), dict) else None
+    if isinstance(rnd, dict) and isinstance(rnd.get("source"), str):
+        yield "funding.latest_round.source", rnd["source"]
 
 
 def check_record(record, dataset, path, schema, vocab):

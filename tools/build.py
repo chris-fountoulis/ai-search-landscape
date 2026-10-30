@@ -39,10 +39,10 @@ RAW_BASE = f"https://raw.githubusercontent.com/{common.REPO_SLUG}/main/dist"
 
 CSV_COLUMNS = [
     "dataset", "slug", "name", "company", "product", "website", "segment", "segment_label",
-    "hq_city", "hq_country", "hq_country_name", "region", "founded_year", "founded_source",
+    "hq_city", "hq_country", "hq_country_name", "region", "hq_source", "founded_year", "founded_source",
     "status", "public_company", "model_lab",
     "funding_total_usd", "bootstrapped", "latest_round", "latest_round_date", "latest_round_usd",
-    "latest_round_valuation_usd", "funding_source",
+    "latest_round_valuation_usd", "latest_round_source", "funding_source",
     "acquired_by", "acquisition_date", "acquisition_date_type", "acquisition_price_usd",
     "acquisition_price_note", "acquisition_source", "closure_date", "closure_source",
     "price_as_listed_by_vendor", "pricing_model", "price_source",
@@ -88,6 +88,7 @@ def flatten(rec, vocab):
         ("hq_country", country),
         ("hq_country_name", vocab["countries"].get(country, "")),
         ("region", vocab["regions"].get(country, "") if country else ""),
+        ("hq_source", hq.get("source", "")),
         ("founded_year", founded.get("year", "")),
         ("founded_source", founded.get("source", "")),
         ("status", rec["status"]),
@@ -99,6 +100,7 @@ def flatten(rec, vocab):
         ("latest_round_date", rnd.get("date", "")),
         ("latest_round_usd", rnd.get("amount_usd", "")),
         ("latest_round_valuation_usd", rnd.get("valuation_usd", "")),
+        ("latest_round_source", rnd.get("source", "")),
         ("funding_source", funding.get("source", "")),
         ("acquired_by", acq.get("acquirer", "")),
         ("acquisition_date", acq.get("date", "")),
