@@ -1,0 +1,61 @@
+name: Weekly link check
+
+# Report only: checks every website and source URL, uploads the report, and
+# opens (or comments on) one issue labelled link-check when links are broken.
+# Never runs on pull requests, so no fork ever gets the issues: write token.
+
+on:
+  schedule:
+    - cron: "17 6 * * 1"   # Mondays 06:17 UTC
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  check:
+    if: github.repository == 'chris-fountoulis/ai-search-landscape'
+    runs-on: ubuntu-latest
+    timeout-minutes: 90
+    permissions:
+      contents: read
+      issues: write
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: false
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.13"
+
+      - name: Check links
+        id: check
+        run: |
+          python tools/check_links.py --workers 6 --per-host-delay 2 --report link-report.md --json link-report.json
+          problems=$(python -c "import json; r=json.load(open('link-report.json')); print(sum(1 for x in r if x['outcome'] == 'broken'))")
+          echo "broken=$problems" >> "$GITHUB_OUTPUT"
+          cat link-report.md >> "$GITHUB_STEP_SUMMARY"
+
+      - uses: actions/upload-artifact@v4
+        with:
+          name: link-report
+          path: |
+            link-report.md
+            link-report.json
+          retention-days: 30
+
+      - name: Open or update the link-check issue
+        if: steps.check.outputs.broken != '0'
+        env:
+          GH_TOKEN: ${{ github.token }}
+          BROKEN: ${{ steps.check.outputs.broken }}
+        run: |
+          head -c 60000 link-report.md > issue-body.md
+          gh label create link-check --color F5A623 --description "Broken source or website URLs" --force
+          existing=$(gh issue list --label link-check --state open --json number --jq '.[0].number')
+          if [ -n "$existing" ]; then
+            gh issue comment "$existing" --body-file issue-body.md
+          else
+            gh issue create --title "Link check: $BROKEN broken URL(s)" --label link-check --body-file issue-body.md
+          fi
