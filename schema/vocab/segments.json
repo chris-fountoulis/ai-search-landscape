@@ -1,0 +1,19 @@
+{
+  "ai-search": [
+    {"id": "geo-tracking", "label": "AI search visibility trackers", "description": "Software that measures how often and how accurately a brand is named in AI answers (GEO, AEO and AI visibility tools)."},
+    {"id": "ai-native-agencies", "label": "AI-native SEO agencies", "description": "Agencies that sell generative engine optimization as a service, built around AI search."},
+    {"id": "content-automation", "label": "AI content and workflow platforms", "description": "Platforms that generate or automate content for search, including AI search."},
+    {"id": "incumbents", "label": "Established SEO platforms", "description": "Major SEO and search platforms that buyers compare against the new entrants and that market AI search features."},
+    {"id": "local-and-smb", "label": "Local and small-business products", "description": "Local search, listings, reviews and small-business products with AI search features."}
+  ],
+  "ai-agents": [
+    {"id": "builders", "label": "Agent builders and orchestration platforms", "description": "Tools where you build and run your own agents."},
+    {"id": "company-brain", "label": "Company brain and knowledge agents", "description": "Products that connect a company's documents, email, chat and apps into one memory, with agents that act on it."},
+    {"id": "cx-sales", "label": "Customer service and sales agents", "description": "Agents sold to do a job, from support and phone calls to outbound sales, collections and recruiting."},
+    {"id": "coding", "label": "Coding and software agents", "description": "Agents that write, test, review and ship code, and app builders that generate whole applications."},
+    {"id": "general-browser", "label": "General-purpose and browser agents", "description": "Agents for open-ended tasks on the web or a computer."},
+    {"id": "marketing-agency", "label": "Marketing and agency agents", "description": "Agents sold to marketers and agencies for content, ads, social, email and reporting."},
+    {"id": "infrastructure", "label": "Agent infrastructure", "description": "What agents run on: sandboxes, browsers, memory, tool gateways, evaluation and security."},
+    {"id": "vertical", "label": "Vertical agents", "description": "The best funded agent companies in law, finance, health and real estate (more than $50 million disclosed funding or a round above $50 million)."}
+  ]
+}

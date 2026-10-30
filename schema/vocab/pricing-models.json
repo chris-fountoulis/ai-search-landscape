@@ -1,0 +1,9 @@
+[
+  {"id": "custom", "label": "Custom", "description": "No price published; sales-led."},
+  {"id": "per seat", "label": "Per seat", "description": "Priced per user per month."},
+  {"id": "usage or credits", "label": "Usage or credits", "description": "Priced by consumption: tokens, credits, minutes or compute."},
+  {"id": "flat", "label": "Flat", "description": "Fixed monthly plans not tied to seats or usage."},
+  {"id": "per task or conversation", "label": "Per task or conversation", "description": "Priced per resolved task, call or conversation."},
+  {"id": "per outcome", "label": "Per outcome", "description": "Priced per business outcome, such as a meeting booked or a ticket resolved."},
+  {"id": "per agent", "label": "Per agent", "description": "Priced per deployed agent."}
+]

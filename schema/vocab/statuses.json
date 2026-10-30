@@ -1,0 +1,5 @@
+[
+  {"id": "active", "label": "Active", "description": "Independent and selling the product on the last_verified date."},
+  {"id": "acquired", "label": "Acquired", "description": "A deal has closed (AI agent study) or been announced (AI search study, see acquisition.date_type). The row stays so the dataset records the deal."},
+  {"id": "closed", "label": "Closed", "description": "The product or company shut down. Requires a closure block with a public source."}
+]
