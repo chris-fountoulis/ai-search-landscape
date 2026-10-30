@@ -1,0 +1,22 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "Tely AI"
+slug: "tely-ai"
+dataset: "ai-search"
+company: "Tely AI"
+website: "tely.ai"
+segment: "ai-native-agencies"
+hq:
+  city: "San Francisco"
+  country: "US"
+status: "active"
+funding:
+  latest_round:
+    name: "Angel"
+  source: "https://www.tely.ai/"
+pricing:
+  as_listed_by_vendor: "not published (free trial)"
+sources:
+  - "https://www.tely.ai/"
+  - "https://tely.ai/"
+last_verified: "2026-10-26"

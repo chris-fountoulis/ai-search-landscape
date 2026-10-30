@@ -1,0 +1,18 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "Single Grain"
+slug: "single-grain"
+dataset: "ai-search"
+company: "Single Grain"
+website: "singlegrain.com"
+segment: "ai-native-agencies"
+hq:
+  city: "Miami, Florida"
+  country: "US"
+status: "active"
+pricing:
+  as_listed_by_vendor: "custom"
+sources:
+  - "https://www.singlegrain.com/"
+  - "https://growjo.com/company/Single_Grain"
+last_verified: "2026-10-26"

@@ -1,0 +1,18 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "Avenue Z"
+slug: "avenue-z"
+dataset: "ai-search"
+company: "Avenue Z"
+website: "avenuez.com"
+segment: "ai-native-agencies"
+hq:
+  city: "Miami"
+  country: "US"
+status: "active"
+pricing:
+  as_listed_by_vendor: "custom"
+sources:
+  - "https://avenuez.com/?p=43036"
+  - "https://www.businesswire.com/news/home/20250916483295/en/PR-Influence-Impact-Avenue-Z-Expands-NYC-Office-to-Match-Strategic-Communications-AI-Optimization-Demand"
+last_verified: "2026-10-26"

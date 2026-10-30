@@ -1,0 +1,18 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "Foundation Marketing"
+slug: "foundation-marketing"
+dataset: "ai-search"
+company: "Foundation Marketing"
+website: "foundationinc.co"
+segment: "ai-native-agencies"
+hq:
+  city: "Halifax, Nova Scotia"
+  country: "CA"
+status: "active"
+pricing:
+  as_listed_by_vendor: "custom"
+sources:
+  - "https://foundationinc.co/team/ross-simmonds"
+  - "https://www.designrush.com/agency/profile/foundation-marketing"
+last_verified: "2026-10-26"

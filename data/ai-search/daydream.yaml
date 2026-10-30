@@ -1,0 +1,23 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "daydream"
+slug: "daydream"
+dataset: "ai-search"
+company: "daydream"
+website: "withdaydream.com"
+segment: "ai-native-agencies"
+hq:
+  city: "San Francisco"
+  country: "US"
+status: "active"
+funding:
+  total_usd: 21000000
+  latest_round:
+    name: "Series A"
+  source: "https://www.aap.com.au/aapreleases/cision20260402ae25640"
+pricing:
+  as_listed_by_vendor: "custom"
+sources:
+  - "https://www.aap.com.au/aapreleases/cision20260402ae25640"
+  - "https://www.withdaydream.com/pricing"
+last_verified: "2026-10-26"

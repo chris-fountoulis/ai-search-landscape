@@ -1,0 +1,18 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "TripleDart"
+slug: "tripledart"
+dataset: "ai-search"
+company: "TripleDart"
+website: "tripledart.com"
+segment: "ai-native-agencies"
+hq:
+  city: "Plano"
+  country: "US"
+status: "active"
+pricing:
+  as_listed_by_vendor: "from $5,000 (SEO/AEO)"
+  source: "https://tripledart.com/"
+sources:
+  - "https://tripledart.com/"
+last_verified: "2026-10-26"

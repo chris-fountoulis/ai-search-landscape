@@ -1,0 +1,17 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "Minuttia"
+slug: "minuttia"
+dataset: "ai-search"
+company: "Minuttia"
+website: "minuttia.com"
+segment: "ai-native-agencies"
+hq:
+  country: "GR"
+status: "active"
+pricing:
+  as_listed_by_vendor: "custom"
+sources:
+  - "https://minuttia.com/"
+  - "https://themanifest.com/company/minuttia"
+last_verified: "2026-10-26"

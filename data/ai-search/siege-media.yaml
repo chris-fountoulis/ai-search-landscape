@@ -1,0 +1,21 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "Siege Media"
+slug: "siege-media"
+dataset: "ai-search"
+company: "Siege Media"
+website: "siegemedia.com"
+segment: "ai-native-agencies"
+hq:
+  city: "San Diego, California"
+  country: "US"
+founded:
+  year: 2012
+  source: "https://siegemedia.com/team"
+status: "active"
+pricing:
+  as_listed_by_vendor: "custom"
+sources:
+  - "https://siegemedia.com/team"
+  - "https://ghost.bitscale.ai/siege-media/"
+last_verified: "2026-10-26"

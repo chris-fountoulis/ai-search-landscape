@@ -1,0 +1,19 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "Metaflow AI"
+slug: "metaflow-ai"
+dataset: "ai-search"
+company: "Metaflow AI"
+website: "metaflow.life"
+segment: "ai-native-agencies"
+hq:
+  city: "San Francisco"
+  country: "US"
+status: "active"
+pricing:
+  as_listed_by_vendor: "$99 to $299 (software); agentic pilots from $7,500"
+  source: "https://metaflow.life/"
+sources:
+  - "https://metaflow.life/"
+  - "https://metaflow.life/blog/best-ai-native-marketing-agencies-for-seed-stage-startups"
+last_verified: "2026-10-26"

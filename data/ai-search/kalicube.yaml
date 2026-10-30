@@ -1,0 +1,21 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "Kalicube"
+slug: "kalicube"
+dataset: "ai-search"
+company: "Kalicube"
+website: "kalicube.com"
+segment: "ai-native-agencies"
+hq:
+  city: "Aubais"
+  country: "FR"
+founded:
+  year: 2015
+  source: "https://kalicube.com/about/kalicube-head-office/"
+status: "active"
+pricing:
+  as_listed_by_vendor: "custom (free audit)"
+sources:
+  - "https://kalicube.com/about/kalicube-head-office/"
+  - "https://kalicube.com/about/"
+last_verified: "2026-10-26"

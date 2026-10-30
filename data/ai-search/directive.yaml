@@ -1,0 +1,19 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "Directive"
+slug: "directive"
+dataset: "ai-search"
+company: "Directive"
+website: "directiveconsulting.com"
+segment: "ai-native-agencies"
+hq:
+  city: "Irvine, California"
+  country: "US"
+status: "active"
+pricing:
+  as_listed_by_vendor: "custom"
+sources:
+  - "https://www.globenewswire.com/news-release/2026/09/09/3358512/0/en/directive-launches-expanded-communications-division-bringing-performance-principles-to-b2b-pr-social-and-influencer-marketing.html"
+  - "https://www.adweek.com/?p=1959057"
+  - "https://directiveconsulting.com/about/our-story/"
+last_verified: "2026-10-26"

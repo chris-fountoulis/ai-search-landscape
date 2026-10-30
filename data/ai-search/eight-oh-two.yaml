@@ -1,0 +1,21 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "Eight Oh Two"
+slug: "eight-oh-two"
+dataset: "ai-search"
+company: "Eight Oh Two"
+website: "eightohtwo.com"
+segment: "ai-native-agencies"
+hq:
+  city: "Bennington"
+  country: "US"
+status: "acquired"
+acquisition:
+  acquirer: "TBA Worldwide"
+  source: "https://www.agilitypr.com/pr-agency-news/search-engine-and-performance-marketing-leader-eight-oh-two-adds-new-sem-analyst/"
+pricing:
+  as_listed_by_vendor: "custom"
+sources:
+  - "https://www.agilitypr.com/pr-agency-news/search-engine-and-performance-marketing-leader-eight-oh-two-adds-new-sem-analyst/"
+  - "https://www.eightohtwo.com/"
+last_verified: "2026-10-26"

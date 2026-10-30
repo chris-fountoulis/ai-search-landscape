@@ -1,0 +1,24 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "GrowthX"
+slug: "growthx"
+dataset: "ai-search"
+company: "GrowthX"
+website: "growthx.ai"
+segment: "ai-native-agencies"
+hq:
+  city: "San Francisco"
+  country: "US"
+status: "active"
+funding:
+  total_usd: 29120000
+  latest_round:
+    name: "Series A"
+  source: "https://madrona.com/investing-in-growthx-redefining-traditional-marketing-workflow/"
+pricing:
+  as_listed_by_vendor: "custom"
+sources:
+  - "https://www.sec.gov/Archives/edgar/data/2056451/000205645125000001/primary_doc.xml"
+  - "https://madrona.com/investing-in-growthx-redefining-traditional-marketing-workflow/"
+  - "https://www.builtinnyc.com/job/account-executive/9344626"
+last_verified: "2026-10-26"

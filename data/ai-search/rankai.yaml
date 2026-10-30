@@ -1,0 +1,26 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "RankAI"
+slug: "rankai"
+dataset: "ai-search"
+company: "RankAI"
+website: "rankai.ai"
+segment: "ai-native-agencies"
+hq:
+  city: "San Francisco"
+  country: "US"
+founded:
+  year: 2023
+  source: "https://www.ycombinator.com/companies/rankai"
+status: "active"
+funding:
+  latest_round:
+    name: "Y Combinator S23"
+  source: "https://www.ycombinator.com/companies/rankai"
+pricing:
+  as_listed_by_vendor: "$0 to $499; Expert custom"
+  source: "https://rankai.ai/"
+sources:
+  - "https://www.ycombinator.com/companies/rankai"
+  - "https://rankai.ai/"
+last_verified: "2026-10-26"

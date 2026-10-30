@@ -1,0 +1,18 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "Advengers"
+slug: "advengers"
+dataset: "ai-search"
+company: "Advengers"
+website: "advengers.gr"
+segment: "ai-native-agencies"
+hq:
+  city: "Athens"
+  country: "GR"
+status: "active"
+pricing:
+  as_listed_by_vendor: "custom"
+sources:
+  - "https://writesonic.com/customers/advengers"
+  - "https://www.advengers.gr"
+last_verified: "2026-10-26"

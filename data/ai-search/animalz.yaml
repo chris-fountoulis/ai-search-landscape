@@ -1,0 +1,15 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "Animalz"
+slug: "animalz"
+dataset: "ai-search"
+company: "Animalz"
+website: "animalz.co"
+segment: "ai-native-agencies"
+status: "active"
+pricing:
+  as_listed_by_vendor: "custom"
+sources:
+  - "https://dock.us/grow-and-tell/3xing-revenue-at-a-content-agency"
+  - "https://animalz.co/blog/announcing-a-few-big-changes-at-animalz"
+last_verified: "2026-10-26"

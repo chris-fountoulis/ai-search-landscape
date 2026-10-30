@@ -1,0 +1,21 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "NoGood"
+slug: "nogood"
+dataset: "ai-search"
+company: "NoGood"
+website: "nogood.io"
+segment: "ai-native-agencies"
+hq:
+  city: "New York"
+  country: "US"
+founded:
+  year: 2017
+  source: "https://www.datanyze.com/companies/nogood/471391349"
+status: "active"
+pricing:
+  as_listed_by_vendor: "custom"
+sources:
+  - "https://nogood.io/ai-marketing-agency/"
+  - "https://www.datanyze.com/companies/nogood/471391349"
+last_verified: "2026-10-26"

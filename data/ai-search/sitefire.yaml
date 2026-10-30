@@ -1,0 +1,21 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "Sitefire"
+slug: "sitefire"
+dataset: "ai-search"
+company: "Sitefire"
+website: "sitefire.ai"
+segment: "ai-native-agencies"
+hq:
+  country: "DE"
+founded:
+  year: 2025
+  source: "https://www.ycombinator.com/companies/sitefire"
+status: "active"
+funding:
+  latest_round:
+    name: "Y Combinator W26"
+  source: "https://www.ycombinator.com/companies/sitefire"
+sources:
+  - "https://www.ycombinator.com/companies/sitefire"
+last_verified: "2026-10-26"

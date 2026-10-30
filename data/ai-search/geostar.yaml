@@ -1,0 +1,20 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "Geostar"
+slug: "geostar"
+dataset: "ai-search"
+company: "Geostar"
+website: "geostar.ai"
+segment: "ai-native-agencies"
+hq:
+  city: "New York"
+  country: "US"
+founded:
+  year: 2024
+  source: "https://venturebeat.com/ai/geostar-pioneers-geo-as-traditional-seo-faces-25-decline-from-ai-chatbots"
+status: "active"
+sources:
+  - "https://venturebeat.com/ai/geostar-pioneers-geo-as-traditional-seo-faces-25-decline-from-ai-chatbots"
+  - "https://www.ycombinator.com/companies/geostar"
+  - "https://www.geostar.ai"
+last_verified: "2026-10-26"

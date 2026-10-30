@@ -1,0 +1,28 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "Gushwork"
+slug: "gushwork"
+dataset: "ai-search"
+company: "Gushwork"
+website: "gushwork.ai"
+segment: "ai-native-agencies"
+hq:
+  city: "Lewes, Delaware"
+  country: "US"
+founded:
+  year: 2023
+  source: "https://techcrunch.com/2026/02/25/gushwork-bets-on-ai-search-for-customer-leads-and-early-results-are-emerging/"
+status: "active"
+funding:
+  total_usd: 11000000
+  latest_round:
+    name: "Seed"
+  source: "https://techcrunch.com/2026/02/25/gushwork-bets-on-ai-search-for-customer-leads-and-early-results-are-emerging/"
+pricing:
+  as_listed_by_vendor: "from $900"
+  source: "https://www.gushwork.ai/pricing"
+sources:
+  - "https://techcrunch.com/2026/02/25/gushwork-bets-on-ai-search-for-customer-leads-and-early-results-are-emerging/"
+  - "https://www.gushwork.ai/pricing"
+  - "https://entrackr.com/snippets/gushwork-secures-9-mn-led-by-susquehanna-asia-vc-11157636"
+last_verified: "2026-10-26"

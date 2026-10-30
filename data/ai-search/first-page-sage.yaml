@@ -1,0 +1,17 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "First Page Sage"
+slug: "first-page-sage"
+dataset: "ai-search"
+company: "First Page Sage"
+website: "firstpagesage.com"
+segment: "ai-native-agencies"
+hq:
+  country: "US"
+status: "active"
+pricing:
+  as_listed_by_vendor: "custom"
+sources:
+  - "https://firstpagesage.com/"
+  - "https://www.gtm8020.com/blog/first-page-sage-review-2026"
+last_verified: "2026-10-26"
