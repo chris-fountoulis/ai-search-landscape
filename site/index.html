@@ -1,0 +1,403 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>AI Search Landscape: open dataset of AI search optimization and AI agent companies</title>
+<meta name="description" content="Browse the open, sourced dataset behind two Growth Of Influence studies: AI search optimization (GEO and AEO) vendors and AI agent companies. Search, filter and download as CSV or JSON. CC BY 4.0.">
+<link rel="canonical" href="https://chris-fountoulis.github.io/ai-search-landscape/">
+<meta property="og:title" content="AI Search Landscape">
+<meta property="og:description" content="Open, sourced dataset of AI search optimization vendors and AI agent companies. CC BY 4.0.">
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://chris-fountoulis.github.io/ai-search-landscape/">
+<meta name="theme-color" content="#0D1B4B">
+<style>
+  :root {
+    --navy: #0D1B4B;
+    --navy-2: #16275f;
+    --gold: #F5A623;
+    --body: #555555;
+    --light: #888888;
+    --line: #E8E8E8;
+    --bg: #F7F8FB;
+    --font: "Quicksand", ui-rounded, "SF Pro Rounded", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  }
+  * { box-sizing: border-box; }
+  html { -webkit-text-size-adjust: 100%; }
+  body { margin: 0; font-family: var(--font); color: var(--body); background: var(--bg); line-height: 1.5; }
+  a { color: var(--navy); }
+  a:focus-visible, button:focus-visible, input:focus-visible, select:focus-visible {
+    outline: 3px solid var(--gold); outline-offset: 2px;
+  }
+  .skip { position: absolute; left: -9999px; }
+  .skip:focus { left: 1rem; top: 1rem; background: #fff; padding: .5rem 1rem; z-index: 10; }
+  header.hero { background: var(--navy); color: #fff; padding: 2.5rem 1.25rem 2rem; }
+  .wrap { max-width: 1240px; margin: 0 auto; }
+  .eyebrow { color: var(--gold); font-style: italic; font-weight: 600; margin: 0 0 .5rem; }
+  h1 { font-weight: 700; text-transform: uppercase; letter-spacing: .04em; font-size: clamp(1.6rem, 3.5vw, 2.4rem); line-height: 1.15; margin: 0 0 .75rem; }
+  h1 span { color: var(--gold); }
+  .lede { max-width: 760px; color: #dfe3f0; margin: 0 0 1.25rem; }
+  .pills { display: flex; flex-wrap: wrap; gap: .6rem; }
+  .pill { display: inline-block; border-radius: 50px; padding: .55rem 1.15rem; font-weight: 700; text-decoration: none; font-size: .95rem; }
+  .pill.gold { background: var(--gold); color: var(--navy); }
+  .pill.ghost { border: 2px solid var(--gold); color: #fff; }
+  .stats { background: #fff; border-bottom: 1px solid var(--line); }
+  .stats .wrap { display: grid; grid-template-columns: repeat(4, 1fr); gap: 1rem; padding: 1.25rem; }
+  .stat b { display: block; color: var(--navy); font-size: clamp(1.5rem, 3vw, 2.25rem); font-weight: 700; line-height: 1.1; }
+  .stat small { color: var(--light); font-size: .85rem; }
+  main { padding: 1.5rem 1.25rem 3rem; }
+  .controls { display: grid; grid-template-columns: 2fr repeat(4, 1fr); gap: .75rem; align-items: end; margin-bottom: 1rem; }
+  label { display: block; font-size: .8rem; font-weight: 700; color: var(--navy); text-transform: uppercase; letter-spacing: .06em; margin-bottom: .25rem; }
+  input[type=search], select { width: 100%; font: inherit; color: var(--navy); padding: .55rem .75rem; border: 1px solid #cfd4e2; border-radius: 10px; background: #fff; }
+  .tabs { display: flex; gap: .5rem; flex-wrap: wrap; margin-bottom: 1rem; }
+  .tabs button { font: inherit; font-weight: 700; border-radius: 50px; border: 2px solid var(--navy); background: #fff; color: var(--navy); padding: .4rem 1rem; cursor: pointer; }
+  .tabs button[aria-pressed=true] { background: var(--navy); color: #fff; }
+  .meta { display: flex; justify-content: space-between; gap: 1rem; flex-wrap: wrap; font-size: .9rem; margin-bottom: .5rem; }
+  .meta a { font-weight: 600; }
+  .card { background: #fff; border: 1px solid var(--line); border-radius: 16px; box-shadow: 0 1px 3px rgba(13,27,75,.06); overflow: hidden; }
+  .scroll { overflow-x: auto; }
+  table { border-collapse: collapse; width: 100%; font-size: .92rem; }
+  thead th { position: sticky; top: 0; background: var(--navy); color: #fff; text-align: left; font-weight: 700; white-space: nowrap; padding: 0; }
+  thead th button { all: unset; display: block; width: 100%; padding: .7rem .75rem; cursor: pointer; box-sizing: border-box; }
+  thead th button:focus-visible { outline: 3px solid var(--gold); outline-offset: -3px; }
+  thead th[aria-sort=ascending] button::after { content: " \25B2"; color: var(--gold); }
+  thead th[aria-sort=descending] button::after { content: " \25BC"; color: var(--gold); }
+  thead th.static { padding: .7rem .75rem; }
+  td { padding: .6rem .75rem; border-top: 1px solid var(--line); vertical-align: top; }
+  tbody tr:hover { background: #fbf7ee; }
+  td.num { text-align: right; white-space: nowrap; font-variant-numeric: tabular-nums; }
+  td .name { font-weight: 700; color: var(--navy); }
+  td .sub { display: block; color: var(--light); font-size: .82rem; }
+  .tag { display: inline-block; font-size: .75rem; font-weight: 700; padding: .1rem .5rem; border-radius: 50px; background: #eef1f8; color: var(--navy); white-space: nowrap; }
+  .tag.acquired { background: #fff1d8; color: #7a4a00; }
+  .tag.closed { background: #f3e1e1; color: #7a1f1f; }
+  .empty { padding: 2rem; text-align: center; }
+  footer { background: var(--navy); color: #c9cfe3; padding: 2rem 1.25rem; font-size: .9rem; }
+  footer a { color: var(--gold); }
+  .muted { color: var(--light); }
+  @media (max-width: 860px) {
+    .controls { grid-template-columns: 1fr 1fr; }
+    .controls .search { grid-column: 1 / -1; }
+    .stats .wrap { grid-template-columns: repeat(2, 1fr); }
+    .hide-sm { display: none; }
+  }
+  @media (prefers-reduced-motion: reduce) { * { scroll-behavior: auto !important; } }
+</style>
+</head>
+<body>
+<a class="skip" href="#table">Skip to the table</a>
+<header class="hero">
+  <div class="wrap">
+    <p class="eyebrow">Open data, every number sourced.</p>
+    <h1>AI Search Landscape:<br><span>who sells AI search and AI agents</span></h1>
+    <p class="lede">The structured dataset behind two Growth Of Influence studies: AI search optimization (GEO and AEO) vendors and AI agent companies. One YAML file per company on GitHub, with a source URL for every figure. Licensed CC BY 4.0.</p>
+    <div class="pills">
+      <a class="pill gold" href="https://github.com/chris-fountoulis/ai-search-landscape">View on GitHub</a>
+      <a class="pill ghost" href="data/landscape.json" download>Download JSON</a>
+      <a class="pill ghost" href="data/ai-search.csv" download>AI search CSV</a>
+      <a class="pill ghost" href="data/ai-agents.csv" download>AI agents CSV</a>
+    </div>
+  </div>
+</header>
+
+<section class="stats" aria-label="Headline numbers">
+  <div class="wrap" id="stats">
+    <div class="stat"><b id="s-rows">&nbsp;</b><small>rows in view</small></div>
+    <div class="stat"><b id="s-companies">&nbsp;</b><small>companies</small></div>
+    <div class="stat"><b id="s-countries">&nbsp;</b><small>HQ countries</small></div>
+    <div class="stat"><b id="s-funding">&nbsp;</b><small>disclosed equity funding (minimum, model labs excluded)</small></div>
+  </div>
+</section>
+
+<main class="wrap">
+  <div class="tabs" role="group" aria-label="Dataset">
+    <button type="button" data-ds="" aria-pressed="true">All</button>
+    <button type="button" data-ds="ai-search" aria-pressed="false">AI search optimization</button>
+    <button type="button" data-ds="ai-agents" aria-pressed="false">AI agents</button>
+  </div>
+
+  <form class="controls" role="search" onsubmit="return false">
+    <div class="search">
+      <label for="q">Search</label>
+      <input id="q" type="search" placeholder="Company, product, city or domain" autocomplete="off">
+    </div>
+    <div>
+      <label for="f-segment">Segment</label>
+      <select id="f-segment"><option value="">All segments</option></select>
+    </div>
+    <div>
+      <label for="f-country">Country</label>
+      <select id="f-country"><option value="">All countries</option></select>
+    </div>
+    <div>
+      <label for="f-status">Status</label>
+      <select id="f-status"><option value="">Any status</option></select>
+    </div>
+    <div>
+      <label for="f-funding">Funding</label>
+      <select id="f-funding">
+        <option value="">Any</option>
+        <option value="disclosed">Funding disclosed</option>
+        <option value="none">Not disclosed</option>
+      </select>
+    </div>
+  </form>
+
+  <div class="meta">
+    <span id="count" aria-live="polite">Loading data...</span>
+    <span>Sources: <a id="study-link" href="https://growthofinfluence.com/ai-search-optimization-companies/">AI search study</a> and <a href="https://growthofinfluence.com/ai-agent-companies/">AI agent study</a></span>
+  </div>
+
+  <div class="card">
+    <div class="scroll">
+      <table id="table">
+        <caption class="skip">Companies in the AI Search Landscape dataset. Column headers sort the table.</caption>
+        <thead>
+          <tr>
+            <th scope="col" data-key="name" aria-sort="ascending"><button type="button">Company</button></th>
+            <th scope="col" data-key="segment"><button type="button">Segment</button></th>
+            <th scope="col" data-key="hq"><button type="button">HQ</button></th>
+            <th scope="col" data-key="founded" class="hide-sm"><button type="button">Founded</button></th>
+            <th scope="col" data-key="funding"><button type="button">Funding</button></th>
+            <th scope="col" data-key="round" class="hide-sm"><button type="button">Latest round</button></th>
+            <th scope="col" data-key="price" class="hide-sm"><button type="button">Price per month (as listed by the vendor)</button></th>
+            <th scope="col" data-key="status"><button type="button">Status</button></th>
+            <th scope="col" class="static">Record</th>
+          </tr>
+        </thead>
+        <tbody id="rows"><tr><td colspan="9" class="empty">Loading...</td></tr></tbody>
+      </table>
+    </div>
+  </div>
+  <p class="muted">A blank means not disclosed or not verified, never zero. Funding totals are minimums: disclosed equity only. Prices are list prices before tax as listed by the vendor on the date checked. Spotted an error? Open the record and use the correction form on GitHub.</p>
+</main>
+
+<footer>
+  <div class="wrap">
+    <p>Data: <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>. Credit "Growth Of Influence, AI Search Landscape" with a link to <a href="https://github.com/chris-fountoulis/ai-search-landscape">the repository</a> or one of the studies. Code: MIT.</p>
+    <p>Built by <a href="https://www.linkedin.com/in/chrisfountoulis/">Chris Fountoulis</a> at <a href="https://growthofinfluence.com/">Growth Of Influence</a>. <span id="as-of"></span></p>
+  </div>
+</footer>
+
+<script>
+(function () {
+  "use strict";
+  var state = { ds: "", q: "", segment: "", country: "", status: "", funding: "", sort: "name", dir: 1 };
+  var data = null;
+  var $ = function (id) { return document.getElementById(id); };
+
+  function esc(value) {
+    return String(value == null ? "" : value).replace(/[&<>"']/g, function (c) {
+      return { "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c];
+    });
+  }
+  function money(usd) {
+    if (usd == null) return "";
+    if (usd >= 1e9) return "$" + (usd / 1e9).toFixed(2) + "B";
+    if (usd >= 1e6) return "$" + (usd / 1e6).toFixed(1).replace(/\.0$/, "") + "M";
+    if (usd >= 1e3) return "$" + Math.round(usd / 1e3) + "K";
+    return "$" + usd;
+  }
+  function segLabel(r) { return (data.segments[r.dataset] || {})[r.segment] || r.segment; }
+  function country(r) { var c = r.hq && r.hq.country; return c ? (data.countries[c] || c) : ""; }
+  function hqText(r) { return [r.hq && r.hq.city, country(r)].filter(Boolean).join(", "); }
+  function total(r) { return r.funding && r.funding.total_usd != null ? r.funding.total_usd : null; }
+
+  function fundingText(r) {
+    if (r.model_lab) return "Model lab, total not verified";
+    var t = total(r);
+    if (t != null) return money(t);
+    if (r.funding && r.funding.bootstrapped) return "Bootstrapped";
+    if (r.public_company) return "Public company";
+    return "";
+  }
+  function roundText(r) {
+    var lr = r.funding && r.funding.latest_round;
+    if (!lr) return "";
+    return [lr.name, lr.date, lr.amount_usd != null ? money(lr.amount_usd) : ""].filter(Boolean).join(", ");
+  }
+  function sortValue(r, key) {
+    switch (key) {
+      case "name": return r.name.toLowerCase();
+      case "segment": return segLabel(r).toLowerCase();
+      case "hq": return hqText(r).toLowerCase() || "￿";
+      case "founded": return r.founded ? r.founded.year : null;
+      case "funding": return total(r);
+      case "round": var lr = r.funding && r.funding.latest_round; return lr && lr.date ? lr.date : null;
+      case "price": return (r.pricing && r.pricing.as_listed_by_vendor || "￿").toLowerCase();
+      case "status": return r.status;
+    }
+    return "";
+  }
+
+  function filtered() {
+    var q = state.q.trim().toLowerCase();
+    return data.records.filter(function (r) {
+      if (state.ds && r.dataset !== state.ds) return false;
+      if (state.segment && r.dataset + ":" + r.segment !== state.segment) return false;
+      if (state.country && !(r.hq && r.hq.country === state.country)) return false;
+      if (state.status && r.status !== state.status) return false;
+      if (state.funding === "disclosed" && total(r) == null) return false;
+      if (state.funding === "none" && total(r) != null) return false;
+      if (q) {
+        var hay = [r.name, r.company, r.product, r.website, hqText(r), segLabel(r)].join(" ").toLowerCase();
+        if (hay.indexOf(q) === -1) return false;
+      }
+      return true;
+    });
+  }
+
+  function sorted(rows) {
+    var key = state.sort, dir = state.dir;
+    return rows.slice().sort(function (a, b) {
+      var x = sortValue(a, key), y = sortValue(b, key);
+      if (x == null && y == null) return a.name.localeCompare(b.name);
+      if (x == null) return 1;   // blanks always last
+      if (y == null) return -1;
+      if (x < y) return -dir;
+      if (x > y) return dir;
+      return a.name.localeCompare(b.name);
+    });
+  }
+
+  function renderStats(rows) {
+    var companies = {}, countries = {}, funding = {};
+    rows.forEach(function (r) {
+      var key = r.dataset + ":" + r.company;
+      companies[key] = true;
+      if (r.hq && r.hq.country) countries[r.hq.country] = true;
+      var t = total(r);
+      if (t != null && !r.model_lab) funding[key] = Math.max(funding[key] || 0, t);
+    });
+    var sum = Object.keys(funding).reduce(function (s, k) { return s + funding[k]; }, 0);
+    $("s-rows").textContent = rows.length;
+    $("s-companies").textContent = Object.keys(companies).length;
+    $("s-countries").textContent = Object.keys(countries).length;
+    $("s-funding").textContent = money(sum) || "$0";
+  }
+
+  function render() {
+    var rows = sorted(filtered());
+    renderStats(rows);
+    $("count").textContent = "Showing " + rows.length + " of " + data.records.length + " rows";
+    if (!rows.length) {
+      $("rows").innerHTML = '<tr><td colspan="9" class="empty">No rows match these filters.</td></tr>';
+      return;
+    }
+    $("rows").innerHTML = rows.map(function (r) {
+      var lr = roundText(r);
+      var price = r.pricing && r.pricing.as_listed_by_vendor || "";
+      var status = r.status === "acquired" && r.acquisition ? "Acquired by " + r.acquisition.acquirer : (data.statuses[r.status] || r.status);
+      var sub = r.product ? r.product : (state.ds ? "" : (r.dataset === "ai-search" ? "AI search" : "AI agents"));
+      return "<tr>" +
+        '<td><a class="name" href="https://' + esc(r.website) + '" rel="noopener" target="_blank">' + esc(r.name) + "</a>" +
+          '<span class="sub">' + esc(r.website) + (sub ? " &middot; " + esc(sub) : "") + "</span></td>" +
+        "<td>" + esc(segLabel(r)) + "</td>" +
+        "<td>" + esc(hqText(r)) + "</td>" +
+        '<td class="num hide-sm">' + esc(r.founded ? r.founded.year : "") + "</td>" +
+        '<td class="num">' + esc(fundingText(r)) + "</td>" +
+        '<td class="hide-sm">' + esc(lr) + "</td>" +
+        '<td class="hide-sm">' + esc(price) + "</td>" +
+        '<td><span class="tag ' + esc(r.status) + '">' + esc(status) + "</span></td>" +
+        '<td><a href="' + esc(r.yaml_url) + '" rel="noopener" target="_blank" aria-label="YAML record and sources for ' + esc(r.name) + '">YAML</a>' +
+          '<span class="sub">' + (r.sources ? r.sources.length : 0) + " sources</span></td>" +
+        "</tr>";
+    }).join("");
+  }
+
+  function fillSelect(id, options, keep) {
+    var el = $(id), first = el.options[0].outerHTML;
+    el.innerHTML = first + options.map(function (o) {
+      return '<option value="' + esc(o[0]) + '">' + esc(o[1]) + "</option>";
+    }).join("");
+    el.value = options.some(function (o) { return o[0] === keep; }) ? keep : "";
+    return el.value;
+  }
+
+  function refreshFilters() {
+    var segs = [];
+    Object.keys(data.segments).forEach(function (ds) {
+      if (state.ds && ds !== state.ds) return;
+      Object.keys(data.segments[ds]).forEach(function (id) {
+        segs.push([ds + ":" + id, data.segments[ds][id] + (state.ds ? "" : (ds === "ai-search" ? " (AI search)" : " (AI agents)"))]);
+      });
+    });
+    state.segment = fillSelect("f-segment", segs, state.segment);
+    var counts = {};
+    data.records.forEach(function (r) {
+      if (state.ds && r.dataset !== state.ds) return;
+      if (r.hq && r.hq.country) counts[r.hq.country] = (counts[r.hq.country] || 0) + 1;
+    });
+    var cs = Object.keys(counts).sort(function (a, b) { return data.countries[a].localeCompare(data.countries[b]); })
+      .map(function (c) { return [c, data.countries[c] + " (" + counts[c] + ")"]; });
+    state.country = fillSelect("f-country", cs, state.country);
+    state.status = fillSelect("f-status", Object.keys(data.statuses).map(function (s) { return [s, data.statuses[s]]; }), state.status);
+  }
+
+  function readHash() {
+    var params = new URLSearchParams(location.hash.slice(1));
+    ["ds", "q", "segment", "country", "status", "funding", "sort"].forEach(function (k) {
+      if (params.has(k)) state[k] = params.get(k);
+    });
+    if (params.get("dir") === "desc") state.dir = -1;
+  }
+  function writeHash() {
+    var params = new URLSearchParams();
+    ["ds", "q", "segment", "country", "status", "funding"].forEach(function (k) { if (state[k]) params.set(k, state[k]); });
+    if (state.sort !== "name" || state.dir !== 1) { params.set("sort", state.sort); params.set("dir", state.dir === 1 ? "asc" : "desc"); }
+    var hash = params.toString();
+    history.replaceState(null, "", hash ? "#" + hash : location.pathname + location.search);
+  }
+
+  function syncControls() {
+    Array.prototype.forEach.call(document.querySelectorAll(".tabs button"), function (b) {
+      b.setAttribute("aria-pressed", String(b.getAttribute("data-ds") === state.ds));
+    });
+    $("q").value = state.q;
+    $("f-funding").value = state.funding;
+    Array.prototype.forEach.call(document.querySelectorAll("thead th[data-key]"), function (th) {
+      var key = th.getAttribute("data-key");
+      if (key === state.sort) th.setAttribute("aria-sort", state.dir === 1 ? "ascending" : "descending");
+      else th.removeAttribute("aria-sort");
+    });
+  }
+
+  function update() { syncControls(); render(); writeHash(); }
+
+  function bind() {
+    Array.prototype.forEach.call(document.querySelectorAll(".tabs button"), function (b) {
+      b.addEventListener("click", function () { state.ds = b.getAttribute("data-ds"); refreshFilters(); update(); });
+    });
+    $("q").addEventListener("input", function (e) { state.q = e.target.value; update(); });
+    [["f-segment", "segment"], ["f-country", "country"], ["f-status", "status"], ["f-funding", "funding"]].forEach(function (p) {
+      $(p[0]).addEventListener("change", function (e) { state[p[1]] = e.target.value; update(); });
+    });
+    Array.prototype.forEach.call(document.querySelectorAll("thead th[data-key] button"), function (btn) {
+      btn.addEventListener("click", function () {
+        var key = btn.parentNode.getAttribute("data-key");
+        if (state.sort === key) state.dir = -state.dir;
+        else { state.sort = key; state.dir = (key === "funding" || key === "founded" || key === "round") ? -1 : 1; }
+        update();
+      });
+    });
+  }
+
+  fetch("data/landscape.json").then(function (res) {
+    if (!res.ok) throw new Error("HTTP " + res.status);
+    return res.json();
+  }).then(function (json) {
+    data = json;
+    var dates = Object.keys(data.datasets).map(function (k) { return data.datasets[k].last_verified; }).sort();
+    $("as-of").textContent = "Data last verified " + dates[dates.length - 1] + ".";
+    readHash();
+    refreshFilters();
+    bind();
+    update();
+  }).catch(function (err) {
+    $("count").textContent = "Could not load the data (" + err.message + "). Download it from GitHub instead.";
+    $("rows").innerHTML = '<tr><td colspan="9" class="empty">The data file did not load.</td></tr>';
+  });
+})();
+</script>
+</body>
+</html>
