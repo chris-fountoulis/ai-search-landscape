@@ -1,0 +1,129 @@
+# Methodology
+
+This repository is the open, structured form of two data studies published by Growth Of Influence:
+
+| Dataset | Folder | Study | Edition | Rows |
+|---|---|---|---|---|
+| AI search optimization companies | `data/ai-search/` | [AI Search Optimization Companies](https://growthofinfluence.com/ai-search-optimization-companies/) | October 2026, checked 26 October 2026 | 151 companies |
+| AI agent companies | `data/ai-agents/` | [AI Agent Companies](https://growthofinfluence.com/ai-agent-companies/) | October 2026, checked 29 October 2026 | 437 products from 420 companies |
+
+The rules below are adapted from the methodology sections of the two studies. Where the studies differ, this file says so.
+
+## Principles
+
+1. **A blank means "not disclosed or not verified", never zero.** When a figure could not be confirmed in a credible public source, it was left out rather than guessed.
+2. **Every number carries a source URL.** Founded year, funding, rounds, valuations, acquisition prices and listed prices each sit in a block with its own `source`. If a figure had no source URL in the study's verified source set, the figure was dropped from this repository and the company kept.
+3. **No estimates.** Neither study publishes modelled revenue, headcount or market size estimates as data, and neither does this repository.
+4. **No company paid to be included, excluded or described**, and none was told in advance.
+
+## What counts as an AI search optimization company
+
+A company is in `data/ai-search/` if, on the check date, it sold software or a service whose main purpose includes getting brands found in search, and either:
+
+* it markets an AI search feature: AI visibility tracking, generative engine optimization (GEO), answer engine optimization (AEO), or AI content for search; or
+* it is a major established SEO or local search platform that buyers compare against the new entrants.
+
+Each company appears once, in the segment that best fits what it sells (`schema/vocab/segments.json`). Companies acquired during the period stay in the dataset as their own rows, so the dataset records each deal.
+
+**Left out:** general marketing suites where search is a small feature, pure link-building marketplaces, freelancers, and agencies with no public footprint beyond a directory listing.
+
+## What counts as an AI agent company
+
+**Definition.** An AI agent product is software that, given a goal, plans and takes multi-step actions in other systems with limited human input per step, using a large language model to decide what to do next. Chatbots that only answer questions, rules-based automations and model APIs on their own are out.
+
+**Inclusion.** A row is in `data/ai-agents/` if all five are true on the check date:
+
+1. the company's own website clearly markets an AI agent product, an agent-building platform, agent infrastructure or agents delivered as a service;
+2. the offer is available now: generally available, a paid beta, or a public waitlist with pricing;
+3. the company is identifiable by name, website and at least one of headquarters, founded year or a named founder;
+4. for a big company, the agent product is a named product line with its own page, and the row describes that product;
+5. **notability floor:** at least one dated, independent source names the company: a funding announcement by an investor or in bylined press, a bylined press article, or a regulatory filing. An accelerator page alone does not meet this test. A company-issued wire release meets it only when confirmed by the investor or bylined press.
+
+**Left out:** custom AI agent development shops (consultancies that build agents for one client at a time), pure model labs without a named agent product, open-source projects without a commercial offer, products that were shut down, sunset or not yet available, and duplicates after an acquisition.
+
+**Segments.** Each row sits in the segment its homepage leads with. The `vertical` segment holds the 25 best funded agent companies in law, finance, health and real estate, each with more than $50 million in disclosed funding or a disclosed round above $50 million.
+
+**Companies and products.** One company can have several product rows (for example a large software company with several agent products). The `company` field groups them, and funding is counted once per company.
+
+**Model labs.** The frontier model labs (OpenAI, Anthropic, Mistral AI, Cohere and Moonshot AI) carry `model_lab: true`. Their capital would dwarf every other total, so they are reported apart and excluded from every funding sum in `STATS.md`, the README and the site, as in the published study.
+
+**Deferred candidates.** 136 further candidates met the other rules but their independent source could not be checked in time. They are queued for the January 2027 edition and are not in this dataset.
+
+## Field rules
+
+### Headquarters (`hq`)
+
+The legal seat stated in the company's own Terms, Imprint or Legal Notice. A state of incorporation on its own, a registered agent's address or a shared mail-forwarding address is not a headquarters; in those cases the headquarters the company states on its own site is used, then a reliable press source. A virtual office the company presents as its own counts.
+
+The AI agent study used this rule from the start. The AI search study adopted it on 29 October 2026; its rows are being rechecked against it, and corrections land as they are confirmed (see `CHANGELOG.md`). Countries use ISO 3166-1 alpha-2 codes.
+
+### Founded year (`founded`)
+
+The year the company or product first started operating commercially, as stated by the company or a dated press source, not a stock market listing. A year is never inferred from phrases such as "an eight-year-old company". Product lines inside large companies carry no founded year.
+
+### Funding (`funding`)
+
+* Disclosed **equity** funding in US dollars. Debt, grants and revenue-based financing are never added.
+* Totals are **minimums**. A total that adds separately disclosed rounds, or that uses a "more than" figure, is a floor.
+* **Public companies** and product lines of public companies carry no funding total (`public_company: true`).
+* **Acquired startups** keep the equity they disclosed before the deal.
+* Where a regulatory filing and press coverage disagree, the filing wins. Example: one company was reported as raising a $12 million Series A while its SEC Form D shows $29.12 million in equity sold; the dataset uses $29.12 million.
+* A company's own funding announcement is a valid source for the amount. Data aggregators (Crunchbase, PitchBook and similar) were used only as leads, never as sources.
+* **Currency.** Rounds in other currencies use the rate stated with the round. Otherwise the AI search edition used EUR 1.08, GBP 1.27 and CAD 0.73 per US dollar, and the AI agent edition used the European Central Bank reference rates of 28 October 2026: EUR 1.1133, GBP 1.3288, CAD 0.7119.
+* `latest_round` holds the round name, and its date and amount where the study published them. `valuation_usd` appears only where the study published a valuation from named press or a filing.
+* `bootstrapped: true` is set only when a public source says the company raised no outside funding.
+
+### Acquisitions (`acquisition`, `status`)
+
+* AI agent study: `acquired` only when the deal has **closed**. A signed or announced deal stays `active`. `date_type` is `closed`.
+* AI search study: deals are recorded from their **announcement**; `date_type` is `announced`.
+* `price_usd` appears only when the price was disclosed or reported by named press, with `price_note` keeping the published qualifier (for example "about" or "reported").
+
+### Prices (`pricing`)
+
+`as_listed_by_vendor` is the monthly list price **as listed by the vendor on its own pricing page**, before tax, in the currency shown, on the `last_verified` date. Annual-only prices are divided by 12. "custom" means no price is published. Some pricing pages show euros to visitors from Europe; where no dollar version was offered, the euro price is kept as listed. `model` (AI agent rows only) is the pricing model from `schema/vocab/pricing-models.json`.
+
+The AI search study showed a few prices taken from third-party listings, labelled as such. Those are **not** prices listed by the vendor, so this repository drops them (keeping "custom" where the vendor itself shows no price).
+
+### Sources (`sources`, `source`)
+
+Company websites, pricing and legal pages, company announcements, investor pages, regulatory filings (SEC EDGAR for US-listed companies, annual reports and national registries elsewhere) and tier-one or bylined press.
+
+The studies recorded a main source URL for each row plus the further URLs checked during verification. All of them are in `sources`. Each figure's own `source` was then assigned from that verified set by a fixed rule:
+
+| Block | `source` is |
+|---|---|
+| `funding` | the first URL in the set about the funding (an announcement, investor page or press article), else the first press URL, else the company's own page that states the figure |
+| `founded` | the company's own About or company page when one is in the set, else the funding source |
+| `pricing` | the vendor's pricing or plans page when one is in the set, else another page on the vendor's own site |
+| `acquisition` | the deal announcement linked in the study's acquisitions table, else the first URL in the set about the deal |
+
+A total that adds several rounds can rest on more than one URL; all of them are in `sources`. If you find a figure whose `source` does not support it, please open a correction: the fix is usually a better URL, which is exactly the kind of pull request this repository is for.
+
+### Last verified (`last_verified`)
+
+The date the row was last checked against its sources. The AI search rows were checked on 26 October 2026 and the AI agent rows on 29 October 2026, except rows changed later by a confirmed correction.
+
+## How the studies were checked
+
+**AI search.** A first pass was built on 26 October 2026. Every funding, acquisition, valuation and revenue figure in every row was then re-verified the same day, largest money first: 47 rows were confirmed as recorded, 59 corrected, 20 had gaps filled and 25 had at least one figure that could not be confirmed and was left blank.
+
+**AI agents.** 810 candidate names came from investor market maps, two years of funding news, accelerator batches, software directories, agent marketplaces and conference lists, with a separate search for Europe and Greece. A first researcher filled each row from the company's own pages and primary sources. A second researcher re-verified every row independently, without seeing the first values, and every disagreement went back to the source. A sample of the largest rows and a random 10% were then rechecked by hand. Of the 437 rows, 58 were confirmed as first recorded, 202 had at least one field corrected, 143 had gaps filled and 34 had at least one money figure that could not be confirmed and was left blank. The news check for new rounds, acquisitions and shutdowns covered July to October 2026; for some of the largest rows it covered TechCrunch and SiliconANGLE only.
+
+## What this repository does not include
+
+The published studies also show yearly revenue figures (filed, company-stated or reported). This repository publishes the fields listed in `schema/company.schema.json` only and leaves revenue out of this first release: each revenue figure needs its own dated source, basis and scope note, which the row-level source set does not yet carry field by field. The studies' internal working columns (verification notes, research batches, contact routes and review flags) are not data and are not published.
+
+## Conflicts of interest
+
+Growth Of Influence is a digital marketing agency that sells SEO, content and AI systems to its own clients, so it competes with some companies in both datasets. It is not included in either dataset, the same public-source rules were applied to every row, and no company paid to be listed or ranked. Growth Of Influence is a paying customer of some of the software listed, which did not affect how it is described.
+
+## Known limits
+
+* Founded year is known for 72 of 151 AI search rows and 306 of 437 AI agent rows.
+* The sweep for very recent news was thorough for the companies with the most money and lighter for the smallest ones.
+* The datasets cover companies that could be found and verified. They are not a census of every product in either market.
+
+## Updates
+
+Both studies are refreshed quarterly (January, April, July, October) at the same URLs. Between editions, corrections with a public source are reviewed within five working days, applied here as pull requests and listed in `CHANGELOG.md`. See [CONTRIBUTING.md](CONTRIBUTING.md).
