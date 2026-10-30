@@ -1,0 +1,35 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "Rabbit (rabbitOS intern)"
+slug: "rabbit-rabbitos-intern"
+dataset: "ai-agents"
+company: "Rabbit"
+product: "rabbit OS3"
+website: "rabbit.tech"
+segment: "general-browser"
+hq:
+  city: "Los Angeles"
+  country: "US"
+founded:
+  year: 2023
+  source: "https://pulse2.com/rabbit-10-million-funding/"
+status: "active"
+funding:
+  total_usd: 30000000
+  latest_round:
+    name: "Series A"
+    date: "2023-12"
+    amount_usd: 10000000
+  source: "https://pulse2.com/rabbit-10-million-funding/"
+pricing:
+  as_listed_by_vendor: "free (BYOK, model usage billed by provider; r1 device $199 one-time)"
+  model: "usage or credits"
+  source: "https://www.rabbit.tech/support/article/rabbitos-3"
+sources:
+  - "https://www.rabbit.tech/support/article/rabbitos-3"
+  - "https://www.rabbit.tech/newsroom"
+  - "https://pulse2.com/rabbit-10-million-funding/"
+  - "https://www.rabbit.tech/rabbit-r1"
+  - "https://www.rabbit.tech/terms-of-use"
+  - "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/"
+last_verified: "2026-10-29"

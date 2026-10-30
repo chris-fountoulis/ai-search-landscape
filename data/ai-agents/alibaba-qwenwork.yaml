@@ -1,0 +1,24 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "Alibaba (QwenWork)"
+slug: "alibaba-qwenwork"
+dataset: "ai-agents"
+company: "Alibaba"
+product: "QwenWork"
+website: "qwenwork.ai"
+segment: "general-browser"
+hq:
+  city: "Singapore"
+  country: "SG"
+status: "active"
+public_company: true
+pricing:
+  as_listed_by_vendor: "$20 to $40 (as listed)"
+  model: "usage or credits"
+  source: "https://qwenwork.ai/pricing"
+sources:
+  - "https://qwenwork.ai/pricing"
+  - "https://www.caixinglobal.com/2026-08-04/alibaba-releases-new-qwen-model-consolidates-ai-office-tools-102471189.html"
+  - "https://terms.alicdn.com/legal-agreement/terms/common_product_agreement/20260805095132623/20260805095132623.html"
+  - "https://qwenwork.ai/"
+last_verified: "2026-10-29"

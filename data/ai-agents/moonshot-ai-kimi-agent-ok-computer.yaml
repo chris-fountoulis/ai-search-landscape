@@ -1,0 +1,27 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "Moonshot AI (Kimi Agent / OK Computer)"
+slug: "moonshot-ai-kimi-agent-ok-computer"
+dataset: "ai-agents"
+company: "Moonshot AI"
+product: "Kimi Agent (OK Computer)"
+website: "kimi.com"
+segment: "general-browser"
+hq:
+  city: "Beijing"
+  country: "CN"
+founded:
+  year: 2023
+  source: "https://pulse2.com/moonshot-ai-2-billion-funding-round-values-kimi-chatbot-maker-above-20-billion/"
+status: "active"
+model_lab: true
+pricing:
+  as_listed_by_vendor: "$19 to $199 (as listed)"
+  model: "usage or credits"
+  source: "https://www.kimi.com/user/agreement/modelUse"
+sources:
+  - "https://www.kimi.com/user/agreement/modelUse"
+  - "https://pulse2.com/moonshot-ai-2-billion-funding-round-values-kimi-chatbot-maker-above-20-billion/"
+  - "https://www2.yicaiglobal.com/news/moonshot-ais-latest-fundraiser-lifts-valuation-to-usd35-billion-amid-kimis-silicon-valley-buzz"
+  - "https://eu.36kr.com/en/newsflashes/3916524344045192"
+last_verified: "2026-10-29"

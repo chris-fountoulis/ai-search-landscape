@@ -1,0 +1,24 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "Google (Gemini Spark)"
+slug: "google-gemini-spark"
+dataset: "ai-agents"
+company: "Google"
+product: "Gemini Spark"
+website: "gemini.google.com"
+segment: "general-browser"
+hq:
+  city: "Mountain View"
+  country: "US"
+status: "active"
+public_company: true
+pricing:
+  as_listed_by_vendor: "$19.99 to $200 (as listed)"
+  model: "flat"
+  source: "https://one.google.com/about/google-ai-plans/"
+sources:
+  - "https://techcrunch.com/2026/05/19/google-introduces-gemini-spark-a-24-7-agentic-assistant-with-gmail-integration/"
+  - "https://one.google.com/about/google-ai-plans/"
+  - "https://gemini.google/us/subscriptions/?hl=en"
+  - "https://techcrunch.com/2026/09/04/googles-gemini-spark-can-now-manage-your-google-photos-library/"
+last_verified: "2026-10-29"

@@ -1,0 +1,28 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "Perplexity (Comet)"
+slug: "perplexity-comet"
+dataset: "ai-agents"
+company: "Perplexity"
+product: "Comet"
+website: "perplexity.ai"
+segment: "general-browser"
+hq:
+  city: "San Francisco"
+  country: "US"
+founded:
+  year: 2025
+  source: "https://www.perplexity.ai/hub/legal/terms-of-service"
+status: "active"
+pricing:
+  as_listed_by_vendor: "$17 to $167 (as listed)"
+  model: "flat"
+  source: "https://www.perplexity.ai/enterprise/pricing"
+sources:
+  - "https://www.perplexity.ai/enterprise/pricing"
+  - "https://www.perplexity.ai/hub/legal/terms-of-service"
+  - "https://www.perplexity.ai/comet"
+  - "https://techcrunch.com/2025/07/09/perplexity-launches-comet-an-ai-powered-web-browser/"
+  - "https://techcrunch.com/2025/09/10/perplexity-reportedly-raised-200m-at-20b-valuation/"
+  - "https://techcrunch.com/2025/08/12/perplexity-offers-to-buy-chrome-for-billions-more-than-its-raised/"
+last_verified: "2026-10-29"

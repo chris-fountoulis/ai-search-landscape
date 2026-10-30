@@ -1,0 +1,32 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "Simular"
+slug: "simular"
+dataset: "ai-agents"
+company: "Simular"
+product: "Sai"
+website: "simular.ai"
+segment: "general-browser"
+hq:
+  country: "US"
+founded:
+  year: 2023
+  source: "https://www.simular.ai/about"
+status: "active"
+funding:
+  total_usd: 26500000
+  latest_round:
+    name: "Series A"
+    date: "2025-12"
+    amount_usd: 21500000
+  source: "https://techcrunch.com/2025/12/02/simular-releases-mac-os-ai-agent-raises-21-5m-from-felicis-with-windows-coming-soon/"
+pricing:
+  as_listed_by_vendor: "$50 to $500 (as listed)"
+  model: "usage or credits"
+  source: "https://sai.work/pricing"
+sources:
+  - "https://techcrunch.com/2025/12/02/simular-releases-mac-os-ai-agent-raises-21-5m-from-felicis-with-windows-coming-soon/"
+  - "https://www.simular.ai/about"
+  - "https://sai.work/pricing"
+  - "https://www.simular.ai/product-sai/privacy"
+last_verified: "2026-10-29"

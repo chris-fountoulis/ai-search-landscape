@@ -1,0 +1,33 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "Manus"
+slug: "manus"
+dataset: "ai-agents"
+company: "Manus"
+website: "manus.im"
+segment: "general-browser"
+hq:
+  city: "Singapore"
+  country: "SG"
+founded:
+  year: 2022
+  source: "https://siliconangle.com/2026/10/08/ai-agent-developer-manus-raises-500m-at-reported-4b-valuation/"
+status: "active"
+funding:
+  total_usd: 585000000
+  latest_round:
+    name: "Unnamed round"
+    date: "2026-10"
+    amount_usd: 500000000
+  source: "https://siliconangle.com/2026/10/08/ai-agent-developer-manus-raises-500m-at-reported-4b-valuation/"
+pricing:
+  as_listed_by_vendor: "$20 to $200 (as listed)"
+  model: "usage or credits"
+  source: "https://manus.im/pricing"
+sources:
+  - "https://siliconangle.com/2026/10/08/ai-agent-developer-manus-raises-500m-at-reported-4b-valuation/"
+  - "https://techcrunch.com/2026/10/08/chinas-manus-raises-over-500m-in-first-funding-round-since-split-with-meta/"
+  - "https://techcrunch.com/2026/09/18/manus-seeks-4b-valuation-in-new-500m-fundraise-as-it-resumes-independent-ops/"
+  - "https://manus.im/pricing"
+  - "https://manus.im/terms"
+last_verified: "2026-10-29"

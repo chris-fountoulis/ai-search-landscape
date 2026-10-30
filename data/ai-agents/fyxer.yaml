@@ -1,0 +1,33 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "Fyxer"
+slug: "fyxer"
+dataset: "ai-agents"
+company: "Fyxer"
+website: "fyxer.com"
+segment: "general-browser"
+hq:
+  city: "London"
+  country: "GB"
+founded:
+  year: 2024
+  source: "https://www.fyxer.com/blog/series-b-statement"
+status: "active"
+funding:
+  total_usd: 43000000
+  latest_round:
+    name: "Series B"
+    date: "2025-09"
+    amount_usd: 30000000
+  source: "https://www.fyxer.com/blog/series-b-statement"
+pricing:
+  as_listed_by_vendor: "$37 to $99 (as listed)"
+  model: "per seat"
+  source: "https://www.fyxer.com/pricing"
+sources:
+  - "https://www.fyxer.com/press"
+  - "https://www.fyxer.com/blog/series-b-statement"
+  - "https://www.fyxer.com/pricing"
+  - "https://find-and-update.company-information.service.gov.uk/company/15189973"
+  - "https://businesscloud.co.uk/news/fyxer-ai-raises-22m-as-it-continues-rapid-expansion/"
+last_verified: "2026-10-29"

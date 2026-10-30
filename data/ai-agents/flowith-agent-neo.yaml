@@ -1,0 +1,26 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "Flowith (Agent Neo)"
+slug: "flowith-agent-neo"
+dataset: "ai-agents"
+company: "Flowith"
+product: "Agent Neo"
+website: "flowith.io"
+segment: "general-browser"
+hq:
+  country: "SG"
+status: "active"
+funding:
+  latest_round:
+    name: "Seed+"
+    date: "2026-03"
+  source: "https://www.pingwest.com/w/311811"
+pricing:
+  as_listed_by_vendor: "$19.9 to $500 (as listed)"
+  model: "usage or credits"
+  source: "https://flowith.io/pricing"
+sources:
+  - "https://flowith.io/pricing"
+  - "https://www.pingwest.com/w/311811"
+  - "https://www.pingwest.com/a/305004"
+last_verified: "2026-10-29"

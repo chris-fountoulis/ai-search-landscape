@@ -1,0 +1,35 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "Abacus.AI"
+slug: "abacus-ai"
+dataset: "ai-agents"
+company: "Abacus.AI"
+product: "Abacus AI Agent (formerly DeepAgent) in ChatLLM"
+website: "abacus.ai"
+segment: "general-browser"
+hq:
+  city: "San Francisco"
+  country: "US"
+founded:
+  year: 2019
+  source: "https://abacus.ai/about"
+status: "active"
+funding:
+  total_usd: 90000000
+  latest_round:
+    name: "Series C"
+    date: "2021-10"
+    amount_usd: 50000000
+  source: "https://techcrunch.com/2021/10/27/abacus-ai-snags-50m-series-c-as-it-expands-into-computer-vision-use-cases/"
+pricing:
+  as_listed_by_vendor: "$10 to $20 (as listed)"
+  model: "per seat"
+  source: "https://abacus.ai/pricing"
+sources:
+  - "https://techcrunch.com/2021/10/27/abacus-ai-snags-50m-series-c-as-it-expands-into-computer-vision-use-cases/"
+  - "https://abacus.ai/customer-terms-of-service"
+  - "https://abacus.ai/about"
+  - "https://abacus.ai/pricing"
+  - "https://deepagent.abacus.ai/pricing"
+  - "https://techcrunch.com/2020/07/14/realityengines-ai-becomes-abacus-ai-and-raises-13m-series-a/"
+last_verified: "2026-10-29"

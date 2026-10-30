@@ -1,0 +1,21 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "Alibaba International (Accio Work)"
+slug: "alibaba-international-accio-work"
+dataset: "ai-agents"
+company: "Alibaba International"
+product: "Accio Work"
+website: "accio.com"
+segment: "general-browser"
+status: "active"
+public_company: true
+pricing:
+  as_listed_by_vendor: "$19.9 to $199 (as listed)"
+  model: "usage or credits"
+  source: "https://www.accio.com/work/documents/en/help-billing.html"
+sources:
+  - "https://www.accio.com/work/documents/en/help-billing.html"
+  - "https://www.caixinglobal.com/2026-03-25/alibaba-launches-ai-agent-for-small-businesses-with-international-ambitions-102427318.html"
+  - "https://www.accio.com/work/documents/en/help-credits.html"
+  - "https://terms.alicdn.com/legal-agreement/terms/user_authorization_agreement/20250307164759754/20250307164759754.html"
+last_verified: "2026-10-29"

@@ -1,0 +1,34 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "Jace AI (Zeta Labs)"
+slug: "jace-ai-zeta-labs"
+dataset: "ai-agents"
+company: "Jace AI"
+product: "Jace"
+website: "jace.ai"
+segment: "general-browser"
+hq:
+  city: "San Francisco"
+  country: "US"
+founded:
+  year: 2023
+  source: "https://jace.ai/about"
+status: "active"
+funding:
+  total_usd: 2900000
+  latest_round:
+    name: "Pre-seed"
+    date: "2024-06"
+    amount_usd: 2900000
+  source: "https://jace.ai/blog/zeta-labs-raises-2-9-m-pre-seed-funding-launches-jace-first-ai-agent-capable-of-complex-task-completion"
+pricing:
+  as_listed_by_vendor: "$20 to $40 (as listed)"
+  model: "usage or credits"
+  source: "https://jace.ai/pricing"
+sources:
+  - "https://jace.ai/blog/zeta-labs-raises-2-9-m-pre-seed-funding-launches-jace-first-ai-agent-capable-of-complex-task-completion"
+  - "https://pulse2.com/zeta-labs-ai-research-and-product-lab-secures-2-9-million/"
+  - "https://jace.ai/pricing"
+  - "https://jace.ai/terms"
+  - "https://jace.ai/about"
+last_verified: "2026-10-29"

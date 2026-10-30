@@ -1,0 +1,35 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "Sauna (formerly Wordware)"
+slug: "sauna-formerly-wordware"
+dataset: "ai-agents"
+company: "Sauna"
+product: "Sauna"
+website: "wordware.ai"
+segment: "general-browser"
+hq:
+  city: "San Francisco"
+  country: "US"
+founded:
+  year: 2023
+  source: "https://www.wordware.ai/story"
+status: "active"
+funding:
+  total_usd: 30000000
+  latest_round:
+    name: "Seed"
+    date: "2024-11"
+    amount_usd: 30000000
+  source: "https://siliconangle.com/2024/11/21/wordware-raises-30m-reimagine-ai-development-ordinary-writing/"
+pricing:
+  as_listed_by_vendor: "$29 to $299 (as listed)"
+  model: "flat"
+  source: "https://sauna.ai/pricing"
+sources:
+  - "https://siliconangle.com/2024/11/21/wordware-raises-30m-reimagine-ai-development-ordinary-writing/"
+  - "https://www.wordware.ai/"
+  - "https://www.wordware.ai/story"
+  - "https://sauna.ai/pricing"
+  - "https://sauna.ai/terms"
+  - "https://sauna.ai/security"
+last_verified: "2026-10-29"

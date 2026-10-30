@@ -1,0 +1,28 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "AGI Inc"
+slug: "agi-inc"
+dataset: "ai-agents"
+company: "AGI Inc"
+product: "AGI Agent (AGI-0 action models)"
+website: "theagi.company"
+segment: "general-browser"
+hq:
+  city: "San Francisco"
+  country: "US"
+founded:
+  year: 2025
+  source: "https://theagi.company/about"
+status: "active"
+funding:
+  total_usd: 10000000
+  source: "https://www.forbesargentina.com/innovacion/el-emprendedor-stanford-pauso-su-doctorado-crear-agentes-ia-valuados-500-millones-n81996/amp"
+pricing:
+  as_listed_by_vendor: "custom"
+  model: "custom"
+sources:
+  - "https://theagi.company/about"
+  - "https://www.forbesargentina.com/innovacion/el-emprendedor-stanford-pauso-su-doctorado-crear-agentes-ia-valuados-500-millones-n81996/amp"
+  - "https://theagi.company/terms"
+  - "https://theagi.company/"
+last_verified: "2026-10-29"
