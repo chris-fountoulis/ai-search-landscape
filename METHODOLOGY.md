@@ -89,16 +89,19 @@ The AI search study showed a few prices taken from third-party listings, labelle
 
 Company websites, pricing and legal pages, company announcements, investor pages, regulatory filings (SEC EDGAR for US-listed companies, annual reports and national registries elsewhere) and tier-one or bylined press.
 
-The studies recorded a main source URL for each row plus the further URLs checked during verification. All of them are in `sources`. Each figure's own `source` was then assigned from that verified set by a fixed rule:
+The studies recorded a main source URL for each row plus the further URLs checked during verification. All of them are in `sources`, together with any page added during the source audit below. Each figure points at the page that states it:
 
-| Block | `source` is |
+| Field | `source` is the page that states |
 |---|---|
-| `funding` | the first URL in the set about the funding (an announcement, investor page or press article), else the first press URL, else the company's own page that states the figure |
-| `founded` | the company's own About or company page when one is in the set, else the funding source |
-| `pricing` | the vendor's pricing or plans page when one is in the set, else another page on the vendor's own site |
-| `acquisition` | the deal announcement linked in the study's acquisitions table, else the first URL in the set about the deal |
+| `hq.source` | the headquarters city: the legal seat in Terms, Imprint or a privacy notice first, then the company's own About or Contact page, then a filing or press |
+| `founded.source` | the founding, launch or incorporation year, in words ("founded in 2022", "Founded: 2022") or a registry entry, never inferred from an age or an article date |
+| `funding.source` | the total, when one page states it; otherwise the latest round |
+| `funding.latest_round.source` | the latest round, when that is a different page from the total |
+| `funding.total_sources` | each round added into a total that no single page states; their amounts sum to `total_usd` |
+| `acquisition.source` | the deal (and the price, when one is given) |
+| `pricing.source` | the price on the vendor's own pricing page; for "custom", the vendor's pricing or contact-sales page |
 
-A total that adds several rounds can rest on more than one URL; all of them are in `sources`. If you find a figure whose `source` does not support it, please open a correction: the fix is usually a better URL, which is exactly the kind of pull request this repository is for.
+If you find a figure whose `source` does not support it, please open a correction: the fix is usually a better URL, which is exactly the kind of pull request this repository is for.
 
 ### Last verified (`last_verified`)
 
@@ -110,6 +113,26 @@ The date the row was last checked against its sources. The AI search rows were c
 
 **AI agents.** 810 candidate names came from investor market maps, two years of funding news, accelerator batches, software directories, agent marketplaces and conference lists, with a separate search for Europe and Greece. A first researcher filled each row from the company's own pages and primary sources. A second researcher re-verified every row independently, without seeing the first values, and every disagreement went back to the source. A sample of the largest rows and a random 10% were then rechecked by hand. Of the 437 rows, 58 were confirmed as first recorded, 202 had at least one field corrected, 143 had gaps filled and 34 had at least one money figure that could not be confirmed and was left blank. The news check for new rounds, acquisitions and shutdowns covered July to October 2026; for some of the largest rows it covered TechCrunch and SiliconANGLE only.
 
+## Source audit, 2026-10-30
+
+Before this repository went public, the figure-level `source` links (first assigned by rule from each row's verified set) were audited so that each one points at a page that actually states its figure. Every figure in both datasets was in scope: 2,312 figures in 588 rows (funding totals, latest rounds and valuations, founded years, headquarters, acquisitions and prices).
+
+**How.** Every URL in every row's `sources` was fetched once (about 2,500 pages, one request at a time per site). A script then checked, for each figure, whether a page's text states the value: money amounts in any common notation (and in EUR, GBP or CAD at the study rates), a year next to words such as "founded", "launched" or "incorporated", a city name, an acquirer next to "acquired". On third-party pages the match had to sit near the company's name, so a figure in a sidebar or a related headline does not count. Aggregator profiles (Crunchbase profiles, PitchBook, getlatka, Wikipedia, G2 and similar) never count as a source. Figures the script could not confirm on any listed page (about 280) were researched by hand: the listed pages in a browser or the Wayback Machine, then the company's own pages, investor pages, filings and bylined press. Every hand-checked figure is backed by a verbatim quote, which was matched against the page text by script where the page can be fetched.
+
+**Result (share of figures still in the dataset).**
+
+| Figures | Count | Page text states it (script) | Stated, confirmed by hand | Sum of sourced rounds | Not confirmed |
+|---|---:|---:|---:|---:|---:|
+| Funding totals, rounds, valuations | 722 | 633 | 42 | 47 | 0 |
+| Founded years | 369 | 327 | 42 | | 0 |
+| Acquisitions | 57 | 55 | 2 | | 0 |
+| Headquarters | 569 (37 with a country only) | 477 | 24 | | 31 |
+| Prices | 564 | 286 | 247 (vendor pricing or contact-sales page for "custom") | | 31 |
+
+So every funding, founded-year and acquisition figure was audited and now rests on a page that states it. The 31 headquarters without a `hq.source` are mostly product lines of large public companies (Google, Salesforce, OpenAI, SAP and others) plus seven AI search rows whose only match was an aggregator. The 31 listed prices not confirmed sit on vendor pricing pages that render their prices only in a browser; they keep their vendor `pricing.source` and are queued for a browser check (see the roadmap in the README).
+
+**What changed.** 1,057 sources were re-pointed or added, 42 values were corrected and 36 values were removed (the company always stays). Totals that no single page states are now the sum of separately disclosed rounds, listed in `funding.total_sources`. Founded years that were in fact a public launch or stealth-exit year were replaced where the company, an investor, a registry or a filing states the founding year, and removed where no page states any year. Every correction is listed in `CHANGELOG.md`. Because of these corrections, the funding totals in this repository differ slightly from the figures published in the two studies on 26 and 29 October 2026.
+
 ## What this repository does not include
 
 The published studies also show yearly revenue figures (filed, company-stated or reported). This repository publishes the fields listed in `schema/company.schema.json` only and leaves revenue out of this first release: each revenue figure needs its own dated source, basis and scope note, which the row-level source set does not yet carry field by field. The studies' internal working columns (verification notes, research batches, contact routes and review flags) are not data and are not published.
@@ -120,7 +143,7 @@ Growth Of Influence is a digital marketing agency that sells SEO, content and AI
 
 ## Known limits
 
-* Founded year is known for 72 of 151 AI search rows and 306 of 437 AI agent rows.
+* Founded year is known for 70 of 151 AI search rows and 299 of 437 AI agent rows.
 * The sweep for very recent news was thorough for the companies with the most money and lighter for the smallest ones.
 * The datasets cover companies that could be found and verified. They are not a census of every product in either market.
 

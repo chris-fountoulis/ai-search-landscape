@@ -95,7 +95,7 @@ OK: 588 record(s) valid.
 $ python3 tools/build.py --check
 OK: 7 generated file(s) are up to date.
 $ python3 -m unittest discover -s tests -t .
-Ran 48 tests in 2.4s
+Ran 50 tests in 2.4s
 OK
 ```
 
@@ -197,7 +197,7 @@ The inclusion rubric (real AI search or agent product, notability floor, develop
 * **January 2027 edition** of both studies, refreshed at the same URLs, including the 136 AI agent candidates deferred from October for their notability check.
 * **Legal-seat recheck** of every AI search HQ, now that both studies use the same HQ rule.
 * **Revenue fields**, published only with a per-figure source, basis (filed, company-stated or reported) and scope note.
-* **Per-figure source review**: replace rule-assigned `source` links with the exact page for each figure as rows are rechecked.
+* **Price source review**: confirm by hand the listed prices whose pricing pages render only in a browser (see the source audit in METHODOLOGY.md).
 
 ## Cite this dataset
 
