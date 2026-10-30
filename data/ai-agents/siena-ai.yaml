@@ -11,8 +11,8 @@ hq:
   country: "US"
   source: "https://www.siena.cx/terms-of-service"
 founded:
-  year: 2023
-  source: "https://www.siena.cx/blog/siena-raises-17m-series-a"
+  year: 2022
+  source: "https://www.romania-insider.com/romanian-founded-ai-startup-siena-raises-usd-17-million"
 status: "active"
 funding:
   total_usd: 29700000
@@ -20,7 +20,7 @@ funding:
     name: "Series A"
     date: "2026-10"
     amount_usd: 17000000
-  source: "https://www.siena.cx/blog/siena-raises-17m-series-a"
+  source: "https://thenextweb.com/news/siena-17m-series-a-york-ie-ai-agents"
 pricing:
   as_listed_by_vendor: "from $750 (as listed)"
   model: "per task or conversation"
@@ -31,4 +31,5 @@ sources:
   - "https://techcrunch.com/2023/11/16/siena-ai-4-7m-ai-customer-service-agent/"
   - "https://www.siena.cx/pricing"
   - "https://www.siena.cx/terms-of-service"
+  - "https://www.romania-insider.com/romanian-founded-ai-startup-siena-raises-usd-17-million"
 last_verified: "2026-10-30"

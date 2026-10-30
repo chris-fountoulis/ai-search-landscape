@@ -12,8 +12,8 @@ hq:
   country: "US"
   source: "https://www.ultravox.ai/terms"
 founded:
-  year: 2023
-  source: "https://inworld.ai/blog/inworld-acquires-ultravox"
+  year: 2022
+  source: "https://www.geekwire.com/2026/seattle-voice-ai-startup-ultravox-formerly-known-as-fixie-acquired-by-inworld/"
 status: "acquired"
 funding:
   total_usd: 17000000
@@ -21,7 +21,7 @@ funding:
     name: "Seed"
     date: "2023-03"
     amount_usd: 12000000
-  source: "https://inworld.ai/blog/inworld-acquires-ultravox"
+  source: "https://techcrunch.com/2023/03/30/fixie-wants-to-make-it-easier-for-companies-to-build-on-top-of-language-models/"
 acquisition:
   acquirer: "Inworld AI"
   date: "2026-09"
@@ -37,4 +37,5 @@ sources:
   - "https://www.ultravox.ai/terms-old"
   - "https://www.ultravox.ai/terms"
   - "https://techcrunch.com/2023/03/30/fixie-wants-to-make-it-easier-for-companies-to-build-on-top-of-language-models/"
+  - "https://www.geekwire.com/2026/seattle-voice-ai-startup-ultravox-formerly-known-as-fixie-acquired-by-inworld/"
 last_verified: "2026-10-30"

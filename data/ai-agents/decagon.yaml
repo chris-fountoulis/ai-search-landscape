@@ -19,6 +19,10 @@ funding:
     date: "2026-01"
     amount_usd: 250000000
   source: "https://decagon.ai/blog/series-d-announcement"
+  total_sources:
+    - "https://decagon.ai/blog/series-b"
+    - "https://decagon.ai/blog/series-c-announcement"
+    - "https://decagon.ai/blog/series-d-announcement"
 pricing:
   as_listed_by_vendor: "custom"
   model: "custom"

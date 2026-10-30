@@ -11,8 +11,8 @@ hq:
   country: "US"
   source: "https://www.eudia.com/legal/terms-of-use"
 founded:
-  year: 2025
-  source: "https://www.eudia.com/legal/terms-of-use"
+  year: 2023
+  source: "https://www.eudia.com/news/meet-the-100m-ai-startup-that-wants-to-kill-the-billable-hour-most-legal-departments-have-lost-control-of-their-budgets-and-their-knowledge"
 status: "active"
 funding:
   total_usd: 105000000
@@ -29,4 +29,5 @@ sources:
   - "https://www.eudia.com/legal/terms-of-use"
   - "https://www.eudia.com/company/about"
   - "https://techcrunch.com/2026/01/19/here-are-the-49-us-ai-startups-that-have-raised-100m-or-more-in-2025/"
+  - "https://www.eudia.com/news/meet-the-100m-ai-startup-that-wants-to-kill-the-billable-hour-most-legal-departments-have-lost-control-of-their-budgets-and-their-knowledge"
 last_verified: "2026-10-30"

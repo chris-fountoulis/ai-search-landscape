@@ -12,15 +12,16 @@ hq:
   source: "https://qa.tech/about-us"
 founded:
   year: 2023
-  source: "https://qa.tech/about-us"
+  source: "https://siliconcanals.com/qa-tech-secures-3m/"
 status: "active"
 funding:
-  total_usd: 4339900
+  total_usd: 5000000
   latest_round:
     name: "Seed"
     date: "2024-05"
     amount_usd: 3339900
-  source: "https://siliconcanals.com/qa-tech-secures-3m/"
+    source: "https://siliconcanals.com/qa-tech-secures-3m/"
+  source: "https://qa.tech/about-us"
 pricing:
   as_listed_by_vendor: "from $89 (as listed)"
   model: "usage or credits"

@@ -17,7 +17,8 @@ funding:
     name: "Seed"
     date: "2026-04"
     amount_usd: 5500000
-  source: "https://thoughtly.com/blog/thoughtly-raises-usd8m-to-build-omnichannel-agents-for-revenue-teams"
+    source: "https://thoughtly.com/blog/thoughtly-raises-usd8m-to-build-omnichannel-agents-for-revenue-teams"
+  source: "https://thoughtly.com/terms"
 pricing:
   as_listed_by_vendor: "custom"
   model: "custom"

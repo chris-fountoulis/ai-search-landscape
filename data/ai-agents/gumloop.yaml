@@ -21,6 +21,9 @@ funding:
     date: "2026-03"
     amount_usd: 50000000
   source: "https://techcrunch.com/2026/03/12/gumloop-lands-50m-from-benchmark-to-turn-every-employee-into-an-ai-agent-builder/"
+  total_sources:
+    - "https://techcrunch.com/2025/01/10/gumloop-founded-in-a-bedroom-in-vancouver-lets-users-automate-tasks-with-drag-and-drop-modules/"
+    - "https://techcrunch.com/2026/03/12/gumloop-lands-50m-from-benchmark-to-turn-every-employee-into-an-ai-agent-builder/"
 pricing:
   as_listed_by_vendor: "from $37 (as listed)"
   model: "usage or credits"

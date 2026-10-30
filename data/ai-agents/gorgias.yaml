@@ -21,7 +21,7 @@ funding:
     name: "Series C"
     date: "2022-08"
     amount_usd: 30000000
-  source: "https://techcrunch.com/2022/08/15/gorgias-valuation-710m-series-c-e-commerce-customer-support/"
+  source: "https://www.gorgias.com/about-us"
 pricing:
   as_listed_by_vendor: "$40 to $1,430 (as listed)"
   model: "per task or conversation"

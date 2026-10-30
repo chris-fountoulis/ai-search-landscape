@@ -13,7 +13,7 @@ hq:
   source: "https://restate.dev/imprint"
 founded:
   year: 2022
-  source: "https://restate.dev/imprint"
+  source: "https://techcrunch.com/2026/09/30/restate-lands-20m-as-the-need-for-durable-infrastructure-increases-with-ai-agents/"
 status: "active"
 funding:
   total_usd: 27000000
@@ -22,6 +22,9 @@ funding:
     date: "2026-09"
     amount_usd: 20000000
   source: "https://techcrunch.com/2026/09/30/restate-lands-20m-as-the-need-for-durable-infrastructure-increases-with-ai-agents/"
+  total_sources:
+    - "https://techcrunch.com/2024/06/12/restate-raises-7m-for-its-lightweight-workflows-as-code-platform/"
+    - "https://techcrunch.com/2026/09/30/restate-lands-20m-as-the-need-for-durable-infrastructure-increases-with-ai-agents/"
 pricing:
   as_listed_by_vendor: "from $75 (as listed)"
   model: "usage or credits"

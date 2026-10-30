@@ -21,7 +21,8 @@ funding:
     name: "Series B"
     date: "2026-01"
     amount_usd: 60000000
-  source: "https://siliconangle.com/2026/01/14/aikido-security-raises-60m-series-b-1b-valuation-unify-application-security/"
+    source: "https://siliconangle.com/2026/01/14/aikido-security-raises-60m-series-b-1b-valuation-unify-application-security/"
+  source: "https://www.aikido.dev/about"
 pricing:
   as_listed_by_vendor: "$300 to $5,250 (as listed)"
   model: "flat"

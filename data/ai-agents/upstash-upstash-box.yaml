@@ -11,7 +11,7 @@ hq:
   country: "US"
 founded:
   year: 2020
-  source: "https://upstash.com/about"
+  source: "https://techcrunch.com/2022/03/17/upstash-snags-1-9m-seed-to-build-serverless-data-platform-for-redis-and-kafka/"
 status: "active"
 funding:
   total_usd: 11900000
@@ -20,6 +20,9 @@ funding:
     date: "2024-02"
     amount_usd: 10000000
   source: "https://techcrunch.com/2024/02/08/upstashs-serverless-data-platform-hits-arr-of-1m-just-two-years-after-seed-funding/"
+  total_sources:
+    - "https://techcrunch.com/2022/03/17/upstash-snags-1-9m-seed-to-build-serverless-data-platform-for-redis-and-kafka/"
+    - "https://techcrunch.com/2024/02/08/upstashs-serverless-data-platform-hits-arr-of-1m-just-two-years-after-seed-funding/"
 pricing:
   as_listed_by_vendor: "$8 to $32 (as listed)"
   model: "usage or credits"
@@ -30,4 +33,4 @@ sources:
   - "https://upstash.com/about"
   - "https://techcrunch.com/2024/02/08/upstashs-serverless-data-platform-hits-arr-of-1m-just-two-years-after-seed-funding/"
   - "https://techcrunch.com/2022/03/17/upstash-snags-1-9m-seed-to-build-serverless-data-platform-for-redis-and-kafka/"
-last_verified: "2026-10-29"
+last_verified: "2026-10-30"

@@ -13,7 +13,7 @@ hq:
   source: "https://modal.com/company"
 founded:
   year: 2021
-  source: "https://modal.com/company"
+  source: "https://techcrunch.com/2026/09/28/source-inference-provider-modal-labs-closing-in-on-750m-round-at-15-75b-valuation/"
 status: "active"
 funding:
   total_usd: 1216000000
@@ -23,6 +23,10 @@ funding:
     amount_usd: 750000000
     valuation_usd: 15750000000
   source: "https://modal.com/blog/1-billion-annualized-run-rate-series-d"
+  total_sources:
+    - "https://modal.com/blog/announcing-our-series-b"
+    - "https://modal.com/blog/modal-series-c"
+    - "https://modal.com/blog/1-billion-annualized-run-rate-series-d"
 pricing:
   as_listed_by_vendor: "from $250 (as listed)"
   model: "usage or credits"

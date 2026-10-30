@@ -12,7 +12,7 @@ hq:
   source: "https://blockbrain.ai/impressum"
 founded:
   year: 2022
-  source: "https://blockbrain.ai/impressum"
+  source: "https://www.starting-up.de/news/news-investments/blockbrain-sichert-sich-175-mio-euro-in-series-a-runde.html"
 status: "active"
 funding:
   total_usd: 25049250
@@ -20,7 +20,7 @@ funding:
     name: "Series A"
     date: "2026-02"
     amount_usd: 19482750
-  source: "https://www.starting-up.de/news/news-investments/blockbrain-sichert-sich-175-mio-euro-in-series-a-runde.html"
+  source: "https://www.thesaasnews.com/news/blockbrain-raises-17-5-million-in-series-a"
 pricing:
   as_listed_by_vendor: "custom"
   model: "custom"

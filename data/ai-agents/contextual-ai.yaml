@@ -12,7 +12,7 @@ hq:
   source: "https://contextual.ai/legal/terms-of-use"
 founded:
   year: 2023
-  source: "https://contextual.ai/legal/terms-of-use"
+  source: "https://www.blocksandfiles.com/ai-ml/2024/08/08/weka-helps-contextual-ai-get-rid-of-chatbot-hallucinations/1593679"
 status: "active"
 funding:
   total_usd: 100000000
@@ -20,7 +20,8 @@ funding:
     name: "Series A"
     date: "2024-08"
     amount_usd: 80000000
-  source: "https://www.pymnts.com/artificial-intelligence-2/2024/contextual-ai-raises-80-million-to-scale-enterprise-ai-platform/"
+    source: "https://www.pymnts.com/artificial-intelligence-2/2024/contextual-ai-raises-80-million-to-scale-enterprise-ai-platform/"
+  source: "https://news.bloomberglaw.com/antitrust/google-hires-staff-from-ai-startup-contextual-in-licensing-deal"
 pricing:
   as_listed_by_vendor: "usage-based, no monthly list price (as listed); Enterprise custom"
   model: "usage or credits"
@@ -32,4 +33,5 @@ sources:
   - "https://contextual.ai/pricing/"
   - "https://contextual.ai/legal/terms-of-use"
   - "https://contextual.ai/company/"
+  - "https://www.blocksandfiles.com/ai-ml/2024/08/08/weka-helps-contextual-ai-get-rid-of-chatbot-hallucinations/1593679"
 last_verified: "2026-10-30"

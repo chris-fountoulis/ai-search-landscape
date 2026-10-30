@@ -12,7 +12,7 @@ hq:
   source: "https://www.vambe.ai/terms"
 founded:
   year: 2023
-  source: "https://siliconangle.com/2025/12/03/ai-startup-vambe-raises-14m-automate-conversational-commerce/"
+  source: "https://www.vambe.ai/llms.txt"
 status: "active"
 funding:
   total_usd: 18400000
@@ -20,7 +20,7 @@ funding:
     name: "Series A"
     date: "2025-12"
     amount_usd: 14000000
-  source: "https://siliconangle.com/2025/12/03/ai-startup-vambe-raises-14m-automate-conversational-commerce/"
+  source: "https://www.vambe.ai/llms.txt"
 pricing:
   as_listed_by_vendor: "$574 to $2,647 (as listed)"
   model: "flat"

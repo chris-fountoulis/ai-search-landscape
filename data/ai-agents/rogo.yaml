@@ -12,8 +12,8 @@ hq:
   country: "US"
   source: "https://rogo.com/legal/terms-of-use"
 founded:
-  year: 2024
-  source: "https://rogo.com/blog/series-d"
+  year: 2022
+  source: "https://rogo.ai/about"
 status: "active"
 funding:
   total_usd: 325000000
@@ -22,6 +22,9 @@ funding:
     date: "2026-04"
     amount_usd: 160000000
   source: "https://rogo.com/blog/series-d"
+  total_sources:
+    - "https://rogo.com/blog/scaling-rogo-to-build-the-future-of-investment-banking-our-75m-series-c-and-european-expansion"
+    - "https://rogo.com/blog/series-d"
 pricing:
   as_listed_by_vendor: "custom"
   model: "custom"
@@ -35,4 +38,5 @@ sources:
   - "https://techcrunch.com/2026/07/05/almost-40-new-unicorns-have-been-minted-so-far-this-year-here-they-are/"
   - "https://rogo.com/legal/terms-of-use"
   - "https://fintech.global/2026/01/28/rogo-raises-75m-series-c-to-scale-ai-finance-platform/"
+  - "https://rogo.ai/about"
 last_verified: "2026-10-30"

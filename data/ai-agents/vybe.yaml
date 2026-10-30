@@ -13,7 +13,7 @@ hq:
   source: "https://www.vybe.build/terms-of-service"
 founded:
   year: 2025
-  source: "https://www.vybe.build/about"
+  source: "https://www.vybe.build/terms-of-service"
 status: "active"
 funding:
   total_usd: 10000000

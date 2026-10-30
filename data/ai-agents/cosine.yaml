@@ -13,7 +13,7 @@ hq:
   source: "https://cosine.sh/legal/terms"
 founded:
   year: 2022
-  source: "https://cosine.sh/legal/terms"
+  source: "https://find-and-update.company-information.service.gov.uk/search/companies?q=buildt+ai+limited"
 status: "active"
 funding:
   total_usd: 15000000
@@ -21,7 +21,8 @@ funding:
     name: "Seed"
     date: "2024-08"
     amount_usd: 2500000
-  source: "https://siliconangle.com/2024/08/12/cosine-raises-2-5m-uncannily-human-ai-coding-assistant-genie/"
+    source: "https://siliconangle.com/2024/08/12/cosine-raises-2-5m-uncannily-human-ai-coding-assistant-genie/"
+  source: "https://cosine.sh/newsroom"
 pricing:
   as_listed_by_vendor: "$19 to $999 (as listed)"
   model: "usage or credits"

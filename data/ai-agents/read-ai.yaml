@@ -21,7 +21,8 @@ funding:
     name: "Series B"
     date: "2024-10"
     amount_usd: 50000000
-  source: "https://techcrunch.com/2024/10/28/read-ai-raises-50m-to-integrate-its-bot-with-slack-email-and-more/"
+    source: "https://techcrunch.com/2024/10/28/read-ai-raises-50m-to-integrate-its-bot-with-slack-email-and-more/"
+  source: "https://techcrunch.com/2026/02/26/read-ai-launches-an-email-based-digital-twin-to-help-you-with-schedules-and-answers/"
 pricing:
   as_listed_by_vendor: "$19.75 to $39.75 (as listed)"
   model: "per seat"

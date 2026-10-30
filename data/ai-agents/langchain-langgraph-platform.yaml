@@ -18,6 +18,9 @@ status: "active"
 funding:
   total_usd: 160000000
   source: "https://www.langchain.com/blog/series-b"
+  total_sources:
+    - "https://techcrunch.com/2025/10/21/open-source-agentic-startup-langchain-hits-1-25b-valuation/"
+    - "https://www.langchain.com/blog/series-b"
 pricing:
   as_listed_by_vendor: "from $39 (as listed)"
   model: "per seat"

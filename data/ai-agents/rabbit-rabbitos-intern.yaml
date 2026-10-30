@@ -11,9 +11,6 @@ hq:
   city: "Los Angeles"
   country: "US"
   source: "https://www.rabbit.tech/terms-of-use"
-founded:
-  year: 2023
-  source: "https://pulse2.com/rabbit-10-million-funding/"
 status: "active"
 funding:
   total_usd: 30000000

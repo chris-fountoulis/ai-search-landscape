@@ -19,6 +19,9 @@ funding:
     date: "2026-02"
     amount_usd: 80000000
   source: "https://www.braintrust.dev/blog/announcing-series-b"
+  total_sources:
+    - "https://www.braintrust.dev/blog/announcing-series-a"
+    - "https://www.braintrust.dev/blog/announcing-series-b"
 pricing:
   as_listed_by_vendor: "from $249 (as listed)"
   model: "usage or credits"

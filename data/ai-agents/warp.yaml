@@ -11,8 +11,8 @@ hq:
   country: "US"
   source: "https://www.warp.dev/legal/terms-of-service"
 founded:
-  year: 2022
-  source: "https://www.warp.dev/legal/terms-of-service"
+  year: 2020
+  source: "https://sequoiacap.com/companies/warp/"
 status: "active"
 funding:
   total_usd: 73000000
@@ -21,6 +21,9 @@ funding:
     date: "2023-06"
     amount_usd: 50000000
   source: "https://www.warp.dev/blog/warp-drive-series-b"
+  total_sources:
+    - "https://techcrunch.com/2022/04/05/warp-raises-23m-to-build-a-better-terminal/"
+    - "https://www.warp.dev/blog/warp-drive-series-b"
 pricing:
   as_listed_by_vendor: "$20 to $200 (as listed)"
   model: "flat"
@@ -33,4 +36,5 @@ sources:
   - "https://www.warp.dev/legal/terms-of-service"
   - "https://www.warp.dev/legal/privacy-policy"
   - "https://www.warp.dev/newsroom"
+  - "https://sequoiacap.com/companies/warp/"
 last_verified: "2026-10-30"

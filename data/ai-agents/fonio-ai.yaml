@@ -13,7 +13,7 @@ hq:
   source: "https://www.fonio.ai/en/news-cool-stuff/fonio-ai-sichert-sich-3-millionen-euro-in-einer-der-grossten-angel-runden-europas/"
 founded:
   year: 2024
-  source: "https://www.fonio.ai/impressum/"
+  source: "https://www.fonio.ai/en/news-cool-stuff/fonio-ai-sichert-sich-3-millionen-euro-in-einer-der-grossten-angel-runden-europas/"
 status: "active"
 funding:
   total_usd: 22266000
@@ -21,7 +21,8 @@ funding:
     name: "Seed"
     date: "2026-06"
     amount_usd: 17000000
-  source: "https://www.fonio.ai/de/news-cool-stuff/pm-14mio-seed-funding-20vc/"
+    source: "https://tech.eu/2026/06/09/led-by-20vc-fonioai-raises-17m-for-omnichannel-ai-platform/"
+  source: "https://www.startbase.com/news/146-millionen-euro-seed-fuer-fonio-ai-zu-120-mio-euro-bewertung/"
 pricing:
   as_listed_by_vendor: "EUR 119 to EUR 599 (as listed)"
   model: "usage or credits"

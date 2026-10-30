@@ -8,8 +8,8 @@ product: "Viktor"
 website: "viktor.com"
 segment: "company-brain"
 founded:
-  year: 2026
-  source: "https://viktor.com/impressum"
+  year: 2023
+  source: "https://vestbee.com/insights/articles/viktor-raises-75-m"
 status: "active"
 funding:
   total_usd: 75000000
@@ -28,4 +28,4 @@ sources:
   - "https://viktor.com/pricing"
   - "https://viktor.com/impressum"
   - "https://vestbee.com/insights/articles/viktor-raises-75-m"
-last_verified: "2026-10-29"
+last_verified: "2026-10-30"

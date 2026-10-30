@@ -13,11 +13,15 @@ hq:
   source: "https://eliseai.com/blog/eliseai-raises-250m-series-e"
 founded:
   year: 2017
-  source: "https://eliseai.com/contact-us"
+  source: "https://techcrunch.com/2026/09/29/a16z-backed-eliseai-raises-350m-doubles-valuation-to-4b/"
 status: "active"
 funding:
   total_usd: 740000000
   source: "https://techcrunch.com/2026/09/29/a16z-backed-eliseai-raises-350m-doubles-valuation-to-4b/"
+  total_sources:
+    - "https://techcrunch.com/2024/08/14/eliseais-chatbots-for-property-owners-nets-it-75m-in-funding/"
+    - "https://eliseai.com/blog/eliseai-raises-250m-series-e"
+    - "https://techcrunch.com/2026/09/29/a16z-backed-eliseai-raises-350m-doubles-valuation-to-4b/"
 pricing:
   as_listed_by_vendor: "custom"
   model: "custom"

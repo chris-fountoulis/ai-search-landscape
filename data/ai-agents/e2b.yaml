@@ -20,7 +20,7 @@ funding:
     name: "Series A"
     date: "2025-07"
     amount_usd: 21000000
-  source: "https://siliconangle.com/2025/07/28/e2b-shares-vision-sandboxed-cloud-environments-every-ai-agent-raising-21m-funding/"
+  source: "https://e2b.dev/about"
 pricing:
   as_listed_by_vendor: "from $150 (as listed)"
   model: "usage or credits"

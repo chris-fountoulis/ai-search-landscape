@@ -20,7 +20,10 @@ funding:
     name: "Series C"
     date: "2026-08"
     amount_usd: 125000000
-  source: "https://fortune.com/2026/08/03/softbank-hitachi-lg-back-zenitys-125-million-round-to-police-ai-agents/"
+  source: "https://zenity.io/press-release/zenity-raises-125-million-to-secure-the-era-of-1-billion-ai-agents"
+  total_sources:
+    - "https://zenity.io/company"
+    - "https://zenity.io/press-release/zenity-raises-125-million-to-secure-the-era-of-1-billion-ai-agents"
 pricing:
   as_listed_by_vendor: "custom"
   model: "custom"

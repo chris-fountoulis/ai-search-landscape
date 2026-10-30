@@ -13,7 +13,7 @@ hq:
   source: "https://www.llamaindex.ai/legal/terms-of-service"
 founded:
   year: 2023
-  source: "https://www.llamaindex.ai/legal/terms-of-service"
+  source: "https://techcrunch.com/2025/03/04/llamaindex-launches-a-cloud-service-for-building-unstructed-data-agents/"
 status: "active"
 funding:
   total_usd: 27500000

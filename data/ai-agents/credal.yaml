@@ -12,8 +12,8 @@ hq:
   country: "US"
   source: "https://www.credal.ai/careers"
 founded:
-  year: 2023
-  source: "https://techcrunch.com/2023/10/26/credal-aims-to-connect-company-data-to-llms-securely/"
+  year: 2022
+  source: "https://www.ycombinator.com/companies/credal-ai"
 status: "active"
 funding:
   total_usd: 10000000
@@ -21,7 +21,8 @@ funding:
     name: "Seed"
     date: "2023-10"
     amount_usd: 4800000
-  source: "https://techcrunch.com/2023/10/26/credal-aims-to-connect-company-data-to-llms-securely/"
+    source: "https://techcrunch.com/2023/10/26/credal-aims-to-connect-company-data-to-llms-securely/"
+  source: "https://www.credal.ai/careers"
 pricing:
   as_listed_by_vendor: "custom"
   model: "custom"
@@ -31,4 +32,5 @@ sources:
   - "https://techcrunch.com/2023/10/26/credal-aims-to-connect-company-data-to-llms-securely/"
   - "https://www.credal.ai/pricing"
   - "https://www.credal.ai/policies/terms-and-conditions"
+  - "https://www.ycombinator.com/companies/credal-ai"
 last_verified: "2026-10-30"

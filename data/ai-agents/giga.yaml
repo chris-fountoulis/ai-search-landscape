@@ -13,7 +13,7 @@ hq:
   source: "https://giga.ai/terms-of-service"
 founded:
   year: 2023
-  source: "https://giga.ai/news/series-a"
+  source: "https://inc42.com/buzz/giga-nets-61-mn-to-build-ai-voice-agents-for-customer-care-centres/"
 status: "active"
 funding:
   total_usd: 61000000
@@ -31,4 +31,5 @@ sources:
   - "https://giga.ai/terms-of-service"
   - "https://techcrunch.com/2023/12/28/giga-ml-wants-to-help-companies-deploy-llms-offline/"
   - "https://www.ycombinator.com/companies/giga"
+  - "https://inc42.com/buzz/giga-nets-61-mn-to-build-ai-voice-agents-for-customer-care-centres/"
 last_verified: "2026-10-30"

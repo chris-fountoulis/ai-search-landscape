@@ -21,7 +21,8 @@ funding:
     name: "Series C"
     date: "2020-04"
     amount_usd: 30000000
-  source: "https://globalventuring.com/slack-helps-guide-30m-to-guru"
+    source: "https://www.venturecapitaljournal.com/accel-leads-series-c-round-for-guru/"
+  source: "https://www.getguru.com/press"
 pricing:
   as_listed_by_vendor: "custom"
   model: "custom"

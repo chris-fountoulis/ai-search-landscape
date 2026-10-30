@@ -13,12 +13,13 @@ hq:
   source: "https://www.dialpad.com/legal/"
 status: "active"
 funding:
-  total_usd: 415000000
+  total_usd: 418000000
   latest_round:
     name: "Series F"
     date: "2021-12"
     amount_usd: 170000000
-  source: "https://www.dialpad.com/blog/dialpad-raises-170m/"
+    source: "https://www.dialpad.com/blog/dialpad-raises-170m/"
+  source: "https://dialpad.com/press/dialpad-series-f/"
 pricing:
   as_listed_by_vendor: "custom"
   model: "per task or conversation"
@@ -30,4 +31,5 @@ sources:
   - "https://www.dialpad.com/pricing/"
   - "https://siliconangle.com/2026/03/05/closing-ai-execution-gap-dialpad-releases-production-ready-ai-agents/"
   - "https://www.businesswire.com/news/home/20210311005336/en/Dialpad-Marks-Ten-Year-Anniversary-and-One-Year-of-Remote-Work-with-Record-Growth-and-Widespread-Market-Recognition"
+  - "https://dialpad.com/press/dialpad-series-f/"
 last_verified: "2026-10-30"

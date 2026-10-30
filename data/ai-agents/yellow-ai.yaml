@@ -21,6 +21,7 @@ funding:
     name: "Series C"
     date: "2021-08"
     amount_usd: 78150000
+    source: "https://voicebot.ai/2021/08/04/yellow-ai-raises-78-15m/"
   source: "https://yellow.ai/investors/"
 pricing:
   as_listed_by_vendor: "custom (free plan, then $0.99 per resolution)"

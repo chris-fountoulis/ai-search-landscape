@@ -11,7 +11,7 @@ hq:
   country: "IL"
 founded:
   year: 2023
-  source: "https://siliconangle.com/2025/08/05/sentinelone-acquires-ai-security-startup-prompt-security/"
+  source: "https://www.calcalistech.com/ctechnews/article/hkx8pismkg"
 status: "acquired"
 funding:
   total_usd: 23000000
@@ -19,7 +19,7 @@ funding:
     name: "Series A"
     date: "2024-11"
     amount_usd: 18000000
-  source: "https://siliconangle.com/2025/08/05/sentinelone-acquires-ai-security-startup-prompt-security/"
+  source: "https://www.calcalistech.com/ctechnews/article/hkx8pismkg"
 acquisition:
   acquirer: "SentinelOne"
   date: "2025-08"
@@ -33,4 +33,4 @@ sources:
   - "https://www.calcalistech.com/ctechnews/article/hkx8pismkg"
   - "https://prompt.security/"
   - "https://www.sentinelone.com/platform/securing-ai-prompt/"
-last_verified: "2026-10-29"
+last_verified: "2026-10-30"

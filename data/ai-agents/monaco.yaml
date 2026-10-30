@@ -11,7 +11,7 @@ hq:
   country: "US"
 founded:
   year: 2026
-  source: "https://www.monaco.com/company"
+  source: "https://www.vcaonline.com/news/2026021116/monaco-launches-ai-native-sales-platform-to-accelerate-revenue-growth-for-startups/"
 status: "active"
 funding:
   total_usd: 85000000
@@ -19,7 +19,7 @@ funding:
     name: "Series B"
     date: "2026-05"
     amount_usd: 50000000
-  source: "https://techcrunch.com/2026/02/11/former-founders-fund-vc-sam-blond-launches-ai-sales-startup-to-upend-salesforce/"
+  source: "https://www.vcaonline.com/news/2026051211/monaco-secures-50-million-in-series-b-funding-to-grow-ai-powered-sales-platform-amid-strong-customer-demand/"
 pricing:
   as_listed_by_vendor: "usage credits: $10,000 upfront commit, then pay as you go (as listed)"
   model: "usage or credits"
@@ -30,4 +30,5 @@ sources:
   - "https://www.monaco.com/company"
   - "https://www.monaco.com/terms"
   - "https://www.vcaonline.com/news/2026051211/monaco-secures-50-million-in-series-b-funding-to-grow-ai-powered-sales-platform-amid-strong-customer-demand/"
-last_verified: "2026-10-29"
+  - "https://www.vcaonline.com/news/2026021116/monaco-launches-ai-native-sales-platform-to-accelerate-revenue-growth-for-startups/"
+last_verified: "2026-10-30"

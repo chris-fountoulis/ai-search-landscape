@@ -21,6 +21,9 @@ funding:
     date: "2026-09"
     amount_usd: 75000000
   source: "https://www.firecrawl.dev/blog/introducing-alexandria-series-b"
+  total_sources:
+    - "https://www.firecrawl.dev/about"
+    - "https://www.firecrawl.dev/blog/introducing-alexandria-series-b"
 pricing:
   as_listed_by_vendor: "$19 to $749 (as listed)"
   model: "usage or credits"

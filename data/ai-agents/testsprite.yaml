@@ -12,15 +12,15 @@ hq:
   source: "https://www.testsprite.com/terms"
 founded:
   year: 2024
-  source: "https://www.testsprite.com/about"
+  source: "https://trilogyequity.com/blog/introducing-testsprite-the-testing-backbone-for-ai-driven-development/"
 status: "active"
 funding:
-  total_usd: 8200000
+  total_usd: 8100000
   latest_round:
     name: "Seed"
     date: "2025-10"
     amount_usd: 6700000
-  source: "https://www.testsprite.com/blog/building-the-testing-backbone-announcing-our-seed-round"
+  source: "https://pulse2.com/testsprite-6-7-million-seed-funding-closed-to-power-testing-for-ai-native-development"
 pricing:
   as_listed_by_vendor: "$19 to $199 (as listed)"
   model: "usage or credits"
@@ -33,4 +33,5 @@ sources:
   - "https://www.testsprite.com/pricing"
   - "https://www.testsprite.com/about"
   - "https://www.testsprite.com/terms"
+  - "https://trilogyequity.com/blog/introducing-testsprite-the-testing-backbone-for-ai-driven-development/"
 last_verified: "2026-10-30"

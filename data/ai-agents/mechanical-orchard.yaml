@@ -13,7 +13,7 @@ hq:
   source: "https://techcrunch.com/2024/08/07/mechanical-orchard-led-by-ex-pivotal-ceo-scores-50-million-round-led-by-alphabets-gv/"
 founded:
   year: 2022
-  source: "https://www.mechanical-orchard.com/contact"
+  source: "https://techcrunch.com/2024/08/07/mechanical-orchard-led-by-ex-pivotal-ceo-scores-50-million-round-led-by-alphabets-gv/"
 status: "active"
 funding:
   total_usd: 80000000
@@ -21,7 +21,8 @@ funding:
     name: "Series B"
     date: "2024-08"
     amount_usd: 50000000
-  source: "https://techcrunch.com/2024/08/07/mechanical-orchard-led-by-ex-pivotal-ceo-scores-50-million-round-led-by-alphabets-gv/"
+    source: "https://techcrunch.com/2024/08/07/mechanical-orchard-led-by-ex-pivotal-ceo-scores-50-million-round-led-by-alphabets-gv/"
+  source: "https://pulse2.com/mechanical-orchard-profile-rob-mee-interview/amp/"
 pricing:
   as_listed_by_vendor: "custom"
   model: "per outcome"
@@ -32,4 +33,5 @@ sources:
   - "https://www.mechanical-orchard.com/term-of-use"
   - "https://www.mechanical-orchard.com/insights/priced-on-proof"
   - "https://siliconangle.com/2024/02/07/mechanical-orchard-raises-22m-funding-help-companies-ditch-mainframes-cloud/"
+  - "https://pulse2.com/mechanical-orchard-profile-rob-mee-interview/amp/"
 last_verified: "2026-10-30"

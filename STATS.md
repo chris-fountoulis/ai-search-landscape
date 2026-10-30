@@ -108,10 +108,10 @@ Study: <https://growthofinfluence.com/ai-agent-companies/>. Last verified: 2026-
 | Companies | 420 |
 | Countries (HQ known) | 28 |
 | Rows with HQ country | 431 |
-| Disclosed equity funding | $40.19B across 329 companies |
+| Disclosed equity funding | $40.28B across 329 companies |
 | Acquired | 33 |
 | Public companies | 50 |
-| Founded year known | 306 (143 founded 2023 or later) |
+| Founded year known | 299 (131 founded 2023 or later) |
 | Price published with a source | 311 |
 | Model labs (outside funding totals) | Anthropic, Cohere, Mistral AI, Moonshot AI, OpenAI |
 
@@ -119,13 +119,13 @@ Study: <https://growthofinfluence.com/ai-agent-companies/>. Last verified: 2026-
 
 | Segment | Rows | Disclosed funding |
 |---|---:|---:|
-| Agent builders and orchestration platforms (`builders`) | 56 | $3.96B |
+| Agent builders and orchestration platforms (`builders`) | 56 | $3.97B |
 | Company brain and knowledge agents (`company-brain`) | 36 | $1.92B |
-| Customer service and sales agents (`cx-sales`) | 102 | $9.92B |
-| Coding and software agents (`coding`) | 64 | $7.65B |
+| Customer service and sales agents (`cx-sales`) | 102 | $9.93B |
+| Coding and software agents (`coding`) | 64 | $7.67B |
 | General-purpose and browser agents (`general-browser`) | 26 | $1.72B |
 | Marketing and agency agents (`marketing-agency`) | 25 | $1.61B |
-| Agent infrastructure (`infrastructure`) | 103 | $6.20B |
+| Agent infrastructure (`infrastructure`) | 103 | $6.25B |
 | Vertical agents (`vertical`) | 25 | $7.38B |
 
 Segment funding counts each company once per segment. A company with products in several segments counts in each of them, so the segment column can add up to more than the total above.
@@ -182,7 +182,7 @@ Segment funding counts each company once per segment. A company with products in
 | 1998 | 1 |
 | 2000 | 1 |
 | 2001 | 1 |
-| 2002 | 2 |
+| 2002 | 1 |
 | 2008 | 1 |
 | 2011 | 4 |
 | 2012 | 3 |
@@ -193,10 +193,10 @@ Segment funding counts each company once per segment. A company with products in
 | 2017 | 22 |
 | 2018 | 10 |
 | 2019 | 20 |
-| 2020 | 15 |
-| 2021 | 23 |
-| 2022 | 30 |
-| 2023 | 78 |
-| 2024 | 34 |
-| 2025 | 28 |
-| 2026 | 3 |
+| 2020 | 18 |
+| 2021 | 22 |
+| 2022 | 34 |
+| 2023 | 75 |
+| 2024 | 31 |
+| 2025 | 23 |
+| 2026 | 2 |

@@ -21,6 +21,9 @@ funding:
     date: "2026-10"
     amount_usd: 17000000
   source: "https://thenextweb.com/news/nous-raises-17m-household-ai-agent"
+  total_sources:
+    - "https://techcrunch.com/2022/02/18/nous-seed/"
+    - "https://thenextweb.com/news/nous-raises-17m-household-ai-agent"
 pricing:
   as_listed_by_vendor: "from GBP 6.99 (as listed)"
   model: "flat"

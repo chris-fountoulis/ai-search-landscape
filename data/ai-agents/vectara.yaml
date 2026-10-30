@@ -12,8 +12,8 @@ hq:
   country: "US"
   source: "https://techcrunch.com/2023/06/13/vectara-lands-28-5m-to-supercharge-enterprise-search/"
 founded:
-  year: 2022
-  source: "https://www.vectara.com/legal/terms-of-service"
+  year: 2020
+  source: "https://becocapital.com/?p=1111"
 status: "active"
 funding:
   total_usd: 53500000
@@ -32,4 +32,5 @@ sources:
   - "https://www.vectara.com/pricing"
   - "https://www.vectara.com/legal/terms-of-service"
   - "https://www.vectara.com/company/newsroom"
+  - "https://becocapital.com/?p=1111"
 last_verified: "2026-10-30"

@@ -12,7 +12,7 @@ hq:
   source: "https://www.interloom.com/en/press/"
 founded:
   year: 2024
-  source: "https://www.interloom.com/en/imprint/"
+  source: "https://www.interloom.com/en/press/"
 status: "active"
 funding:
   total_usd: 16500000
@@ -20,7 +20,7 @@ funding:
     name: "Seed"
     date: "2026-03"
     amount_usd: 16500000
-  source: "https://www.eu-startups.com/2026/03/german-startup-interloom-lands-e14-2-million-seed-funding-for-ai-agent-knowledge-infrastructure/"
+  source: "https://www.interloom.com/en/press/"
 pricing:
   as_listed_by_vendor: "custom"
   model: "per task or conversation"

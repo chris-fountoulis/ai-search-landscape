@@ -18,6 +18,10 @@ funding:
     date: "2026-05"
     amount_usd: 250000000
   source: "https://exa.ai/blog/series-c"
+  total_sources:
+    - "https://exa.ai/blog/series-a"
+    - "https://exa.ai/blog/announcing-series-b"
+    - "https://exa.ai/blog/series-c"
 pricing:
   as_listed_by_vendor: "usage-based, no monthly list price (as listed); Enterprise custom"
   model: "usage or credits"

@@ -20,7 +20,8 @@ funding:
     name: "Series B"
     date: "2024-10"
     amount_usd: 43000000
-  source: "https://www.nooks.ai/blog-posts/series-b"
+    source: "https://www.nooks.ai/blog-posts/series-b"
+  source: "https://forbes.it/2024/10/25/nooks-raccoglie-43-milioni-automatizzare-lavoro-venditori"
 pricing:
   as_listed_by_vendor: "custom"
   model: "custom"
@@ -32,4 +33,5 @@ sources:
   - "https://www.nooks.ai/terms"
   - "https://www.nooks.ai/pricing"
   - "https://www.nooks.ai/blog"
+  - "https://forbes.it/2024/10/25/nooks-raccoglie-43-milioni-automatizzare-lavoro-venditori"
 last_verified: "2026-10-30"

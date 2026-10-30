@@ -12,7 +12,7 @@ hq:
   country: "IL"
 founded:
   year: 2024
-  source: "https://anchorbrowser.io/about"
+  source: "https://en.globes.co.il/en/article-1001524333"
 status: "active"
 funding:
   total_usd: 6000000
@@ -32,4 +32,4 @@ sources:
   - "https://anchorbrowser.io/about"
   - "https://anchorbrowser.io/terms"
   - "https://siliconangle.com/2025/10/22/anchor-secures-6m-build-next-generation-agentic-browser-automation/"
-last_verified: "2026-10-29"
+last_verified: "2026-10-30"

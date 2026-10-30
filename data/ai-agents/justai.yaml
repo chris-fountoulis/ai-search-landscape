@@ -15,6 +15,9 @@ funding:
     date: "2026-06"
     amount_usd: 17000000
   source: "https://pulse2.com/justai-raises-17-million-series-a-to-build-agentic-marketing-platform/"
+  total_sources:
+    - "https://www.thehindubusinessline.com/info-tech/just-words-an-ai-startup-raises-17m-in-seed-funding-from-peak-xv-and-y-combinator/article68572216.ece"
+    - "https://pulse2.com/justai-raises-17-million-series-a-to-build-agentic-marketing-platform/"
 pricing:
   as_listed_by_vendor: "custom"
   model: "custom"

@@ -21,6 +21,9 @@ funding:
     date: "2025-05"
     amount_usd: 16000000
   source: "https://www.stack-ai.com/blog/stack-ai-raises-16m-series-a-to-create-ai-agents-for-every-job"
+  total_sources:
+    - "https://www.stackai.com/blog/stack-ai-raises-3m-seed-round"
+    - "https://www.stack-ai.com/blog/stack-ai-raises-16m-series-a-to-create-ai-agents-for-every-job"
 acquisition:
   acquirer: "Asana"
   date: "2026-05"
@@ -36,4 +39,5 @@ sources:
   - "https://www.stack-ai.com/blog/stack-ai-raises-16m-series-a-to-create-ai-agents-for-every-job"
   - "https://www.stackai.com/pricing"
   - "https://www.ycombinator.com/companies/stack-ai"
+  - "https://www.stackai.com/blog/stack-ai-raises-3m-seed-round"
 last_verified: "2026-10-30"

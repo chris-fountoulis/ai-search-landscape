@@ -11,9 +11,6 @@ hq:
   city: "Suresnes"
   country: "FR"
   source: "https://www.sinequa.com/legal-information/"
-founded:
-  year: 2002
-  source: "https://www.sinequa.com/legal-information/"
 status: "acquired"
 funding:
   total_usd: 23000000
@@ -21,7 +18,7 @@ funding:
     name: "Series B"
     date: "2019-07"
     amount_usd: 23000000
-  source: "https://jolt-capital.com/news/sinequa-acquired-by-chapsvision"
+  source: "https://tech.eu/2019/07/09/french-ai-tech-company-sinequa-raises-23-million-from-jolt-capital-and-others"
 acquisition:
   acquirer: "ChapsVision"
   date: "2024-11"

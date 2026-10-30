@@ -13,7 +13,7 @@ hq:
   source: "https://hcompany.ai/pricing"
 founded:
   year: 2024
-  source: "https://techcrunch.com/2024/05/21/french-ai-startup-h-raises-220-million-seed-round/"
+  source: "https://recherche-entreprises.api.gouv.fr/search?q=927528471"
 status: "active"
 funding:
   latest_round:
@@ -29,4 +29,5 @@ sources:
   - "https://hcompany.ai/pricing"
   - "https://hcompany.ai/cgv"
   - "https://hcompany.ai/press"
+  - "https://recherche-entreprises.api.gouv.fr/search?q=927528471"
 last_verified: "2026-10-30"

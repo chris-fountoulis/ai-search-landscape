@@ -13,7 +13,7 @@ hq:
   source: "https://www.kustomer.com/legal/website-terms-of-use/"
 founded:
   year: 2015
-  source: "https://www.kustomer.com/legal/website-terms-of-use/"
+  source: "https://www.kustomer.com/about-us/"
 status: "active"
 funding:
   total_usd: 90000000
@@ -22,6 +22,9 @@ funding:
     date: "2025-08"
     amount_usd: 30000000
   source: "https://boldstart.vc/news/meta-acquired-his-company-for-1-billion-and-then-changed-its-mind-now-hes-charting-a-new-path/"
+  total_sources:
+    - "https://www.kustomer.com/resources/blog/new-chapter-standalone-company/"
+    - "https://boldstart.vc/news/meta-acquired-his-company-for-1-billion-and-then-changed-its-mind-now-hes-charting-a-new-path/"
 pricing:
   as_listed_by_vendor: "custom"
   model: "custom"

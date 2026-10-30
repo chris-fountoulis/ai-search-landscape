@@ -14,12 +14,13 @@ founded:
   source: "https://galileo.ai/about"
 status: "acquired"
 funding:
-  total_usd: 50100000
+  total_usd: 68000000
   latest_round:
     name: "Series B"
     date: "2024-10"
     amount_usd: 45000000
-  source: "https://siliconangle.com/2024/10/15/ai-observability-firm-galileo-raises-45m-improve-ai-model-accuracy/"
+    source: "https://siliconangle.com/2024/10/15/ai-observability-firm-galileo-raises-45m-improve-ai-model-accuracy/"
+  source: "https://www.vktr.com/the-wire/galileo-raises-45m-series-b-funding-to-bring-evaluation-intelligence-to-generative-ai-teams-everywhere/"
 acquisition:
   acquirer: "Cisco"
   date: "2026-04"
@@ -36,4 +37,5 @@ sources:
   - "https://galileo.ai/about"
   - "https://www.splunk.com/en_us/products/pricing.html"
   - "https://galileo.ai/terms-of-service"
-last_verified: "2026-10-29"
+  - "https://www.vktr.com/the-wire/galileo-raises-45m-series-b-funding-to-bring-evaluation-intelligence-to-generative-ai-teams-everywhere/"
+last_verified: "2026-10-30"

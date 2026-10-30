@@ -12,7 +12,7 @@ hq:
   source: "https://vapi.ai/terms-of-service"
 founded:
   year: 2023
-  source: "https://techcrunch.com/2026/05/12/vapi-hits-500m-valuation-as-amazon-ring-chose-its-ai-platform-over-40-rivals/"
+  source: "https://www.unite.ai/vapi-secures-20m-series-a-to-redefine-enterprise-ai-voice-agents/"
 status: "active"
 funding:
   total_usd: 72000000
@@ -30,4 +30,5 @@ sources:
   - "https://siliconangle.com/2026/05/12/vapi-nabs-50m-make-voice-ai-human/"
   - "https://vapi.ai/pricing"
   - "https://vapi.ai/terms-of-service"
+  - "https://www.unite.ai/vapi-secures-20m-series-a-to-redefine-enterprise-ai-voice-agents/"
 last_verified: "2026-10-30"

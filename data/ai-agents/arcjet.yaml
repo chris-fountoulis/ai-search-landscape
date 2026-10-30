@@ -21,7 +21,10 @@ funding:
     name: "Series A"
     date: "2025-10"
     amount_usd: 8300000
-  source: "https://arcjet.com/blog/launching-the-future-of-developer-security-seed-funding-from-a16z"
+  source: "https://arcjet.com/blog/introducing-arcjets-local-ai-security-model-announcing-series-a-funding"
+  total_sources:
+    - "https://arcjet.com/blog/launching-the-future-of-developer-security-seed-funding-from-a16z"
+    - "https://arcjet.com/blog/introducing-arcjets-local-ai-security-model-announcing-series-a-funding"
 pricing:
   as_listed_by_vendor: "$25 to $299 (as listed)"
   model: "usage or credits"

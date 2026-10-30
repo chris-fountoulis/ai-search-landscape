@@ -13,7 +13,7 @@ hq:
   source: "https://www.jackandjill.ai/terms"
 founded:
   year: 2025
-  source: "https://siliconangle.com/2026/09/16/jack-jill-raises-40m-to-change-the-face-of-job-hunting-with-ai-agents/"
+  source: "https://find-and-update.company-information.service.gov.uk/company/16324763"
 status: "active"
 funding:
   total_usd: 60000000
@@ -21,7 +21,7 @@ funding:
     name: "Series A"
     date: "2026-09"
     amount_usd: 40000000
-  source: "https://siliconangle.com/2026/09/16/jack-jill-raises-40m-to-change-the-face-of-job-hunting-with-ai-agents/"
+  source: "https://thenextweb.com/news/jack-and-jill-40m-series-a"
 pricing:
   as_listed_by_vendor: "10% of first-year salary per hire (as listed); free for candidates"
   model: "per outcome"

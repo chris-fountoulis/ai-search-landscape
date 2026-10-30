@@ -12,7 +12,7 @@ hq:
   source: "https://regie.ai/terms"
 founded:
   year: 2021
-  source: "https://regie.ai/about"
+  source: "https://techcrunch.com/2025/02/26/regie-ai-injects-sales-enablement-with-ai-but-keeps-humans-in-the-loop/"
 status: "active"
 funding:
   total_usd: 50800000
@@ -20,7 +20,7 @@ funding:
     name: "Series B"
     date: "2025-02"
     amount_usd: 30000000
-  source: "https://www.scalevp.com/press/regie-ai-raises--30m-series-b-to-scale-ai-powered-sales-strategies"
+  source: "https://techcrunch.com/2025/02/26/regie-ai-injects-sales-enablement-with-ai-but-keeps-humans-in-the-loop/"
 pricing:
   as_listed_by_vendor: "$49 to $150 (as listed)"
   model: "per seat"

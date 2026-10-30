@@ -12,8 +12,8 @@ hq:
   country: "US"
   source: "https://techcrunch.com/2021/11/18/stytch-api-passwordless-unicorn/"
 founded:
-  year: 2021
-  source: "https://techcrunch.com/2021/07/14/ex-plaid-employees-raise-30m-for-stytch-an-api-first-passwordless-authentication-platform/"
+  year: 2020
+  source: "https://www.securityweek.com/passwordless-authentication-startup-stytch-raises-30-million/"
 status: "acquired"
 funding:
   total_usd: 126250000
@@ -21,7 +21,10 @@ funding:
     name: "Series B"
     date: "2021-11"
     amount_usd: 90000000
-  source: "https://techcrunch.com/2021/07/14/ex-plaid-employees-raise-30m-for-stytch-an-api-first-passwordless-authentication-platform/"
+  source: "https://techcrunch.com/2021/11/18/stytch-api-passwordless-unicorn/"
+  total_sources:
+    - "https://techcrunch.com/2021/07/14/ex-plaid-employees-raise-30m-for-stytch-an-api-first-passwordless-authentication-platform/"
+    - "https://techcrunch.com/2021/11/18/stytch-api-passwordless-unicorn/"
 acquisition:
   acquirer: "Twilio"
   date: "2025-11"
@@ -39,4 +42,5 @@ sources:
   - "https://stytch.com/connected-apps"
   - "https://stytch.com/pricing"
   - "https://www.twilio.com/en-us/legal/tos"
+  - "https://www.securityweek.com/passwordless-authentication-startup-stytch-raises-30-million/"
 last_verified: "2026-10-30"

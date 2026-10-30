@@ -18,7 +18,8 @@ funding:
     name: "Series B"
     date: "2026-03"
     amount_usd: 80000000
-  source: "https://techcrunch.com/2025/09/25/juicebox-raises-30m-from-sequoia-to-revolutionize-hiring-with-llm-powered-search/"
+    source: "https://pulse2.com/juicebox-80-million-at-850-million-valuation-raised-for-ai-recruiting-platform"
+  source: "https://juicebox.ai/careers"
 pricing:
   as_listed_by_vendor: "$99 to $199 (as listed)"
   model: "per seat"

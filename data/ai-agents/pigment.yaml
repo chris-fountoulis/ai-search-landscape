@@ -13,7 +13,7 @@ hq:
   source: "https://www.pigment.com/legal-notices"
 founded:
   year: 2019
-  source: "https://www.pigment.com/legal-notices"
+  source: "https://www.pigment.com/about-us"
 status: "active"
 funding:
   total_usd: 650000000
@@ -21,6 +21,7 @@ funding:
     name: "Series E"
     date: "2026-10"
     amount_usd: 250000000
+    source: "https://www.pigment.com/newsroom"
   source: "https://www.maddyness.com/2026/10/21/pigment-leve-250-millions-de-dollars-avec-nvidia-au-tour-de-table/"
 pricing:
   as_listed_by_vendor: "custom"

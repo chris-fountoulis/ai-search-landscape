@@ -12,7 +12,7 @@ hq:
   country: "US"
 founded:
   year: 2023
-  source: "https://techcrunch.com/2026/01/19/here-are-the-49-us-ai-startups-that-have-raised-100m-or-more-in-2025/"
+  source: "https://techcrunch.com/2026/07/05/almost-40-new-unicorns-have-been-minted-so-far-this-year-here-they-are/"
 status: "active"
 funding:
   total_usd: 645000000
@@ -20,7 +20,8 @@ funding:
     name: "Series B extension"
     date: "2026-06"
     amount_usd: 100000000
-  source: "https://techcrunch.com/2026/01/19/here-are-the-49-us-ai-startups-that-have-raised-100m-or-more-in-2025/"
+    source: "https://pulse2.com/genspark-raises-100-million-series-b-extension-at-2-6-billion-valuation/"
+  source: "https://techcrunch.com/2026/07/05/almost-40-new-unicorns-have-been-minted-so-far-this-year-here-they-are/"
 pricing:
   as_listed_by_vendor: "custom"
 sources:
@@ -30,4 +31,4 @@ sources:
   - "https://pulse2.com/genspark-raises-100-million-series-b-extension-at-2-6-billion-valuation/"
   - "https://www.01net.it/genspark-ai-extends-series-b-to-485m-at-2-6b-post-money-valuation-appoints-jamison-powell-as-chief-revenue-officer/"
   - "https://www.genspark.ai/terms"
-last_verified: "2026-10-29"
+last_verified: "2026-10-30"

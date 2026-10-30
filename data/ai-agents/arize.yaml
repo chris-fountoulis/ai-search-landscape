@@ -13,7 +13,7 @@ hq:
   source: "https://techcrunch.com/2025/02/20/arize-ai-hopes-it-has-first-mover-advantage-in-ai-observability/"
 founded:
   year: 2020
-  source: "https://www.dynatrace.com/news/press-release/dynatrace-completes-acquisition-of-arize/"
+  source: "https://techcrunch.com/2025/02/20/arize-ai-hopes-it-has-first-mover-advantage-in-ai-observability/"
 status: "acquired"
 funding:
   total_usd: 130000000
@@ -21,13 +21,13 @@ funding:
     name: "Series C"
     date: "2025-02"
     amount_usd: 70000000
-  source: "https://www.dynatrace.com/news/press-release/dynatrace-completes-acquisition-of-arize/"
+  source: "https://techcrunch.com/2025/02/20/arize-ai-hopes-it-has-first-mover-advantage-in-ai-observability/"
 acquisition:
   acquirer: "Dynatrace"
   date: "2026-10"
   date_type: "closed"
   price_usd: 915000000
-  source: "https://www.dynatrace.com/news/press-release/dynatrace-completes-acquisition-of-arize/"
+  source: "https://www.dynatrace.com/news/press-release/dynatrace-to-acquire-arize/"
 pricing:
   as_listed_by_vendor: "from $50 (as listed)"
   model: "flat"

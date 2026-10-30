@@ -13,7 +13,7 @@ hq:
   source: "https://airia.com/about/"
 founded:
   year: 2024
-  source: "https://airia.com/about/"
+  source: "https://airia.com/blog/airia-secures-100m-in-funding/"
 status: "active"
 funding:
   total_usd: 50000000
@@ -31,4 +31,5 @@ sources:
   - "https://airia.com/privacy-policy"
   - "https://airia.ai/docs/build/interface-options/usage_limits"
   - "https://techcrunch.com/2026/03/30/former-coatue-partner-raises-huge-65m-seed-for-enterprise-ai-agent-startup/"
+  - "https://airia.com/blog/airia-secures-100m-in-funding/"
 last_verified: "2026-10-30"

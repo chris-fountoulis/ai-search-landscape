@@ -13,7 +13,7 @@ hq:
   source: "https://siliconangle.com/2023/12/13/golinks-debuts-ai-powered-search-engine-employee-directory/"
 founded:
   year: 2023
-  source: "https://siliconangle.com/2023/12/13/golinks-debuts-ai-powered-search-engine-employee-directory/"
+  source: "https://www.reworked.co/the-wire/golinks-launches-two-multimodal-genai-solutions-to-transform-enterprise-search-and-knowledge-discovery/"
 status: "active"
 funding:
   total_usd: 27000000
@@ -27,4 +27,5 @@ sources:
   - "https://siliconangle.com/2023/12/13/golinks-debuts-ai-powered-search-engine-employee-directory/"
   - "https://www.gosearch.ai/terms"
   - "https://www.golinks.io/about.php"
+  - "https://www.reworked.co/the-wire/golinks-launches-two-multimodal-genai-solutions-to-transform-enterprise-search-and-knowledge-discovery/"
 last_verified: "2026-10-30"

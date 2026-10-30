@@ -12,14 +12,14 @@ hq:
   source: "https://kilo.ai/terms"
 founded:
   year: 2025
-  source: "https://kilo.ai/about"
+  source: "https://fortune.com/2026/03/17/how-cutting-out-product-management-enabled-kilo-to-compete-in-the-hyper-fast-ai-coding-market/"
 status: "acquired"
 funding:
   total_usd: 8000000
   latest_round:
     name: "Seed"
     amount_usd: 8000000
-  source: "https://www.anaconda.com/blog/anaconda-acquires-kilo-code"
+  source: "https://fortune.com/2026/03/17/how-cutting-out-product-management-enabled-kilo-to-compete-in-the-hyper-fast-ai-coding-market/"
 acquisition:
   acquirer: "Anaconda"
   date: "2026-07"

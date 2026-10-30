@@ -22,6 +22,9 @@ funding:
     date: "2022-02"
     amount_usd: 4000000
   source: "https://tech.eu/2022/02/24/swiss-startup-squirro-lands-4-million-funding-as-it-buys-us-based-ai-platform"
+  total_sources:
+    - "https://squirro.com/news-and-events/news/squirro-completes-financing-round-of-10-million-led-by-orange-growth-capital"
+    - "https://tech.eu/2022/02/24/swiss-startup-squirro-lands-4-million-funding-as-it-buys-us-based-ai-platform"
 pricing:
   as_listed_by_vendor: "custom"
   model: "custom"

@@ -20,6 +20,7 @@ funding:
     name: "Series A"
     date: "2024-11"
     amount_usd: 100000000
+    source: "https://fortune.com/2024/11/14/tessl-funding-ai-software-development-platform"
   source: "https://techcrunch.com/2024/11/14/tessl-raises-125m-at-at-500m-valuation-to-build-ai-that-writes-and-maintains-code/"
 pricing:
   as_listed_by_vendor: "from $100 (as listed)"

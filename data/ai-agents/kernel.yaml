@@ -10,7 +10,7 @@ hq:
   country: "US"
 founded:
   year: 2025
-  source: "https://siliconangle.com/2025/10/09/kernel-raises-22m-power-browser-infrastructure-ai-agents/"
+  source: "https://www.ycombinator.com/companies/kernel"
 status: "active"
 funding:
   total_usd: 22000000
@@ -28,4 +28,5 @@ sources:
   - "https://www.kernel.sh/pricing"
   - "https://www.kernel.sh/docs/privacy"
   - "https://www.accel.com/news/our-investment-in-kernel-the-best-browser-infrastructure-for-agents"
-last_verified: "2026-10-29"
+  - "https://www.ycombinator.com/companies/kernel"
+last_verified: "2026-10-30"

@@ -21,7 +21,10 @@ funding:
     name: "Series C"
     date: "2026-03"
     amount_usd: 100000000
-  source: "https://siliconangle.com/2026/03/03/jetstream-security-guild-ai-workos-land-fresh-funding-amid-growing-agentic-ai-infrastructure-push/"
+  source: "https://workos.com/blog/series-c"
+  total_sources:
+    - "https://siliconangle.com/2022/06/01/workos-nabs-80m-speed-enterprise-software-development/"
+    - "https://workos.com/blog/series-c"
 pricing:
   as_listed_by_vendor: "from $2,500 (as listed)"
   model: "usage or credits"

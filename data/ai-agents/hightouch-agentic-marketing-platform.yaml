@@ -19,6 +19,10 @@ funding:
     date: "2026-04"
     amount_usd: 150000000
   source: "https://hightouch.com/blog/hightouch-funding-series-d"
+  total_sources:
+    - "https://techcrunch.com/2021/11/17/customer-data-hightouch/"
+    - "https://siliconangle.com/2025/02/18/marketing-analytics-startup-hightouch-reels-80m-1-2b-valuation/"
+    - "https://hightouch.com/blog/hightouch-funding-series-d"
 pricing:
   as_listed_by_vendor: "custom"
   model: "usage or credits"

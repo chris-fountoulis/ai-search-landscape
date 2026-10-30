@@ -12,7 +12,7 @@ hq:
   source: "https://langfuse.com/imprint"
 founded:
   year: 2023
-  source: "https://langfuse.com/imprint"
+  source: "https://langfuse.com/press"
 status: "acquired"
 funding:
   total_usd: 4000000
@@ -36,4 +36,5 @@ sources:
   - "https://langfuse.com/pricing"
   - "https://langfuse.com/blog/announcing-our-seed-round"
   - "https://siliconangle.com/2026/01/16/database-maker-clickhouse-raises-400m-acquires-ai-observability-startup-langfuse/"
+  - "https://langfuse.com/press"
 last_verified: "2026-10-30"

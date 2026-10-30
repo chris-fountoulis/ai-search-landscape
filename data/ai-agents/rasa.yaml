@@ -12,15 +12,16 @@ hq:
   source: "https://rasa.com/imprint/"
 founded:
   year: 2016
-  source: "https://rasa.com/imprint/"
+  source: "https://techcrunch.com/2024/02/14/rasa-an-enterprise-focused-dev-platform-for-conversational-genai-raises-30m/"
 status: "active"
 funding:
-  total_usd: 56000000
+  total_usd: 70100000
   latest_round:
     name: "Series C"
     date: "2024-02"
     amount_usd: 30000000
-  source: "https://techcrunch.com/2024/02/14/rasa-an-enterprise-focused-dev-platform-for-conversational-genai-raises-30m/"
+    source: "https://techcrunch.com/2024/02/14/rasa-an-enterprise-focused-dev-platform-for-conversational-genai-raises-30m/"
+  source: "https://siliconangle.com/2020/06/23/open-source-conversational-artificial-intelligence-startup-rasa-raises-26m/"
 pricing:
   as_listed_by_vendor: "custom"
   model: "custom"
@@ -30,4 +31,5 @@ sources:
   - "https://rasa.com/imprint/"
   - "https://rasa.com/about/"
   - "https://rasa.com/pricing/"
+  - "https://siliconangle.com/2020/06/23/open-source-conversational-artificial-intelligence-startup-rasa-raises-26m/"
 last_verified: "2026-10-30"

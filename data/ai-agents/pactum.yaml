@@ -21,6 +21,9 @@ funding:
     date: "2025-06"
     amount_usd: 54000000
   source: "https://pactum.com/news-pactum-secures-54-million-in-series-c-funding-to-scale-agentic-ai-in-procurement/"
+  total_sources:
+    - "https://investinestonia.com/estonian-startup-pactum-raises-20m-to-supercharge-procurement-with-ai/"
+    - "https://pactum.com/news-pactum-secures-54-million-in-series-c-funding-to-scale-agentic-ai-in-procurement/"
 pricing:
   as_listed_by_vendor: "custom"
   model: "custom"

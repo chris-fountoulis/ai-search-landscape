@@ -22,6 +22,10 @@ funding:
     date: "2025-08"
     amount_usd: 35000000
   source: "https://www.startupdaily.net/topic/funding/ai-customer-support-startup-lorikeet-has-now-raised-75-million-in-just-10-months/"
+  total_sources:
+    - "https://fortune.com/2024/10/03/lorikeet-ai-customer-service-platform-5-million-seed-funding/"
+    - "https://www.blackbird.vc/blog/investment-notes-lorikeet"
+    - "https://www.startupdaily.net/topic/funding/ai-customer-support-startup-lorikeet-has-now-raised-75-million-in-just-10-months/"
 pricing:
   as_listed_by_vendor: "$2,100 to $5,100 (as listed)"
   model: "per outcome"
@@ -32,4 +36,5 @@ sources:
   - "https://www.blackbird.vc/portfolio/lorikeet"
   - "https://www.lorikeetcx.ai/pricing"
   - "https://www.lorikeetcx.ai/terms-of-service"
+  - "https://fortune.com/2024/10/03/lorikeet-ai-customer-service-platform-5-million-seed-funding/"
 last_verified: "2026-10-30"

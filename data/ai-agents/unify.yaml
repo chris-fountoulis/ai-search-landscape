@@ -20,7 +20,10 @@ funding:
     name: "Series B"
     date: "2025-07"
     amount_usd: 40000000
-  source: "https://siliconangle.com/2025/07/15/unify-lands-40-million-help-sales-teams-engage-high-intent-buyers/"
+  source: "https://unifygtm.com/blog/series-b"
+  total_sources:
+    - "https://unifygtm.com/blog/series-b"
+    - "https://techcrunch.com/2024/10/08/unify-an-openai-converge-accelerator-grad-lands-12m-for-warm-outbound-messages/"
 pricing:
   as_listed_by_vendor: "$20 to $60 (as listed)"
   model: "per seat"

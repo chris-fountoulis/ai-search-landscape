@@ -10,8 +10,8 @@ segment: "coding"
 hq:
   country: "US"
 founded:
-  year: 2025
-  source: "https://techcrunch.com/2025/09/29/vibe-coding-startup-anything-nabs-a-100m-valuation-after-hitting-2m-arr-in-its-first-two-weeks/"
+  year: 2021
+  source: "https://www.anything.com/blog/anything-series-a"
 status: "active"
 funding:
   total_usd: 11000000
@@ -29,4 +29,5 @@ sources:
   - "https://theaiinsider.tech/2025/10/10/anything-announces-11m-in-funding-to-build-full-stack-ai-app-platform-for-the-vibe-coding-era/"
   - "https://www.anything.com/pricing"
   - "https://www.anything.com/tos"
-last_verified: "2026-10-29"
+  - "https://www.anything.com/blog/anything-series-a"
+last_verified: "2026-10-30"

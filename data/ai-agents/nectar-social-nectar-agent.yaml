@@ -13,7 +13,7 @@ hq:
   source: "https://nectarsocial.com/privacy/"
 founded:
   year: 2023
-  source: "https://techcrunch.com/2026/05/16/marketing-operating-system-nectar-social-raises-30m-series-a-in-round-led-by-menlo/"
+  source: "https://nectarsocial.com/"
 status: "active"
 funding:
   total_usd: 40600000
@@ -22,6 +22,9 @@ funding:
     date: "2026-05"
     amount_usd: 30000000
   source: "https://techcrunch.com/2026/05/16/marketing-operating-system-nectar-social-raises-30m-series-a-in-round-led-by-menlo/"
+  total_sources:
+    - "https://fortune.com/2025/06/05/nectar-social-buzzes-out-of-stealth-with-10-6-million-backing-from-gv-and-true-ventures/"
+    - "https://techcrunch.com/2026/05/16/marketing-operating-system-nectar-social-raises-30m-series-a-in-round-led-by-menlo/"
 pricing:
   as_listed_by_vendor: "custom"
   model: "custom"

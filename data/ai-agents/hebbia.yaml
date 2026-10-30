@@ -13,15 +13,16 @@ hq:
   source: "https://www.hebbia.com/about/"
 founded:
   year: 2020
-  source: "https://www.hebbia.com/about/"
+  source: "https://techcrunch.com/2024/07/09/ai-startup-hebbia-rased-130m-at-a-700m-valuation-on-13-million-of-profitable-revenue/"
 status: "active"
 funding:
-  total_usd: 160000000
+  total_usd: 161000000
   latest_round:
     name: "Series B"
     date: "2024-07"
     amount_usd: 130000000
-  source: "https://techcrunch.com/2024/07/09/ai-startup-hebbia-rased-130m-at-a-700m-valuation-on-13-million-of-profitable-revenue/"
+    source: "https://techcrunch.com/2024/07/09/ai-startup-hebbia-rased-130m-at-a-700m-valuation-on-13-million-of-profitable-revenue/"
+  source: "https://news.crunchbase.com/ai/ai-hebbia-venture-a16z-gv-thiel/"
 pricing:
   as_listed_by_vendor: "custom"
   model: "custom"
@@ -31,4 +32,5 @@ sources:
   - "https://www.hebbia.com/about/"
   - "https://www.hebbia.com/terms-of-service/"
   - "https://www.hebbia.com/careers"
+  - "https://news.crunchbase.com/ai/ai-hebbia-venture-a16z-gv-thiel/"
 last_verified: "2026-10-30"

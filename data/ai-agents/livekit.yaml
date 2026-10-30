@@ -22,6 +22,11 @@ funding:
     date: "2026-01"
     amount_usd: 100000000
   source: "https://techcrunch.com/2026/01/22/voice-ai-engine-and-openai-partner-livekit-hits-1b-valuation/"
+  total_sources:
+    - "https://techcrunch.com/2021/12/13/livekit-metaverse-open-infrastructure/"
+    - "https://livekit.com/blog/livekit-series-a"
+    - "https://techcrunch.com/2025/04/10/livekits-tools-help-power-real-time-communications/"
+    - "https://techcrunch.com/2026/01/22/voice-ai-engine-and-openai-partner-livekit-hits-1b-valuation/"
 pricing:
   as_listed_by_vendor: "$50 to $500 (as listed)"
   model: "usage or credits"

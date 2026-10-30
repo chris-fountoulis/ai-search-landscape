@@ -11,7 +11,7 @@ hq:
   country: "GB"
 founded:
   year: 2022
-  source: "https://pydantic.dev/legal/terms-of-service"
+  source: "https://techcrunch.com/2024/10/01/sequoia-backs-pydantic-to-expand-beyond-its-open-source-data-validation-framework/"
 status: "active"
 funding:
   total_usd: 17200000
@@ -29,4 +29,4 @@ sources:
   - "https://pydantic.dev/pricing"
   - "https://pydantic.dev/legal/terms-of-service"
   - "https://pydantic.dev/about"
-last_verified: "2026-10-29"
+last_verified: "2026-10-30"

@@ -21,6 +21,9 @@ funding:
     date: "2026-04"
     amount_usd: 15000000
   source: "https://www.vcaonline.com/news/2026040906/rork-raises-15m-to-power-the-next-generation-of-app-store-entrepreneurs/"
+  total_sources:
+    - "https://techcrunch.com/2025/05/05/rorks-founders-were-almost-broke-when-a-viral-tweet-led-to-2-8m-and-a16z/"
+    - "https://www.vcaonline.com/news/2026040906/rork-raises-15m-to-power-the-next-generation-of-app-store-entrepreneurs/"
 pricing:
   as_listed_by_vendor: "$25 to $200 (as listed)"
   model: "usage or credits"

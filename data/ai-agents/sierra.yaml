@@ -12,7 +12,7 @@ hq:
   source: "https://sierra.ai/terms-and-conditions"
 founded:
   year: 2024
-  source: "https://sierra.ai/about"
+  source: "https://techcrunch.com/2025/09/04/bret-taylors-sierra-raises-350m-at-a-10b-valuation/"
 status: "active"
 funding:
   total_usd: 1585000000
@@ -22,6 +22,9 @@ funding:
     amount_usd: 950000000
     valuation_usd: 15000000000
   source: "https://techcrunch.com/2026/05/04/sierra-raises-950m-as-the-race-to-own-enterprise-ai-gets-serious/"
+  total_sources:
+    - "https://techcrunch.com/2025/09/04/bret-taylors-sierra-raises-350m-at-a-10b-valuation/"
+    - "https://techcrunch.com/2026/05/04/sierra-raises-950m-as-the-race-to-own-enterprise-ai-gets-serious/"
 pricing:
   as_listed_by_vendor: "custom"
   model: "custom"

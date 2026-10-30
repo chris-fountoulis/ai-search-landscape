@@ -11,8 +11,8 @@ hq:
   city: "Palo Alto"
   country: "US"
 founded:
-  year: 2024
-  source: "https://augmentcode.com/blog/augment-inc-raises-227-million"
+  year: 2022
+  source: "https://lsvp.com/company/augment"
 status: "acquired"
 funding:
   total_usd: 252000000
@@ -34,4 +34,5 @@ sources:
   - "https://siliconangle.com/2026/10/08/harness-acquires-augment-code-to-bridge-software-engineering-from-idea-to-deployment/"
   - "https://augmentcode.com/blog/augment-inc-raises-227-million"
   - "https://www.augmentcode.com/pricing"
-last_verified: "2026-10-29"
+  - "https://lsvp.com/company/augment"
+last_verified: "2026-10-30"

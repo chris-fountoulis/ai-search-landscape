@@ -12,14 +12,14 @@ hq:
   source: "https://n8n.io/imprint/"
 founded:
   year: 2019
-  source: "https://n8n.io/imprint/"
+  source: "https://n8n.io/press/"
 status: "active"
 funding:
   total_usd: 240000000
   latest_round:
     name: "Strategic (SAP)"
     date: "2026-05"
-  source: "https://techcrunch.com/2025/03/24/fair-code-pioneer-n8n-raises-60m-for-ai-powered-workflow-automation/"
+  source: "https://n8n.io/press/"
 pricing:
   as_listed_by_vendor: "EUR 20 to EUR 667 (as listed)"
   model: "usage or credits"

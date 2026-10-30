@@ -20,7 +20,7 @@ funding:
     name: "Series A"
     date: "2025-06"
     amount_usd: 20000000
-  source: "https://techcrunch.com/2024/06/26/synthflow-picks-up-7-4m-for-no-code-voice-assistance-for-smes/"
+  source: "https://www.synthflow.ai/newsroom"
 pricing:
   as_listed_by_vendor: "from $2,500 (as listed)"
   model: "custom"

@@ -18,6 +18,12 @@ status: "active"
 funding:
   total_usd: 420000000
   source: "https://factory.com/news/5-billion-valuation"
+  total_sources:
+    - "https://factory.com/news/announcing-our-5m-fundraise"
+    - "https://factory.com/news/series-a-announcement"
+    - "https://factory.com/news/series-b"
+    - "https://factory.com/news/series-c"
+    - "https://factory.com/news/5-billion-valuation"
 pricing:
   as_listed_by_vendor: "$20 to $200 (as listed)"
   model: "flat"

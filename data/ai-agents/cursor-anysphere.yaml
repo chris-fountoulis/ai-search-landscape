@@ -13,7 +13,7 @@ hq:
   source: "https://cursor.com/terms-of-service"
 founded:
   year: 2022
-  source: "https://cursor.com/blog/series-d"
+  source: "https://techcrunch.com/2026/06/16/spacex-to-acquire-cursor-for-60b-in-stock-days-after-blockbuster-ipo/"
 status: "acquired"
 funding:
   total_usd: 3365000000
@@ -23,13 +23,18 @@ funding:
     amount_usd: 2300000000
     valuation_usd: 29300000000
   source: "https://cursor.com/blog/series-d"
+  total_sources:
+    - "https://cursor.com/blog/series-a"
+    - "https://cursor.com/blog/series-b"
+    - "https://cursor.com/blog/series-c"
+    - "https://cursor.com/blog/series-d"
 acquisition:
   acquirer: "SpaceX"
   date: "2026-08"
   date_type: "closed"
   price_usd: 60000000000
   price_note: "all stock, announced value"
-  source: "https://cursor.com/blog/joining-spacex"
+  source: "https://techcrunch.com/2026/06/16/spacex-to-acquire-cursor-for-60b-in-stock-days-after-blockbuster-ipo/"
 pricing:
   as_listed_by_vendor: "$8 to $200 (as listed)"
   model: "per seat"

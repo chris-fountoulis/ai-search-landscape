@@ -12,15 +12,15 @@ hq:
   source: "https://mindgard.ai/terms-and-conditions"
 founded:
   year: 2022
-  source: "https://mindgard.ai/contact-us"
+  source: "https://mindgard.ai/about"
 status: "active"
 funding:
-  total_usd: 11986274
+  total_usd: 41986400
   latest_round:
-    name: "Funding round (unnamed)"
-    date: "2024-12"
-    amount_usd: 8000000
-  source: "https://techcrunch.com/2024/12/20/british-university-spinoff-mindgard-protects-companies-from-ai-threats/"
+    name: "Series A"
+    date: "2026-08"
+    amount_usd: 30000000
+  source: "https://itbrief.co.uk/story/mindgard-raises-usd-30-million-to-boost-ai-security"
 pricing:
   as_listed_by_vendor: "custom"
   model: "custom"
@@ -29,4 +29,6 @@ sources:
   - "https://mindgard.ai/terms-and-conditions"
   - "https://mindgard.ai/contact-us"
   - "https://mindgard.ai/about"
+  - "https://itbrief.co.uk/story/mindgard-raises-usd-30-million-to-boost-ai-security"
+  - "https://siliconangle.com/?p=813510"
 last_verified: "2026-10-30"

@@ -19,6 +19,9 @@ funding:
     date: "2025-03"
     amount_usd: 52000000
   source: "https://techcrunch.com/2025/03/18/anthropic-backed-ai-powered-code-review-platform-graphite-raises-cash/"
+  total_sources:
+    - "https://techcrunch.com/2022/05/03/how-graphite-turned-a-side-project-into-a-20m-series-a/"
+    - "https://techcrunch.com/2025/03/18/anthropic-backed-ai-powered-code-review-platform-graphite-raises-cash/"
 acquisition:
   acquirer: "Cursor (Anysphere)"
   date: "2025-12"

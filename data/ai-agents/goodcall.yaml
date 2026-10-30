@@ -11,9 +11,6 @@ hq:
   city: "Palo Alto"
   country: "US"
   source: "https://help.goodcall.com/en/articles/8007566-terms-of-service"
-founded:
-  year: 2021
-  source: "https://www.goodcall.com/about"
 status: "active"
 funding:
   total_usd: 4000000

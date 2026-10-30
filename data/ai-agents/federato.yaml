@@ -13,7 +13,7 @@ hq:
   source: "https://www.federato.ai/privacy-policy"
 founded:
   year: 2020
-  source: "https://www.federato.ai/about"
+  source: "https://www.federato.ai/articles/goldman-sachs-100m-series-d"
 status: "active"
 funding:
   total_usd: 180000000
@@ -21,7 +21,7 @@ funding:
     name: "Series D"
     date: "2025-11"
     amount_usd: 100000000
-  source: "https://www.federato.ai/articles/goldman-sachs-100m-series-d"
+  source: "https://www.federato.ai/about"
 pricing:
   as_listed_by_vendor: "custom"
   model: "custom"

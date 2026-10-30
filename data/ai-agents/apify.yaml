@@ -13,7 +13,7 @@ hq:
   source: "https://docs.apify.com/legal"
 founded:
   year: 2015
-  source: "https://docs.apify.com/legal"
+  source: "https://apify.com/about"
 status: "active"
 funding:
   total_usd: 3117240

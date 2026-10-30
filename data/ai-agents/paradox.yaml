@@ -18,13 +18,13 @@ funding:
     name: "Series C"
     date: "2021-12"
     amount_usd: 200000000
-  source: "https://siliconangle.com/2021/12/28/recruiting-startup-paradox-valued-1-5b-following-200m-funding-round/"
+  source: "https://1worktech.com/exclusive-interview-paradox-team-discusses-its-200m-series-c-round-and-1-5-billion-valuation/"
 acquisition:
   acquirer: "Workday"
   date: "2025-10"
   date_type: "closed"
   price_usd: 1000000000
-  source: "https://newsroom.workday.com/2025-10-01-Workday-Completes-Acquisition-of-Paradox"
+  source: "https://www.orrick.com/en/News/2025/08/AI-Powered-Talent-Acquisition-Workday-to-Acquire-Paradox"
 pricing:
   as_listed_by_vendor: "custom"
   model: "custom"

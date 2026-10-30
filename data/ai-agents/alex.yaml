@@ -12,8 +12,8 @@ hq:
   country: "US"
   source: "https://www.alex.com/terms-of-service"
 founded:
-  year: 2024
-  source: "https://www.alex.com/blog/we-raised-20m-to-help-ai-hire-more-humans"
+  year: 2023
+  source: "https://www.ycombinator.com/companies/alex-com"
 status: "active"
 funding:
   total_usd: 20000000
@@ -30,4 +30,5 @@ sources:
   - "https://www.alex.com/terms-of-service"
   - "https://techcrunch.com/2025/09/29/ai-recruiter-alex-raises-17m-to-automate-initial-job-interviews/"
   - "https://www.alex.com/newsroom"
+  - "https://www.ycombinator.com/companies/alex-com"
 last_verified: "2026-10-30"

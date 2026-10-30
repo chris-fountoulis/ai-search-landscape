@@ -20,7 +20,7 @@ funding:
     name: "Seed"
     date: "2025-03"
     amount_usd: 10000000
-  source: "https://news.zoom.com/zoom-acquires-onyx-adding-open-source-enterprise-knowledge-search-to-zoom-ai-services/"
+  source: "https://techcrunch.com/2025/03/12/why-onyx-thinks-its-open-source-solution-will-win-enterprise-search/"
 acquisition:
   acquirer: "Zoom"
   date: "2026-10"

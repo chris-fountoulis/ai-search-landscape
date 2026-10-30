@@ -11,8 +11,8 @@ hq:
   country: "US"
   source: "https://www.avoca.ai/terms-of-service"
 founded:
-  year: 2023
-  source: "https://www.avoca.ai/blog/avoca-raises-125m-series-b-1b-valuation"
+  year: 2022
+  source: "https://alleywatch.com/2026/04/the-alleywatch-startup-daily-funding-report-4-27-2026/"
 status: "active"
 funding:
   total_usd: 125000000
@@ -27,4 +27,5 @@ sources:
   - "https://www.avoca.ai/blog/avoca-raises-125m-series-b-1b-valuation"
   - "https://fortune.com/2026/04/27/avoca-ai-agents-missed-calls-hvac-plumbing-roofing-kleiner-perkins-chen-shrivastava-braswell/"
   - "https://www.avoca.ai/terms-of-service"
+  - "https://alleywatch.com/2026/04/the-alleywatch-startup-daily-funding-report-4-27-2026/"
 last_verified: "2026-10-30"

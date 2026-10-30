@@ -12,7 +12,7 @@ hq:
   source: "https://www.tofuhq.com/terms-and-conditions"
 founded:
   year: 2023
-  source: "https://www.signalfire.com/blog/generative-marketing-tofu-investor"
+  source: "https://techcrunch.com/2025/02/13/tofu-is-building-a-omni-channel-marketing-platform-for-enterprises/"
 status: "active"
 funding:
   total_usd: 17000000
@@ -20,7 +20,10 @@ funding:
     name: "Series A"
     date: "2025-02"
     amount_usd: 12000000
-  source: "https://www.signalfire.com/blog/generative-marketing-tofu-investor"
+  source: "https://techcrunch.com/2025/02/13/tofu-is-building-a-omni-channel-marketing-platform-for-enterprises/"
+  total_sources:
+    - "https://www.indexventures.com/companies/tofu/"
+    - "https://techcrunch.com/2025/02/13/tofu-is-building-a-omni-channel-marketing-platform-for-enterprises/"
 pricing:
   as_listed_by_vendor: "custom"
   model: "custom"

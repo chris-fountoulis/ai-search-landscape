@@ -17,7 +17,10 @@ funding:
     name: "Series A"
     date: "2025-11"
     amount_usd: 18800000
-  source: "https://web.archive.org/web/2026id_/https://www.businesswire.com/news/home/20251118768131/en/OpenHands-Raises-%2418.8M-Series-A-to-Bring-Open-Source-Cloud-Coding-Agents-to-Enterprises"
+  source: "https://www.businesswire.com/news/home/20251118768131/en/OpenHands-Raises-%2418.8M-Series-A-to-Bring-Open-Source-Cloud-Coding-Agents-to-Enterprises"
+  total_sources:
+    - "https://techcrunch.com/2024/09/05/all-hands-ai-raises-5m-to-build-open-source-agents-for-developers"
+    - "https://www.businesswire.com/news/home/20251118768131/en/OpenHands-Raises-%2418.8M-Series-A-to-Bring-Open-Source-Cloud-Coding-Agents-to-Enterprises"
 pricing:
   as_listed_by_vendor: "from $500 (as listed)"
   model: "flat"
@@ -28,4 +31,5 @@ sources:
   - "https://techcrunch.com/2024/09/05/all-hands-ai-raises-5m-to-build-open-source-agents-for-developers"
   - "https://openhands.dev/pricing"
   - "https://openhands.dev/privacy"
+  - "https://www.businesswire.com/news/home/20251118768131/en/OpenHands-Raises-%2418.8M-Series-A-to-Bring-Open-Source-Cloud-Coding-Agents-to-Enterprises"
 last_verified: "2026-10-30"

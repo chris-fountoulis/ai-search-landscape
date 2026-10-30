@@ -13,7 +13,7 @@ hq:
   source: "https://wonderful.ai/legal/websiteterms"
 founded:
   year: 2025
-  source: "https://wonderful.ai/legal/websiteterms"
+  source: "https://wonderful.ai/blog-articles/wonderful-raises-550m-series-c"
 status: "active"
 funding:
   total_usd: 836000000
@@ -23,6 +23,9 @@ funding:
     amount_usd: 550000000
     valuation_usd: 5000000000
   source: "https://siliconangle.com/2026/09/02/wonderful-raises-550m-at-5b-valuation-for-its-ai-automation-platform/"
+  total_sources:
+    - "https://techcrunch.com/2026/03/12/wonderful-raises-150m-series-b-at-2b-valuation/"
+    - "https://siliconangle.com/2026/09/02/wonderful-raises-550m-at-5b-valuation-for-its-ai-automation-platform/"
 pricing:
   as_listed_by_vendor: "custom"
   model: "custom"

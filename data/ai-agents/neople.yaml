@@ -20,7 +20,7 @@ funding:
     name: "Funding round (stage not named)"
     date: "2024-06"
     amount_usd: 6679800
-  source: "https://ioplus.nl/archive/en/ai-startup-neople-raises-e1-5m-for-digital-co-workers-revolution"
+  source: "https://www.neople.io/about-us"
 pricing:
   as_listed_by_vendor: "from EUR 4,500 (as listed)"
   model: "per task or conversation"

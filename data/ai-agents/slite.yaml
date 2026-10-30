@@ -13,7 +13,7 @@ hq:
   source: "https://slite.com/legal"
 founded:
   year: 2017
-  source: "https://slite.com/legal"
+  source: "https://slite.com/about"
 status: "active"
 funding:
   total_usd: 15400000
@@ -22,6 +22,9 @@ funding:
     date: "2020-04"
     amount_usd: 11000000
   source: "https://techcrunch.com/2020/04/15/slite-raises-11-million-for-its-internal-notes-tool/"
+  total_sources:
+    - "https://techcrunch.com/2018/04/23/slite-raises-4-4m-to-create-a-smarter-internal-notes-tool/"
+    - "https://techcrunch.com/2020/04/15/slite-raises-11-million-for-its-internal-notes-tool/"
 pricing:
   as_listed_by_vendor: "$10 to $20 (as listed)"
   model: "per seat"

@@ -13,7 +13,7 @@ hq:
   source: "https://techcrunch.com/2024/08/28/san-franciscos-ai-hackathons-agency-lets-you-see-what-your-ai-agents-do/"
 founded:
   year: 2023
-  source: "https://techcrunch.com/2024/08/28/san-franciscos-ai-hackathons-agency-lets-you-see-what-your-ai-agents-do/"
+  source: "https://github.com/AgentOps-AI/agentops"
 status: "active"
 funding:
   total_usd: 2600000

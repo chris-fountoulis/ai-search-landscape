@@ -13,7 +13,7 @@ hq:
   source: "https://alpic.ai/legal/notice"
 founded:
   year: 2025
-  source: "https://alpic.ai/legal/notice"
+  source: "https://alpic.ai/about"
 status: "active"
 funding:
   total_usd: 6000000

@@ -12,7 +12,7 @@ hq:
   source: "https://web.archive.org/web/2026id_/https://www.infinitus.ai/terms"
 founded:
   year: 2019
-  source: "https://www.healthcareittoday.com/2024/11/25/infinitus-systems-raises-51-5-million-series-c-funding-on-the-strength-of-ai-guardrails/"
+  source: "https://pulse2.com/infinitus-systems-profile-ankit-jain-interview/amp/"
 status: "active"
 funding:
   total_usd: 102900000
@@ -30,4 +30,5 @@ sources:
   - "https://web.archive.org/web/2026id_/https://www.infinitus.ai/terms"
   - "https://web.archive.org/web/2026id_/https://www.infinitus.ai/pricing/"
   - "https://web.archive.org/web/2026id_/https://www.infinitus.ai/about-us/"
+  - "https://pulse2.com/infinitus-systems-profile-ankit-jain-interview/amp/"
 last_verified: "2026-10-30"

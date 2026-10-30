@@ -13,7 +13,7 @@ hq:
   source: "https://www.cartesia.ai/legal/terms"
 founded:
   year: 2023
-  source: "https://www.cartesia.ai/legal/terms"
+  source: "https://fortune.com/2025/03/11/exclusive-cartesia-voice-ai-startup-raises-64-million-series-a/"
 status: "active"
 funding:
   total_usd: 91000000
@@ -21,7 +21,7 @@ funding:
     name: "Series A"
     date: "2025-03"
     amount_usd: 64000000
-  source: "https://www.cartesia.ai/blog/series-a"
+  source: "https://fortune.com/2025/03/11/exclusive-cartesia-voice-ai-startup-raises-64-million-series-a/"
 pricing:
   as_listed_by_vendor: "$5 to $299 (as listed)"
   model: "usage or credits"

@@ -12,7 +12,7 @@ hq:
   source: "https://www.11x.ai/about-us"
 founded:
   year: 2022
-  source: "https://www.11x.ai/about-us"
+  source: "https://techcrunch.com/2024/09/16/ai-digital-employee-startup-11xai-raises-24m-led-by-benchmark/"
 status: "active"
 funding:
   total_usd: 75000000
@@ -20,7 +20,8 @@ funding:
     name: "Series B"
     date: "2024-11"
     amount_usd: 50000000
-  source: "https://techcrunch.com/2024/09/16/ai-digital-employee-startup-11xai-raises-24m-led-by-benchmark/"
+    source: "https://www.intelligentcio.com/north-america/?p=41417"
+  source: "https://www.11x.ai/about-us"
 pricing:
   as_listed_by_vendor: "custom"
   model: "custom"

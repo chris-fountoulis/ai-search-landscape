@@ -13,7 +13,7 @@ hq:
   source: "https://gradial.com/terms-of-service"
 founded:
   year: 2023
-  source: "https://gradial.com/about"
+  source: "https://thenextweb.com/news/gradial-65m-series-c-agentic-enterprise-marketing"
 status: "active"
 funding:
   total_usd: 110000000
@@ -31,4 +31,5 @@ sources:
   - "https://gradial.com/about"
   - "https://gradial.com/terms-of-service"
   - "https://www.madrona.com/portfolio/"
+  - "https://thenextweb.com/news/gradial-65m-series-c-agentic-enterprise-marketing"
 last_verified: "2026-10-30"

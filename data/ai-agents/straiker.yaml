@@ -11,8 +11,8 @@ hq:
   country: "US"
   source: "https://www.straiker.ai/about"
 founded:
-  year: 2025
-  source: "https://www.straiker.ai/about"
+  year: 2024
+  source: "https://www.straiker.ai/"
 status: "active"
 funding:
   total_usd: 85000000
@@ -20,7 +20,8 @@ funding:
     name: "Series A"
     date: "2026-06"
     amount_usd: 64000000
-  source: "https://siliconangle.com/2026/06/29/straiker-lands-64m-defend-enterprise-ai-agents-attack/"
+    source: "https://siliconangle.com/2026/06/29/straiker-lands-64m-defend-enterprise-ai-agents-attack/"
+  source: "https://www.vcnewsdaily.com/Straiker/venture-capital-funding/rympgkvlkx"
 pricing:
   as_listed_by_vendor: "custom"
   model: "custom"
@@ -29,4 +30,5 @@ sources:
   - "https://www.straiker.ai/about"
   - "https://www.straiker.ai/legal/terms-of-service"
   - "https://www.straiker.ai/"
+  - "https://www.vcnewsdaily.com/Straiker/venture-capital-funding/rympgkvlkx"
 last_verified: "2026-10-30"

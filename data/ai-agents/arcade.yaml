@@ -12,7 +12,7 @@ hq:
   country: "US"
 founded:
   year: 2024
-  source: "https://www.arcade.dev/about/"
+  source: "https://siliconangle.com/2026/06/15/ai-agent-authorization-startup-arcade-nabs-60m-investment/"
 status: "active"
 funding:
   total_usd: 72000000
@@ -20,7 +20,7 @@ funding:
     name: "Series A"
     date: "2026-06"
     amount_usd: 60000000
-  source: "https://siliconangle.com/2026/06/15/ai-agent-authorization-startup-arcade-nabs-60m-investment/"
+  source: "https://www.arcade.dev/about/"
 pricing:
   as_listed_by_vendor: "from $25 (as listed)"
   model: "usage or credits"
@@ -31,4 +31,4 @@ sources:
   - "https://www.arcade.dev/about/"
   - "https://www.arcade.dev/pricing/"
   - "https://www.arcade.dev/terms-of-service/"
-last_verified: "2026-10-29"
+last_verified: "2026-10-30"

@@ -13,7 +13,7 @@ hq:
   source: "https://techcrunch.com/2025/07/17/openai-launches-a-general-purpose-agent-in-chatgpt/"
 founded:
   year: 2015
-  source: "https://news.bloomberglaw.com/tech-and-telecom-law/openai-valued-at-852-billion-after-closing-122-billion-round"
+  source: "https://openai.com/our-structure/"
 status: "active"
 model_lab: true
 funding:
@@ -30,4 +30,5 @@ sources:
   - "https://learn.chatgpt.com/docs/pricing"
   - "https://news.bloomberglaw.com/tech-and-telecom-law/openai-valued-at-852-billion-after-closing-122-billion-round"
   - "https://techcrunch.com/2025/07/17/openai-launches-a-general-purpose-agent-in-chatgpt/"
+  - "https://openai.com/our-structure/"
 last_verified: "2026-10-30"

@@ -10,9 +10,6 @@ hq:
   city: "San Francisco"
   country: "US"
   source: "https://supermemory.ai/terms/"
-founded:
-  year: 2025
-  source: "https://techcrunch.com/2025/10/06/a-19-year-old-nabs-backing-from-google-execs-for-his-ai-memory-startup-supermemory/"
 status: "active"
 funding:
   total_usd: 2600000

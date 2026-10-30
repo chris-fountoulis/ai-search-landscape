@@ -12,7 +12,7 @@ hq:
   source: "https://aiscore.ai/privacy-policy/"
 founded:
   year: 2025
-  source: "https://aiscore.ai/contact-us/"
+  source: "https://www.fuel.ventures/uk-ai-startup-ai-score-raises-54m-to-build-the-governance-platform-for-the-next-generation-of-enterprise-ai"
 status: "active"
 funding:
   total_usd: 6400000
@@ -20,7 +20,7 @@ funding:
     name: "Seed"
     date: "2026-09"
     amount_usd: 5400000
-  source: "https://tech.eu/2026/09/04/uk-startup-ai-score-raises-54m-to-scale-its-enterprise-ai-governance-platform/"
+  source: "https://www.fuel.ventures/uk-ai-startup-ai-score-raises-54m-to-build-the-governance-platform-for-the-next-generation-of-enterprise-ai"
 pricing:
   as_listed_by_vendor: "custom"
   model: "custom"

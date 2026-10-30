@@ -13,7 +13,7 @@ hq:
   source: "https://www.intercom.com/legal/terms-and-policies"
 founded:
   year: 2011
-  source: "https://www.indexventures.com/perspectives/intercom-announces-125-million-series-d-round/"
+  source: "https://fin.ai/about"
 status: "acquired"
 funding:
   total_usd: 241000000
@@ -38,4 +38,5 @@ sources:
   - "https://www.intercom.com/legal/terms-and-policies"
   - "https://www.indexventures.com/companies/intercom/"
   - "https://investor.salesforce.com/news/news-details/2026/Salesforce-Completes-Acquisition-of-Fin/default.aspx"
+  - "https://fin.ai/about"
 last_verified: "2026-10-30"

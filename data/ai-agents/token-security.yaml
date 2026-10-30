@@ -11,7 +11,7 @@ hq:
   country: "IL"
 founded:
   year: 2023
-  source: "https://www.token.security/legal/terms-of-use"
+  source: "https://techcrunch.com/2025/01/27/hackers-are-targeting-machine-identities-token-security-just-raised-20m-to-stop-them/"
 status: "active"
 funding:
   total_usd: 27000000
@@ -28,4 +28,4 @@ sources:
   - "https://techcrunch.com/2025/01/27/hackers-are-targeting-machine-identities-token-security-just-raised-20m-to-stop-them/"
   - "https://www.token.security/legal/terms-of-use"
   - "https://www.token.security/news"
-last_verified: "2026-10-29"
+last_verified: "2026-10-30"

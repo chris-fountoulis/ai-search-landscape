@@ -13,7 +13,7 @@ hq:
   source: "https://www.amplemarket.com/legal/terms"
 founded:
   year: 2019
-  source: "https://www.amplemarket.com/legal/terms"
+  source: "https://www.amplemarket.com/funding"
 status: "active"
 funding:
   total_usd: 12000000

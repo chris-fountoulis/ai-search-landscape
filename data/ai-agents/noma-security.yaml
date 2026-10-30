@@ -12,7 +12,7 @@ hq:
   source: "https://noma.security/contact"
 founded:
   year: 2023
-  source: "https://noma.security/contact"
+  source: "https://www.securityweek.com/noma-security-raises-100-million-for-ai-security-platform/"
 status: "active"
 funding:
   total_usd: 132000000
@@ -20,7 +20,8 @@ funding:
     name: "Series B"
     date: "2025-07"
     amount_usd: 100000000
-  source: "https://www.securityweek.com/noma-security-raises-100-million-for-ai-security-platform/"
+    source: "https://www.securityweek.com/noma-security-raises-100-million-for-ai-security-platform/"
+  source: "https://www.calcalistech.com/ctechnews/article/s19xaaudxl"
 pricing:
   as_listed_by_vendor: "custom"
   model: "custom"
@@ -30,4 +31,5 @@ sources:
   - "https://en.globes.co.il/en/article-1001517758"
   - "https://noma.security/contact"
   - "https://noma.security/terms-of-use"
+  - "https://www.calcalistech.com/ctechnews/article/s19xaaudxl"
 last_verified: "2026-10-30"

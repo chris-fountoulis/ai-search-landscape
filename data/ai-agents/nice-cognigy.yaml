@@ -13,7 +13,7 @@ hq:
   source: "https://www.cognigy.com/legal-notice"
 founded:
   year: 2016
-  source: "https://www.cognigy.com/legal-notice"
+  source: "https://www.cognigy.com/about"
 status: "acquired"
 funding:
   total_usd: 175000000
@@ -21,13 +21,13 @@ funding:
     name: "Series C"
     date: "2024-06"
     amount_usd: 100000000
-  source: "https://dallasinnovates.com/nice-closes-955m-acquisition-of-cognigy-whose-u-s-hq-recently-relocated-to-plano/"
+  source: "https://techcrunch.com/2024/06/11/cognigy-lands-cash-to-grow-its-contact-center-automation-business/"
 acquisition:
   acquirer: "NICE"
   date: "2025-09"
   date_type: "closed"
   price_usd: 955000000
-  source: "https://www.cognigy.com/news/nice-closes-acquisition-of-cognigy"
+  source: "https://dallasinnovates.com/nice-closes-955m-acquisition-of-cognigy-whose-u-s-hq-recently-relocated-to-plano/"
 pricing:
   as_listed_by_vendor: "custom"
   model: "custom"

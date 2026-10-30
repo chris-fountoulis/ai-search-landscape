@@ -12,7 +12,7 @@ hq:
   country: "US"
 founded:
   year: 2015
-  source: "https://news.bloomberglaw.com/tech-and-telecom-law/openai-valued-at-852-billion-after-closing-122-billion-round"
+  source: "https://openai.com/our-structure/"
 status: "active"
 model_lab: true
 funding:
@@ -28,4 +28,5 @@ sources:
   - "https://developers.openai.com/api/docs/guides/agent-builder"
   - "https://news.bloomberglaw.com/tech-and-telecom-law/openai-valued-at-852-billion-after-closing-122-billion-round"
   - "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/"
-last_verified: "2026-10-29"
+  - "https://openai.com/our-structure/"
+last_verified: "2026-10-30"

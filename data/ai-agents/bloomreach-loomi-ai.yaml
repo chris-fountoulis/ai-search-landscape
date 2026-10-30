@@ -17,7 +17,7 @@ funding:
     name: "Growth equity"
     date: "2022-02"
     amount_usd: 175000000
-  source: "https://techcrunch.com/2021/01/26/bloomreach-raises-150m-on-900m-valuation-and-acquires-exponea/"
+  source: "https://techcrunch.com/2022/02/23/bloomreach-customer-personalization/"
 pricing:
   as_listed_by_vendor: "from $5,000 (as listed)"
   model: "custom"
@@ -28,4 +28,4 @@ sources:
   - "https://techcrunch.com/2021/01/26/bloomreach-raises-150m-on-900m-valuation-and-acquires-exponea/"
   - "https://www.bloomreach.com/en/pricing"
   - "https://www.bloomreach.com/en/legal/privacy"
-last_verified: "2026-10-29"
+last_verified: "2026-10-30"
