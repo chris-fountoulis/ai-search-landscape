@@ -23,6 +23,7 @@ funding:
 pricing:
   as_listed_by_vendor: "custom"
   model: "custom"
+  source: "https://www.druidai.com/pricing"
 sources:
   - "https://tech.eu/2025/09/16/druid-ai-raises-31m-series-c-and-appoints-former-sumo-logic-ceo-to-lead-global-expansion/"
   - "https://techcrunch.com/2023/09/12/druid-a-conversational-ai-platform-for-enterprises-that-integrates-with-chatgpt-raises-24m/"

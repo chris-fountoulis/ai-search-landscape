@@ -15,6 +15,7 @@ founded:
 status: "active"
 pricing:
   as_listed_by_vendor: "custom"
+  source: "https://www.hypotenuse.ai/pricing"
 sources:
   - "https://imda.gov.sg/resources/blog/blog-articles/2024/01/tech-innovators-ai-start-up-is-making-an-impact"
   - "https://www.hypotenuse.ai/pricing"

@@ -17,6 +17,7 @@ funding:
   source: "https://www.aap.com.au/aapreleases/cision20260402ae25640"
 pricing:
   as_listed_by_vendor: "custom"
+  source: "https://www.withdaydream.com/pricing"
 sources:
   - "https://www.aap.com.au/aapreleases/cision20260402ae25640"
   - "https://www.withdaydream.com/pricing"

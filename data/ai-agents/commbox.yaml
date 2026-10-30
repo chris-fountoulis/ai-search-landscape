@@ -24,6 +24,7 @@ funding:
 pricing:
   as_listed_by_vendor: "custom"
   model: "custom"
+  source: "https://www.commbox.io/pricing/"
 sources:
   - "https://psgequity.com/news/enterprise-companies-fear-no-more-commbox-secures-15m-investment-prioritizing-ai-in-customer-experience"
   - "https://www.commbox.io/about-us/"

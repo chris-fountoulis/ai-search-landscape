@@ -17,6 +17,7 @@ funding:
   source: "https://funding.tech.eu/deals/C01AA63C-9613-441A-9C10-9706793FCC28"
 pricing:
   as_listed_by_vendor: "custom"
+  source: "https://www.getmint.ai/pricing"
 sources:
   - "https://funding.tech.eu/deals/C01AA63C-9613-441A-9C10-9706793FCC28"
   - "https://www.getmint.ai/"

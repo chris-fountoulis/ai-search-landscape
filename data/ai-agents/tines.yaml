@@ -23,6 +23,7 @@ funding:
 pricing:
   as_listed_by_vendor: "custom"
   model: "custom"
+  source: "https://www.tines.com/pricing"
 sources:
   - "https://siliconangle.com/2026/07/28/tines-launches-3b-help-enterprises-govern-ai-built-apps-agents/"
   - "https://www.tines.com/pricing"

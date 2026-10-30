@@ -20,6 +20,7 @@ funding:
 pricing:
   as_listed_by_vendor: "custom"
   model: "custom"
+  source: "https://quashbugs.com/pricing"
 sources:
   - "https://theaiinsider.tech/2025/01/13/ai-startup-quash-raises-635k-for-mobile-app-testing/"
   - "https://quashbugs.com/pricing"

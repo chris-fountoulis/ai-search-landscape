@@ -9,6 +9,7 @@ segment: "incumbents"
 status: "active"
 pricing:
   as_listed_by_vendor: "not verified"
+  source: "https://neilpatel.com/ubersuggest/pricing/"
 sources:
   - "https://neilpatel.com/ubersuggest/pricing/"
 last_verified: "2026-10-26"

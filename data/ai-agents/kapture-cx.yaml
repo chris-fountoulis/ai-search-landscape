@@ -24,6 +24,7 @@ funding:
 pricing:
   as_listed_by_vendor: "custom"
   model: "custom"
+  source: "https://www.kapture.cx/pricing/"
 sources:
   - "https://www.kapture.cx/press-releases/kapture-raises-10-million-pre-series-b-funding/"
   - "https://economictimes.indiatimes.com/tech/funding/kapture-cx-raises-10-million-led-by-bajaj-finserv-ventures/articleshow/132077023.cms"

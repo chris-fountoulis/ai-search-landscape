@@ -23,6 +23,7 @@ funding:
 pricing:
   as_listed_by_vendor: "custom"
   model: "custom"
+  source: "https://www.ada.cx/pricing"
 sources:
   - "https://techcrunch.com/2023/04/18/ada-announces-automated-generative-ai-driven-customer-service-suite/"
   - "https://www.ada.cx/terms"

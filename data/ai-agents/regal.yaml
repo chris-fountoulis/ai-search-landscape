@@ -20,6 +20,7 @@ funding:
 pricing:
   as_listed_by_vendor: "custom"
   model: "custom"
+  source: "https://www.regal.ai/pricing"
 sources:
   - "https://techcrunch.com/2022/09/07/regal-secures-capital-to-grow-its-platform-for-branded-calls-and-texts/"
   - "https://www.regal.ai/press"

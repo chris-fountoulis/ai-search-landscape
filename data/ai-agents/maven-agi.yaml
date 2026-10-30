@@ -23,6 +23,7 @@ funding:
 pricing:
   as_listed_by_vendor: "custom"
   model: "custom"
+  source: "https://www.mavenagi.com/pricing"
 sources:
   - "https://www.mavenagi.com/resources/post/series-b"
   - "https://siliconangle.com/2024/05/29/maven-agi-unveils-ai-platform-securing-20m-global-expansion/"

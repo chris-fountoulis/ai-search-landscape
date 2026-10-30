@@ -14,6 +14,7 @@ status: "active"
 pricing:
   as_listed_by_vendor: "custom"
   model: "custom"
+  source: "https://www.optimizely.com/pricing/"
 sources:
   - "https://www.optimizely.com/products/ai/"
   - "https://www.optimizely.com/agents/"

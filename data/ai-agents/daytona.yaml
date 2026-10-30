@@ -23,6 +23,7 @@ funding:
 pricing:
   as_listed_by_vendor: "usage-based, no monthly list price (as listed)"
   model: "usage or credits"
+  source: "https://www.daytona.io/pricing"
 sources:
   - "https://techcrunch.com/2026/10/23/agent-cloud-startup-daytona-hits-1b-valuation-backed-by-firstmark-and-a-whos-who-of-angels/"
   - "https://techcrunch.com/2023/11/06/daytona-wants-to-be-an-enterprise-grade-github-codespaces/"

@@ -22,6 +22,7 @@ funding:
 pricing:
   as_listed_by_vendor: "custom"
   model: "custom"
+  source: "https://iterable.com/pricing/"
 sources:
   - "https://www.dtcp.capital/news-and-insights/detail/iterable-closes-200-million-in-growth-funding-at-2-billion-valuation-to-galvanize-a-new-era-of-empathy-driven-customer-experiences/"
   - "https://iterable.com/company/"

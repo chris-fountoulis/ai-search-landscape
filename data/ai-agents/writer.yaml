@@ -24,6 +24,7 @@ funding:
 pricing:
   as_listed_by_vendor: "custom"
   model: "per seat"
+  source: "https://writer.com/plans/"
 sources:
   - "https://techcrunch.com/2024/11/12/generative-ai-startup-writer-raises-200m-at-a-1-9b-valuation/"
   - "https://writer.com/company/about/"

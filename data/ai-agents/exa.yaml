@@ -20,6 +20,7 @@ funding:
 pricing:
   as_listed_by_vendor: "usage-based, no monthly list price (as listed); Enterprise custom"
   model: "usage or credits"
+  source: "https://exa.ai/pricing"
 sources:
   - "https://exa.ai/blog/series-c"
   - "https://exa.ai/blog/announcing-series-b"

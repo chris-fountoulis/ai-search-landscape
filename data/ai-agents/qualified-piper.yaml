@@ -26,6 +26,7 @@ acquisition:
 pricing:
   as_listed_by_vendor: "custom"
   model: "custom"
+  source: "https://www.qualified.com/pricing"
 sources:
   - "https://www.qualified.com/newsroom/salesforce-signs-definitive-agreement-to-acquire-qualified"
   - "https://siliconangle.com/2022/04/26/qualified-com-raises-95m-transform-corporate-websites-b2b-pipeline-generation-tool/"

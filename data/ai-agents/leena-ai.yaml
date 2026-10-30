@@ -24,6 +24,7 @@ funding:
 pricing:
   as_listed_by_vendor: "custom"
   model: "custom"
+  source: "https://leena.ai/pricing"
 sources:
   - "https://leena.ai/blog/series-b-weve-raised-30m-and-are-all-set-for-our-next-growth-chapter"
   - "https://leena.ai/pricing"

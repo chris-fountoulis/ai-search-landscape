@@ -20,6 +20,7 @@ funding:
   source: "https://www.frenchweb.fr/e-commerce-partoo-leve-15-millions-deuros-aupres-de-webedia/421876"
 pricing:
   as_listed_by_vendor: "custom"
+  source: "https://www.partoo.co/en/pricing/"
 sources:
   - "https://www.frenchweb.fr/e-commerce-partoo-leve-15-millions-deuros-aupres-de-webedia/421876"
   - "https://funding.tech.eu/companies/031158AB-045C-4515-917F-68226F5ABEA9"

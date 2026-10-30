@@ -18,6 +18,7 @@ model_lab: true
 pricing:
   as_listed_by_vendor: "custom"
   model: "custom"
+  source: "https://cohere.com/pricing"
 sources:
   - "https://cohere.com/blog/august-2025-funding-round"
   - "https://techcrunch.com/2026/04/25/why-cohere-is-merging-with-aleph-alpha/"

@@ -20,6 +20,7 @@ acquisition:
 pricing:
   as_listed_by_vendor: "custom"
   model: "usage or credits"
+  source: "https://boomi.com/pricing/"
 sources:
   - "https://techcrunch.com/2021/05/03/dell-dumps-another-big-asset-moving-boomi-to-francisco-partners-and-tpg-for-4b/"
   - "https://boomi.com/pricing/"

@@ -28,6 +28,7 @@ acquisition:
 pricing:
   as_listed_by_vendor: "custom"
   model: "custom"
+  source: "https://ona.com/pricing"
 sources:
   - "https://ona.com/stories/ona-joins-openai"
   - "https://ona.com/legal/imprint"

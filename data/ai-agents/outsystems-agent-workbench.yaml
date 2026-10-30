@@ -24,6 +24,7 @@ funding:
 pricing:
   as_listed_by_vendor: "custom"
   model: "custom"
+  source: "https://www.outsystems.com/pricing-and-editions/"
 sources:
   - "https://siliconangle.com/2025/09/30/outsystems-brings-agent-workbench-general-availability-intelligent-agent-development/"
   - "https://www.outsystems.com/company/"

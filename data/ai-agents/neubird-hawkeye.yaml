@@ -21,6 +21,7 @@ funding:
 pricing:
   as_listed_by_vendor: "custom"
   model: "usage or credits"
+  source: "https://neubird.ai/pricing"
 sources:
   - "https://siliconangle.com/2026/04/07/agentic-ai-startup-neubird-raises-19-3m-help-human-site-reliability-engineers-rise-ashes-alert-fatigue/"
   - "https://techcrunch.com/2024/04/17/neubird-generative-ai-solution-for-complex-cloud-environments-raises-22-million/"

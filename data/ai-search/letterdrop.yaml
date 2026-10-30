@@ -19,6 +19,7 @@ funding:
   source: "https://www.ycombinator.com/companies/letterdrop"
 pricing:
   as_listed_by_vendor: "custom"
+  source: "https://letterdrop.com/pricing"
 sources:
   - "https://www.ycombinator.com/companies/letterdrop"
   - "https://www.vcbacked.co/company/letterdrop"

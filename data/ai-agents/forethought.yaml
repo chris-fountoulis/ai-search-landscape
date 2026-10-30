@@ -25,6 +25,7 @@ acquisition:
 pricing:
   as_listed_by_vendor: "custom"
   model: "custom"
+  source: "https://forethought.ai/pricing"
 sources:
   - "https://techcrunch.com/2026/03/11/zendesk-acquires-agentic-customer-service-startup-forethought/"
   - "https://forethought.ai/"

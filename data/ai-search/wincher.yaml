@@ -12,6 +12,7 @@ hq:
 status: "active"
 pricing:
   as_listed_by_vendor: "not verified"
+  source: "https://www.wincher.com/pricing"
 sources:
   - "https://www.wincher.com/about"
   - "https://www.wincher.com/pricing"

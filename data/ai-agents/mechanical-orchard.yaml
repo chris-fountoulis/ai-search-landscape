@@ -24,6 +24,7 @@ funding:
 pricing:
   as_listed_by_vendor: "custom"
   model: "per outcome"
+  source: "https://www.mechanical-orchard.com/insights/priced-on-proof"
 sources:
   - "https://techcrunch.com/2024/08/07/mechanical-orchard-led-by-ex-pivotal-ceo-scores-50-million-round-led-by-alphabets-gv/"
   - "https://www.mechanical-orchard.com/contact"

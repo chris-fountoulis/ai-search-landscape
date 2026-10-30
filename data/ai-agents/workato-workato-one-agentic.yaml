@@ -21,6 +21,7 @@ funding:
 pricing:
   as_listed_by_vendor: "custom"
   model: "custom"
+  source: "https://www.workato.com/pricing"
 sources:
   - "https://siliconangle.com/2021/11/10/ambitious-enterprise-automation-firm-workato-nets-200m-late-stage-funding/"
   - "https://www.workato.com/legal/terms-of-service"

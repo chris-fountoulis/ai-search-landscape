@@ -24,6 +24,7 @@ funding:
 pricing:
   as_listed_by_vendor: "custom"
   model: "custom"
+  source: "https://www.altahq.com/pricing"
 sources:
   - "https://www.calcalistech.com/ctechnews/article/byylhojqze"
   - "https://www.altahq.com/pricing"

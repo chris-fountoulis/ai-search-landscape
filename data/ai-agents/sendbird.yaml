@@ -20,6 +20,7 @@ funding:
 pricing:
   as_listed_by_vendor: "custom"
   model: "custom"
+  source: "https://sendbird.com/pricing/chat"
 sources:
   - "https://sendbird.com/about"
   - "https://techcrunch.com/2021/04/06/sendbird-raises-100m-at-a-1b-valuation-says-150m-users-now-interact-using-its-chat-and-video-apis/"

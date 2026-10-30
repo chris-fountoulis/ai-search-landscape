@@ -21,6 +21,7 @@ funding:
 pricing:
   as_listed_by_vendor: "custom"
   model: "custom"
+  source: "https://www.cassidyai.com/pricing"
 sources:
   - "https://alleywatch.com/2025/09/cassidy-context-powered-automation-enterprise-ai-workflows-business-automation-platform-justin-fineberg/"
   - "https://www.cassidyai.com/pricing"

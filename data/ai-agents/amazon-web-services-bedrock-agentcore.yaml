@@ -15,6 +15,7 @@ public_company: true
 pricing:
   as_listed_by_vendor: "usage based, no minimum fee (as listed)"
   model: "usage or credits"
+  source: "https://aws.amazon.com/bedrock/agentcore/pricing/"
 sources:
   - "https://aws.amazon.com/bedrock/agentcore/pricing/"
   - "https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-bedrock-agentcore-available/"

@@ -28,6 +28,7 @@ acquisition:
 pricing:
   as_listed_by_vendor: "custom"
   model: "custom"
+  source: "https://www.stackai.com/pricing"
 sources:
   - "https://techcrunch.com/2026/05/28/asana-acquires-no-code-agent-builder-stack-ai/"
   - "https://siliconangle.com/2026/05/28/asana-acquires-stackai-run-ai-agent-workflows-across-enterprise-systems/"

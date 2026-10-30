@@ -24,6 +24,7 @@ funding:
 pricing:
   as_listed_by_vendor: "custom"
   model: "per outcome"
+  source: "https://www.freeday.ai/pricing"
 sources:
   - "https://tech.eu/2022/05/10/enabling-businesses-accelerate-digital-transformation-brings-eur4-million-to-rotterdam-platform/"
   - "https://www.freeday.ai/service-terms"

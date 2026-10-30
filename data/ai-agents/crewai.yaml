@@ -22,6 +22,7 @@ funding:
 pricing:
   as_listed_by_vendor: "custom"
   model: "custom"
+  source: "https://www.crewai.com/pricing"
 sources:
   - "https://techcrunch.com/2024/10/22/crewai-uses-third-party-models-to-automate-business-tasks/"
   - "https://www.insightpartners.com/ideas/crewai-scaleup-ai-story/"

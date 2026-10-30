@@ -15,6 +15,7 @@ public_company: true
 pricing:
   as_listed_by_vendor: "custom"
   model: "per outcome"
+  source: "https://www.pega.com/pricing"
 sources:
   - "https://www.pega.com/technology/agentic-workflows"
   - "https://siliconangle.com/2026/06/08/pega-expands-ai-platform-agent-orchestration-development-tools-new-pricing-model/"

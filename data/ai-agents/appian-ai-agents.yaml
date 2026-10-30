@@ -15,6 +15,7 @@ public_company: true
 pricing:
   as_listed_by_vendor: "custom"
   model: "per seat"
+  source: "https://appian.com/pricing"
 sources:
   - "https://appian.com/products/platform/artificial-intelligence/ai-agents"
   - "https://appian.com/pricing"

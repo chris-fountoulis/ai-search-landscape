@@ -24,6 +24,7 @@ funding:
 pricing:
   as_listed_by_vendor: "custom"
   model: "custom"
+  source: "https://www.solo.io/pricing"
 sources:
   - "https://www.solo.io/company/about-us"
   - "https://techcrunch.com/2021/10/07/solo-io-reaches-1b-valuation-with-135m-series-c-investment/"

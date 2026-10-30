@@ -23,6 +23,7 @@ funding:
 pricing:
   as_listed_by_vendor: "custom"
   model: "custom"
+  source: "https://hamming.ai/pricing"
 sources:
   - "https://americanbazaaronline.com/2024/12/19/y-combinator-backed-hamming-ai-raises-3-8-million-to-make-voice-ai-agents-more-reliable-457844/"
   - "https://hamming.ai/privacy"

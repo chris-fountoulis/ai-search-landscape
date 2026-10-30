@@ -16,6 +16,7 @@ funding:
   source: "https://semji.com/"
 pricing:
   as_listed_by_vendor: "custom"
+  source: "https://semji.com/pricing/"
 sources:
   - "https://semji.com/"
   - "https://semji.com/pricing/"

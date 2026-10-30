@@ -20,6 +20,7 @@ funding:
 pricing:
   as_listed_by_vendor: "custom"
   model: "custom"
+  source: "https://thoughtly.com/pricing"
 sources:
   - "https://thoughtly.com/blog/thoughtly-raises-usd8m-to-build-omnichannel-agents-for-revenue-teams"
   - "https://pulse2.com/thoughtly-ai-voice-agent-company-raises-3-million/"

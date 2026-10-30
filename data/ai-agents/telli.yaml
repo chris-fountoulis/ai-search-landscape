@@ -19,6 +19,7 @@ funding:
 pricing:
   as_listed_by_vendor: "custom"
   model: "custom"
+  source: "https://www.telli.com/pricing"
 sources:
   - "https://www.telli.com/articles/telli-raises-seed-round-to-build-ai-customer-operations"
   - "https://www.telli.com/imprint"

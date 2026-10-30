@@ -23,6 +23,7 @@ funding:
 pricing:
   as_listed_by_vendor: "custom"
   model: "custom"
+  source: "https://moveo.ai/our-plans"
 sources:
   - "https://moveo.ai/terms-of-use"
   - "https://tech.eu/2024/08/27/moveo-ai-secures-2-6m-to-enable-enterprises-to-build-personalised-llm-models/"

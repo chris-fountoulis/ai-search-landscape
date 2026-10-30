@@ -24,6 +24,7 @@ funding:
 pricing:
   as_listed_by_vendor: "custom"
   model: "custom"
+  source: "https://www.credal.ai/pricing"
 sources:
   - "https://www.credal.ai/careers"
   - "https://techcrunch.com/2023/10/26/credal-aims-to-connect-company-data-to-llms-securely/"

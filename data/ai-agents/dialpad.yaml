@@ -21,6 +21,7 @@ funding:
 pricing:
   as_listed_by_vendor: "custom"
   model: "per task or conversation"
+  source: "https://www.dialpad.com/pricing/"
 sources:
   - "https://www.dialpad.com/blog/dialpad-raises-170m/"
   - "https://techcrunch.com/?p=2056270"

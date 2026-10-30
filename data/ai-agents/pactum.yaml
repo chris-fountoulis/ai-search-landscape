@@ -23,6 +23,7 @@ funding:
 pricing:
   as_listed_by_vendor: "custom"
   model: "custom"
+  source: "https://pactum.com/pricing"
 sources:
   - "https://pactum.com/news-pactum-secures-54-million-in-series-c-funding-to-scale-agentic-ai-in-procurement/"
   - "https://investinestonia.com/estonian-ai-startup-pactum-raises-54m/"

@@ -21,6 +21,7 @@ funding:
 pricing:
   as_listed_by_vendor: "usage-based, no monthly plan (as listed)"
   model: "usage or credits"
+  source: "https://browser-use.com/pricing"
 sources:
   - "https://techcrunch.com/2025/03/23/browser-use-the-tool-making-it-easier-for-ai-agents-to-navigate-websites-raises-17m/"
   - "https://browser-use.com/pricing"

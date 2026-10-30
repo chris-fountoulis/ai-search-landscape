@@ -20,6 +20,7 @@ funding:
 pricing:
   as_listed_by_vendor: "custom"
   model: "custom"
+  source: "https://www.alpha-sense.com/pricing/"
 sources:
   - "https://fintech.global/2026/06/04/alphasense-raises-350m-at-7-5bn-valuation/"
   - "https://www.alpha-sense.com/newsroom/"

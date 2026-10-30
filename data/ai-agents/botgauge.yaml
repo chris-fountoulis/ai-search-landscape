@@ -20,6 +20,7 @@ funding:
 pricing:
   as_listed_by_vendor: "custom"
   model: "per task or conversation"
+  source: "https://www.botgauge.com/pricing"
 sources:
   - "https://pulse2.com/botgauge-ai-raises-2-million-seed-funding-for-autonomous-qa-platform/"
   - "https://www.botgauge.com/legal/terms"

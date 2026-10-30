@@ -23,6 +23,7 @@ funding:
 pricing:
   as_listed_by_vendor: "custom"
   model: "custom"
+  source: "https://rasa.com/pricing/"
 sources:
   - "https://techcrunch.com/2024/02/14/rasa-an-enterprise-focused-dev-platform-for-conversational-genai-raises-30m/"
   - "https://rasa.com/imprint/"

@@ -23,6 +23,7 @@ funding:
 pricing:
   as_listed_by_vendor: "usage-based, no monthly list price (as listed); Enterprise custom"
   model: "usage or credits"
+  source: "https://contextual.ai/pricing/"
 sources:
   - "https://www.pymnts.com/artificial-intelligence-2/2024/contextual-ai-raises-80-million-to-scale-enterprise-ai-platform/"
   - "https://techcrunch.com/2023/06/07/contextual-ai-launches-from-stealth-to-build-enterprise-focused-language-models/"

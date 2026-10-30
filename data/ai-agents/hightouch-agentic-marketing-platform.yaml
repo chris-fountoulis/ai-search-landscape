@@ -21,6 +21,7 @@ funding:
 pricing:
   as_listed_by_vendor: "custom"
   model: "usage or credits"
+  source: "https://hightouch.com/pricing"
 sources:
   - "https://hightouch.com/blog/hightouch-funding-series-d"
   - "https://techcrunch.com/2021/11/17/customer-data-hightouch/"

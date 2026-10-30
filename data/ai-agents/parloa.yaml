@@ -20,6 +20,7 @@ funding:
 pricing:
   as_listed_by_vendor: "custom"
   model: "usage or credits"
+  source: "https://www.parloa.com/platform/pricing/"
 sources:
   - "https://siliconangle.com/2026/01/15/parloa-raises-350m-make-enterprise-customer-experience-fully-conversational/"
   - "https://finance.yahoo.com/news/german-ai-startup-parloa-triples-135110599.html"

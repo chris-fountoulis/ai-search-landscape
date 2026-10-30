@@ -21,6 +21,7 @@ funding:
 pricing:
   as_listed_by_vendor: "custom"
   model: "per agent"
+  source: "https://www.lleverage.ai/pricing"
 sources:
   - "https://www.lleverage.ai/company/blog/lleverage-raises-eu3-million-from-idea-to-automated-business-process-in-minutes-using-ai"
   - "https://siliconcanals.com/lleverage-raises-2m/"

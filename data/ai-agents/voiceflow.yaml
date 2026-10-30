@@ -23,6 +23,7 @@ funding:
 pricing:
   as_listed_by_vendor: "custom"
   model: "usage or credits"
+  source: "https://www.voiceflow.com/pricing"
 sources:
   - "https://techcrunch.com/2023/08/15/voiceflow-a-platform-for-building-conversational-ai-experiences-raises-15m/"
   - "https://www.voiceflow.com/legal/terms"

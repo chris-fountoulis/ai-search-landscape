@@ -24,6 +24,7 @@ funding:
 pricing:
   as_listed_by_vendor: "custom"
   model: "custom"
+  source: "https://www.getguru.com/pricing"
 sources:
   - "https://www.getguru.com/press"
   - "https://globalventuring.com/slack-helps-guide-30m-to-guru"
