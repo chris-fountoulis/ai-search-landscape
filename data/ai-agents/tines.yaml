@@ -1,0 +1,31 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "Tines"
+slug: "tines"
+dataset: "ai-agents"
+company: "Tines"
+website: "tines.com"
+segment: "builders"
+hq:
+  city: "Dublin"
+  country: "IE"
+founded:
+  year: 2018
+  source: "https://techcrunch.com/2024/04/24/tines-taps-50m-to-expand-its-workflow-automation-beyond-security-teams/"
+status: "active"
+funding:
+  total_usd: 272000000
+  latest_round:
+    name: "Series C"
+    date: "2025-02"
+    amount_usd: 125000000
+  source: "https://techcrunch.com/2024/04/24/tines-taps-50m-to-expand-its-workflow-automation-beyond-security-teams/"
+pricing:
+  as_listed_by_vendor: "custom"
+  model: "custom"
+sources:
+  - "https://siliconangle.com/2026/07/28/tines-launches-3b-help-enterprises-govern-ai-built-apps-agents/"
+  - "https://www.tines.com/pricing"
+  - "https://www.tines.com/terms/"
+  - "https://techcrunch.com/2024/04/24/tines-taps-50m-to-expand-its-workflow-automation-beyond-security-teams/"
+last_verified: "2026-10-29"

@@ -1,0 +1,24 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "monday.com (AI agents)"
+slug: "monday-com-ai-agents"
+dataset: "ai-agents"
+company: "monday.com"
+product: "monday agents"
+website: "monday.com"
+segment: "builders"
+hq:
+  city: "Tel Aviv"
+  country: "IL"
+status: "active"
+public_company: true
+pricing:
+  as_listed_by_vendor: "$12 to $24 (as listed)"
+  model: "per seat"
+  source: "https://monday.com/pricing"
+sources:
+  - "https://monday.com/pricing"
+  - "https://monday.com/w/agents"
+  - "https://siliconangle.com/2026/05/06/monday-com-relaunches-ai-work-platform-native-agents/"
+  - "https://monday.com/l/legal/tos/"
+last_verified: "2026-10-29"

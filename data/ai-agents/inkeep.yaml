@@ -1,0 +1,27 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "Inkeep"
+slug: "inkeep"
+dataset: "ai-agents"
+company: "Inkeep"
+website: "inkeep.com"
+segment: "builders"
+hq:
+  city: "San Francisco"
+  country: "US"
+status: "active"
+funding:
+  total_usd: 13000000
+  latest_round:
+    name: "Seed"
+    date: "2025-09"
+    amount_usd: 13000000
+  source: "https://inkeep.com/blog/inkeep-funding-announcement"
+pricing:
+  as_listed_by_vendor: "custom"
+  model: "custom"
+sources:
+  - "https://inkeep.com/blog/inkeep-funding-announcement"
+  - "https://inkeep.com/policies/terms-of-service"
+  - "https://github.com/inkeep/agents"
+last_verified: "2026-10-29"

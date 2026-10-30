@@ -1,0 +1,23 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "IBM (watsonx Orchestrate)"
+slug: "ibm-watsonx-orchestrate"
+dataset: "ai-agents"
+company: "IBM"
+product: "IBM watsonx Orchestrate"
+website: "ibm.com"
+segment: "builders"
+hq:
+  city: "Armonk"
+  country: "US"
+status: "active"
+public_company: true
+pricing:
+  as_listed_by_vendor: "$530 to $6,360 (as listed)"
+  model: "flat"
+  source: "https://www.ibm.com/products/watsonx-orchestrate/pricing"
+sources:
+  - "https://www.ibm.com/products/watsonx-orchestrate/pricing"
+  - "https://www.ibm.com/contact/us/en"
+  - "https://siliconangle.com/2026/02/24/ibm-taps-deepgram-add-real-time-speech-watsonx-orchestrate/"
+last_verified: "2026-10-29"

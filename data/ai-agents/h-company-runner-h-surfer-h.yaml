@@ -1,0 +1,31 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "H Company (Runner H / Surfer H)"
+slug: "h-company-runner-h-surfer-h"
+dataset: "ai-agents"
+company: "H Company"
+product: "H Agents API; HoloTab; Holo models"
+website: "hcompany.ai"
+segment: "builders"
+hq:
+  city: "Paris"
+  country: "FR"
+founded:
+  year: 2024
+  source: "https://techcrunch.com/2024/05/21/french-ai-startup-h-raises-220-million-seed-round/"
+status: "active"
+funding:
+  latest_round:
+    name: "Seed"
+    date: "2024-05"
+  source: "https://techcrunch.com/2024/05/21/french-ai-startup-h-raises-220-million-seed-round/"
+pricing:
+  as_listed_by_vendor: "$20 to $200 (as listed)"
+  model: "flat"
+  source: "https://hcompany.ai/pricing"
+sources:
+  - "https://techcrunch.com/2024/05/21/french-ai-startup-h-raises-220-million-seed-round/"
+  - "https://hcompany.ai/pricing"
+  - "https://hcompany.ai/cgv"
+  - "https://hcompany.ai/press"
+last_verified: "2026-10-29"

@@ -1,0 +1,35 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "Vybe"
+slug: "vybe"
+dataset: "ai-agents"
+company: "Vybe"
+product: "Vybe"
+website: "vybe.build"
+segment: "builders"
+hq:
+  city: "San Francisco"
+  country: "US"
+founded:
+  year: 2025
+  source: "https://www.vybe.build/about"
+status: "active"
+funding:
+  total_usd: 10000000
+  latest_round:
+    name: "Seed"
+    date: "2025-12"
+    amount_usd: 10000000
+  source: "https://www.vybe.build/blog/vybe-raises-10m-seed-funding"
+pricing:
+  as_listed_by_vendor: "$20 to $100 (as listed)"
+  model: "usage or credits"
+  source: "https://www.vybe.build/pricing"
+sources:
+  - "https://www.vybe.build/blog/vybe-raises-10m-seed-funding"
+  - "https://www.vybe.build/pricing"
+  - "https://www.vybe.build/terms-of-service"
+  - "https://www.vybe.build/about"
+  - "https://www.ycombinator.com/companies/vybe"
+  - "https://techcrunch.com/2025/06/13/11-startups-from-yc-demo-day-that-investors-are-talking-about/"
+last_verified: "2026-10-29"

@@ -1,0 +1,28 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "Boomi (Agentstudio)"
+slug: "boomi-agentstudio"
+dataset: "ai-agents"
+company: "Boomi"
+product: "Boomi Agentstudio"
+website: "boomi.com"
+segment: "builders"
+hq:
+  city: "Conshohocken"
+  country: "US"
+founded:
+  year: 2000
+  source: "https://boomi.com/company/contact-us/"
+status: "acquired"
+acquisition:
+  acquirer: "Francisco Partners and TPG"
+  source: "https://techcrunch.com/2021/05/03/dell-dumps-another-big-asset-moving-boomi-to-francisco-partners-and-tpg-for-4b/"
+pricing:
+  as_listed_by_vendor: "custom"
+  model: "usage or credits"
+sources:
+  - "https://techcrunch.com/2021/05/03/dell-dumps-another-big-asset-moving-boomi-to-francisco-partners-and-tpg-for-4b/"
+  - "https://boomi.com/pricing/"
+  - "https://boomi.com/company/contact-us/"
+  - "https://boomi.com/platform/agentstudio/"
+last_verified: "2026-10-29"

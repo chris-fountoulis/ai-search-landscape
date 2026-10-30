@@ -1,0 +1,22 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "Palantir (AIP)"
+slug: "palantir-aip"
+dataset: "ai-agents"
+company: "Palantir"
+product: "Palantir AIP (AIP Agent Studio)"
+website: "palantir.com"
+segment: "builders"
+hq:
+  city: "Aventura"
+  country: "US"
+status: "active"
+public_company: true
+pricing:
+  as_listed_by_vendor: "custom"
+  model: "custom"
+sources:
+  - "https://coloradosun.com/2026/02/17/palantir-leaving-denver-moving-miami/"
+  - "https://www.palantir.com/platforms/aip/"
+  - "https://techcrunch.com/2025/10/23/palantir-enters-200m-partnership-with-telco-lumen-for-enterprise-ai-services/"
+last_verified: "2026-10-29"

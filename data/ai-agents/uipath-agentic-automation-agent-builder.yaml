@@ -1,0 +1,24 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "UiPath (Agentic Automation / Agent Builder)"
+slug: "uipath-agentic-automation-agent-builder"
+dataset: "ai-agents"
+company: "UiPath"
+product: "Agentic Automation (Maestro, agents)"
+website: "uipath.com"
+segment: "builders"
+hq:
+  city: "New York"
+  country: "US"
+status: "active"
+public_company: true
+pricing:
+  as_listed_by_vendor: "from $25 (as listed)"
+  model: "flat"
+  source: "https://www.uipath.com/pricing"
+sources:
+  - "https://www.uipath.com/pricing"
+  - "https://www.uipath.com/platform/agentic-automation"
+  - "https://www.uipath.com/legal/trust-and-security/legal-terms"
+  - "https://techcrunch.com/2025/03/13/uipath-is-looking-for-a-path-to-growth-in-agentic-ai-with-its-peak-ai-acquisition/"
+last_verified: "2026-10-29"

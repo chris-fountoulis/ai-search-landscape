@@ -1,0 +1,28 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "Lindy"
+slug: "lindy"
+dataset: "ai-agents"
+company: "Lindy"
+product: "Lindy"
+website: "lindy.ai"
+segment: "builders"
+hq:
+  city: "San Francisco"
+  country: "US"
+status: "active"
+funding:
+  latest_round:
+    name: "Series B"
+  source: "https://techcrunch.com/2024/08/21/this-founder-had-to-train-his-ai-to-not-rickroll-people/"
+pricing:
+  as_listed_by_vendor: "$29.99 to $10,000 (as listed)"
+  model: "usage or credits"
+  source: "https://www.lindy.ai/pricing"
+sources:
+  - "https://www.lindy.ai/pricing"
+  - "https://www.lindy.ai/terms"
+  - "https://www.lindy.ai/careers"
+  - "https://www.lindy.ai/security"
+  - "https://techcrunch.com/2024/08/21/this-founder-had-to-train-his-ai-to-not-rickroll-people/"
+last_verified: "2026-10-29"

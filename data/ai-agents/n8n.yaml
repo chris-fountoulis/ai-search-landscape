@@ -1,0 +1,31 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "n8n"
+slug: "n8n"
+dataset: "ai-agents"
+company: "n8n"
+website: "n8n.io"
+segment: "builders"
+hq:
+  city: "Berlin"
+  country: "DE"
+founded:
+  year: 2019
+  source: "https://n8n.io/imprint/"
+status: "active"
+funding:
+  total_usd: 240000000
+  latest_round:
+    name: "Strategic (SAP)"
+    date: "2026-05"
+  source: "https://techcrunch.com/2025/03/24/fair-code-pioneer-n8n-raises-60m-for-ai-powered-workflow-automation/"
+pricing:
+  as_listed_by_vendor: "EUR 20 to EUR 667 (as listed)"
+  model: "usage or credits"
+  source: "https://n8n.io/pricing/"
+sources:
+  - "https://n8n.io/press/"
+  - "https://n8n.io/imprint/"
+  - "https://n8n.io/pricing/"
+  - "https://techcrunch.com/2025/03/24/fair-code-pioneer-n8n-raises-60m-for-ai-powered-workflow-automation/"
+last_verified: "2026-10-29"

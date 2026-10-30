@@ -1,0 +1,32 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "Orq.ai"
+slug: "orq-ai"
+dataset: "ai-agents"
+company: "Orq.ai"
+website: "orq.ai"
+segment: "builders"
+hq:
+  city: "Amsterdam"
+  country: "NL"
+founded:
+  year: 2022
+  source: "https://tech.eu/2025/12/03/orqai-lands-eur5m-seed-to-close-the-ai-production-gap-for-enterprises/"
+status: "active"
+funding:
+  total_usd: 8127090
+  latest_round:
+    name: "Seed"
+    date: "2025-12"
+    amount_usd: 5566500
+  source: "https://tech.eu/2025/12/03/orqai-lands-eur5m-seed-to-close-the-ai-production-gap-for-enterprises/"
+pricing:
+  as_listed_by_vendor: "EUR 35 to EUR 300 (as listed)"
+  model: "usage or credits"
+  source: "https://orq.ai/pricing"
+sources:
+  - "https://tech.eu/2025/12/03/orqai-lands-eur5m-seed-to-close-the-ai-production-gap-for-enterprises/"
+  - "https://orq.ai/pricing"
+  - "https://orq.ai/terms-of-service"
+  - "https://tech.eu/2024/03/12/orqai-europes-first-all-in-one-generative-ai-platform-for-enterprises/"
+last_verified: "2026-10-29"

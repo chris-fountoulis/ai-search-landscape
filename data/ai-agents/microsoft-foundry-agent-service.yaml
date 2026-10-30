@@ -1,0 +1,22 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "Microsoft (Foundry Agent Service)"
+slug: "microsoft-foundry-agent-service"
+dataset: "ai-agents"
+company: "Microsoft"
+product: "Foundry Agent Service (formerly Azure AI Agent Service)"
+website: "microsoft.com"
+segment: "builders"
+hq:
+  city: "Redmond"
+  country: "US"
+status: "active"
+public_company: true
+pricing:
+  as_listed_by_vendor: "custom"
+  model: "usage or credits"
+sources:
+  - "https://azure.microsoft.com/en-us/products/ai-foundry/agent-service"
+  - "https://techcrunch.com/2024/11/19/microsoft-brings-together-its-enterprise-ai-offerings-in-the-azure-ai-foundry/"
+  - "https://www.microsoft.com/en-us/servicesagreement"
+last_verified: "2026-10-29"

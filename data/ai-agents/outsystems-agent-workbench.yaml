@@ -1,0 +1,33 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "OutSystems (Agent Workbench)"
+slug: "outsystems-agent-workbench"
+dataset: "ai-agents"
+company: "OutSystems"
+product: "Agent Workbench"
+website: "outsystems.com"
+segment: "builders"
+hq:
+  city: "Boston"
+  country: "US"
+founded:
+  year: 2001
+  source: "https://www.outsystems.com/company/"
+status: "active"
+funding:
+  total_usd: 803000000
+  latest_round:
+    name: "Unnamed"
+    date: "2021-02"
+    amount_usd: 150000000
+  source: "https://siliconangle.com/2025/09/30/outsystems-brings-agent-workbench-general-availability-intelligent-agent-development/"
+pricing:
+  as_listed_by_vendor: "custom"
+  model: "custom"
+sources:
+  - "https://siliconangle.com/2025/09/30/outsystems-brings-agent-workbench-general-availability-intelligent-agent-development/"
+  - "https://www.outsystems.com/company/"
+  - "https://www.outsystems.com/pricing-and-editions/"
+  - "https://www.outsystems.com/legal/"
+  - "https://www.outsystems.com/platform/agentic-ai-workbench"
+last_verified: "2026-10-29"

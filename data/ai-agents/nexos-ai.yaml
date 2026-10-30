@@ -1,0 +1,25 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "nexos.ai"
+slug: "nexos-ai"
+dataset: "ai-agents"
+company: "nexos.ai"
+product: "nexos.ai"
+website: "nexos.ai"
+segment: "builders"
+hq:
+  city: "Vilnius"
+  country: "LT"
+status: "active"
+funding:
+  total_usd: 41399000
+  latest_round:
+    name: "Series A"
+    date: "2025-10"
+    amount_usd: 33399000
+  source: "https://techcrunch.com/2025/10/20/european-ai-rising-star-nexos-ai-raises-30m-to-unlock-enterprise-ai-adoption/"
+pricing:
+  as_listed_by_vendor: "custom"
+sources:
+  - "https://techcrunch.com/2025/10/20/european-ai-rising-star-nexos-ai-raises-30m-to-unlock-enterprise-ai-adoption/"
+last_verified: "2026-10-29"

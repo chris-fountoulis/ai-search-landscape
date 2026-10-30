@@ -1,0 +1,30 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "Ema"
+slug: "ema"
+dataset: "ai-agents"
+company: "Ema"
+website: "ema.ai"
+segment: "builders"
+hq:
+  city: "Mountain View"
+  country: "US"
+founded:
+  year: 2023
+  source: "https://www.ema.ai/about-us"
+status: "active"
+funding:
+  total_usd: 140000000
+  latest_round:
+    name: "Series B"
+    date: "2026-09"
+    amount_usd: 77000000
+  source: "https://techcrunch.com/2026/09/23/ema-raises-77m-as-ai-starts-eating-into-enterprise-software-and-services/"
+pricing:
+  as_listed_by_vendor: "custom"
+  model: "custom"
+sources:
+  - "https://techcrunch.com/2026/09/23/ema-raises-77m-as-ai-starts-eating-into-enterprise-software-and-services/"
+  - "https://www.ema.ai/hire-ema"
+  - "https://www.ema.ai/about-us"
+last_verified: "2026-10-29"

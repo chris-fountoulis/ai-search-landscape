@@ -1,0 +1,30 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "Kore.ai (Agent Platform)"
+slug: "kore-ai-agent-platform"
+dataset: "ai-agents"
+company: "Kore.ai"
+product: "Agent Platform"
+website: "kore.ai"
+segment: "builders"
+hq:
+  city: "Orlando"
+  country: "US"
+founded:
+  year: 2014
+  source: "https://www.kore.ai/about"
+status: "active"
+funding:
+  latest_round:
+    name: "Strategic growth investment"
+    date: "2026-01-27"
+  source: "https://techcrunch.com/2024/01/30/kore-ai-a-startup-building-conversational-ai-for-enterprises-raises-150m/"
+pricing:
+  as_listed_by_vendor: "custom"
+  model: "custom"
+sources:
+  - "https://techcrunch.com/2024/01/30/kore-ai-a-startup-building-conversational-ai-for-enterprises-raises-150m/"
+  - "https://www.kore.ai/about"
+  - "https://www.kore.ai/terms-of-service"
+  - "https://siliconangle.com/2026/10/07/kore-ai-launches-autoloop-to-keep-tuning-enterprise-ai-agents-after-they-go-live/"
+last_verified: "2026-10-29"

@@ -1,0 +1,35 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "Dify (LangGenius)"
+slug: "dify-langgenius"
+dataset: "ai-agents"
+company: "Dify"
+product: "Dify"
+website: "dify.ai"
+segment: "builders"
+hq:
+  city: "Menlo Park"
+  country: "US"
+founded:
+  year: 2023
+  source: "https://dify.ai/about-us"
+status: "active"
+funding:
+  total_usd: 30000000
+  latest_round:
+    name: "Series Pre-A"
+    date: "2026-03"
+    amount_usd: 30000000
+  source: "https://dify.ai/blog/dify-raises-30m-tomorrow-s-organizations-will-be-built-by-people-and-agents"
+pricing:
+  as_listed_by_vendor: "$49.17 to $132 (as listed)"
+  model: "flat"
+  source: "https://dify.ai/pricing"
+sources:
+  - "https://dify.ai/blog/dify-raises-30m-tomorrow-s-organizations-will-be-built-by-people-and-agents"
+  - "https://dify.ai/about-us"
+  - "https://dify.ai/blog"
+  - "https://dify.ai/pricing"
+  - "https://dify.ai/legal/terms-of-service"
+  - "https://news.mynavi.jp/techplus/article/20260415-4342190/"
+last_verified: "2026-10-29"

@@ -1,0 +1,33 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "Tray.ai (Merlin Agent Builder)"
+slug: "tray-ai-merlin-agent-builder"
+dataset: "ai-agents"
+company: "Tray.ai"
+product: "Merlin Agent Builder"
+website: "tray.ai"
+segment: "builders"
+hq:
+  city: "San Francisco"
+  country: "US"
+founded:
+  year: 2012
+  source: "https://tray.ai/about"
+status: "active"
+funding:
+  latest_round:
+    name: "Series C"
+    date: "2019-11"
+    amount_usd: 50000000
+  source: "https://techcrunch.com/2019/11/26/tray-io-brings-in-50m-more-at-a-600m-valuation-for-its-workflow-automation-tools"
+pricing:
+  as_listed_by_vendor: "from $50 (as listed)"
+  model: "usage or credits"
+  source: "https://tray.ai/pricing"
+sources:
+  - "https://techcrunch.com/2019/11/26/tray-io-brings-in-50m-more-at-a-600m-valuation-for-its-workflow-automation-tools"
+  - "https://tray.ai/pricing"
+  - "https://tray.ai/terms"
+  - "https://tray.ai/about"
+  - "https://siliconangle.com/2024/12/17/tray-ai-unleashes-low-code-platform-building-ai-agents/"
+last_verified: "2026-10-29"

@@ -1,0 +1,33 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "Retool (Retool Agents)"
+slug: "retool-retool-agents"
+dataset: "ai-agents"
+company: "Retool"
+product: "Retool Agents"
+website: "retool.com"
+segment: "builders"
+hq:
+  city: "San Francisco"
+  country: "US"
+founded:
+  year: 2017
+  source: "https://retool.com/blog/series-c2"
+status: "active"
+funding:
+  latest_round:
+    name: "Series C2"
+    date: "2022-07"
+    amount_usd: 45000000
+  source: "https://retool.com/blog/series-c2"
+pricing:
+  as_listed_by_vendor: "EUR 11 to EUR 60 (as listed)"
+  model: "per seat"
+  source: "https://retool.com/pricing"
+sources:
+  - "https://retool.com/blog/series-c2"
+  - "https://techcrunch.com/2022/07/28/retool-raises-45m-at-a-3-2b-valuation-to-make-building-custom-software-as-easy-as-buying-off-the-shelf"
+  - "https://retool.com/blog/series-c"
+  - "https://retool.com/pricing"
+  - "https://retool.com/build-enterprise-apps/agents"
+last_verified: "2026-10-29"

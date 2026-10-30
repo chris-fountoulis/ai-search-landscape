@@ -1,0 +1,36 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "Wonderful"
+slug: "wonderful"
+dataset: "ai-agents"
+company: "Wonderful"
+product: "Wonderful AI OS"
+website: "wonderful.ai"
+segment: "builders"
+hq:
+  city: "Amsterdam"
+  country: "NL"
+founded:
+  year: 2025
+  source: "https://wonderful.ai/legal/websiteterms"
+status: "active"
+funding:
+  total_usd: 836000000
+  latest_round:
+    name: "Series C"
+    date: "2026-09"
+    amount_usd: 550000000
+    valuation_usd: 5000000000
+  source: "https://siliconangle.com/2026/09/02/wonderful-raises-550m-at-5b-valuation-for-its-ai-automation-platform/"
+pricing:
+  as_listed_by_vendor: "custom"
+  model: "custom"
+sources:
+  - "https://siliconangle.com/2026/09/02/wonderful-raises-550m-at-5b-valuation-for-its-ai-automation-platform/"
+  - "https://wonderful.ai/blog-articles/wonderful-raises-550m-series-c"
+  - "https://techcrunch.com/2026/03/12/wonderful-raises-150m-series-b-at-2b-valuation/"
+  - "https://www.prnewswire.com/news-releases/wonderful-raises-150m-series-b-to-accelerate-enterprise-ai-adoption-in-30-markets-302712238.html"
+  - "https://wonderful.ai/legal/websiteterms"
+  - "https://wonderful.ai/contact"
+  - "https://wonderful.ai/deployment"
+last_verified: "2026-10-29"

@@ -1,0 +1,33 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "Taskade (Taskade AI Agents)"
+slug: "taskade-taskade-ai-agents"
+dataset: "ai-agents"
+company: "Taskade"
+product: "Taskade Genesis (AI agents, apps, automations)"
+website: "taskade.com"
+segment: "builders"
+hq:
+  city: "San Francisco"
+  country: "US"
+founded:
+  year: 2017
+  source: "https://www.taskade.com/about"
+status: "active"
+funding:
+  total_usd: 5000000
+  latest_round:
+    name: "Seed"
+    date: "2019-10"
+    amount_usd: 5000000
+  source: "https://techcrunch.com/2019/10/24/yc-grad-taskade-raises-5m-to-take-on-notion-with-a-more-collaborative-productivity-platform/"
+pricing:
+  as_listed_by_vendor: "$6 to $100 (as listed)"
+  model: "flat"
+  source: "https://www.taskade.com/pricing"
+sources:
+  - "https://www.taskade.com/pricing"
+  - "https://www.taskade.com/terms"
+  - "https://www.taskade.com/about"
+  - "https://techcrunch.com/2019/10/24/yc-grad-taskade-raises-5m-to-take-on-notion-with-a-more-collaborative-productivity-platform/"
+last_verified: "2026-10-29"

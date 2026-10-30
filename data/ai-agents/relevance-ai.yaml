@@ -1,0 +1,27 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "Relevance AI"
+slug: "relevance-ai"
+dataset: "ai-agents"
+company: "Relevance AI"
+website: "relevanceai.com"
+segment: "builders"
+hq:
+  city: "Sydney"
+  country: "AU"
+status: "active"
+funding:
+  total_usd: 37000000
+  latest_round:
+    name: "Series B"
+    date: "2025-05"
+    amount_usd: 24000000
+  source: "https://techcrunch.com/2025/05/06/relevance-ai-raises-24m-series-b-to-help-anyone-build-teams-of-ai-agents/"
+pricing:
+  as_listed_by_vendor: "custom"
+  model: "custom"
+sources:
+  - "https://techcrunch.com/2025/05/06/relevance-ai-raises-24m-series-b-to-help-anyone-build-teams-of-ai-agents/"
+  - "https://relevanceai.com/pricing"
+  - "https://relevanceai.com/"
+last_verified: "2026-10-29"

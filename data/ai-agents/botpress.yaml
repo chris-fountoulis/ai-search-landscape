@@ -1,0 +1,32 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "Botpress"
+slug: "botpress"
+dataset: "ai-agents"
+company: "Botpress"
+website: "botpress.com"
+segment: "builders"
+hq:
+  city: "Montreal"
+  country: "CA"
+founded:
+  year: 2017
+  source: "https://botpress.com/legal/terms-of-service"
+status: "active"
+funding:
+  total_usd: 45000000
+  latest_round:
+    name: "Series B"
+    date: "2025-06"
+    amount_usd: 25000000
+  source: "https://techcrunch.com/2021/04/28/botpress-nabs-15m-series-a-to-help-developers-build-conversational-apps/"
+pricing:
+  as_listed_by_vendor: "$189 to $939 (as listed)"
+  model: "usage or credits"
+  source: "https://botpress.com/pricing"
+sources:
+  - "https://betakit.com/?p=389732"
+  - "https://techcrunch.com/2021/04/28/botpress-nabs-15m-series-a-to-help-developers-build-conversational-apps/"
+  - "https://botpress.com/pricing"
+  - "https://botpress.com/legal/terms-of-service"
+last_verified: "2026-10-29"

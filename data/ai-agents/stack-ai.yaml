@@ -1,0 +1,37 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "Stack AI"
+slug: "stack-ai"
+dataset: "ai-agents"
+company: "Stack AI"
+website: "stackai.com"
+segment: "builders"
+hq:
+  city: "San Francisco"
+  country: "US"
+founded:
+  year: 2023
+  source: "https://www.stack-ai.com/blog/stack-ai-raises-16m-series-a-to-create-ai-agents-for-every-job"
+status: "acquired"
+funding:
+  total_usd: 19000000
+  latest_round:
+    name: "Series A"
+    date: "2025-05"
+    amount_usd: 16000000
+  source: "https://www.stack-ai.com/blog/stack-ai-raises-16m-series-a-to-create-ai-agents-for-every-job"
+acquisition:
+  acquirer: "Asana"
+  date: "2026-05"
+  date_type: "closed"
+  source: "https://techcrunch.com/2026/05/28/asana-acquires-no-code-agent-builder-stack-ai/"
+pricing:
+  as_listed_by_vendor: "custom"
+  model: "custom"
+sources:
+  - "https://techcrunch.com/2026/05/28/asana-acquires-no-code-agent-builder-stack-ai/"
+  - "https://siliconangle.com/2026/05/28/asana-acquires-stackai-run-ai-agent-workflows-across-enterprise-systems/"
+  - "https://www.stack-ai.com/blog/stack-ai-raises-16m-series-a-to-create-ai-agents-for-every-job"
+  - "https://www.stackai.com/pricing"
+  - "https://www.ycombinator.com/companies/stack-ai"
+last_verified: "2026-10-29"

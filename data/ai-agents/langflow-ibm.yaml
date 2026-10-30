@@ -1,0 +1,29 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "Langflow (IBM)"
+slug: "langflow-ibm"
+dataset: "ai-agents"
+company: "Langflow"
+product: "Langflow"
+website: "langflow.org"
+segment: "builders"
+hq:
+  city: "Armonk"
+  country: "US"
+founded:
+  year: 2022
+  source: "https://techcrunch.com/2024/04/04/datastax-acquires-logspace-the-startup-behind-the-langflow-low-code-tool-for-building-rag-based-chatbots/"
+status: "acquired"
+acquisition:
+  acquirer: "DataStax (now IBM)"
+  source: "https://techcrunch.com/2024/04/04/datastax-acquires-logspace-the-startup-behind-the-langflow-low-code-tool-for-building-rag-based-chatbots/"
+pricing:
+  as_listed_by_vendor: "custom"
+  model: "custom"
+sources:
+  - "https://techcrunch.com/2024/04/04/datastax-acquires-logspace-the-startup-behind-the-langflow-low-code-tool-for-building-rag-based-chatbots/"
+  - "https://newsroom.ibm.com/2025-02-25-ibm-to-acquire-datastax,-deepening-watsonx-capabilities-and-addressing-generative-ai-data-needs-for-the-enterprise"
+  - "https://www.langflow.org/"
+  - "https://github.com/langflow-ai/langflow"
+  - "https://www.ibm.com/products/datastax"
+last_verified: "2026-10-29"

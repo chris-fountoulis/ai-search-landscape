@@ -1,0 +1,32 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "Kognitos"
+slug: "kognitos"
+dataset: "ai-agents"
+company: "Kognitos"
+website: "kognitos.com"
+segment: "builders"
+hq:
+  city: "Mountain View"
+  country: "US"
+founded:
+  year: 2020
+  source: "https://www.kognitos.com/about/"
+status: "active"
+funding:
+  total_usd: 55000000
+  latest_round:
+    name: "Series B"
+    date: "2025-06"
+    amount_usd: 25000000
+  source: "https://www.kognitos.com/news/kognitos-launches-neurosymbolic-ai-platform-for-automating-business-operations-backed-by-25m-series-b/"
+pricing:
+  as_listed_by_vendor: "custom"
+  model: "custom"
+sources:
+  - "https://www.kognitos.com/news/kognitos-launches-neurosymbolic-ai-platform-for-automating-business-operations-backed-by-25m-series-b/"
+  - "https://www.kognitos.com/about/"
+  - "https://techcrunch.com/2023/11/30/kognitos-raises-35m-to-help-businesses-automate-back-office-processes/"
+  - "https://siliconangle.com/2023/11/30/kognitos-reels-20m-natural-language-task-automation-platform/"
+  - "https://www.kognitos.com/terms-of-service/"
+last_verified: "2026-10-29"

@@ -1,0 +1,31 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "Lleverage"
+slug: "lleverage"
+dataset: "ai-agents"
+company: "Lleverage"
+product: "Lleverage autonomous back office agents"
+website: "lleverage.ai"
+segment: "builders"
+hq:
+  city: "Amsterdam"
+  country: "NL"
+status: "active"
+funding:
+  total_usd: 5566500
+  latest_round:
+    name: "Seed (Peak)"
+    date: "2025-05"
+    amount_usd: 3339900
+  source: "https://www.lleverage.ai/company/blog/lleverage-raises-eu3-million-from-idea-to-automated-business-process-in-minutes-using-ai"
+pricing:
+  as_listed_by_vendor: "custom"
+  model: "per agent"
+sources:
+  - "https://www.lleverage.ai/company/blog/lleverage-raises-eu3-million-from-idea-to-automated-business-process-in-minutes-using-ai"
+  - "https://siliconcanals.com/lleverage-raises-2m/"
+  - "https://legal.lleverage.ai/terms-of-service"
+  - "https://legal.lleverage.ai/privacy-policy"
+  - "https://www.lleverage.ai/pricing"
+  - "https://www.lleverage.ai/company/about"
+last_verified: "2026-10-29"

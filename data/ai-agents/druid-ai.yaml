@@ -1,0 +1,33 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "Druid AI"
+slug: "druid-ai"
+dataset: "ai-agents"
+company: "Druid AI"
+website: "druidai.com"
+segment: "builders"
+hq:
+  city: "Bucharest"
+  country: "RO"
+founded:
+  year: 2018
+  source: "https://www.druidai.com/about-us"
+status: "active"
+funding:
+  total_usd: 76000000
+  latest_round:
+    name: "Series C"
+    date: "2025-09"
+    amount_usd: 31000000
+  source: "https://tech.eu/2025/09/16/druid-ai-raises-31m-series-c-and-appoints-former-sumo-logic-ceo-to-lead-global-expansion/"
+pricing:
+  as_listed_by_vendor: "custom"
+  model: "custom"
+sources:
+  - "https://tech.eu/2025/09/16/druid-ai-raises-31m-series-c-and-appoints-former-sumo-logic-ceo-to-lead-global-expansion/"
+  - "https://techcrunch.com/2023/09/12/druid-a-conversational-ai-platform-for-enterprises-that-integrates-with-chatgpt-raises-24m/"
+  - "https://www.druidai.com/privacy-policy"
+  - "https://www.druidai.com/about-us"
+  - "https://www.druidai.com/pricing"
+  - "https://www.druidai.com/news"
+last_verified: "2026-10-29"

@@ -1,0 +1,28 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "Cassidy"
+slug: "cassidy"
+dataset: "ai-agents"
+company: "Cassidy"
+product: "Cassidy"
+website: "cassidyai.com"
+segment: "builders"
+hq:
+  city: "New York"
+  country: "US"
+status: "active"
+funding:
+  total_usd: 13700000
+  latest_round:
+    name: "Series A"
+    date: "2025-09"
+    amount_usd: 10000000
+  source: "https://alleywatch.com/2025/09/cassidy-context-powered-automation-enterprise-ai-workflows-business-automation-platform-justin-fineberg/"
+pricing:
+  as_listed_by_vendor: "custom"
+  model: "custom"
+sources:
+  - "https://alleywatch.com/2025/09/cassidy-context-powered-automation-enterprise-ai-workflows-business-automation-platform-justin-fineberg/"
+  - "https://www.cassidyai.com/pricing"
+  - "https://www.cassidyai.com/terms-of-service"
+last_verified: "2026-10-29"

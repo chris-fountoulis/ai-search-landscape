@@ -1,0 +1,24 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "Microsoft (Copilot Studio)"
+slug: "microsoft-copilot-studio"
+dataset: "ai-agents"
+company: "Microsoft"
+product: "Copilot Studio"
+website: "microsoft.com"
+segment: "builders"
+hq:
+  city: "Redmond"
+  country: "US"
+status: "active"
+public_company: true
+pricing:
+  as_listed_by_vendor: "from $200 (as listed)"
+  model: "usage or credits"
+  source: "https://www.microsoft.com/en-us/microsoft-365-copilot/pricing/copilot-studio"
+sources:
+  - "https://www.microsoft.com/en-us/microsoft-365-copilot/pricing/copilot-studio"
+  - "https://techcrunch.com/2023/11/16/microsoft-ignite-2023-copilot-ai-expansions-custom-chips-and-all-the-other-announcements/"
+  - "https://www.microsoft.com/en-us/legal/terms-of-use"
+  - "https://siliconangle.com/2026/06/08/silverfort-brings-runtime-identity-controls-microsoft-copilot-studio-agents/"
+last_verified: "2026-10-29"

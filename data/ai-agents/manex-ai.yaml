@@ -1,0 +1,25 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "Manex AI"
+slug: "manex-ai"
+dataset: "ai-agents"
+company: "Manex AI"
+product: "Kosmos"
+website: "manex.ai"
+segment: "builders"
+hq:
+  city: "Munich"
+  country: "DE"
+founded:
+  year: 2023
+  source: "https://manex.ai/imprint"
+status: "active"
+pricing:
+  as_listed_by_vendor: "custom"
+  model: "custom"
+sources:
+  - "https://manex.ai/imprint"
+  - "https://manex.ai/press"
+  - "https://www.handelsblatt.com/technik/ki/ki-warum-deutsche-konzerne-bei-diesem-unbekannten-start-up-anklopfen/100104732.html"
+  - "https://manex.ai"
+last_verified: "2026-10-29"

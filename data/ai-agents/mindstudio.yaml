@@ -1,0 +1,24 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "MindStudio"
+slug: "mindstudio"
+dataset: "ai-agents"
+company: "MindStudio"
+website: "mindstudio.ai"
+segment: "builders"
+hq:
+  city: "West Hollywood"
+  country: "US"
+status: "active"
+funding:
+  total_usd: 36000000
+  source: "https://www.mindstudio.ai/about"
+pricing:
+  as_listed_by_vendor: "$16 to $20 (as listed)"
+  model: "per seat"
+  source: "https://www.mindstudio.ai/pricing"
+sources:
+  - "https://www.mindstudio.ai/about"
+  - "https://www.mindstudio.ai/pricing"
+  - "https://www.mindstudio.ai/terms"
+last_verified: "2026-10-29"

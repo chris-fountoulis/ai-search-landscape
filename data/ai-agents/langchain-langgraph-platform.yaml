@@ -1,0 +1,30 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "LangChain (LangGraph Platform)"
+slug: "langchain-langgraph-platform"
+dataset: "ai-agents"
+company: "LangChain"
+product: "LangSmith Deployment (formerly LangGraph Platform)"
+website: "langchain.com"
+segment: "builders"
+hq:
+  city: "San Francisco"
+  country: "US"
+founded:
+  year: 2022
+  source: "https://www.langchain.com/about"
+status: "active"
+funding:
+  total_usd: 160000000
+  source: "https://www.langchain.com/blog/series-b"
+pricing:
+  as_listed_by_vendor: "from $39 (as listed)"
+  model: "per seat"
+  source: "https://www.langchain.com/pricing"
+sources:
+  - "https://www.langchain.com/blog/series-b"
+  - "https://techcrunch.com/2025/10/21/open-source-agentic-startup-langchain-hits-1-25b-valuation/"
+  - "https://www.langchain.com/about"
+  - "https://www.langchain.com/pricing"
+  - "https://www.langchain.com/terms-of-service"
+last_verified: "2026-10-29"

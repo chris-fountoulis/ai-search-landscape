@@ -1,0 +1,35 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "Langdock"
+slug: "langdock"
+dataset: "ai-agents"
+company: "Langdock"
+website: "langdock.com"
+segment: "builders"
+hq:
+  city: "Berlin"
+  country: "DE"
+founded:
+  year: 2023
+  source: "https://www.langdock.com/imprint"
+status: "active"
+funding:
+  total_usd: 3000000
+  latest_round:
+    name: "Seed"
+    date: "2024-04"
+    amount_usd: 3000000
+  source: "https://siliconangle.com/2024/04/19/langdock-reels-3m-llm-agnostic-enterprise-chatbot/"
+pricing:
+  as_listed_by_vendor: "EUR 25 to EUR 99 (as listed)"
+  model: "per seat"
+  source: "https://www.langdock.com/pricing"
+sources:
+  - "https://www.langdock.com/imprint"
+  - "https://www.langdock.com/about-us"
+  - "https://www.langdock.com/pricing"
+  - "https://www.langdock.com/press"
+  - "https://techcrunch.com/2024/04/19/langdock/"
+  - "https://siliconangle.com/2024/04/19/langdock-reels-3m-llm-agnostic-enterprise-chatbot/"
+  - "https://www.ycombinator.com/companies/langdock"
+last_verified: "2026-10-29"

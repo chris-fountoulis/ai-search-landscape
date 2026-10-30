@@ -1,0 +1,22 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "Salesforce (Agentforce)"
+slug: "salesforce-agentforce"
+dataset: "ai-agents"
+company: "Salesforce"
+product: "Agentforce"
+website: "salesforce.com"
+segment: "builders"
+hq:
+  city: "San Francisco"
+  country: "US"
+status: "active"
+public_company: true
+pricing:
+  as_listed_by_vendor: "$5 to $550 (as listed)"
+  model: "usage or credits"
+  source: "https://www.salesforce.com/agentforce/pricing/"
+sources:
+  - "https://www.salesforce.com/agentforce/pricing/"
+  - "https://techcrunch.com/2024/10/29/salesforce-ai-chatbot-agentforce-hits-general-availability/"
+last_verified: "2026-10-29"

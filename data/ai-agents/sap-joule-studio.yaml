@@ -1,0 +1,21 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "SAP (Joule Studio)"
+slug: "sap-joule-studio"
+dataset: "ai-agents"
+company: "SAP"
+product: "Joule Studio"
+website: "sap.com"
+segment: "builders"
+hq:
+  city: "Walldorf"
+  country: "DE"
+status: "active"
+public_company: true
+pricing:
+  as_listed_by_vendor: "custom"
+  model: "custom"
+sources:
+  - "https://www.sap.com/products/artificial-intelligence/joule-studio.html"
+  - "https://siliconangle.com/2026/10/27/sap-advances-its-autonomous-enterprise-push-with-smarter-governed-joule-agents/"
+last_verified: "2026-10-29"
