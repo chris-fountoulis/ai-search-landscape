@@ -1,0 +1,28 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "Peec AI"
+slug: "peec-ai"
+dataset: "ai-search"
+company: "Peec AI"
+website: "peec.ai"
+segment: "geo-tracking"
+hq:
+  city: "Berlin"
+  country: "DE"
+founded:
+  year: 2025
+  source: "https://techcrunch.com/2026/05/23/peec-one-of-berlins-rising-startups-more-than-doubled-annualized-revenue-in-months-to-10m-sources-say/"
+status: "active"
+funding:
+  total_usd: 29000000
+  latest_round:
+    name: "Series A"
+    date: "2025-11"
+    amount_usd: 21000000
+  source: "https://techcrunch.com/2026/05/23/peec-one-of-berlins-rising-startups-more-than-doubled-annualized-revenue-in-months-to-10m-sources-say/"
+sources:
+  - "https://techcrunch.com/2026/05/23/peec-one-of-berlins-rising-startups-more-than-doubled-annualized-revenue-in-months-to-10m-sources-say/"
+  - "https://www.ypog.law/en/press/ypog-advises-antler-on-peec-ais-usd-21-million-series-a-funding-round"
+  - "https://everything-pr.com/berlins-peec-ai-rockets-to-4m-arr-in-ten-months-raises-21m-series-a-to-open-new-york-office"
+  - "https://sifted.eu/articles/peec-ai-fundraise-new-valuation"
+last_verified: "2026-10-26"

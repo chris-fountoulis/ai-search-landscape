@@ -1,0 +1,22 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "Am I On AI"
+slug: "am-i-on-ai"
+dataset: "ai-search"
+company: "Am I On AI"
+website: "amionai.com"
+segment: "geo-tracking"
+hq:
+  city: "New York"
+  country: "US"
+founded:
+  year: 2025
+  source: "https://flippa.com/13527476"
+status: "active"
+pricing:
+  as_listed_by_vendor: "$100 to $2,500"
+  source: "https://www.amionai.com/pricing"
+sources:
+  - "https://flippa.com/13527476"
+  - "https://www.amionai.com/pricing"
+last_verified: "2026-10-26"

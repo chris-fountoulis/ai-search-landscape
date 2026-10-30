@@ -1,0 +1,37 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "Scrunch (Sitecore)"
+slug: "scrunch-sitecore"
+dataset: "ai-search"
+company: "Scrunch"
+website: "scrunch.com"
+segment: "geo-tracking"
+hq:
+  country: "US"
+founded:
+  year: 2023
+  source: "https://scrunch.com/about"
+status: "acquired"
+funding:
+  total_usd: 26000000
+  latest_round:
+    name: "Series A"
+    date: "2025-07"
+    amount_usd: 15000000
+  source: "https://www.adweek.com/media/sitecore-snaps-up-geo-startup-scrunch-for-225m/"
+acquisition:
+  acquirer: "Sitecore"
+  date: "2026-06"
+  date_type: "announced"
+  price_usd: 225000000
+  price_note: "about  (reported)"
+  source: "https://www.adweek.com/media/sitecore-snaps-up-geo-startup-scrunch-for-225m/"
+pricing:
+  as_listed_by_vendor: "$300 to $500 month-to-month ($250 to $417 billed annually); Enterprise custom"
+  source: "https://scrunch.com/pricing"
+sources:
+  - "https://www.adweek.com/media/sitecore-snaps-up-geo-startup-scrunch-for-225m/"
+  - "https://scrunch.com/about"
+  - "https://www.bandt.com.au/sitecore-acquires-scrunch-in-potential-225-million-deal/"
+  - "https://scrunch.com/pricing"
+last_verified: "2026-10-26"

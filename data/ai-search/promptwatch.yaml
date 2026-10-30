@@ -1,0 +1,27 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "Promptwatch"
+slug: "promptwatch"
+dataset: "ai-search"
+company: "Promptwatch"
+website: "promptwatch.com"
+segment: "geo-tracking"
+hq:
+  city: "Amsterdam"
+  country: "NL"
+founded:
+  year: 2025
+  source: "https://tech.eu/2026/07/14/promptwatch-raises-eur6m-to-expand-its-end-to-end-ai-search-optimisation-platform/"
+status: "active"
+funding:
+  total_usd: 6480000
+  latest_round:
+    name: "Seed"
+  source: "https://tech.eu/2026/07/14/promptwatch-raises-eur6m-to-expand-its-end-to-end-ai-search-optimisation-platform/"
+pricing:
+  as_listed_by_vendor: "$95 to $579 (monthly billing); Enterprise custom"
+  source: "https://promptwatch.com/pricing"
+sources:
+  - "https://tech.eu/2026/07/14/promptwatch-raises-eur6m-to-expand-its-end-to-end-ai-search-optimisation-platform/"
+  - "https://promptwatch.com/pricing"
+last_verified: "2026-10-26"

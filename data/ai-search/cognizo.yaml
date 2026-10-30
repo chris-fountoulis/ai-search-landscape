@@ -1,0 +1,25 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "Cognizo"
+slug: "cognizo"
+dataset: "ai-search"
+company: "Cognizo"
+website: "cognizo.ai"
+segment: "geo-tracking"
+hq:
+  city: "New York"
+  country: "US"
+status: "active"
+funding:
+  total_usd: 1800000
+  latest_round:
+    name: "Undisclosed stage"
+  source: "https://webrazzi.com/2026/03/06/cevap-motoru-optimizasyonu-platformu-cognizo-1-8-milyon-dolar-yatirim-aldi/"
+pricing:
+  as_listed_by_vendor: "$499 to $999, enterprise custom"
+  source: "https://cognizo.ai/pricing"
+sources:
+  - "https://webrazzi.com/2026/03/06/cevap-motoru-optimizasyonu-platformu-cognizo-1-8-milyon-dolar-yatirim-aldi/"
+  - "https://cognizo.ai/pricing"
+  - "https://www.caplight.com/company/cognizo"
+last_verified: "2026-10-26"

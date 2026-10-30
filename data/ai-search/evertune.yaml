@@ -1,0 +1,24 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "Evertune"
+slug: "evertune"
+dataset: "ai-search"
+company: "Evertune"
+website: "evertune.ai"
+segment: "geo-tracking"
+hq:
+  city: "New York"
+  country: "US"
+status: "active"
+funding:
+  total_usd: 20000000
+  latest_round:
+    name: "Series A"
+  source: "https://evertune.ai/resources/insights-on-ai/evertune-raises-15-million-series-a-to-scale-its-ai-marketing-and-discovery-platform"
+pricing:
+  as_listed_by_vendor: "$60 to $800 (Pro $800 billed annually); Enterprise custom"
+  source: "https://www.evertune.ai/pricing"
+sources:
+  - "https://evertune.ai/resources/insights-on-ai/evertune-raises-15-million-series-a-to-scale-its-ai-marketing-and-discovery-platform"
+  - "https://www.evertune.ai/pricing"
+last_verified: "2026-10-26"

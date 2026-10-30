@@ -1,0 +1,17 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "ZipTie"
+slug: "ziptie"
+dataset: "ai-search"
+company: "ZipTie"
+website: "ziptie.ai"
+segment: "geo-tracking"
+status: "active"
+pricing:
+  as_listed_by_vendor: "$25.65 to $1,647 (configurator starting points)"
+  source: "https://ziptie.ai/pricing/"
+sources:
+  - "https://ziptie.ai/pricing/"
+  - "https://ziptie.ai/about/"
+  - "https://www.g2.com/products/ziptie-dev"
+last_verified: "2026-10-26"

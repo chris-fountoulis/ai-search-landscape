@@ -1,0 +1,22 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "Superlines"
+slug: "superlines"
+dataset: "ai-search"
+company: "Superlines"
+website: "superlines.io"
+segment: "geo-tracking"
+hq:
+  city: "Helsinki"
+  country: "FI"
+founded:
+  year: 2020
+  source: "https://www.superlines.io/about"
+status: "active"
+pricing:
+  as_listed_by_vendor: "EUR 79 to 379; Enterprise custom"
+  source: "https://www.superlines.io/pricing"
+sources:
+  - "https://www.superlines.io/about"
+  - "https://www.superlines.io/pricing"
+last_verified: "2026-10-26"

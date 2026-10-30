@@ -1,0 +1,22 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "Otterly.AI"
+slug: "otterly-ai"
+dataset: "ai-search"
+company: "Otterly.AI"
+website: "otterly.ai"
+segment: "geo-tracking"
+hq:
+  city: "Vienna"
+  country: "AT"
+founded:
+  year: 2024
+  source: "https://otterly.ai/about"
+status: "active"
+pricing:
+  as_listed_by_vendor: "$29 to $489; Enterprise custom"
+  source: "https://otterly.ai/pricing"
+sources:
+  - "https://otterly.ai/pricing"
+  - "https://otterly.ai/about"
+last_verified: "2026-10-26"

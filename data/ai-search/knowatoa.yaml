@@ -1,0 +1,21 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "Knowatoa"
+slug: "knowatoa"
+dataset: "ai-search"
+company: "Knowatoa"
+website: "knowatoa.com"
+segment: "geo-tracking"
+hq:
+  country: "US"
+founded:
+  year: 2024
+  source: "https://builtin.com/company/knowatoa"
+status: "active"
+pricing:
+  as_listed_by_vendor: "$59 to $199; Enterprise custom"
+  source: "https://knowatoa.com/pricing"
+sources:
+  - "https://knowatoa.com/pricing"
+  - "https://builtin.com/company/knowatoa"
+last_verified: "2026-10-26"

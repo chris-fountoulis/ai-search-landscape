@@ -1,0 +1,22 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "xFunnel (HubSpot)"
+slug: "xfunnel-hubspot"
+dataset: "ai-search"
+company: "xFunnel"
+website: "xfunnel.ai"
+segment: "geo-tracking"
+hq:
+  country: "IL"
+status: "acquired"
+acquisition:
+  acquirer: "HubSpot"
+  date: "2025-10"
+  date_type: "announced"
+  source: "https://www.hubspot.com/company-news/hubspot-to-acquire-xfunnel"
+pricing:
+  as_listed_by_vendor: "not sold separately (now HubSpot AEO)"
+sources:
+  - "https://www.hubspot.com/company-news/hubspot-to-acquire-xfunnel"
+  - "https://ppc.land/hubspot-acquires-xfunnel-to-strengthen-answer-engine-optimization/"
+last_verified: "2026-10-26"

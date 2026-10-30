@@ -1,0 +1,24 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "Azoma"
+slug: "azoma"
+dataset: "ai-search"
+company: "Azoma"
+website: "azoma.ai"
+segment: "geo-tracking"
+hq:
+  city: "London"
+  country: "GB"
+status: "active"
+funding:
+  total_usd: 15200000
+  latest_round:
+    name: "Series A"
+  source: "https://runtimewire.com/article/azoma-series-a-ai-shopping-agents"
+pricing:
+  as_listed_by_vendor: "custom"
+sources:
+  - "https://runtimewire.com/article/azoma-series-a-ai-shopping-agents"
+  - "https://seedtable.com/companies/azoma/funding-rounds/seed-2025-12"
+  - "https://startuprise.co.uk/london-based-azoma-raises-4m-to-accelerate-growth/"
+last_verified: "2026-10-26"

@@ -1,0 +1,26 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "Limy"
+slug: "limy"
+dataset: "ai-search"
+company: "Limy"
+website: "limy.ai"
+segment: "geo-tracking"
+hq:
+  city: "New York"
+  country: "US"
+founded:
+  year: 2024
+  source: "https://www.superbcrew.com/limy-raises-10m-in-funding-led-by-flybridge/"
+status: "active"
+funding:
+  total_usd: 10000000
+  latest_round:
+    name: "Seed"
+  source: "https://www.superbcrew.com/limy-raises-10m-in-funding-led-by-flybridge/"
+pricing:
+  as_listed_by_vendor: "custom"
+sources:
+  - "https://www.superbcrew.com/limy-raises-10m-in-funding-led-by-flybridge/"
+  - "https://finder.startupnationcentral.org/company_page/limy-ai"
+last_verified: "2026-10-26"

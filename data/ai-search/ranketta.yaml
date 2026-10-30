@@ -1,0 +1,19 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "Ranketta"
+slug: "ranketta"
+dataset: "ai-search"
+company: "Ranketta"
+website: "ranketta.com"
+segment: "geo-tracking"
+hq:
+  city: "Prague"
+  country: "CZ"
+status: "active"
+pricing:
+  as_listed_by_vendor: "EUR 29 to 449"
+  source: "https://ranketta.com/"
+sources:
+  - "https://ranketta.com/"
+  - "https://bebeez.eu/2025/11/27/ranketta-built-by-a-21-year-old-czech-ai-researcher-lands-e1-million-to-measure-brand-presence-in-llms/"
+last_verified: "2026-10-26"

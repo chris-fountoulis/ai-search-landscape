@@ -1,0 +1,23 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "Gauge"
+slug: "gauge"
+dataset: "ai-search"
+company: "Gauge"
+website: "withgauge.com"
+segment: "geo-tracking"
+hq:
+  city: "San Francisco"
+  country: "US"
+founded:
+  year: 2024
+  source: "https://www.ycombinator.com/companies/gauge"
+status: "active"
+pricing:
+  as_listed_by_vendor: "$599 (Growth); Enterprise custom"
+  source: "https://www.withgauge.com/pricing"
+sources:
+  - "https://www.ycombinator.com/companies/gauge/jobs/juhjUfl-founding-sales"
+  - "https://www.ycombinator.com/companies/gauge"
+  - "https://www.withgauge.com/pricing"
+last_verified: "2026-10-26"

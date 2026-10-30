@@ -1,0 +1,23 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "OptimizeGEO"
+slug: "optimizegeo"
+dataset: "ai-search"
+company: "OptimizeGEO"
+website: "optimizegeo.ai"
+segment: "geo-tracking"
+hq:
+  city: "Los Altos"
+  country: "US"
+status: "active"
+funding:
+  latest_round:
+    name: "Pre-Series A"
+  source: "https://alpha-maven.com/story/venture-capital/optimizegeo-closes-funding-finsmes"
+pricing:
+  as_listed_by_vendor: "custom"
+sources:
+  - "https://www.adweek.com/dealroom/michael-kassan-invests-in-80m-startup-optimizegeo/"
+  - "https://dealroom.co/news/158294-kassan-backs-geo-startup-optimizegeo-at-80m-valuation/"
+  - "https://alpha-maven.com/story/venture-capital/optimizegeo-closes-funding-finsmes"
+last_verified: "2026-10-26"

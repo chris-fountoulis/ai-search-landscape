@@ -1,0 +1,29 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "Brandlight"
+slug: "brandlight"
+dataset: "ai-search"
+company: "Brandlight"
+website: "brandlight.ai"
+segment: "geo-tracking"
+hq:
+  city: "New York"
+  country: "US"
+founded:
+  year: 2024
+  source: "https://www.axios.com/pro/enterprise-software-deals/2026/02/11/marketing-tech-brandlight-30-million"
+status: "active"
+funding:
+  total_usd: 36000000
+  latest_round:
+    name: "Series A"
+    date: "2026-02"
+    amount_usd: 30000000
+  source: "https://www.axios.com/pro/enterprise-software-deals/2026/02/11/marketing-tech-brandlight-30-million"
+pricing:
+  as_listed_by_vendor: "custom"
+sources:
+  - "https://www.calcalistech.com/ctechnews/article/h18lbwqpbx"
+  - "https://www.axios.com/pro/enterprise-software-deals/2026/02/11/marketing-tech-brandlight-30-million"
+  - "https://pulse2.com/brandlight-30-million-series-a-raised-for-enterprise-ai-visibility-platform"
+last_verified: "2026-10-26"

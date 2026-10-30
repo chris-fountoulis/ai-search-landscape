@@ -1,0 +1,31 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "Hall (Tracksuit)"
+slug: "hall-tracksuit"
+dataset: "ai-search"
+company: "Hall"
+website: "usehall.com"
+segment: "geo-tracking"
+hq:
+  city: "Sydney"
+  country: "AU"
+founded:
+  year: 2023
+  source: "https://direct.businessnewsaustralia.com/articles/blackbird-tips--2m-into-sydney-startup-that-measures-brand-performance-in-ai-search.html"
+status: "acquired"
+funding:
+  total_usd: 2000000
+  latest_round:
+    name: "Pre-seed"
+  source: "https://direct.businessnewsaustralia.com/articles/blackbird-tips--2m-into-sydney-startup-that-measures-brand-performance-in-ai-search.html"
+acquisition:
+  acquirer: "Tracksuit"
+  date: "2026-07"
+  date_type: "announced"
+  source: "https://www.bandt.com.au/tracksuit-acquires-ai-brand-monitoring-startup-hall/"
+pricing:
+  as_listed_by_vendor: "n/a (folded into Tracksuit)"
+sources:
+  - "https://www.bandt.com.au/tracksuit-acquires-ai-brand-monitoring-startup-hall/"
+  - "https://direct.businessnewsaustralia.com/articles/blackbird-tips--2m-into-sydney-startup-that-measures-brand-performance-in-ai-search.html"
+last_verified: "2026-10-26"

@@ -1,0 +1,24 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "GetMint"
+slug: "getmint"
+dataset: "ai-search"
+company: "GetMint"
+website: "getmint.ai"
+segment: "geo-tracking"
+hq:
+  city: "Paris"
+  country: "FR"
+status: "active"
+funding:
+  total_usd: 4320000
+  latest_round:
+    name: "Pre-seed"
+  source: "https://funding.tech.eu/deals/C01AA63C-9613-441A-9C10-9706793FCC28"
+pricing:
+  as_listed_by_vendor: "custom"
+sources:
+  - "https://funding.tech.eu/deals/C01AA63C-9613-441A-9C10-9706793FCC28"
+  - "https://www.getmint.ai/"
+  - "https://www.getmint.ai/pricing"
+last_verified: "2026-10-26"

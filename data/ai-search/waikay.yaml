@@ -1,0 +1,19 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "Waikay"
+slug: "waikay"
+dataset: "ai-search"
+company: "Waikay"
+website: "waikay.io"
+segment: "geo-tracking"
+hq:
+  city: "Biggleswade"
+  country: "GB"
+status: "active"
+pricing:
+  as_listed_by_vendor: "$24.95 to $199.95"
+  source: "https://waikay.io/about/"
+sources:
+  - "https://waikay.io/about/"
+  - "https://waikay.io/"
+last_verified: "2026-10-26"

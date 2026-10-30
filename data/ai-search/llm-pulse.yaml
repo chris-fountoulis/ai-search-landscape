@@ -1,0 +1,16 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "LLM Pulse"
+slug: "llm-pulse"
+dataset: "ai-search"
+company: "LLM Pulse"
+website: "llmpulse.ai"
+segment: "geo-tracking"
+status: "active"
+pricing:
+  as_listed_by_vendor: "EUR 49 to 5,999 excl. VAT (weekly Starter to daily Partner++); Enterprise custom"
+  source: "https://llmpulse.ai/pricing"
+sources:
+  - "https://llmpulse.ai/pricing"
+  - "https://www.producthunt.com/products/llm-pulse-2"
+last_verified: "2026-10-26"

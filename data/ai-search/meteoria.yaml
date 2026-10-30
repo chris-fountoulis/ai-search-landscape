@@ -1,0 +1,20 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "Meteoria"
+slug: "meteoria"
+dataset: "ai-search"
+company: "Meteoria"
+website: "meteoria.ai"
+segment: "geo-tracking"
+hq:
+  city: "Saint-Mande"
+  country: "FR"
+status: "active"
+pricing:
+  as_listed_by_vendor: "EUR 75 to 700+"
+  source: "https://meteoria.ai/"
+sources:
+  - "https://meteoria.ai/"
+  - "https://www.vcbacked.co/company/meteoria"
+  - "https://pitchbook.com/profiles/company/1308622-60"
+last_verified: "2026-10-26"

@@ -1,0 +1,23 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "Relixir"
+slug: "relixir"
+dataset: "ai-search"
+company: "Relixir"
+website: "relixir.ai"
+segment: "geo-tracking"
+hq:
+  city: "San Francisco"
+  country: "US"
+status: "active"
+funding:
+  total_usd: 2000000
+  latest_round:
+    name: "Seed"
+  source: "https://www.einpresswire.com/article/866012958/relixir-announces-oversubscribed-2m-seed-round"
+pricing:
+  as_listed_by_vendor: "custom"
+sources:
+  - "https://www.einpresswire.com/article/866012958/relixir-announces-oversubscribed-2m-seed-round"
+  - "https://relixir.ai/"
+last_verified: "2026-10-26"

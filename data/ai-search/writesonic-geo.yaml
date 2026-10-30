@@ -1,0 +1,25 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "Writesonic (GEO)"
+slug: "writesonic-geo"
+dataset: "ai-search"
+company: "Writesonic"
+website: "writesonic.com"
+segment: "geo-tracking"
+hq:
+  city: "San Francisco"
+  country: "US"
+status: "active"
+funding:
+  total_usd: 2600000
+  latest_round:
+    name: "Seed"
+  source: "https://writesonic.com/about-us"
+pricing:
+  as_listed_by_vendor: "$99 to $499 monthly billing ($79 to $399 billed annually); Enterprise custom"
+  source: "https://writesonic.com/pricing"
+sources:
+  - "https://writesonic.com/about-us"
+  - "https://writesonic.com/pricing"
+  - "https://www.cbinsights.com/company/writesonic/financials"
+last_verified: "2026-10-26"
