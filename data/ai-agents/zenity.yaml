@@ -27,9 +27,11 @@ funding:
 pricing:
   as_listed_by_vendor: "custom"
   model: "custom"
+  source: "https://zenity.io/book-a-demo"
 sources:
   - "https://fortune.com/2026/08/03/softbank-hitachi-lg-back-zenitys-125-million-round-to-police-ai-agents/"
   - "https://zenity.io/company"
   - "https://zenity.io/press-release/zenity-raises-125-million-to-secure-the-era-of-1-billion-ai-agents"
   - "https://zenity.io/privacy-policy"
+  - "https://zenity.io/book-a-demo"
 last_verified: "2026-10-30"

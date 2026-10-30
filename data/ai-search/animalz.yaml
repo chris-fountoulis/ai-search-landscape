@@ -9,7 +9,9 @@ segment: "ai-native-agencies"
 status: "active"
 pricing:
   as_listed_by_vendor: "custom"
+  source: "https://www.animalz.co/contact"
 sources:
   - "https://dock.us/grow-and-tell/3xing-revenue-at-a-content-agency"
   - "https://animalz.co/blog/announcing-a-few-big-changes-at-animalz"
-last_verified: "2026-10-26"
+  - "https://www.animalz.co/contact"
+last_verified: "2026-10-30"

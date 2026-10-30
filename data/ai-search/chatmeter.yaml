@@ -18,9 +18,11 @@ acquisition:
   source: "https://www.dechert.com/knowledge/news/2025/9/dechert-advises-alchemer-on-acquisition-of-chatmeter.html"
 pricing:
   as_listed_by_vendor: "custom"
+  source: "https://www.chatmeter.com/pricing"
 sources:
   - "https://www.businesswire.com/news/home/20250924193562/en"
   - "https://www.alchemer.com/resources/blog/alchemer-acquires-chatmeter-to-unify-customer-feedback-intelligence/"
   - "https://www.dechert.com/knowledge/news/2025/9/dechert-advises-alchemer-on-acquisition-of-chatmeter.html"
   - "https://www.chatmeter.com/privacy-policy/"
+  - "https://www.chatmeter.com/pricing"
 last_verified: "2026-10-30"

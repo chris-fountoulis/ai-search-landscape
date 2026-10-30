@@ -24,7 +24,8 @@ funding:
     source: "https://pulse2.com/genspark-raises-100-million-series-b-extension-at-2-6-billion-valuation/"
   source: "https://techcrunch.com/2026/07/05/almost-40-new-unicorns-have-been-minted-so-far-this-year-here-they-are/"
 pricing:
-  as_listed_by_vendor: "custom"
+  as_listed_by_vendor: "from $35 per seat (as listed)"
+  source: "https://www.genspark.ai/business/pricing"
 sources:
   - "https://techcrunch.com/2026/07/05/almost-40-new-unicorns-have-been-minted-so-far-this-year-here-they-are/"
   - "https://techcrunch.com/2024/06/18/genspark-is-the-latest-attempt-at-an-ai-powered-search-engine/"
@@ -33,4 +34,5 @@ sources:
   - "https://www.01net.it/genspark-ai-extends-series-b-to-485m-at-2-6b-post-money-valuation-appoints-jamison-powell-as-chief-revenue-officer/"
   - "https://www.genspark.ai/terms"
   - "https://lanchiventures.com/?p=396"
+  - "https://www.genspark.ai/business/pricing"
 last_verified: "2026-10-30"

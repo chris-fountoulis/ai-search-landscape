@@ -27,10 +27,12 @@ funding:
 pricing:
   as_listed_by_vendor: "custom"
   model: "custom"
+  source: "https://www.tofuhq.com/lp/request-a-demo"
 sources:
   - "https://techcrunch.com/2025/02/13/tofu-is-building-a-omni-channel-marketing-platform-for-enterprises/"
   - "https://www.tofuhq.com/terms-and-conditions"
   - "https://www.indexventures.com/companies/tofu/"
   - "https://www.signalfire.com/blog/generative-marketing-tofu-investor"
   - "https://www.tofuhq.com/"
+  - "https://www.tofuhq.com/lp/request-a-demo"
 last_verified: "2026-10-30"

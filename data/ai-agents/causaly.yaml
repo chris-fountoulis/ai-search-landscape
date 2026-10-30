@@ -24,9 +24,11 @@ funding:
 pricing:
   as_listed_by_vendor: "custom"
   model: "custom"
+  source: "https://www.causaly.com/contact-us"
 sources:
   - "https://www.causaly.com/about"
   - "https://techcrunch.com/2023/07/13/causaly-an-ai-platform-for-drug-discovery-and-biomedical-research-raises-60m/"
   - "https://www.causaly.com/legal/privacy-policy"
   - "https://get.causaly.com/legal"
+  - "https://www.causaly.com/contact-us"
 last_verified: "2026-10-30"

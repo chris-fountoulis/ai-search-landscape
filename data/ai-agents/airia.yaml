@@ -25,6 +25,7 @@ funding:
 pricing:
   as_listed_by_vendor: "custom"
   model: "custom"
+  source: "https://airia.com/contact-us"
 sources:
   - "https://siliconangle.com/2025/09/16/airia-raises-100m-co-founder-build-security-foundation-enterprise-ai/"
   - "https://airia.com/about/"
@@ -32,4 +33,5 @@ sources:
   - "https://airia.ai/docs/build/interface-options/usage_limits"
   - "https://techcrunch.com/2026/03/30/former-coatue-partner-raises-huge-65m-seed-for-enterprise-ai-agent-startup/"
   - "https://airia.com/blog/airia-secures-100m-in-funding/"
+  - "https://airia.com/contact-us"
 last_verified: "2026-10-30"

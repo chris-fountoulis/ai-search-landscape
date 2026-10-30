@@ -24,10 +24,12 @@ funding:
 pricing:
   as_listed_by_vendor: "custom"
   model: "custom"
+  source: "https://www.geordie.ai/contact-us"
 sources:
   - "https://tech.eu/2026/05/29/geordie-raises-30m-to-bring-security-and-governance-to-agentic-ai/"
   - "https://www.securityweek.com/geordie-raises-30-million-for-ai-security-and-governance-platform/"
   - "https://siliconangle.com/2025/09/09/geordie-launches-6-5m-funding-bring-security-agentic-ai-adoption/"
   - "https://www.geordie.ai/legals/terms-of-use/"
   - "https://www.geordie.ai/about/"
+  - "https://www.geordie.ai/contact-us"
 last_verified: "2026-10-30"

@@ -24,6 +24,7 @@ funding:
 pricing:
   as_listed_by_vendor: "custom"
   model: "custom"
+  source: "https://www.synera.ai/pricing"
 sources:
   - "https://siliconangle.com/2026/04/14/german-startup-synera-lands-40-million-automate-engineering-workflows-ai-agents/"
   - "https://www.synera.ai/imprint"

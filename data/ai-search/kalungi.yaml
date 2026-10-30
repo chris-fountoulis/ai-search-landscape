@@ -13,7 +13,9 @@ hq:
 status: "active"
 pricing:
   as_listed_by_vendor: "custom"
+  source: "https://www.kalungi.com/contact"
 sources:
   - "https://www.kalungi.com/"
   - "https://metaflow.life/blog/best-ai-native-marketing-agencies-for-seed-stage-startups"
+  - "https://www.kalungi.com/contact"
 last_verified: "2026-10-30"

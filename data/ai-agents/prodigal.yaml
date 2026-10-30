@@ -24,9 +24,11 @@ funding:
 pricing:
   as_listed_by_vendor: "custom"
   model: "custom"
+  source: "https://www.prodigaltech.com/demo"
 sources:
   - "https://www.prodigaltech.com/blog/our-series-a"
   - "https://www.accel.com/noteworthies/our-journey-with-prodigal-conversational-ai-with-a-purpose"
   - "https://www.prodigaltech.com/about-us"
   - "https://www.prodigaltech.com/privacy-policy"
+  - "https://www.prodigaltech.com/demo"
 last_verified: "2026-10-30"

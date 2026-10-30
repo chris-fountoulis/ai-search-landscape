@@ -22,9 +22,11 @@ funding:
 pricing:
   as_listed_by_vendor: "custom"
   model: "custom"
+  source: "https://www.marketeam.ai/contact"
 sources:
   - "https://www.cmswire.com/the-wire/marketeamai-raises-3-million-in-seed-funding-to-accelerate-transition-to-ai-native-autonomous-agents"
   - "https://marketeam.ai/legal/terms-of-use"
   - "https://marketeam.ai/about"
   - "https://www.prnewswire.com/il/news-releases/marketeamai-wins-proactive-ai-assistance-solution-of-the-year-in-the-2025-ai-breakthrough-awards-demonstrating-unprecedented-end-to-end-autonomous-marketing-capabilities-302492179.html"
+  - "https://www.marketeam.ai/contact"
 last_verified: "2026-10-30"

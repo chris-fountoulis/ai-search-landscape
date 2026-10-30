@@ -24,10 +24,12 @@ funding:
 pricing:
   as_listed_by_vendor: "custom"
   model: "custom"
+  source: "https://www.pryon.com/contact"
 sources:
   - "https://dukecapitalpartners.duke.edu/news/pryon-closes-100-million-series-b-round-led-by-thomas-tulls-us-innovative-technology-fund/"
   - "https://techcrunch.com/2023/09/19/pryon-raises-100m-to-index-and-analyze-enterprise-data/"
   - "https://lp.pryon.com/hubfs/Site-Assets/Pryon-SaaS-Agreement.pdf"
   - "https://www.pryon.com/about"
   - "https://www.pryon.com/about/news"
+  - "https://www.pryon.com/contact"
 last_verified: "2026-10-30"

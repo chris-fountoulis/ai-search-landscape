@@ -21,6 +21,7 @@ funding:
 pricing:
   as_listed_by_vendor: "custom"
   model: "custom"
+  source: "https://skyfire.xyz/contact"
 sources:
   - "https://www.theblock.co/post/322742/coinbase-ventures-and-a16zs-csx-bring-skyfires-total-funding-raised-to-9-5-million"
   - "https://techcrunch.com/2024/08/21/skyfire-lets-ai-agents-spend-your-money/"
@@ -28,4 +29,5 @@ sources:
   - "https://skyfire.xyz/terms-of-service/"
   - "https://skyfire.xyz/privacy-policy/"
   - "https://skyfire.xyz/"
+  - "https://skyfire.xyz/contact"
 last_verified: "2026-10-30"

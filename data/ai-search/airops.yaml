@@ -20,8 +20,10 @@ funding:
   source: "https://www.thesaasnews.com/news/airops-raises-40-million-in-series-b/"
 pricing:
   as_listed_by_vendor: "free Solo tier; Pro and Enterprise not listed"
+  source: "https://www.airops.com/pricing"
 sources:
   - "https://www.businesswire.com/news/home/20251110823725/en/AirOps-Raises-%2440M-to-Redefine-How-Brands-Compete-in-the-Era-of-AI-Search"
   - "https://www.thesaasnews.com/news/airops-raises-40-million-in-series-b/"
   - "https://pulse2.com/airops-15-5-million-series-a-raised-to-help-marketers-scale-ai-growth-workflows"
+  - "https://www.airops.com/pricing"
 last_verified: "2026-10-30"

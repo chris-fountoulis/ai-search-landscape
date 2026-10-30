@@ -19,7 +19,9 @@ acquisition:
   source: "https://en.ryte.com/company/newsroom/ryte-announces-acquisition-by-semrush/"
 pricing:
   as_listed_by_vendor: "custom (part of Semrush)"
+  source: "https://en.ryte.com/product/pricing/"
 sources:
   - "https://en.ryte.com/company/newsroom/ryte-announces-acquisition-by-semrush/"
   - "https://tech.eu/2024/07/15/semrush-acquires-german-saas-company-ryte/"
+  - "https://en.ryte.com/product/pricing/"
 last_verified: "2026-10-30"

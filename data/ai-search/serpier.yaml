@@ -20,9 +20,11 @@ funding:
     name: "Pre-seed"
   source: "https://bebeez.eu/2026/06/29/danish-martech-company-serpier-raises-e1-4-million-to-expand-ai-visibility-tools-for-online-retailers/"
 pricing:
-  as_listed_by_vendor: "custom"
+  as_listed_by_vendor: "Free; EUR 199 to 599"
+  source: "https://serpier.com/pricing"
 sources:
   - "https://bebeez.eu/2026/06/29/danish-martech-company-serpier-raises-e1-4-million-to-expand-ai-visibility-tools-for-online-retailers/"
   - "https://www.thesaasnews.com/news/serpier-raises-eur1-4m-pre-seed"
   - "https://www.trysignalbase.com/news/funding/serpier-secures-16m-seed-round-funding"
+  - "https://serpier.com/pricing"
 last_verified: "2026-10-30"

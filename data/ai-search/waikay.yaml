@@ -13,7 +13,7 @@ hq:
 status: "active"
 pricing:
   as_listed_by_vendor: "$24.95 to $199.95"
-  source: "https://waikay.io/about/"
+  source: "https://waikay.io/"
 sources:
   - "https://waikay.io/about/"
   - "https://waikay.io/"

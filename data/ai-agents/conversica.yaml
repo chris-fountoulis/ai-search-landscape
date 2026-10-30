@@ -21,6 +21,7 @@ funding:
 pricing:
   as_listed_by_vendor: "custom"
   model: "custom"
+  source: "https://www.conversica.com/contact"
 sources:
   - "https://techcrunch.com/2018/10/30/conversica-which-uses-ai-to-replicate-sales-agents-raises-31m-now-valued-around-300m/"
   - "https://techcrunch.com/2016/12/14/conversica-lands-34-million-series-b-to-build-intelligent-sales-assistants/"
@@ -28,4 +29,5 @@ sources:
   - "https://www.conversica.com/legal-info/privacy-policy"
   - "https://www.conversica.com/legal-info/conversica-api-terms-of-service"
   - "https://www.conversica.com/about"
+  - "https://www.conversica.com/contact"
 last_verified: "2026-10-30"

@@ -23,9 +23,11 @@ funding:
 pricing:
   as_listed_by_vendor: "custom"
   model: "custom"
+  source: "https://uplane.com/book-a-demo"
 sources:
   - "https://americanbazaaronline.com/2026/09/04/uplane-to-work-with-ag1-and-kalshi-to-replace-marketing-agencies-487603/"
   - "https://uplane.com/terms-of-service/"
   - "https://uplane.com/"
   - "https://www.ycombinator.com/companies/uplane"
+  - "https://uplane.com/book-a-demo"
 last_verified: "2026-10-30"

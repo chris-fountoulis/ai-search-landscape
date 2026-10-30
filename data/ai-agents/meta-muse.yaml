@@ -13,8 +13,10 @@ hq:
 status: "active"
 public_company: true
 pricing:
-  as_listed_by_vendor: "custom"
+  as_listed_by_vendor: "$20 to $100 (as listed)"
+  source: "https://www.meta.com/help/subscriptions/1021145227643680/"
 sources:
   - "https://about.fb.com/news/2026/09/introducing-muse-personal-ai-agent/"
   - "https://techcrunch.com/2026/10/21/meta-says-muse-has-over-10m-users-with-shopping-a-top-activity/"
-last_verified: "2026-10-29"
+  - "https://www.meta.com/help/subscriptions/1021145227643680/"
+last_verified: "2026-10-30"

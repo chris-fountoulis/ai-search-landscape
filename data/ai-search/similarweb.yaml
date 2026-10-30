@@ -17,9 +17,11 @@ status: "active"
 public_company: true
 pricing:
   as_listed_by_vendor: "custom"
+  source: "https://www.similarweb.com/packages/web/"
 sources:
   - "https://www.sec.gov/Archives/edgar/data/1842731/000184273126000009/a6-kxexhibit991xq431122025.htm"
   - "https://www.sec.gov/Archives/edgar/data/1842731/000184273126000045/a6-kxexhibit991xprojectm.htm"
   - "https://www.renaissancecapital.com/IPO-Center/News/81701/israeli-web-analytics-provider-similarweb-prices-us-ipo-at-22-above"
   - "https://www.sec.gov/Archives/edgar/data/1842731/000162828021010035/similarweb-424b4.htm"
+  - "https://www.similarweb.com/packages/web/"
 last_verified: "2026-10-30"

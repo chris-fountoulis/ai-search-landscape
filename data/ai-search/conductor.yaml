@@ -20,9 +20,11 @@ funding:
   source: "https://www.sagemount.com/news/conductor-raises-150m-in-funding-to-power-the-company-s-next-phase-of-growth-in-the-organic-marketing-revolution"
 pricing:
   as_listed_by_vendor: "custom"
+  source: "https://www.conductor.com/pricing"
 sources:
   - "https://www.sagemount.com/news/conductor-raises-150m-in-funding-to-power-the-company-s-next-phase-of-growth-in-the-organic-marketing-revolution"
   - "https://en.wikipedia.org/wiki/Conductor_(company)"
   - "https://www.conductor.com/blog/2023/02/conductor-acquires-searchmetrics/"
   - "https://www.heuking.de/de/news-events/aktuelle-meldungen/artikel/marktfuehrer-conductor-erwirbt-mit-heuking-seo-spezialisten-searchmetrics.html"
+  - "https://www.conductor.com/pricing"
 last_verified: "2026-10-30"

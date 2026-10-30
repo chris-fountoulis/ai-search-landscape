@@ -21,6 +21,8 @@ funding:
   source: "https://techcrunch.com/2025/10/20/european-ai-rising-star-nexos-ai-raises-30m-to-unlock-enterprise-ai-adoption/"
 pricing:
   as_listed_by_vendor: "custom"
+  source: "https://nexos.ai/pricing/"
 sources:
   - "https://techcrunch.com/2025/10/20/european-ai-rising-star-nexos-ai-raises-30m-to-unlock-enterprise-ai-adoption/"
+  - "https://nexos.ai/pricing/"
 last_verified: "2026-10-30"

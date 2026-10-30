@@ -23,10 +23,12 @@ funding:
 pricing:
   as_listed_by_vendor: "custom"
   model: "custom"
+  source: "https://getzowie.com/book-a-demo"
 sources:
   - "https://en.ain.ua/2022/05/24/zowie-secures-14m-seriesa"
   - "https://techcrunch.com/2022/01/17/gradient-10xfounders-back-zowies-no-code-e-commerce-customer-service-tool/"
   - "https://www.getzowie.com/terms-and-conditions"
   - "https://www.getzowie.com/privacy-policy"
   - "https://getzowie.com/press"
-last_verified: "2026-10-29"
+  - "https://getzowie.com/book-a-demo"
+last_verified: "2026-10-30"

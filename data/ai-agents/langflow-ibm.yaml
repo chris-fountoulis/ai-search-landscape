@@ -20,10 +20,12 @@ acquisition:
 pricing:
   as_listed_by_vendor: "custom"
   model: "custom"
+  source: "https://www.langflow.org/contact-us"
 sources:
   - "https://techcrunch.com/2024/04/04/datastax-acquires-logspace-the-startup-behind-the-langflow-low-code-tool-for-building-rag-based-chatbots/"
   - "https://newsroom.ibm.com/2025-02-25-ibm-to-acquire-datastax,-deepening-watsonx-capabilities-and-addressing-generative-ai-data-needs-for-the-enterprise"
   - "https://www.langflow.org/"
   - "https://github.com/langflow-ai/langflow"
   - "https://www.ibm.com/products/datastax"
-last_verified: "2026-10-29"
+  - "https://www.langflow.org/contact-us"
+last_verified: "2026-10-30"

@@ -24,6 +24,7 @@ funding:
 pricing:
   as_listed_by_vendor: "custom"
   model: "custom"
+  source: "https://replicant.com/blog/replicant-ai-raises-27m-to-modernize-customer-service-with-the-worlds-first-autonomous-contact-center"
 sources:
   - "https://replicant.com/blog/replicant-series-b-announcement"
   - "https://replicant.com/blog/replicant-ai-raises-27m-to-modernize-customer-service-with-the-worlds-first-autonomous-contact-center"

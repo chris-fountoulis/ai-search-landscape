@@ -23,9 +23,11 @@ funding:
 pricing:
   as_listed_by_vendor: "custom"
   model: "custom"
+  source: "https://www.traversal.com/book-a-demo"
 sources:
   - "https://fortune.com/2025/06/18/traversal-emerges-from-stealth-with-48-million-from-sequoia-and-kleiner-perkins-to-reimagine-site-reliability-in-the-ai-era/"
   - "https://pulse2.com/traversal-ai-site-reliability-engineering-platform-receives-strategic-investment-from-amex-ventures"
   - "https://www.traversal.com/legal/terms-conditions"
   - "https://www.traversal.com/careers"
+  - "https://www.traversal.com/book-a-demo"
 last_verified: "2026-10-30"

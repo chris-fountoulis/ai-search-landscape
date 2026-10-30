@@ -13,7 +13,9 @@ hq:
 status: "active"
 pricing:
   as_listed_by_vendor: "custom"
+  source: "https://foundationinc.co/contact"
 sources:
   - "https://foundationinc.co/team/ross-simmonds"
   - "https://www.designrush.com/agency/profile/foundation-marketing"
+  - "https://foundationinc.co/contact"
 last_verified: "2026-10-30"

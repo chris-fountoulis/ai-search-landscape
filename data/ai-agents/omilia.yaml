@@ -24,8 +24,10 @@ funding:
 pricing:
   as_listed_by_vendor: "custom"
   model: "custom"
+  source: "https://omilia.com/request-a-demo/"
 sources:
   - "https://techcrunch.com/2026/08/06/omilia-raises-67m-to-scale-its-customer-support-platform/"
   - "https://omilia.com/data-protection-notice-sep-25/"
   - "https://omilia.com/"
+  - "https://omilia.com/request-a-demo/"
 last_verified: "2026-10-30"

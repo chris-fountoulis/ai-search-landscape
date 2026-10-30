@@ -19,9 +19,11 @@ funding:
   source: "https://reputation.com/press-room/reputation-announces-150-million-growth-funding-round-to-drive-dominance-in-the-customer-feedback-market/"
 pricing:
   as_listed_by_vendor: "custom"
+  source: "https://reputation.com/pricing"
 sources:
   - "https://reputation.com/press-room/reputation-announces-150-million-growth-funding-round-to-drive-dominance-in-the-customer-feedback-market/"
   - "https://www.localogy.com/2022/01/reputation-lands-150m-in-growth-funding-and-100m-arr"
   - "https://en.wikipedia.org/wiki/Reputation.com"
   - "https://law.stanford.edu/stanford-lawyer/articles/that-stanford-thing-the-story-of-a-startup-and-the-students-behind-it/"
+  - "https://reputation.com/pricing"
 last_verified: "2026-10-30"

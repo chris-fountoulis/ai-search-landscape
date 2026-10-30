@@ -22,10 +22,12 @@ funding:
 pricing:
   as_listed_by_vendor: "custom"
   model: "custom"
+  source: "https://www.connectly.ai/pricing"
 sources:
   - "https://www.unusual.vc/connectlys-ai-powered-conversational-commerce/"
   - "https://salestechstar.com/predictive-ai-artificial-intelligence/connectly-raises-20-million-series-b-investment-to-expand-ai-conversational-commerce-scale-business/"
   - "https://businesswire.com/news/home/20240911320150/en/Connectly-Raises-20-Million-Series-B-Investment-to-Expand-AI-Conversational-Commerce-Scale-Business/"
   - "https://www.connectly.ai/en/company"
   - "https://www.connectly.ai/en/terms-of-service"
+  - "https://www.connectly.ai/pricing"
 last_verified: "2026-10-30"

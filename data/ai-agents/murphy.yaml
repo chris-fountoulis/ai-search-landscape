@@ -21,9 +21,6 @@ funding:
     date: "2025-07"
     amount_usd: 15000000
   source: "https://seedcamp.com/views/murphy-raises-15m-to-fix-the-broken-industry-of-debt-servicing-with-ai/"
-pricing:
-  as_listed_by_vendor: "custom"
-  model: "custom"
 sources:
   - "https://www.northzone.com/insights/backing-murphy-the-future-of-debt-servicing-infrastructure"
   - "https://seedcamp.com/views/murphy-raises-15m-to-fix-the-broken-industry-of-debt-servicing-with-ai/"

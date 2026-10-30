@@ -21,10 +21,12 @@ funding:
 pricing:
   as_listed_by_vendor: "custom"
   model: "custom"
+  source: "https://www.hypercubic.ai/contact"
 sources:
   - "https://siliconangle.com/2026/08/18/hypercubic-raises-5-3m-map-rewrite-legacy-cobol-apps-ai-agents/"
   - "https://www.hypercubic.ai/"
   - "https://www.hypercubic.ai/company"
   - "https://www.hypercubic.ai/terms"
   - "https://www.hypercubic.ai/privacy"
+  - "https://www.hypercubic.ai/contact"
 last_verified: "2026-10-30"

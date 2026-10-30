@@ -21,9 +21,6 @@ funding:
     date: "2026-02"
     amount_usd: 45000000
   source: "https://fortune.com/2026/02/25/exclusive-solveai-eight-months-raises-50-million-ai-coding-tool-race/"
-pricing:
-  as_listed_by_vendor: "custom"
-  model: "custom"
 sources:
   - "https://fortune.com/2026/02/25/exclusive-solveai-eight-months-raises-50-million-ai-coding-tool-race/"
   - "https://solve.ai/"

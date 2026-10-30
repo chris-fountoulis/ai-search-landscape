@@ -26,6 +26,7 @@ funding:
 pricing:
   as_listed_by_vendor: "custom"
   model: "custom"
+  source: "https://www.pigment.com/contact"
 sources:
   - "https://www.maddyness.com/2026/10/21/pigment-leve-250-millions-de-dollars-avec-nvidia-au-tour-de-table/"
   - "https://www.pigment.com/legal-notices"
@@ -33,4 +34,5 @@ sources:
   - "https://www.pigment.com/newsroom"
   - "https://tech.eu/2026/10/21/scaleup-europe-fund-leads-ps250m-funding-round-in-pigment//"
   - "https://thenextweb.com/news/pigment-250m-series-e-scaleup-europe-fund"
+  - "https://www.pigment.com/contact"
 last_verified: "2026-10-30"

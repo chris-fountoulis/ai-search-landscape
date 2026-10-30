@@ -19,9 +19,6 @@ funding:
     date: "2023-03"
     amount_usd: 40000000
   source: "https://techcrunch.com/2023/03/29/blockchain-startup-fetch-ai-grabs-40m-to-provide-monetization-and-other-tooling-for-ai-generated-information/"
-pricing:
-  as_listed_by_vendor: "custom"
-  model: "custom"
 sources:
   - "https://techcrunch.com/2023/03/29/blockchain-startup-fetch-ai-grabs-40m-to-provide-monetization-and-other-tooling-for-ai-generated-information/"
   - "https://fetch.ai/"

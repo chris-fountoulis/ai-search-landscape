@@ -15,9 +15,11 @@ status: "active"
 pricing:
   as_listed_by_vendor: "custom"
   model: "custom"
+  source: "https://www.uplodio.com/contact"
 sources:
   - "https://www.uplodio.com/terms-of-use"
   - "https://www.uplodio.com/"
   - "https://startupper.gr/news/175646/konstantinos-ketselidis-uplodio-i-omada-mas-echei-tis-ikanotites-na-ftiaxei-kati-megalo/"
   - "https://startupper.gr/ai/240338/"
+  - "https://www.uplodio.com/contact"
 last_verified: "2026-10-30"

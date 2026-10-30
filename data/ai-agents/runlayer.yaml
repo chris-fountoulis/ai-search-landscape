@@ -24,9 +24,11 @@ funding:
 pricing:
   as_listed_by_vendor: "custom"
   model: "custom"
+  source: "https://www.runlayer.com/book-a-demo?utm_source=vanity&utm_medium=redirect&utm_campaign=contact"
 sources:
   - "https://www.runlayer.com/blog/series-A-30m-fundraise-felicis-khosla"
   - "https://techcrunch.com/2025/11/17/mcp-ai-agent-security-startup-runlayer-launches-with-8-unicorns-11m-from-khoslas-keith-rabois-and-felicis/"
   - "https://techcrunch.com/2026/08/20/runlayer-rippling-drop-lawsuits-but-the-brouhaha-is-still-a-cautionary-tale-for-founders/"
   - "https://www.runlayer.com/about"
+  - "https://www.runlayer.com/book-a-demo?utm_source=vanity&utm_medium=redirect&utm_campaign=contact"
 last_verified: "2026-10-30"

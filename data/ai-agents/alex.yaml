@@ -25,10 +25,12 @@ funding:
 pricing:
   as_listed_by_vendor: "custom"
   model: "custom"
+  source: "https://www.alex.com/demo"
 sources:
   - "https://www.alex.com/blog/we-raised-20m-to-help-ai-hire-more-humans"
   - "https://www.alex.com/terms-of-service"
   - "https://techcrunch.com/2025/09/29/ai-recruiter-alex-raises-17m-to-automate-initial-job-interviews/"
   - "https://www.alex.com/newsroom"
   - "https://www.ycombinator.com/companies/alex-com"
+  - "https://www.alex.com/demo"
 last_verified: "2026-10-30"

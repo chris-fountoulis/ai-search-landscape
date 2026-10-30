@@ -24,10 +24,12 @@ funding:
 pricing:
   as_listed_by_vendor: "custom"
   model: "per seat"
+  source: "https://outreach.io/request-demo"
 sources:
   - "https://www.outreach.ai/company/about"
   - "https://www.outreach.ai/terms"
   - "https://www.outreach.ai/pricing"
   - "https://salestechstar.com/proactive-sales-engagement/outreach-closes-200-million-round-4-4-billion-valuation-for-sales-engagement-category-leader/"
   - "https://www.outreach.ai/resources/blog/series-e"
+  - "https://outreach.io/request-demo"
 last_verified: "2026-10-30"

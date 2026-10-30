@@ -12,11 +12,13 @@ hq:
 status: "active"
 public_company: true
 pricing:
-  as_listed_by_vendor: "custom"
+  as_listed_by_vendor: "usage-based: 1,000 transactions a month at no charge, then $0.001 per transaction (as listed)"
   model: "usage or credits"
+  source: "https://docs.cdp.coinbase.com/x402/core-concepts/facilitator"
 sources:
   - "https://techcrunch.com/2026/06/11/coinbase-debuts-mcp-for-agent-trading/"
   - "https://docs.cdp.coinbase.com/x402/seller/facilitator.md"
   - "https://x402.org/"
   - "https://github.com/coinbase/agentkit"
-last_verified: "2026-10-29"
+  - "https://docs.cdp.coinbase.com/x402/core-concepts/facilitator"
+last_verified: "2026-10-30"

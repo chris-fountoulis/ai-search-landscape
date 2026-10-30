@@ -24,10 +24,12 @@ funding:
 pricing:
   as_listed_by_vendor: "custom"
   model: "custom"
+  source: "https://numa.com/demo"
 sources:
   - "https://techcrunch.com/2024/10/01/numa-is-bringing-ai-and-automation-to-car-dealerships/"
   - "https://siliconangle.com/2024/10/01/numa-raises-32m-develop-ai-tools-car-dealerships/"
   - "https://numa.com/terms"
   - "https://numa.com/press"
   - "https://numa.com/about"
+  - "https://numa.com/demo"
 last_verified: "2026-10-30"

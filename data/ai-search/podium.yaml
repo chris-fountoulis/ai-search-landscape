@@ -21,8 +21,10 @@ funding:
   source: "https://sacra.com/c/podium"
 pricing:
   as_listed_by_vendor: "custom"
+  source: "https://www.podium.com/pricing"
 sources:
   - "https://summitpartners.com/news/podium-raises-201m-in-series-d-funding-to-accelerate-the-digital-evolution-for-local-businesses"
   - "https://sacra.com/c/podium"
   - "https://www.retailtouchpoints.com/topics/customer-experience/podium-raises-201-million-in-latest-funding-round"
+  - "https://www.podium.com/pricing"
 last_verified: "2026-10-30"

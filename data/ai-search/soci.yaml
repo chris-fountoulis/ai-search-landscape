@@ -17,9 +17,11 @@ funding:
   source: "https://www.jmi.com/soci-raises-120m-accelerates-vision-of-redefining-marketing-software/"
 pricing:
   as_listed_by_vendor: "custom (sales-only)"
+  source: "https://www.soci.ai/pricing/"
 sources:
   - "https://www.jmi.com/soci-raises-120m-accelerates-vision-of-redefining-marketing-software/"
   - "https://www.fsrmagazine.com/industry-news/marketing-platform-soci-raises-120m/"
   - "https://multiples.vc/private-comps/soci"
   - "https://www.soci.ai/"
+  - "https://www.soci.ai/pricing/"
 last_verified: "2026-10-30"

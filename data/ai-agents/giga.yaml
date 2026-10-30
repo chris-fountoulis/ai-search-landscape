@@ -25,6 +25,7 @@ funding:
 pricing:
   as_listed_by_vendor: "custom"
   model: "custom"
+  source: "https://giga.ai/contact"
 sources:
   - "https://giga.ai/news/series-a"
   - "https://www.redpoint.com/companies/giga/"
@@ -32,4 +33,5 @@ sources:
   - "https://techcrunch.com/2023/12/28/giga-ml-wants-to-help-companies-deploy-llms-offline/"
   - "https://www.ycombinator.com/companies/giga"
   - "https://inc42.com/buzz/giga-nets-61-mn-to-build-ai-voice-agents-for-customer-care-centres/"
+  - "https://giga.ai/contact"
 last_verified: "2026-10-30"

@@ -21,8 +21,10 @@ funding:
   source: "https://www.botify.com/about"
 pricing:
   as_listed_by_vendor: "custom"
+  source: "https://www.botify.com/demo-request"
 sources:
   - "https://venturebeat.com/business/seo-optimization-platform-botify-lands-55m"
   - "https://www.botify.com/about"
   - "https://www.botify.com/?p=4404"
+  - "https://www.botify.com/demo-request"
 last_verified: "2026-10-30"

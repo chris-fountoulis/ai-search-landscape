@@ -24,6 +24,7 @@ funding:
 pricing:
   as_listed_by_vendor: "custom"
   model: "custom"
+  source: "https://www.infinitus.ai/contact/"
 sources:
   - "https://www.healthcareittoday.com/2024/11/25/infinitus-systems-raises-51-5-million-series-c-funding-on-the-strength-of-ai-guardrails/"
   - "https://techcrunch.com/2021/02/04/infinitus-emerges-from-stealth-with-21m-for-voice-rpa-aimed-at-healthcare-companies/"
@@ -31,4 +32,5 @@ sources:
   - "https://web.archive.org/web/2026id_/https://www.infinitus.ai/pricing/"
   - "https://web.archive.org/web/2026id_/https://www.infinitus.ai/about-us/"
   - "https://pulse2.com/infinitus-systems-profile-ankit-jain-interview/amp/"
+  - "https://www.infinitus.ai/contact/"
 last_verified: "2026-10-30"

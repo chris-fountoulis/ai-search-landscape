@@ -23,9 +23,11 @@ funding:
 pricing:
   as_listed_by_vendor: "custom"
   model: "custom"
+  source: "https://kore.ai/contact-us"
 sources:
   - "https://techcrunch.com/2024/01/30/kore-ai-a-startup-building-conversational-ai-for-enterprises-raises-150m/"
   - "https://www.kore.ai/about"
   - "https://www.kore.ai/terms-of-service"
   - "https://siliconangle.com/2026/10/07/kore-ai-launches-autoloop-to-keep-tuning-enterprise-ai-agents-after-they-go-live/"
+  - "https://kore.ai/contact-us"
 last_verified: "2026-10-30"

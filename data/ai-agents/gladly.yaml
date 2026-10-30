@@ -15,9 +15,11 @@ status: "active"
 pricing:
   as_listed_by_vendor: "custom"
   model: "custom"
+  source: "https://www.gladly.ai/contact"
 sources:
   - "https://www.gladly.ai/terms-of-service/"
   - "https://www.nea.com/portfolio/gladly"
   - "https://www.gladly.ai/about-us/"
   - "https://www.gladly.ai/"
+  - "https://www.gladly.ai/contact"
 last_verified: "2026-10-30"

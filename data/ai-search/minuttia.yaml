@@ -11,7 +11,9 @@ hq:
 status: "active"
 pricing:
   as_listed_by_vendor: "custom"
+  source: "https://minuttia.com/lets-talk"
 sources:
   - "https://minuttia.com/"
   - "https://themanifest.com/company/minuttia"
-last_verified: "2026-10-26"
+  - "https://minuttia.com/lets-talk"
+last_verified: "2026-10-30"

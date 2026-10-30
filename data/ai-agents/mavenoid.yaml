@@ -23,10 +23,12 @@ funding:
 pricing:
   as_listed_by_vendor: "custom"
   model: "custom"
+  source: "https://www.mavenoid.com/en/request-demo"
 sources:
   - "https://techcrunch.com/2022/08/30/mavenoid-which-automates-technical-support-and-onboarding-for-hardware-companies-raises-30m/"
   - "https://www.mavenoid.com/en/about"
   - "https://www.mavenoid.com/en/privacy/privacy-policy"
   - "https://www.mavenoid.com/en/press"
   - "https://www.mavenoid.com/en"
+  - "https://www.mavenoid.com/en/request-demo"
 last_verified: "2026-10-30"

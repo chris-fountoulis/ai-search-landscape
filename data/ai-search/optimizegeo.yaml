@@ -16,10 +16,12 @@ funding:
     name: "Pre-Series A"
   source: "https://alpha-maven.com/story/venture-capital/optimizegeo-closes-funding-finsmes"
 pricing:
-  as_listed_by_vendor: "custom"
+  as_listed_by_vendor: "$499 to $1,999 (12-month minimum); Custom from $4,999"
+  source: "https://www.optimizegeo.ai/pricing"
 sources:
   - "https://www.adweek.com/dealroom/michael-kassan-invests-in-80m-startup-optimizegeo/"
   - "https://dealroom.co/news/158294-kassan-backs-geo-startup-optimizegeo-at-80m-valuation/"
   - "https://alpha-maven.com/story/venture-capital/optimizegeo-closes-funding-finsmes"
   - "https://optimizegeo.ai/privacy-policy"
+  - "https://www.optimizegeo.ai/pricing"
 last_verified: "2026-10-30"

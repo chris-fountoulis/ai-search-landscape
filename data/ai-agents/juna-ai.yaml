@@ -24,8 +24,10 @@ funding:
 pricing:
   as_listed_by_vendor: "custom"
   model: "custom"
+  source: "https://juna.ai/get-in-touch"
 sources:
   - "https://techcrunch.com/2024/11/18/juna-ai-wants-to-use-ai-agents-to-make-factories-more-energy-efficient/"
   - "https://juna.ai/imprint"
   - "https://juna.ai/"
+  - "https://juna.ai/get-in-touch"
 last_verified: "2026-10-30"

@@ -24,8 +24,6 @@ acquisition:
   date: "2026-07"
   date_type: "announced"
   source: "https://blackbird.vc/blog/when-two-portfolio-companies-join-forces-tracksuit-acquires-hall"
-pricing:
-  as_listed_by_vendor: "n/a (folded into Tracksuit)"
 sources:
   - "https://www.bandt.com.au/tracksuit-acquires-ai-brand-monitoring-startup-hall/"
   - "https://direct.businessnewsaustralia.com/articles/blackbird-tips--2m-into-sydney-startup-that-measures-brand-performance-in-ai-search.html"

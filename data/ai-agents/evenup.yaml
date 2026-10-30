@@ -25,9 +25,11 @@ funding:
 pricing:
   as_listed_by_vendor: "custom"
   model: "custom"
+  source: "https://www.evenuplaw.com/contact"
 sources:
   - "https://fortune.com/2025/10/07/exclusive-evenup-raises-150-million-series-e-at-2-billion-valuation-as-ai-reshapes-personal-injury-law/"
   - "https://www.evenuplaw.com/terms-and-conditions/"
   - "https://www.evenuplaw.com/about/"
   - "https://www.evenuplaw.com/newsroom/"
+  - "https://www.evenuplaw.com/contact"
 last_verified: "2026-10-30"

@@ -13,7 +13,9 @@ hq:
 status: "active"
 pricing:
   as_listed_by_vendor: "custom"
+  source: "https://www.advengers.gr/pricing"
 sources:
   - "https://writesonic.com/customers/advengers"
   - "https://www.advengers.gr"
+  - "https://www.advengers.gr/pricing"
 last_verified: "2026-10-30"

@@ -23,9 +23,11 @@ funding:
 pricing:
   as_listed_by_vendor: "custom"
   model: "custom"
+  source: "https://www.token.security/book-a-demo"
 sources:
   - "https://www.prnewswire.com/news-releases/token-security-raises-20m-to-secure-enterprises-machine-identities--from-legacy-applications-to-ai-agents-302361620.html"
   - "https://techcrunch.com/2025/01/27/hackers-are-targeting-machine-identities-token-security-just-raised-20m-to-stop-them/"
   - "https://www.token.security/legal/terms-of-use"
   - "https://www.token.security/news"
+  - "https://www.token.security/book-a-demo"
 last_verified: "2026-10-30"

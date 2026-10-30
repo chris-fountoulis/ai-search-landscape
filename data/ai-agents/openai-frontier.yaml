@@ -24,9 +24,11 @@ funding:
 pricing:
   as_listed_by_vendor: "custom"
   model: "custom"
+  source: "https://openai.com/contact-sales/"
 sources:
   - "https://developers.openai.com/api/docs/guides/agent-builder"
   - "https://news.bloomberglaw.com/tech-and-telecom-law/openai-valued-at-852-billion-after-closing-122-billion-round"
   - "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/"
   - "https://openai.com/our-structure/"
+  - "https://openai.com/contact-sales/"
 last_verified: "2026-10-30"

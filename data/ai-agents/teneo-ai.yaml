@@ -16,10 +16,12 @@ public_company: true
 pricing:
   as_listed_by_vendor: "custom"
   model: "custom"
+  source: "https://www.teneo.ai/contact"
 sources:
   - "https://www.teneo.ai/privacy-policy"
   - "https://www.teneo.ai/about-us"
   - "https://www.teneo.ai/investors"
   - "https://www.teneo.ai/investors/financial-information/financial-reports"
   - "https://tech.eu/2018/10/08/swedish-conversational-ai-startup-artificial-solutions-raises-e13-6-million/"
+  - "https://www.teneo.ai/contact"
 last_verified: "2026-10-30"

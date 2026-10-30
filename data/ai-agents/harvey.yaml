@@ -26,9 +26,11 @@ funding:
 pricing:
   as_listed_by_vendor: "custom"
   model: "custom"
+  source: "https://www.harvey.ai/contact-sales"
 sources:
   - "https://www.harvey.ai/blog/harvey-raises-dollar550m-at-a-dollar155b-valuation-to-help-legal-teams-own-their-intelligence"
   - "https://techcrunch.com/2026/09/09/harvey-hits-15-5b-valuation-months-after-reaching-11b/"
   - "https://www.harvey.ai/legal/terms-of-service"
   - "https://www.harvey.ai/company"
+  - "https://www.harvey.ai/contact-sales"
 last_verified: "2026-10-30"

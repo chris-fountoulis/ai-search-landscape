@@ -25,9 +25,11 @@ funding:
 pricing:
   as_listed_by_vendor: "custom"
   model: "custom"
+  source: "https://sema4.ai/pricing/"
 sources:
   - "https://siliconangle.com/2025/06/04/sema4-ai-raises-25m-funding-ai-agent-platform/"
   - "https://siliconangle.com/2024/01/29/ai-startup-sema4-ai-led-former-cloudera-ceo-rob-bearden-raises-30-5m/"
   - "https://siliconangle.com/2026/06/02/sema4-ais-autonomous-agent-building-platform-gets-simpler-use-adds-deeper-business-context/"
   - "https://sema4.ai/privacy-policy/"
+  - "https://sema4.ai/pricing/"
 last_verified: "2026-10-30"

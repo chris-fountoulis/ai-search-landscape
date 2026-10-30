@@ -13,7 +13,9 @@ hq:
 status: "active"
 pricing:
   as_listed_by_vendor: "custom"
+  source: "https://avenuez.com/contact-us"
 sources:
   - "https://avenuez.com/?p=43036"
   - "https://www.businesswire.com/news/home/20250916483295/en/PR-Influence-Impact-Avenue-Z-Expands-NYC-Office-to-Match-Strategic-Communications-AI-Optimization-Demand"
+  - "https://avenuez.com/contact-us"
 last_verified: "2026-10-30"

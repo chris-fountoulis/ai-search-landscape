@@ -11,7 +11,9 @@ hq:
 status: "active"
 pricing:
   as_listed_by_vendor: "custom"
+  source: "https://www.tenspeed.io/contact-us"
 sources:
   - "https://www.tenspeed.io/"
   - "https://metaflow.life/blog/best-ai-native-marketing-agencies-for-seed-stage-startups"
-last_verified: "2026-10-26"
+  - "https://www.tenspeed.io/contact-us"
+last_verified: "2026-10-30"

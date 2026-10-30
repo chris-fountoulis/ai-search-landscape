@@ -25,6 +25,7 @@ funding:
 pricing:
   as_listed_by_vendor: "custom"
   model: "custom"
+  source: "https://gradial.com/demo"
 sources:
   - "https://gradial.com/blog/gradial-65m-series-c"
   - "https://siliconangle.com/2026/06/18/agentic-marketing-ai-startup-gradial-grabs-65m-fresh-funding/"
@@ -32,4 +33,5 @@ sources:
   - "https://gradial.com/terms-of-service"
   - "https://www.madrona.com/portfolio/"
   - "https://thenextweb.com/news/gradial-65m-series-c-agentic-enterprise-marketing"
+  - "https://gradial.com/demo"
 last_verified: "2026-10-30"

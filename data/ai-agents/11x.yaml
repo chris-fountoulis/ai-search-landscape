@@ -25,9 +25,11 @@ funding:
 pricing:
   as_listed_by_vendor: "custom"
   model: "custom"
+  source: "https://www.11x.ai/demo"
 sources:
   - "https://www.11x.ai/about-us"
   - "https://techcrunch.com/2024/09/16/ai-digital-employee-startup-11xai-raises-24m-led-by-benchmark/"
   - "https://www.intelligentcio.com/north-america/?p=41417"
   - "https://techcrunch.com/2025/03/24/a16z-and-benchmark-backed-11x-has-been-claiming-customers-it-doesnt-have"
+  - "https://www.11x.ai/demo"
 last_verified: "2026-10-30"

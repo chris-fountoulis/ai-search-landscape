@@ -18,7 +18,9 @@ funding:
   source: "https://techcrunch.com/2013/06/11/brightedge-series-d/"
 pricing:
   as_listed_by_vendor: "custom"
+  source: "https://www.brightedge.com/requestademo"
 sources:
   - "https://techcrunch.com/2013/06/11/brightedge-series-d/"
   - "https://www.brightedge.com/news/press-releases/brightedge-and-oncrawl-join-forces"
+  - "https://www.brightedge.com/requestademo"
 last_verified: "2026-10-30"

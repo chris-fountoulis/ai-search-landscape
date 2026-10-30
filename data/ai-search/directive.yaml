@@ -13,8 +13,10 @@ hq:
 status: "active"
 pricing:
   as_listed_by_vendor: "custom"
+  source: "https://directiveconsulting.com/book-intro-call/"
 sources:
   - "https://www.globenewswire.com/news-release/2026/09/09/3358512/0/en/directive-launches-expanded-communications-division-bringing-performance-principles-to-b2b-pr-social-and-influencer-marketing.html"
   - "https://www.adweek.com/?p=1959057"
   - "https://directiveconsulting.com/about/our-story/"
+  - "https://directiveconsulting.com/book-intro-call/"
 last_verified: "2026-10-30"

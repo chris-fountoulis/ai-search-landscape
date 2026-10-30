@@ -20,9 +20,11 @@ funding:
     name: "Seed"
   source: "https://www.financemagnates.com/fintech/ig-group-alumni-raise-12-million-for-ai-search-startup/"
 pricing:
-  as_listed_by_vendor: "not public (free trial, contact sales)"
+  as_listed_by_vendor: "usage-based, from GBP 98 (as listed)"
+  source: "https://obsero.ai/pricing"
 sources:
   - "https://dealroom.co/news/161930-obsero-raises-1-2m-to-help-brands-track-citations-across-ai-search/"
   - "https://www.financemagnates.com/fintech/ig-group-alumni-raise-12-million-for-ai-search-startup/"
   - "https://www.obsero.ai/"
+  - "https://obsero.ai/pricing"
 last_verified: "2026-10-30"

@@ -24,9 +24,11 @@ funding:
 pricing:
   as_listed_by_vendor: "custom"
   model: "custom"
+  source: "https://blockbrain.ai/en/contact"
 sources:
   - "https://www.starting-up.de/news/news-investments/blockbrain-sichert-sich-175-mio-euro-in-series-a-runde.html"
   - "https://blockbrain.ai/impressum"
   - "https://blockbrain.ai/presse"
   - "https://www.thesaasnews.com/news/blockbrain-raises-17-5-million-in-series-a"
+  - "https://blockbrain.ai/en/contact"
 last_verified: "2026-10-30"

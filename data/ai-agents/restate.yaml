@@ -28,7 +28,7 @@ funding:
 pricing:
   as_listed_by_vendor: "from $75 (as listed)"
   model: "usage or credits"
-  source: "https://restate.dev/imprint"
+  source: "https://restate.dev/cloud"
 sources:
   - "https://techcrunch.com/2026/09/30/restate-lands-20m-as-the-need-for-durable-infrastructure-increases-with-ai-agents/"
   - "https://techcrunch.com/2024/06/12/restate-raises-7m-for-its-lightweight-workflows-as-code-platform/"

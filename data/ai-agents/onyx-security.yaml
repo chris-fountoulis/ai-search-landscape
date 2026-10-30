@@ -24,10 +24,12 @@ funding:
 pricing:
   as_listed_by_vendor: "custom"
   model: "custom"
+  source: "https://www.onyx.security/contact-us"
 sources:
   - "https://en.globes.co.il/en/article-israeli-ai-security-co-onyx-security-raises-113m-1001550885"
   - "https://www.calcalistech.com/ctechnews/article/b1fsjydszg"
   - "https://www.onyx.security/press-release/onyx-security-raises-113m-series-b-to-control-advanced-ai-quadrupling-revenue-since-stealth-launch-four-months-ago"
   - "https://www.onyx.security/newsroom"
   - "https://www.onyx.security/terms-of-use"
+  - "https://www.onyx.security/contact-us"
 last_verified: "2026-10-30"

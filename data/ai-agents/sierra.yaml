@@ -28,10 +28,12 @@ funding:
 pricing:
   as_listed_by_vendor: "custom"
   model: "custom"
+  source: "https://sierra.ai/learn-more"
 sources:
   - "https://techcrunch.com/2026/05/04/sierra-raises-950m-as-the-race-to-own-enterprise-ai-gets-serious/"
   - "https://techcrunch.com/2025/09/04/bret-taylors-sierra-raises-350m-at-a-10b-valuation/"
   - "https://sierra.ai/blog/year-two-in-review"
   - "https://sierra.ai/terms-and-conditions"
   - "https://sierra.ai/about"
+  - "https://sierra.ai/learn-more"
 last_verified: "2026-10-30"

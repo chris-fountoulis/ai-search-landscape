@@ -16,7 +16,9 @@ founded:
 status: "active"
 pricing:
   as_listed_by_vendor: "custom (free audit)"
+  source: "https://kalicube.com/about/contact/"
 sources:
   - "https://kalicube.com/about/kalicube-head-office/"
   - "https://kalicube.com/about/"
+  - "https://kalicube.com/about/contact/"
 last_verified: "2026-10-30"

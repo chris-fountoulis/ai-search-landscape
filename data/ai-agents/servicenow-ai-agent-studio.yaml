@@ -12,7 +12,9 @@ public_company: true
 pricing:
   as_listed_by_vendor: "custom"
   model: "custom"
+  source: "https://www.servicenow.com/contact-us.html"
 sources:
   - "https://siliconangle.com/2026/09/28/servicenow-ties-agent-containment-business-context-oktane/"
   - "https://www.servicenow.com/products/ai-agents.html"
-last_verified: "2026-10-29"
+  - "https://www.servicenow.com/contact-us.html"
+last_verified: "2026-10-30"

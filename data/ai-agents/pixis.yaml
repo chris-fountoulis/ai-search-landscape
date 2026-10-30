@@ -22,9 +22,11 @@ funding:
 pricing:
   as_listed_by_vendor: "custom"
   model: "custom"
+  source: "https://pixis.ai/contact"
 sources:
   - "https://techcrunch.com/2023/09/14/pixis-an-ai-powered-full-stack-marketing-platform-raises-85m/"
   - "https://pixis.ai/about/"
   - "https://pixis.ai/privacy-policy/"
   - "https://pixis.ai/products/prism/"
+  - "https://pixis.ai/contact"
 last_verified: "2026-10-30"

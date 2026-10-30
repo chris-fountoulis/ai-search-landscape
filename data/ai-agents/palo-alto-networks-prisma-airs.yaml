@@ -16,8 +16,10 @@ public_company: true
 pricing:
   as_listed_by_vendor: "custom"
   model: "custom"
+  source: "https://www.paloaltonetworks.com/company/contact-support"
 sources:
   - "https://www.paloaltonetworks.com/ai-security/prisma-airs"
   - "https://siliconangle.com/2026/09/24/ai-agent-security-palo-alto-networks-googlecloudaiagentsinaction/"
   - "https://www.paloaltonetworks.com/legal-notices/terms-of-use"
+  - "https://www.paloaltonetworks.com/company/contact-support"
 last_verified: "2026-10-30"

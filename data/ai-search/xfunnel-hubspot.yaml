@@ -14,9 +14,7 @@ acquisition:
   date: "2025-10"
   date_type: "announced"
   source: "https://www.hubspot.com/company-news/hubspot-to-acquire-xfunnel"
-pricing:
-  as_listed_by_vendor: "not sold separately (now HubSpot AEO)"
 sources:
   - "https://www.hubspot.com/company-news/hubspot-to-acquire-xfunnel"
   - "https://ppc.land/hubspot-acquires-xfunnel-to-strengthen-answer-engine-optimization/"
-last_verified: "2026-10-26"
+last_verified: "2026-10-30"

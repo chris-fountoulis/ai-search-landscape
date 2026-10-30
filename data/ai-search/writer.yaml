@@ -21,10 +21,12 @@ funding:
   source: "https://techcrunch.com/2024/11/12/generative-ai-startup-writer-raises-200m-at-a-1-9b-valuation/"
 pricing:
   as_listed_by_vendor: "custom (Starter per seat, price not shown)"
+  source: "https://writer.com/plans/"
 sources:
   - "https://techcrunch.com/2024/11/12/generative-ai-startup-writer-raises-200m-at-a-1-9b-valuation/"
   - "https://www.businesswire.com/news/home/20241112482564/en/Writer-Raises-200M-Series-C-at-1.9B-Valuation-to-Fuel-Leadership-in-Agentic-Enterprise-AI"
   - "https://www.forbes.com/sites/rashishrivastava/2024/11/12/ai-startup-writer-nabs-a-19-billion-valuation-to-become-a-super-app-for-enterprises/"
   - "https://getcoai.com/news/ai-startup-writer-secures-1-9b-valuation-for-enterprise-super-app"
   - "https://writer.com/company/"
+  - "https://writer.com/plans/"
 last_verified: "2026-10-30"

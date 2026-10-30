@@ -12,8 +12,10 @@ founded:
 status: "active"
 pricing:
   as_listed_by_vendor: "custom"
+  source: "https://www.siegemedia.com/contact"
 sources:
   - "https://siegemedia.com/team"
   - "https://ghost.bitscale.ai/siege-media/"
   - "https://www.siegemedia.com/"
+  - "https://www.siegemedia.com/contact"
 last_verified: "2026-10-30"

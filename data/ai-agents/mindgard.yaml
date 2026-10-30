@@ -24,6 +24,7 @@ funding:
 pricing:
   as_listed_by_vendor: "custom"
   model: "custom"
+  source: "https://mindgard.ai/contact-us"
 sources:
   - "https://techcrunch.com/2024/12/20/british-university-spinoff-mindgard-protects-companies-from-ai-threats/"
   - "https://mindgard.ai/terms-and-conditions"

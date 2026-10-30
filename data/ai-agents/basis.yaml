@@ -21,9 +21,11 @@ funding:
 pricing:
   as_listed_by_vendor: "custom"
   model: "custom"
+  source: "https://www.getbasis.ai/"
 sources:
   - "https://www.cpapracticeadvisor.com/2026/02/24/basis-raises-100-million-to-deploy-ai-agents-for-accounting-firms/178759/"
   - "https://www.getbasis.ai/legal/website-terms"
   - "https://www.getbasis.ai/legal/privacy-policy"
   - "https://www.bloomberg.com/news/articles/2026-02-24/ai-for-accounting-startup-basis-hits-1-15-billion-valuation"
+  - "https://www.getbasis.ai/"
 last_verified: "2026-10-30"

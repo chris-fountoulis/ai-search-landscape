@@ -25,10 +25,12 @@ funding:
 pricing:
   as_listed_by_vendor: "custom"
   model: "custom"
+  source: "https://www.eve.legal/demo"
 sources:
   - "https://www.artificiallawyer.com/2025/09/30/eve-bags-103m-hits-1bn-valuation/"
   - "https://www.eve.legal/press"
   - "https://www.eve.legal/eve-enterprise-terms"
   - "https://www.legal.io/articles/5738408/AI-Startup-Eve-Reaches-1B-Valuation-With-New-Funding-Round"
   - "https://www.eve.legal/blogs/the-dawn-of-a-new-era-in-plaintiff-law-eve-secures-47m-series-a"
+  - "https://www.eve.legal/demo"
 last_verified: "2026-10-30"

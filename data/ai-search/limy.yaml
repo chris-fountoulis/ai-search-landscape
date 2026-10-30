@@ -21,7 +21,9 @@ funding:
   source: "https://www.superbcrew.com/limy-raises-10m-in-funding-led-by-flybridge/"
 pricing:
   as_listed_by_vendor: "custom"
+  source: "https://limy.ai/contact-us"
 sources:
   - "https://www.superbcrew.com/limy-raises-10m-in-funding-led-by-flybridge/"
   - "https://finder.startupnationcentral.org/company_page/limy-ai"
+  - "https://limy.ai/contact-us"
 last_verified: "2026-10-30"

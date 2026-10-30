@@ -16,8 +16,10 @@ public_company: true
 pricing:
   as_listed_by_vendor: "custom"
   model: "custom"
+  source: "https://www.palantir.com/contact"
 sources:
   - "https://coloradosun.com/2026/02/17/palantir-leaving-denver-moving-miami/"
   - "https://www.palantir.com/platforms/aip/"
   - "https://techcrunch.com/2025/10/23/palantir-enters-200m-partnership-with-telco-lumen-for-enterprise-ai-services/"
+  - "https://www.palantir.com/contact"
 last_verified: "2026-10-30"

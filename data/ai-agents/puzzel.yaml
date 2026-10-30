@@ -18,10 +18,12 @@ status: "active"
 pricing:
   as_listed_by_vendor: "custom"
   model: "custom"
+  source: "https://www.puzzel.com/contact"
 sources:
   - "https://www.puzzel.com/about"
   - "https://investors.puzzel.com/en/puzzel-noterar-obligationer-pa-nasdaq-driver-fortsatt-expansion/"
   - "https://www.puzzel.com/products/virtual-agent-suite"
   - "https://www.puzzel.com/packages"
   - "https://www.callcentrehelper.com/puzzel-launch-ai-virtual-agent-suite-251042.htm"
+  - "https://www.puzzel.com/contact"
 last_verified: "2026-10-30"

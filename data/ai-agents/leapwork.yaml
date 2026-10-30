@@ -24,6 +24,7 @@ funding:
 pricing:
   as_listed_by_vendor: "custom"
   model: "custom"
+  source: "https://leapwork.com/quote/"
 sources:
   - "https://techcrunch.com/2021/08/26/no-code-process-automation-platform-leapwork-fires-up-with-62m-series-b/"
   - "https://leapwork.com/impressum/"

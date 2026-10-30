@@ -24,6 +24,7 @@ funding:
 pricing:
   as_listed_by_vendor: "custom"
   model: "custom"
+  source: "https://www.assorthealth.com/contact-us"
 sources:
   - "https://www.assorthealth.com/press/senior-executives-from-samsara-luma-health-and-gusto-join-assort-health-following-222m-in-funding"
   - "https://www.assorthealth.com/about-us"
@@ -31,4 +32,5 @@ sources:
   - "https://www.healthcareittoday.com/2026/07/06/assort-health-raises-120-million-series-c-telepatia-raises-33-million-series-a/"
   - "https://www.forbes.com/sites/amyfeldman/2026/06/24/these-29-year-olds-ai-chatbot-for-scheduling-doctor-visits-is-now-worth-12-billion/"
   - "https://fortune.com/2025/09/30/exclusive-assort-health-raises-76-million-series-b-to-build-on-voice-ai-healthcare-platform/"
+  - "https://www.assorthealth.com/contact-us"
 last_verified: "2026-10-30"

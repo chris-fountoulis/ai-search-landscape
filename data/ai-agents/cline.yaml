@@ -22,7 +22,7 @@ funding:
 pricing:
   as_listed_by_vendor: "from $9.99 (as listed)"
   model: "flat"
-  source: "https://cline.bot/pricing"
+  source: "https://cline.bot/cline-pass"
 sources:
   - "https://cline.bot/blog/cline-raises-32m-series-a-and-seed-funding-building-the-open-source-ai-coding-agent-that-enterprises-trust"
   - "https://cline.bot/pricing"

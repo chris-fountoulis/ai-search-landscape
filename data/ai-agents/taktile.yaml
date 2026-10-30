@@ -25,9 +25,11 @@ funding:
 pricing:
   as_listed_by_vendor: "custom"
   model: "custom"
+  source: "https://taktile.com/contact"
 sources:
   - "https://taktile.com/blog/taktile-secures-110m-in-goldman-sachs-led-series-c-to-power-ai-transformation-in-financial-institutions"
   - "https://fortune.com/2026/06/24/exclusive-taktile-goldman-sachs-ai-bank-insurance-funding/"
   - "https://taktile.com/imprint"
   - "https://taktile.com/about"
+  - "https://taktile.com/contact"
 last_verified: "2026-10-30"

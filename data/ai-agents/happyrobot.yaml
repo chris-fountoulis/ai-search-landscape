@@ -25,10 +25,12 @@ funding:
 pricing:
   as_listed_by_vendor: "custom"
   model: "custom"
+  source: "https://www.happyrobot.ai/contact"
 sources:
   - "https://www.happyrobot.ai/blog/happyrobot-seriesc-fundraising-announcement"
   - "https://fortune.com/2026/08/04/happyrobot-worth-1-2-billion-founder-says-just-getting-started/"
   - "https://siliconangle.com/2026/08/04/happyrobot-raises-150m-1-2b-valuation-bring-ai-agents-critical-enterprise-work/"
   - "https://www.happyrobot.ai/careers"
   - "https://techcrunch.com/2026/05/02/beyond-lovable-and-mistral-21-european-startups-to-watch/"
+  - "https://www.happyrobot.ai/contact"
 last_verified: "2026-10-30"

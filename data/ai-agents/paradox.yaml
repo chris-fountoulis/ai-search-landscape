@@ -28,6 +28,7 @@ acquisition:
 pricing:
   as_listed_by_vendor: "custom"
   model: "custom"
+  source: "https://www.paradox.ai/contact"
 sources:
   - "https://newsroom.workday.com/2025-10-01-Workday-Completes-Acquisition-of-Paradox"
   - "https://www.orrick.com/en/News/2025/08/AI-Powered-Talent-Acquisition-Workday-to-Acquire-Paradox"
@@ -35,4 +36,5 @@ sources:
   - "https://1worktech.com/exclusive-interview-paradox-team-discusses-its-200m-series-c-round-and-1-5-billion-valuation/"
   - "https://www.paradox.ai/"
   - "https://www.paradox.ai/legal/terms-of-use"
+  - "https://www.paradox.ai/contact"
 last_verified: "2026-10-30"

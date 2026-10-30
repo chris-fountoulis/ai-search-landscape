@@ -14,7 +14,9 @@ status: "active"
 public_company: true
 pricing:
   as_listed_by_vendor: "custom (managed service)"
+  source: "https://localiq.com/demo/"
 sources:
   - "https://www.sec.gov/Archives/edgar/data/1579684/000157968426000008/tdayq42025ex991earningsrel.htm"
   - "https://www.sec.gov/Archives/edgar/data/1579684/000157968426000047/tday-20260630.htm"
+  - "https://localiq.com/demo/"
 last_verified: "2026-10-30"

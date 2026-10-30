@@ -25,8 +25,10 @@ funding:
 pricing:
   as_listed_by_vendor: "custom"
   model: "custom"
+  source: "https://www.actively.ai/demo"
 sources:
   - "https://techcrunch.com/2025/04/02/actively-ai-raises-22-5m-to-offer-sales-superintelligence-says-ai-sdrs-failed/"
   - "https://www.actively.ai/terms"
   - "https://www.actively.ai/"
+  - "https://www.actively.ai/demo"
 last_verified: "2026-10-30"

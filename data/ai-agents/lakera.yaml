@@ -30,9 +30,11 @@ acquisition:
 pricing:
   as_listed_by_vendor: "custom"
   model: "custom"
+  source: "https://platform.lakera.ai/pricing"
 sources:
   - "https://siliconangle.com/2025/09/16/crowdstrike-check-point-extend-ai-security-capabilities-new-acquisitions/"
   - "https://www.lakera.ai/"
   - "https://techcrunch.com/2024/07/24/lakera-which-protects-enterprises-from-llm-vulnerabilities-raises-20m/"
   - "https://techcrunch.com/2023/10/12/lakera-launches-to-protect-large-language-models-from-malicious-prompts/"
+  - "https://platform.lakera.ai/pricing"
 last_verified: "2026-10-30"

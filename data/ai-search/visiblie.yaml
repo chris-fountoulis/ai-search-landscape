@@ -14,9 +14,7 @@ funding:
   latest_round:
     name: "Convertible loan"
   source: "https://tech.eu/2026/07/02/belgian-startup-visiblie-raises-eur500k-for-ai-search-visibility/"
-pricing:
-  as_listed_by_vendor: "not verified"
 sources:
   - "https://tech.eu/2026/07/02/belgian-startup-visiblie-raises-eur500k-for-ai-search-visibility/"
   - "https://www.visiblie.com/"
-last_verified: "2026-10-26"
+last_verified: "2026-10-30"

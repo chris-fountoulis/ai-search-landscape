@@ -25,9 +25,11 @@ funding:
 pricing:
   as_listed_by_vendor: "custom"
   model: "custom"
+  source: "https://www.genow.ai/en/demo"
 sources:
   - "https://www.genow.ai/en/legal-notice/"
   - "https://www.starting-up.de/news/news-investments/genow-darmstaedter-deeptech-start-up-sichert-sich-165-mio-euro.html"
   - "https://www.genow.ai/en/company/"
   - "https://www.genow.ai/en/"
+  - "https://www.genow.ai/en/demo"
 last_verified: "2026-10-30"

@@ -27,6 +27,7 @@ acquisition:
 pricing:
   as_listed_by_vendor: "custom"
   model: "custom"
+  source: "https://www.sinequa.com/contact"
 sources:
   - "https://jolt-capital.com/news/sinequa-acquired-by-chapsvision"
   - "https://tech.eu/2019/07/09/french-ai-tech-company-sinequa-raises-23-million-from-jolt-capital-and-others"
@@ -34,4 +35,5 @@ sources:
   - "https://www.sinequa.com/company/"
   - "https://www.sinequa.com/company/press/"
   - "https://tech-clarity.com/chapsvision-shares-ai-progress/23208"
+  - "https://www.sinequa.com/contact"
 last_verified: "2026-10-30"

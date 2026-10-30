@@ -22,6 +22,7 @@ funding:
 pricing:
   as_listed_by_vendor: "custom"
   model: "custom"
+  source: "https://converzai.com/contact-us"
 sources:
   - "https://www.privateequityinternational.com/ai-driven-hr-platform-converzai-inks-16m-series-a/"
   - "https://converzai.com/contact-us"

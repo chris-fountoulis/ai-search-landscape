@@ -22,8 +22,10 @@ funding:
   source: "https://techcrunch.com/2024/03/11/jan-koum-newlands-vc-superagi-funding-agi-agent-model/"
 pricing:
   as_listed_by_vendor: "custom"
+  source: "https://superagi.com/pricing"
 sources:
   - "https://techcrunch.com/2024/03/11/jan-koum-newlands-vc-superagi-funding-agi-agent-model/"
   - "https://superagi.com/"
   - "https://api.github.com/repos/TransformerOptimus/SuperAGI"
-last_verified: "2026-10-29"
+  - "https://superagi.com/pricing"
+last_verified: "2026-10-30"

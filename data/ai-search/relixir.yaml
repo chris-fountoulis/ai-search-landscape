@@ -18,7 +18,9 @@ funding:
   source: "https://www.einpresswire.com/article/866012958/relixir-announces-oversubscribed-2m-seed-round"
 pricing:
   as_listed_by_vendor: "custom"
+  source: "https://www.relixir.ai/rex"
 sources:
   - "https://www.einpresswire.com/article/866012958/relixir-announces-oversubscribed-2m-seed-round"
   - "https://relixir.ai/"
+  - "https://www.relixir.ai/rex"
 last_verified: "2026-10-30"

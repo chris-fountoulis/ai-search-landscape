@@ -25,9 +25,11 @@ funding:
 pricing:
   as_listed_by_vendor: "custom"
   model: "custom"
+  source: "https://www.lio.ai/demo"
 sources:
   - "https://techcrunch.com/2026/03/05/lio-ai-series-a-a16z-30m-raise-automate-enterprise-procurement/"
   - "https://www.lio.ai/legal/imprint"
   - "https://www.lio.ai/about-us"
   - "https://www.lio.ai/"
+  - "https://www.lio.ai/demo"
 last_verified: "2026-10-30"

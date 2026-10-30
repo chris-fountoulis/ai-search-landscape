@@ -24,6 +24,7 @@ funding:
 pricing:
   as_listed_by_vendor: "custom"
   model: "custom"
+  source: "https://www.observe.ai/press-releases/observe-ai-raises-125m-series-c-to-usher-in-ai-empowered-era-for-contact-centers"
 sources:
   - "https://www.observe.ai/press-releases/observe-ai-raises-125m-series-c-to-usher-in-ai-empowered-era-for-contact-centers"
   - "https://www.observe.ai/about-us"

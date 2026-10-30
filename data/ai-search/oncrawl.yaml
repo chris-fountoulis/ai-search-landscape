@@ -14,6 +14,8 @@ acquisition:
   source: "https://www.brightedge.com/news/press-releases/brightedge-and-oncrawl-join-forces"
 pricing:
   as_listed_by_vendor: "custom (demo only; no pricing page linked)"
+  source: "https://www.oncrawl.com/book-a-demo/"
 sources:
   - "https://www.brightedge.com/news/press-releases/brightedge-and-oncrawl-join-forces"
-last_verified: "2026-10-26"
+  - "https://www.oncrawl.com/book-a-demo/"
+last_verified: "2026-10-30"

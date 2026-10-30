@@ -25,10 +25,12 @@ funding:
 pricing:
   as_listed_by_vendor: "custom"
   model: "custom"
+  source: "https://www.straiker.ai/contact"
 sources:
   - "https://siliconangle.com/2026/06/29/straiker-lands-64m-defend-enterprise-ai-agents-attack/"
   - "https://www.straiker.ai/about"
   - "https://www.straiker.ai/legal/terms-of-service"
   - "https://www.straiker.ai/"
   - "https://www.vcnewsdaily.com/Straiker/venture-capital-funding/rympgkvlkx"
+  - "https://www.straiker.ai/contact"
 last_verified: "2026-10-30"

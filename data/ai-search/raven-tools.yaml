@@ -14,8 +14,6 @@ status: "acquired"
 acquisition:
   acquirer: "TapClicks"
   source: "https://raventools.com/about-us/"
-pricing:
-  as_listed_by_vendor: "not verified"
 sources:
   - "https://martech.org/tapclicks-buys-raven-tools"
   - "https://raventools.com/about-us/"

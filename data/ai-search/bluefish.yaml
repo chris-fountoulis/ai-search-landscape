@@ -23,8 +23,10 @@ funding:
   source: "https://www.thesaasnews.com/news/bluefish-raises-43m-series-b"
 pricing:
   as_listed_by_vendor: "custom"
+  source: "https://www.bluefishai.com/contact"
 sources:
   - "https://www.thesaasnews.com/news/bluefish-raises-43m-series-b"
   - "https://www.alleywatch.com/2026/04/the-alleywatch-startup-daily-funding-report-4-14-2026/"
   - "https://pulse2.com/bluefish-20-million-series-a-raised-for-ai-marketing-platform"
+  - "https://www.bluefishai.com/contact"
 last_verified: "2026-10-30"

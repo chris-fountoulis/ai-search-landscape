@@ -17,8 +17,10 @@ status: "active"
 public_company: true
 pricing:
   as_listed_by_vendor: "custom"
+  source: "https://www.yext.com/contact/sales"
 sources:
   - "https://www.sec.gov/Archives/edgar/data/1614178/000162828026016005/ex991q4fy26earningsrelease.htm"
   - "https://www.nasdaq.com/articles/yext-ceo-withdraws-9-shr-buyout-proposal-plans-150-mln-tender"
   - "https://www.sec.gov/Archives/edgar/data/1614178/000161417818000095/form10-kfy18.htm"
+  - "https://www.yext.com/contact/sales"
 last_verified: "2026-10-30"

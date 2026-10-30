@@ -21,10 +21,12 @@ funding:
 pricing:
   as_listed_by_vendor: "custom"
   model: "custom"
+  source: "https://www.getjust.ai/book-demo"
 sources:
   - "https://pulse2.com/justai-raises-17-million-series-a-to-build-agentic-marketing-platform/"
   - "https://www.thehindubusinessline.com/info-tech/just-words-an-ai-startup-raises-17m-in-seed-funding-from-peak-xv-and-y-combinator/article68572216.ece"
   - "https://getjust.ai/"
   - "https://getjust.ai/about"
   - "https://getjust.ai/privacy-policy"
-last_verified: "2026-10-29"
+  - "https://www.getjust.ai/book-demo"
+last_verified: "2026-10-30"

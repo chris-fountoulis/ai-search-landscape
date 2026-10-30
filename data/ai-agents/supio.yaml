@@ -25,10 +25,12 @@ funding:
 pricing:
   as_listed_by_vendor: "custom"
   model: "custom"
+  source: "https://www.supio.com/request-a-demo"
 sources:
   - "https://www.supio.com/press/supio-announces-60m-series-b-to-accelerate-adoption-of-legal-ai-in-plaintiff-law"
   - "https://techcrunch.com/2025/04/30/supio-an-ai-powered-legal-platform-lands-60m-in-fresh-capital/"
   - "https://www.supio.com/press/supio-reports-landmark-first-half-of-2026"
   - "https://www.supio.com/about"
   - "https://www.supio.com/terms-of-service"
+  - "https://www.supio.com/request-a-demo"
 last_verified: "2026-10-30"

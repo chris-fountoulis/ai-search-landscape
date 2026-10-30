@@ -17,9 +17,11 @@ funding:
 pricing:
   as_listed_by_vendor: "custom"
   model: "custom"
+  source: "https://akasa.com/contact-us"
 sources:
   - "https://techcrunch.com/2024/12/20/heres-the-full-list-of-49-us-ai-startups-that-have-raised-100m-or-more-in-2024/"
   - "https://akasa.com/press/autonomous-mid-cycle"
   - "https://akasa.com/about-us/"
   - "https://akasa.com/newsroom"
+  - "https://akasa.com/contact-us"
 last_verified: "2026-10-30"

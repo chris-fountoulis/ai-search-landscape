@@ -29,6 +29,7 @@ funding:
 pricing:
   as_listed_by_vendor: "custom"
   model: "custom"
+  source: "https://wonderful.ai/contact"
 sources:
   - "https://siliconangle.com/2026/09/02/wonderful-raises-550m-at-5b-valuation-for-its-ai-automation-platform/"
   - "https://wonderful.ai/blog-articles/wonderful-raises-550m-series-c"

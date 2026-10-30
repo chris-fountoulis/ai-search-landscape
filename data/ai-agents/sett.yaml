@@ -24,9 +24,11 @@ funding:
 pricing:
   as_listed_by_vendor: "custom"
   model: "custom"
+  source: "https://www.sett.ai/demo"
 sources:
   - "https://siliconangle.com/2026/03/30/sett-raises-30m-grow-agent-based-ai-platform-game-studios/"
   - "https://techcrunch.com/2025/05/07/game-sett-funding-a-startup-building-ai-agents-for-game-development-emerges-from-stealth-with-27m/"
   - "https://sett.ai/terms"
   - "https://sett.ai/privacy-policy"
+  - "https://www.sett.ai/demo"
 last_verified: "2026-10-30"

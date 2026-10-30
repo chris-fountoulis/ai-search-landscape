@@ -25,6 +25,7 @@ funding:
 pricing:
   as_listed_by_vendor: "custom"
   model: "custom"
+  source: "https://www.chatsee.ai/contact"
 sources:
   - "https://siliconangle.com/2026/06/12/chatsee-raises-6-5m-build-failure-memory-enterprise-ai-agents/"
   - "https://www.chatsee.ai/"
@@ -32,4 +33,5 @@ sources:
   - "https://www.chatsee.ai/terms-of-service"
   - "https://www.thesaasnews.com/news/chatsee-ai-raises-6-5m-seed/"
   - "https://www.vcnewsdaily.com/ChatSee.ai/venture-capital-funding/kqmmfsjztf"
+  - "https://www.chatsee.ai/contact"
 last_verified: "2026-10-30"

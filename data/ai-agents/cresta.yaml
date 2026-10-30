@@ -24,8 +24,10 @@ funding:
 pricing:
   as_listed_by_vendor: "custom"
   model: "custom"
+  source: "https://cresta.com/contact-us"
 sources:
   - "https://cresta.com/about-us"
   - "https://cresta.com/legal/terms-of-service"
   - "https://cresta.com/trust"
+  - "https://cresta.com/contact-us"
 last_verified: "2026-10-30"

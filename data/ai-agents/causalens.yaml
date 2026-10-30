@@ -20,8 +20,10 @@ funding:
 pricing:
   as_listed_by_vendor: "custom"
   model: "custom"
+  source: "https://causalens.com/book-a-demo"
 sources:
   - "https://techcrunch.com/2022/01/28/causalens-gets-45m-for-no-code-technology-that-introduces-cause-and-effect-into-ai-decision-making/"
   - "https://causalens.com"
   - "https://causalens.com/join-us"
+  - "https://causalens.com/book-a-demo"
 last_verified: "2026-10-30"

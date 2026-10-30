@@ -23,9 +23,11 @@ funding:
   source: "https://www.calcalistech.com/ctechnews/article/h18lbwqpbx"
 pricing:
   as_listed_by_vendor: "custom"
+  source: "https://brandlight.ai/"
 sources:
   - "https://www.calcalistech.com/ctechnews/article/h18lbwqpbx"
   - "https://www.axios.com/pro/enterprise-software-deals/2026/02/11/marketing-tech-brandlight-30-million"
   - "https://pulse2.com/brandlight-30-million-series-a-raised-for-enterprise-ai-visibility-platform"
   - "https://www.vcaonline.com/news/2026021112/the-ai-market-shelf-just-got-bigger-brandlight-raises-30m-to-continue-leading-enterprise-cmos-into-the-era-of-ai-native-ads"
+  - "https://brandlight.ai/"
 last_verified: "2026-10-30"

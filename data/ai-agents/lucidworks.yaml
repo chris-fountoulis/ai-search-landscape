@@ -14,7 +14,9 @@ status: "active"
 pricing:
   as_listed_by_vendor: "custom"
   model: "custom"
+  source: "https://lucidworks.com/demo"
 sources:
   - "https://techcrunch.com/2019/08/12/lucidworks-raises-100m-to-expand-in-ai-powered-search-as-a-service-for-organizations/"
   - "https://web.archive.org/web/20250810043614/https://lucidworks.com/news-press/lucidworks-raises-100-million-from-investors"
+  - "https://lucidworks.com/demo"
 last_verified: "2026-10-30"

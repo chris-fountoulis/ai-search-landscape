@@ -24,6 +24,7 @@ funding:
 pricing:
   as_listed_by_vendor: "custom"
   model: "custom"
+  source: "https://www.pillar.security/get-a-demo"
 sources:
   - "https://www.calcalistech.com/ctechnews/article/hklv8g6cje"
   - "https://www.timesofisrael.com/israeli-startup-nabs-funds-to-build-defense-layer-against-evolving-ai-cyber-threats"
@@ -31,4 +32,5 @@ sources:
   - "https://www.pillar.security/terms-of-use"
   - "https://www.pillar.security/newsroom"
   - "https://www.pillar.security/about"
+  - "https://www.pillar.security/get-a-demo"
 last_verified: "2026-10-30"

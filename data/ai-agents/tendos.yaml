@@ -21,8 +21,10 @@ funding:
 pricing:
   as_listed_by_vendor: "custom"
   model: "custom"
+  source: "https://www.tendos.ai/demo"
 sources:
   - "https://www.startbase.de/news/tendos-erhaelt-12-millionen-euro-fuer-tendos-zur-ki-automatisierung-in-der-baustoffindustrie/"
   - "https://tendos.ai/impressum"
   - "https://tendos.ai/"
+  - "https://www.tendos.ai/demo"
 last_verified: "2026-10-30"

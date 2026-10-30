@@ -21,10 +21,12 @@ funding:
 pricing:
   as_listed_by_vendor: "custom"
   model: "custom"
+  source: "https://reinsec.io/book-a-demo"
 sources:
   - "https://reinsec.io/blog/series-a"
   - "https://siliconangle.com/2026/10/08/rein-security-raises-25m-to-rein-in-insecure-ai-agents/"
   - "https://reinsec.io/news/8200-alumni-raise-8-million-seed-round-for-rein-security/"
   - "https://reinsec.io/terms-of-use/"
   - "https://reinsec.io/newsroom/"
+  - "https://reinsec.io/book-a-demo"
 last_verified: "2026-10-30"

@@ -18,7 +18,7 @@ Study: <https://growthofinfluence.com/ai-search-optimization-companies/>. Last v
 | Acquired | 16 |
 | Public companies | 5 |
 | Founded year known | 70 (25 founded 2023 or later) |
-| Price published with a source | 88 |
+| Price published with a source | 134 |
 
 ### By segment
 
@@ -112,7 +112,7 @@ Study: <https://growthofinfluence.com/ai-agent-companies/>. Last verified: 2026-
 | Acquired | 33 |
 | Public companies | 50 |
 | Founded year known | 299 (131 founded 2023 or later) |
-| Price published with a source | 311 |
+| Price published with a source | 432 |
 | Model labs (outside funding totals) | Anthropic, Cohere, Mistral AI, Moonshot AI, OpenAI |
 
 ### By segment

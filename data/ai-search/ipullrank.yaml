@@ -9,7 +9,9 @@ segment: "ai-native-agencies"
 status: "active"
 pricing:
   as_listed_by_vendor: "custom"
+  source: "https://ipullrank.com/contact"
 sources:
   - "https://ipullrank.com/about"
   - "https://metaflow.life/blog/best-ai-native-marketing-agencies-for-seed-stage-startups"
+  - "https://ipullrank.com/contact"
 last_verified: "2026-10-30"

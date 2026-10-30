@@ -16,8 +16,10 @@ funding:
     name: "Angel"
   source: "https://www.tely.ai/"
 pricing:
-  as_listed_by_vendor: "not published (free trial)"
+  as_listed_by_vendor: "$699 to $1,999"
+  source: "https://tely.ai/pricing"
 sources:
   - "https://www.tely.ai/"
   - "https://tely.ai/"
+  - "https://tely.ai/pricing"
 last_verified: "2026-10-30"

@@ -21,10 +21,12 @@ funding:
 pricing:
   as_listed_by_vendor: "custom"
   model: "custom"
+  source: "https://newcore.com/demo"
 sources:
   - "https://techcrunch.com/2026/06/15/ai-agents-are-becoming-employees-newcore-emerges-with-66m-to-give-them-identities/"
   - "https://siliconangle.com/2026/06/15/newcore-launches-security-first-identities-ai-agents-closing-66m-seed-funding-round/"
   - "https://newcore.com/about"
   - "https://newcore.com/legal/terms"
   - "https://newcore.com/get-in-touch"
+  - "https://newcore.com/demo"
 last_verified: "2026-10-30"

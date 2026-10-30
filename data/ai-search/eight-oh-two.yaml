@@ -16,7 +16,9 @@ acquisition:
   source: "https://www.eightohtwo.com/"
 pricing:
   as_listed_by_vendor: "custom"
+  source: "https://eightohtwo.com/contact-us"
 sources:
   - "https://www.agilitypr.com/pr-agency-news/search-engine-and-performance-marketing-leader-eight-oh-two-adds-new-sem-analyst/"
   - "https://www.eightohtwo.com/"
+  - "https://eightohtwo.com/contact-us"
 last_verified: "2026-10-30"

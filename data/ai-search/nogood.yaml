@@ -16,8 +16,10 @@ founded:
 status: "active"
 pricing:
   as_listed_by_vendor: "custom"
+  source: "https://nogood.io/contact-us"
 sources:
   - "https://nogood.io/ai-marketing-agency/"
   - "https://www.datanyze.com/companies/nogood/471391349"
   - "https://www.failory.com/interview/nogood"
+  - "https://nogood.io/contact-us"
 last_verified: "2026-10-30"

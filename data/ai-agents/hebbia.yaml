@@ -26,6 +26,7 @@ funding:
 pricing:
   as_listed_by_vendor: "custom"
   model: "custom"
+  source: "https://www.hebbia.com/pricing"
 sources:
   - "https://techcrunch.com/2024/07/09/ai-startup-hebbia-rased-130m-at-a-700m-valuation-on-13-million-of-profitable-revenue/"
   - "https://techcrunch.com/?p=2802498"
@@ -33,4 +34,5 @@ sources:
   - "https://www.hebbia.com/terms-of-service/"
   - "https://www.hebbia.com/careers"
   - "https://news.crunchbase.com/ai/ai-hebbia-venture-a16z-gv-thiel/"
+  - "https://www.hebbia.com/pricing"
 last_verified: "2026-10-30"

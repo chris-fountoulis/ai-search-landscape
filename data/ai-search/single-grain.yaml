@@ -13,7 +13,9 @@ hq:
 status: "active"
 pricing:
   as_listed_by_vendor: "custom"
+  source: "https://www.singlegrain.com/res/digital-marketing-agency/pricing"
 sources:
   - "https://www.singlegrain.com/"
   - "https://growjo.com/company/Single_Grain"
+  - "https://www.singlegrain.com/res/digital-marketing-agency/pricing"
 last_verified: "2026-10-30"

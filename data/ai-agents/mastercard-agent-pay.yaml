@@ -12,10 +12,7 @@ hq:
   country: "US"
 status: "active"
 public_company: true
-pricing:
-  as_listed_by_vendor: "custom"
-  model: "custom"
 sources:
   - "https://www.maginative.com/article/mastercard-unveils-agent-pay-to-let-ai-agents-shop-and-pay-on-your-behalf/"
   - "https://techcrunch.com/2025/04/30/visa-and-mastercard-unveil-ai-powered-shopping/"
-last_verified: "2026-10-29"
+last_verified: "2026-10-30"

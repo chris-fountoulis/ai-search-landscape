@@ -13,7 +13,9 @@ hq:
 status: "active"
 pricing:
   as_listed_by_vendor: "custom"
+  source: "https://www.omnius.so/contact-us"
 sources:
   - "https://omnius.so/about"
   - "https://www.caplight.com/company/omnius-so"
+  - "https://www.omnius.so/contact-us"
 last_verified: "2026-10-30"

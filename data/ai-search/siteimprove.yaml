@@ -13,8 +13,10 @@ hq:
 status: "active"
 pricing:
   as_listed_by_vendor: "custom"
+  source: "https://www.siteimprove.com/contact"
 sources:
   - "https://www.proff.dk/regnskab/siteimprove-as/kc3b8benhavn-v/internetdesign-og-programmering/0F7CHLI0C2C"
   - "https://www.nordiccapital.com/portfolio-cases/investments/siteimprove/"
   - "https://craft.co/siteimprove"
+  - "https://www.siteimprove.com/contact"
 last_verified: "2026-10-30"

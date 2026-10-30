@@ -28,9 +28,11 @@ acquisition:
 pricing:
   as_listed_by_vendor: "custom"
   model: "custom"
+  source: "https://www.sentinelone.com/lp/request-prompt-demo/"
 sources:
   - "https://siliconangle.com/2025/08/05/sentinelone-acquires-ai-security-startup-prompt-security/"
   - "https://www.calcalistech.com/ctechnews/article/hkx8pismkg"
   - "https://prompt.security/"
   - "https://www.sentinelone.com/platform/securing-ai-prompt/"
+  - "https://www.sentinelone.com/lp/request-prompt-demo/"
 last_verified: "2026-10-30"

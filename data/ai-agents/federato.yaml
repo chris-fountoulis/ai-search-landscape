@@ -25,10 +25,12 @@ funding:
 pricing:
   as_listed_by_vendor: "custom"
   model: "custom"
+  source: "https://www.federato.ai/contact"
 sources:
   - "https://www.federato.ai/articles/goldman-sachs-100m-series-d"
   - "https://www.intelligentinsurer.com/ai-powers-federato-to-dollar100m-in-goldman-sachs-led-fundraise"
   - "https://techcrunch.com/2024/11/20/federato-fixes-insurance-risk-analysis-with-ai-raises-40m/"
   - "https://www.federato.ai/about"
   - "https://www.federato.ai/privacy-policy"
+  - "https://www.federato.ai/contact"
 last_verified: "2026-10-30"

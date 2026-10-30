@@ -18,9 +18,11 @@ status: "active"
 pricing:
   as_listed_by_vendor: "custom"
   model: "custom"
+  source: "https://www.manex.ai/en/pricing"
 sources:
   - "https://manex.ai/imprint"
   - "https://manex.ai/press"
   - "https://www.handelsblatt.com/technik/ki/ki-warum-deutsche-konzerne-bei-diesem-unbekannten-start-up-anklopfen/100104732.html"
   - "https://manex.ai"
+  - "https://www.manex.ai/en/pricing"
 last_verified: "2026-10-30"

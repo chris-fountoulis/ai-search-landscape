@@ -24,10 +24,12 @@ funding:
 pricing:
   as_listed_by_vendor: "custom"
   model: "custom"
+  source: "https://skit.ai/contact-us"
 sources:
   - "https://techcrunch.com/2021/09/01/skit-raises-23m-series-b-round-led-by-westbridge-capital-to-accelerate-its-growth/"
   - "https://skit.ai/"
   - "https://skit.ai/about-us/"
   - "https://skit.ai/terms-of-service/"
   - "https://skit.ai/resources/newsroom/"
+  - "https://skit.ai/contact-us"
 last_verified: "2026-10-30"

@@ -25,6 +25,7 @@ funding:
 pricing:
   as_listed_by_vendor: "custom"
   model: "custom"
+  source: "https://eliseai.com/contact-us"
 sources:
   - "https://techcrunch.com/2026/09/29/a16z-backed-eliseai-raises-350m-doubles-valuation-to-4b/"
   - "https://eliseai.com/blog/eliseai-raises-250m-series-e"

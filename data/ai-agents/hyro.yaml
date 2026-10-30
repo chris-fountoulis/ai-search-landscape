@@ -24,10 +24,12 @@ funding:
 pricing:
   as_listed_by_vendor: "custom"
   model: "custom"
+  source: "https://www.hyro.ai/demo/"
 sources:
   - "https://hlth.com/insights/news/hyro-secures-45m-growth-round-led-by-healthier-capital-to-expand-ai-agent-adoption-in-healthcare-2025-10-23"
   - "https://www.calcalistech.com/ctechnews/article/rylcu6valg"
   - "https://tech.cornell.edu/news/hyro-cornell-tech"
   - "https://pulse2.com/hyro-45-million-raised-to-advance-ai-agent-adoption-across-healthcare-systems/"
   - "https://techcrunch.com/2023/05/31/hyro-secures-30m-for-its-ai-powered-healthcare-focused-conversational-platform/"
+  - "https://www.hyro.ai/demo/"
 last_verified: "2026-10-30"

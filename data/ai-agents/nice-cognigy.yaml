@@ -31,10 +31,12 @@ acquisition:
 pricing:
   as_listed_by_vendor: "custom"
   model: "custom"
+  source: "https://www.cognigy.com/contact-us"
 sources:
   - "https://www.cognigy.com/news/nice-closes-acquisition-of-cognigy"
   - "https://www.cognigy.com/legal-notice"
   - "https://www.cognigy.com/about"
   - "https://dallasinnovates.com/nice-closes-955m-acquisition-of-cognigy-whose-u-s-hq-recently-relocated-to-plano/"
   - "https://techcrunch.com/2024/06/11/cognigy-lands-cash-to-grow-its-contact-center-automation-business/"
+  - "https://www.cognigy.com/contact-us"
 last_verified: "2026-10-30"

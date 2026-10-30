@@ -30,9 +30,11 @@ acquisition:
 pricing:
   as_listed_by_vendor: "custom"
   model: "custom"
+  source: "https://www.moveworks.com/us/en/company/contact"
 sources:
   - "https://moveworks.com/us/en/company/news/press-releases/moveworks-raises-200-million-series-c-funding"
   - "https://techcrunch.com/2025/03/10/servicenow-buys-moveworks-for-2-85b-to-grow-its-ai-portfolio/"
   - "https://newsroom.servicenow.com/press-releases/details/2025/ServiceNow-completes-acquisition-of-Moveworks/default.aspx"
   - "https://www.moveworks.com/"
+  - "https://www.moveworks.com/us/en/company/contact"
 last_verified: "2026-10-30"

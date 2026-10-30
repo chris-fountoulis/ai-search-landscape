@@ -28,6 +28,7 @@ funding:
 pricing:
   as_listed_by_vendor: "custom"
   model: "custom"
+  source: "https://rogo.com/demo"
 sources:
   - "https://rogo.com/blog/series-d"
   - "https://rogo.com/blog/scaling-rogo-to-build-the-future-of-investment-banking-our-75m-series-c-and-european-expansion"
@@ -39,4 +40,5 @@ sources:
   - "https://rogo.com/legal/terms-of-use"
   - "https://fintech.global/2026/01/28/rogo-raises-75m-series-c-to-scale-ai-finance-platform/"
   - "https://rogo.ai/about"
+  - "https://rogo.com/demo"
 last_verified: "2026-10-30"

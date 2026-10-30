@@ -13,9 +13,11 @@ hq:
 status: "active"
 public_company: true
 pricing:
-  as_listed_by_vendor: "custom"
+  as_listed_by_vendor: "from $21 per seat (as listed)"
   model: "custom"
+  source: "https://cloud.google.com/gemini-enterprise/business"
 sources:
   - "https://cloud.google.com/gemini-enterprise"
   - "https://techcrunch.com/2025/10/09/google-ramps-up-its-ai-in-the-workplace-ambitions-with-gemini-enterprise/"
-last_verified: "2026-10-29"
+  - "https://cloud.google.com/gemini-enterprise/business"
+last_verified: "2026-10-30"

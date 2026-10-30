@@ -21,8 +21,10 @@ funding:
 pricing:
   as_listed_by_vendor: "custom"
   model: "custom"
+  source: "https://inkeep.com/demo"
 sources:
   - "https://inkeep.com/blog/inkeep-funding-announcement"
   - "https://inkeep.com/policies/terms-of-service"
   - "https://github.com/inkeep/agents"
+  - "https://inkeep.com/demo"
 last_verified: "2026-10-30"

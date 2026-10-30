@@ -23,9 +23,11 @@ funding:
 pricing:
   as_listed_by_vendor: "custom"
   model: "custom"
+  source: "https://www.avoca.ai/demo"
 sources:
   - "https://www.avoca.ai/blog/avoca-raises-125m-series-b-1b-valuation"
   - "https://fortune.com/2026/04/27/avoca-ai-agents-missed-calls-hvac-plumbing-roofing-kleiner-perkins-chen-shrivastava-braswell/"
   - "https://www.avoca.ai/terms-of-service"
   - "https://alleywatch.com/2026/04/the-alleywatch-startup-daily-funding-report-4-27-2026/"
+  - "https://www.avoca.ai/demo"
 last_verified: "2026-10-30"

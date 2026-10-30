@@ -11,7 +11,9 @@ hq:
 status: "active"
 pricing:
   as_listed_by_vendor: "custom"
+  source: "https://firstpagesage.com/contact"
 sources:
   - "https://firstpagesage.com/"
   - "https://www.gtm8020.com/blog/first-page-sage-review-2026"
-last_verified: "2026-10-26"
+  - "https://firstpagesage.com/contact"
+last_verified: "2026-10-30"

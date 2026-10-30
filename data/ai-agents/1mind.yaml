@@ -22,8 +22,10 @@ funding:
 pricing:
   as_listed_by_vendor: "custom"
   model: "custom"
+  source: "https://www.1mind.com/contact-us"
 sources:
   - "https://techcrunch.com/2025/11/10/6sense-founder-amanda-kahlow-raises-30-million-for-new-human-replacement-ai-sales-startup-1mind/"
   - "https://www.1mind.com/terms-of-use"
   - "https://www.1mind.com/"
+  - "https://www.1mind.com/contact-us"
 last_verified: "2026-10-30"

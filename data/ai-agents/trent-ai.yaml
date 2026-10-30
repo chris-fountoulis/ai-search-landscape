@@ -25,9 +25,11 @@ funding:
 pricing:
   as_listed_by_vendor: "custom"
   model: "custom"
+  source: "https://trent.ai/pricing"
 sources:
   - "https://siliconangle.com/2026/04/07/ai-agent-security-startup-trent-ai-launches-13m-funding/"
   - "https://trent.ai/about-us/"
   - "https://trent.ai/terms-of-service/"
   - "https://trent.ai/"
+  - "https://trent.ai/pricing"
 last_verified: "2026-10-30"

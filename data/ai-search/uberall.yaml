@@ -17,8 +17,10 @@ funding:
   source: "https://techcrunch.com/2021/06/15/uberall-raises-115m-acquires-momentfeed-to-scale-up-its-location-marketing-services/"
 pricing:
   as_listed_by_vendor: "custom"
+  source: "https://uberall.com/en-us/pricing"
 sources:
   - "https://techcrunch.com/2021/06/15/uberall-raises-115m-acquires-momentfeed-to-scale-up-its-location-marketing-services/"
   - "https://uberall.com/en-us/company/news-press/uberall-raises-115m-acquires-momentfeed-to-expand-location-services"
   - "https://tech.eu/brief/berlin-based-marketing-saas-uberall-raises-115-million-agrees-to-acquire-santa-monicas-proximity-search-optimisation-tool-momentfeed/"
+  - "https://uberall.com/en-us/pricing"
 last_verified: "2026-10-30"

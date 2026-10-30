@@ -24,8 +24,10 @@ funding:
 pricing:
   as_listed_by_vendor: "custom"
   model: "custom"
+  source: "https://conversenow.ai/book-demo.html"
 sources:
   - "https://conversenow.ai/terms-and-conditions.html"
   - "https://conversenow.ai/about.html"
   - "https://techcrunch.com/2022/08/23/conversenow-drive-thru-ordering-tech-10m/"
+  - "https://conversenow.ai/book-demo.html"
 last_verified: "2026-10-30"

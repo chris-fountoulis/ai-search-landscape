@@ -27,10 +27,12 @@ funding:
 pricing:
   as_listed_by_vendor: "custom"
   model: "custom"
+  source: "https://www.kognitos.com/contact-us"
 sources:
   - "https://www.kognitos.com/news/kognitos-launches-neurosymbolic-ai-platform-for-automating-business-operations-backed-by-25m-series-b/"
   - "https://www.kognitos.com/about/"
   - "https://techcrunch.com/2023/11/30/kognitos-raises-35m-to-help-businesses-automate-back-office-processes/"
   - "https://siliconangle.com/2023/11/30/kognitos-reels-20m-natural-language-task-automation-platform/"
   - "https://www.kognitos.com/terms-of-service/"
+  - "https://www.kognitos.com/contact-us"
 last_verified: "2026-10-30"

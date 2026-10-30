@@ -29,10 +29,12 @@ acquisition:
 pricing:
   as_listed_by_vendor: "custom"
   model: "custom"
+  source: "https://www.automationanywhere.com/talk-to-sales"
 sources:
   - "https://www.automationanywhere.com/company/press-room/automation-anywhere-acquires-aisera-supercharge-autonomous-enterprise"
   - "https://techcrunch.com/2022/08/03/aisera-lands-90m-to-automate-customer-service-requests-with-ai/"
   - "https://techcrunch.com/2020/02/18/aisera-an-ai-tool-to-help-with-customer-service-and-internal-operations-exits-stealth-with-50m/"
   - "https://aisera.com/privacy-policy/"
   - "https://aisera.com/"
+  - "https://www.automationanywhere.com/talk-to-sales"
 last_verified: "2026-10-30"

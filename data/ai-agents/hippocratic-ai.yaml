@@ -19,10 +19,11 @@ funding:
 pricing:
   as_listed_by_vendor: "custom"
   model: "custom"
+  source: "https://hippocraticai.com/contact-us/"
 sources:
   - "https://siliconangle.com/2025/11/03/hippocratic-ais-valuation-soars-3-5b-raising-126m-new-funding/"
   - "https://techcrunch.com/2025/01/09/hippocratic-ai-raises-141m-for-creating-patient-facing-ai-agents/"
   - "https://siliconangle.com/2025/01/09/hippocratic-ai-raises-141m-staff-hospitals-clinical-ai-agents/"
   - "https://hippocraticai.com/press/"
   - "https://hippocraticai.com/contact-us/"
-last_verified: "2026-10-29"
+last_verified: "2026-10-30"

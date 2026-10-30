@@ -28,9 +28,11 @@ funding:
 pricing:
   as_listed_by_vendor: "custom"
   model: "custom"
+  source: "https://www.nectarsocial.com/?demo=1"
 sources:
   - "https://techcrunch.com/2026/05/16/marketing-operating-system-nectar-social-raises-30m-series-a-in-round-led-by-menlo/"
   - "https://fortune.com/2025/06/05/nectar-social-buzzes-out-of-stealth-with-10-6-million-backing-from-gv-and-true-ventures/"
   - "https://nectarsocial.com/"
   - "https://nectarsocial.com/privacy/"
+  - "https://www.nectarsocial.com/?demo=1"
 last_verified: "2026-10-30"

@@ -26,6 +26,7 @@ funding:
 pricing:
   as_listed_by_vendor: "custom"
   model: "custom"
+  source: "https://decagon.ai/get-a-demo"
 sources:
   - "https://decagon.ai/blog/series-d-announcement"
   - "https://decagon.ai/blog/series-c-announcement"
@@ -34,4 +35,5 @@ sources:
   - "https://a16z.com/announcement/investing-in-decagon/"
   - "https://decagon.ai/legal/privacy"
   - "https://decagon.ai/about"
+  - "https://decagon.ai/get-a-demo"
 last_verified: "2026-10-30"

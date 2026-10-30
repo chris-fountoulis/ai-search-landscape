@@ -25,10 +25,12 @@ funding:
 pricing:
   as_listed_by_vendor: "custom"
   model: "custom"
+  source: "https://www.typeface.ai/contact-sales"
 sources:
   - "https://typeface.ai/blog/typeface-announces-100-m-in-new-funding-to-fuel-global-expansion-of-its-personalized-generative-ai-platform-for-enterprises"
   - "https://techcrunch.com/2024/09/16/generative-ai-startup-typeface-acquires-two-companies-treat-and-narrato-to-bolster-its-portfolio/"
   - "https://www.typeface.ai/product/arc-agents"
   - "https://www.typeface.ai/terms-of-service"
   - "https://www.typeface.ai/newsroom"
+  - "https://www.typeface.ai/contact-sales"
 last_verified: "2026-10-30"

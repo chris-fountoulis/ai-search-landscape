@@ -9,7 +9,9 @@ segment: "ai-native-agencies"
 status: "active"
 pricing:
   as_listed_by_vendor: "custom"
+  source: "https://gallium.ai/book-a-call"
 sources:
   - "https://gallium.ai/"
   - "https://gallium-ai.notion.site/"
-last_verified: "2026-10-26"
+  - "https://gallium.ai/book-a-call"
+last_verified: "2026-10-30"

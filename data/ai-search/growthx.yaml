@@ -18,8 +18,10 @@ funding:
   source: "https://www.sec.gov/Archives/edgar/data/2056451/000205645125000001/primary_doc.xml"
 pricing:
   as_listed_by_vendor: "custom"
+  source: "https://growthx.ai/book-demo"
 sources:
   - "https://www.sec.gov/Archives/edgar/data/2056451/000205645125000001/primary_doc.xml"
   - "https://madrona.com/investing-in-growthx-redefining-traditional-marketing-workflow/"
   - "https://www.builtinnyc.com/job/account-executive/9344626"
+  - "https://growthx.ai/book-demo"
 last_verified: "2026-10-30"
