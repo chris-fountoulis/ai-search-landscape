@@ -1,6 +1,8 @@
+<p align="right"><a href="README.md">Back to README</a></p>
+
 # Contributing
 
-Thank you for helping keep this dataset accurate. Most contributions are one of three things:
+Thank you for helping keep this dataset accurate. This guide covers what we accept, how to edit a record and the checks to run before a pull request. Most contributions are one of three things:
 
 | You want to | Do this |
 |---|---|
@@ -8,13 +10,25 @@ Thank you for helping keep this dataset accurate. Most contributions are one of 
 | Fix a field in an existing row | Open a [Correct a company](https://github.com/chris-fountoulis/ai-search-landscape/issues/new?template=correct-company.yml) issue, or a pull request editing the YAML file |
 | Report a shutdown or acquisition | Open a [Company closed or acquired](https://github.com/chris-fountoulis/ai-search-landscape/issues/new?template=company-closed.yml) issue |
 
-Vendors are welcome to open pull requests about their own company. Every change is judged on its public source, never on who sent it, and no company pays to be listed, ranked or described.
+## Contents
+
+- [The one rule: a public source for every change](#the-one-rule-a-public-source-for-every-change)
+- [Inclusion rubric](#inclusion-rubric)
+- [Editing a record](#editing-a-record)
+- [Run the checks](#run-the-checks)
+- [Changing the tools](#changing-the-tools)
+- [Licensing of contributions](#licensing-of-contributions)
+- [Conduct](#conduct)
+
+> [!NOTE]
+> Vendors are welcome to open pull requests about their own company. Every change is judged on its public source, never on who sent it, and no company pays to be listed, ranked or described.
 
 ## The one rule: a public source for every change
 
-A correction is accepted when a public URL supports it: your own pricing, About, Terms or Imprint page, a press release, an investor's announcement, a bylined article or a regulatory filing. If the fact is not public anywhere yet, the simplest route is to add it to your About page and send us that link. Data aggregators (Crunchbase, PitchBook and similar), private documents, screenshots and emails are not sources.
+> [!IMPORTANT]
+> A correction is accepted when a public URL supports it: your own pricing, About, Terms or Imprint page, a press release, an investor's announcement, a bylined article or a regulatory filing. If the fact is not public anywhere yet, the simplest route is to add it to your About page and send us that link. Data aggregators (Crunchbase, PitchBook and similar), private documents, screenshots and emails are not sources.
 
-Corrections are reviewed within five working days.
+Corrections are reviewed within five working days. The full source rules are in [METHODOLOGY.md](METHODOLOGY.md#sources-sources-source).
 
 ## Inclusion rubric
 
@@ -42,11 +56,15 @@ At least one dated source that the company did not write itself: a funding annou
 
 ### Headquarters means the legal seat
 
-Use the legal seat stated in the company's own Terms, Imprint or Legal Notice. A state of incorporation alone, a registered agent's address or a shared mail-forwarding address is not a headquarters; in that case use the headquarters the company states on its own site, then a reliable press source.
+> [!TIP]
+> Use the legal seat stated in the company's own Terms, Imprint or Legal Notice. A state of incorporation alone, a registered agent's address or a shared mail-forwarding address is not a headquarters; in that case use the headquarters the company states on its own site, then a reliable press source.
 
 ## Editing a record
 
 Each company is one file, `data/<dataset>/<slug>.yaml`. The schema is [`schema/company.schema.json`](schema/company.schema.json); the allowed segments, countries, statuses and pricing models are in [`schema/vocab/`](schema/vocab/).
+
+<details>
+<summary><b>A complete example record</b></summary>
 
 ```yaml
 # AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
@@ -81,14 +99,18 @@ sources:
 last_verified: "2026-11-02"
 ```
 
+</details>
+
 Rules the validator enforces:
 
 * Leave a field out when it is not disclosed. Never write `0` for unknown.
-* Every number sits in a block with a `source`, and that URL is also listed in `sources`.
+* Every number sits in a block with a `source` and that URL is also listed in `sources`.
 * Prices are exactly as listed by the vendor on its own site, before tax. Third-party price listings are not accepted.
 * Funding is disclosed equity in US dollars; convert other currencies at the rate stated with the round.
 * Set `last_verified` to the date you checked the sources.
 * No en dashes or em dashes anywhere. Use commas, colons, periods or hyphens.
+
+## Run the checks
 
 Before you open a pull request, run the same checks as CI (Python 3.9 or newer, no packages needed):
 
@@ -99,7 +121,8 @@ python3 tools/build.py                        # regenerate dist/, STATS.md and t
 python3 -m unittest discover -s tests -t .    # tool tests
 ```
 
-Commit the regenerated `dist/`, `STATS.md` and `README.md` together with your YAML change. CI fails if they are out of date.
+> [!WARNING]
+> Commit the regenerated `dist/`, `STATS.md` and `README.md` together with your YAML change. CI fails if they are out of date. Never edit the numbers block in `README.md` by hand: `tools/build.py` writes it.
 
 ## Changing the tools
 
@@ -112,3 +135,9 @@ By contributing data you agree that it is published under [CC BY 4.0](LICENSE-DA
 ## Conduct
 
 This project follows the [Contributor Covenant](CODE_OF_CONDUCT.md). Questions that are not corrections can go to chris@growthofinfluence.com.
+
+---
+
+<p align="center"><a href="README.md">Back to README</a> · <a href="METHODOLOGY.md">Methodology</a> · <a href="https://chris-fountoulis.github.io/ai-search-landscape/">Live dataset</a></p>
+
+<p align="center">Built by <a href="https://chrisfountoulis.com">Chris Fountoulis</a> at <a href="https://growthofinfluence.com/">Growth Of Influence</a>.</p>
