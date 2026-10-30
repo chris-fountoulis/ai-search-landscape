@@ -89,6 +89,7 @@ class BuildTests(unittest.TestCase):
         self.assertTrue(text.endswith("\n\nTail\n"))
         self.assertNotIn("\nold\n", text)
         self.assertIn("pie showData title AI Search Optimization Companies", text)
+        self.assertIn("'pie1':'#0D1B4B'", text)  # brand theme on the generated charts
 
     def test_build_refuses_invalid_data(self):
         self.repo.write(record(slug="bad", name="Bad", segment="nope"))

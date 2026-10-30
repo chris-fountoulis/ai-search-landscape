@@ -46,6 +46,7 @@ No sourced, structured dataset of GEO and AEO vendors existed publicly. This one
 Agent funding excludes the frontier model labs, as in the published study. Full breakdowns: [STATS.md](STATS.md).
 
 ```mermaid
+%%{init: {'theme':'base','themeVariables':{'pie1':'#0D1B4B','pie2':'#F5A623','pie3':'#2E3F78','pie4':'#C98510','pie5':'#4F5F96','pie6':'#A86A06','pie7':'#6E7BAE','pie8':'#555555','pieStrokeColor':'#ffffff','pieOuterStrokeColor':'#F5A623','pieSectionTextColor':'#ffffff','pieTitleTextColor':'#0D1B4B','pieLegendTextColor':'#555555','fontFamily':'Quicksand, sans-serif'}}}%%
 pie showData title AI Search Optimization Companies: rows by segment
     "AI search visibility trackers" : 37
     "AI-native SEO agencies" : 29
@@ -55,6 +56,7 @@ pie showData title AI Search Optimization Companies: rows by segment
 ```
 
 ```mermaid
+%%{init: {'theme':'base','themeVariables':{'pie1':'#0D1B4B','pie2':'#F5A623','pie3':'#2E3F78','pie4':'#C98510','pie5':'#4F5F96','pie6':'#A86A06','pie7':'#6E7BAE','pie8':'#555555','pieStrokeColor':'#ffffff','pieOuterStrokeColor':'#F5A623','pieSectionTextColor':'#ffffff','pieTitleTextColor':'#0D1B4B','pieLegendTextColor':'#555555','fontFamily':'Quicksand, sans-serif'}}}%%
 pie showData title AI Agent Companies: rows by segment
     "Agent builders and orchestration platforms" : 56
     "Company brain and knowledge agents" : 36
