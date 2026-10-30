@@ -1,6 +1,8 @@
+<p align="right"><a href="README.md">Back to README</a></p>
+
 # Methodology
 
-This repository is the open, structured form of two data studies published by Growth Of Influence:
+How every row in this dataset was chosen, checked and sourced, and how it stays correct. This repository is the open, structured form of two data studies published by Growth Of Influence:
 
 | Dataset | Folder | Study | Edition | Rows |
 |---|---|---|---|---|
@@ -9,7 +11,23 @@ This repository is the open, structured form of two data studies published by Gr
 
 The rules below are adapted from the methodology sections of the two studies. Where the studies differ, this file says so.
 
+## Contents
+
+- [Principles](#principles)
+- [What counts as an AI search optimization company](#what-counts-as-an-ai-search-optimization-company)
+- [What counts as an AI agent company](#what-counts-as-an-ai-agent-company)
+- [Field rules](#field-rules): [headquarters](#headquarters-hq), [founded year](#founded-year-founded), [funding](#funding-funding), [acquisitions](#acquisitions-acquisition-status), [prices](#prices-pricing), [sources](#sources-sources-source), [last verified](#last-verified-last_verified)
+- [How the studies were checked](#how-the-studies-were-checked)
+- [Source audit, 2026-10-30](#source-audit-2026-10-30)
+- [What this repository does not include](#what-this-repository-does-not-include)
+- [Conflicts of interest](#conflicts-of-interest)
+- [Known limits](#known-limits)
+- [Updates](#updates)
+
 ## Principles
+
+> [!IMPORTANT]
+> These four rules apply to every row in both datasets. The validator enforces the first two on every pull request.
 
 1. **A blank means "not disclosed or not verified", never zero.** When a figure could not be confirmed in a credible public source, it was left out rather than guessed.
 2. **Every number carries a source URL.** Founded year, funding, rounds, valuations, acquisition prices and listed prices each sit in a block with its own `source`. If a figure had no source URL in the study's verified source set, the figure was dropped from this repository and the company kept.
@@ -45,7 +63,8 @@ Each company appears once, in the segment that best fits what it sells (`schema/
 
 **Companies and products.** One company can have several product rows (for example a large software company with several agent products). The `company` field groups them, and funding is counted once per company.
 
-**Model labs.** The frontier model labs (OpenAI, Anthropic, Mistral AI, Cohere and Moonshot AI) carry `model_lab: true`. Their capital would dwarf every other total, so they are reported apart and excluded from every funding sum in `STATS.md`, the README and the site, as in the published study.
+> [!NOTE]
+> **Model labs.** The frontier model labs (OpenAI, Anthropic, Mistral AI, Cohere and Moonshot AI) carry `model_lab: true`. Their capital would dwarf every other total, so they are reported apart and excluded from every funding sum in `STATS.md`, the README and the site, as in the published study.
 
 **Deferred candidates.** 136 further candidates met the other rules but their independent source could not be checked in time. They are queued for the January 2027 edition and are not in this dataset.
 
@@ -83,7 +102,8 @@ The year the company or product first started operating commercially, as stated 
 
 `as_listed_by_vendor` is the monthly list price **as listed by the vendor on its own pricing page**, before tax, in the currency shown, on the `last_verified` date. Annual-only prices are divided by 12. "custom" means no price is published. Some pricing pages show euros to visitors from Europe; where no dollar version was offered, the euro price is kept as listed. `model` (AI agent rows only) is the pricing model from `schema/vocab/pricing-models.json`.
 
-The AI search study showed a few prices taken from third-party listings, labelled as such. Those are **not** prices listed by the vendor, so this repository drops them (keeping "custom" where the vendor itself shows no price).
+> [!NOTE]
+> The AI search study showed a few prices taken from third-party listings, labelled as such. Those are **not** prices listed by the vendor, so this repository drops them (keeping "custom" where the vendor itself shows no price).
 
 ### Sources (`sources`, `source`)
 
@@ -101,7 +121,8 @@ The studies recorded a main source URL for each row plus the further URLs checke
 | `acquisition.source` | the deal (and the price, when one is given) |
 | `pricing.source` | the price on the vendor's own pricing page; for "custom", the vendor's pricing or contact-sales page |
 
-If you find a figure whose `source` does not support it, please open a correction: the fix is usually a better URL, which is exactly the kind of pull request this repository is for.
+> [!TIP]
+> If you find a figure whose `source` does not support it, please open a correction: the fix is usually a better URL, which is exactly the kind of pull request this repository is for.
 
 ### Last verified (`last_verified`)
 
@@ -129,7 +150,7 @@ Before this repository went public, the figure-level `source` links (first assig
 | Headquarters | 569 (37 with a country only) | 477 | 24 | | 31 |
 | Prices | 564 | 286 | 247 (vendor pricing or contact-sales page for "custom") | | 31 |
 
-So every funding, founded-year and acquisition figure was audited and now rests on a page that states it. The 31 headquarters without a `hq.source` are mostly product lines of large public companies (Google, Salesforce, OpenAI, SAP and others) plus seven AI search rows whose only match was an aggregator. The 31 listed prices not confirmed sit on vendor pricing pages that render their prices only in a browser; they keep their vendor `pricing.source` and are queued for a browser check (see the roadmap in the README).
+So every funding, founded-year and acquisition figure was audited and now rests on a page that states it. The 31 headquarters without a `hq.source` are mostly product lines of large public companies (Google, Salesforce, OpenAI, SAP and others) plus seven AI search rows whose only match was an aggregator. The 31 listed prices not confirmed sit on vendor pricing pages that render their prices only in a browser; they keep their vendor `pricing.source` and are queued for a browser check (see the [roadmap](README.md#roadmap)).
 
 **What changed.** 1,057 sources were re-pointed or added, 42 values were corrected and 36 values were removed (the company always stays). Totals that no single page states are now the sum of separately disclosed rounds, listed in `funding.total_sources`. Founded years that were in fact a public launch or stealth-exit year were replaced where the company, an investor, a registry or a filing states the founding year, and removed where no page states any year. Every correction is listed in `CHANGELOG.md`. Because of these corrections, the funding totals in this repository differ slightly from the figures published in the two studies on 26 and 29 October 2026.
 
@@ -139,9 +160,13 @@ The published studies also show yearly revenue figures (filed, company-stated or
 
 ## Conflicts of interest
 
-Growth Of Influence is a digital marketing agency that sells SEO, content and AI systems to its own clients, so it competes with some companies in both datasets. It is not included in either dataset, the same public-source rules were applied to every row, and no company paid to be listed or ranked. Growth Of Influence is a paying customer of some of the software listed, which did not affect how it is described.
+> [!IMPORTANT]
+> Growth Of Influence is a digital marketing agency that sells SEO, content and AI systems to its own clients, so it competes with some companies in both datasets. It is not included in either dataset, the same public-source rules were applied to every row, and no company paid to be listed or ranked. Growth Of Influence is a paying customer of some of the software listed, which did not affect how it is described.
 
 ## Known limits
+
+> [!WARNING]
+> Read these before you quote a total from this dataset.
 
 * Founded year is known for 70 of 151 AI search rows and 299 of 437 AI agent rows.
 * The sweep for very recent news was thorough for the companies with the most money and lighter for the smallest ones.
@@ -150,3 +175,9 @@ Growth Of Influence is a digital marketing agency that sells SEO, content and AI
 ## Updates
 
 Both studies are refreshed quarterly (January, April, July, October) at the same URLs. Between editions, corrections with a public source are reviewed within five working days, applied here as pull requests and listed in `CHANGELOG.md`. See [CONTRIBUTING.md](CONTRIBUTING.md).
+
+---
+
+<p align="center"><a href="README.md">Back to README</a> · <a href="CONTRIBUTING.md">Contributing</a> · <a href="CHANGELOG.md">Changelog</a></p>
+
+<p align="center">Built by <a href="https://chrisfountoulis.com">Chris Fountoulis</a> at <a href="https://growthofinfluence.com/">Growth Of Influence</a>. Read the studies: <a href="https://growthofinfluence.com/ai-search-optimization-companies/">AI Search Optimization Companies</a> · <a href="https://growthofinfluence.com/ai-agent-companies/">AI Agent Companies</a></p>
