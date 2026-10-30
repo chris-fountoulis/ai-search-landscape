@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Read the methodology
+    url: https://github.com/chris-fountoulis/ai-search-landscape/blob/main/METHODOLOGY.md
+    about: How rows are included, how each field is defined and how sources were assigned.
+  - name: AI Search Optimization Companies study
+    url: https://growthofinfluence.com/ai-search-optimization-companies/
+    about: The published study behind data/ai-search.
+  - name: AI Agent Companies study
+    url: https://growthofinfluence.com/ai-agent-companies/
+    about: The published study behind data/ai-agents.

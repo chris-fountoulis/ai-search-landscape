@@ -1,0 +1,17 @@
+name: Feature or field request
+description: Suggest a new field, output format or tool improvement.
+title: "[Feature] "
+labels: ["enhancement"]
+body:
+  - type: textarea
+    id: need
+    attributes:
+      label: What you want to do with the data
+      description: The use case matters more than the proposed solution.
+    validations:
+      required: true
+  - type: textarea
+    id: proposal
+    attributes:
+      label: Proposal
+      description: For a new field, say how it would be sourced for every row. Fields without a public source per row cannot be added.
