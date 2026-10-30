@@ -1,0 +1,32 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "Pydantic (Logfire, Pydantic AI)"
+slug: "pydantic-logfire-pydantic-ai"
+dataset: "ai-agents"
+company: "Pydantic"
+product: "Pydantic Logfire, Pydantic AI"
+website: "pydantic.dev"
+segment: "infrastructure"
+hq:
+  country: "GB"
+founded:
+  year: 2022
+  source: "https://pydantic.dev/legal/terms-of-service"
+status: "active"
+funding:
+  total_usd: 17200000
+  latest_round:
+    name: "Series A"
+    date: "2024-10"
+    amount_usd: 12500000
+  source: "https://techcrunch.com/2024/10/01/sequoia-backs-pydantic-to-expand-beyond-its-open-source-data-validation-framework/"
+pricing:
+  as_listed_by_vendor: "$49 to $249 (as listed)"
+  model: "flat"
+  source: "https://pydantic.dev/pricing"
+sources:
+  - "https://techcrunch.com/2024/10/01/sequoia-backs-pydantic-to-expand-beyond-its-open-source-data-validation-framework/"
+  - "https://pydantic.dev/pricing"
+  - "https://pydantic.dev/legal/terms-of-service"
+  - "https://pydantic.dev/about"
+last_verified: "2026-10-29"

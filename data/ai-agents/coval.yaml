@@ -1,0 +1,32 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "Coval"
+slug: "coval"
+dataset: "ai-agents"
+company: "Coval"
+website: "coval.ai"
+segment: "infrastructure"
+hq:
+  city: "San Francisco"
+  country: "US"
+founded:
+  year: 2024
+  source: "https://siliconangle.com/2026/06/24/coval-raises-28m-enterprises-push-voice-agents-production/"
+status: "active"
+funding:
+  total_usd: 31000000
+  latest_round:
+    name: "Series A"
+    date: "2026-06"
+    amount_usd: 28000000
+  source: "https://siliconangle.com/2026/06/24/coval-raises-28m-enterprises-push-voice-agents-production/"
+pricing:
+  as_listed_by_vendor: "$100 to $4,500 (as listed)"
+  model: "flat"
+  source: "https://www.coval.ai/pricing"
+sources:
+  - "https://siliconangle.com/2026/06/24/coval-raises-28m-enterprises-push-voice-agents-production/"
+  - "https://techcrunch.com/2025/01/23/coval-evaluates-ai-voice-and-chat-agents-like-self-driving-cars/"
+  - "https://www.coval.ai/pricing"
+  - "https://www.coval.ai/terms-of-service"
+last_verified: "2026-10-29"

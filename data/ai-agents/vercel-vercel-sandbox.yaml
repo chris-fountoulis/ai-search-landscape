@@ -1,0 +1,30 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "Vercel (Vercel Sandbox)"
+slug: "vercel-vercel-sandbox"
+dataset: "ai-agents"
+company: "Vercel"
+product: "Vercel Sandbox"
+website: "vercel.com"
+segment: "infrastructure"
+hq:
+  city: "San Francisco"
+  country: "US"
+status: "active"
+funding:
+  latest_round:
+    name: "Series F"
+    date: "2025-09"
+    amount_usd: 300000000
+  source: "https://vercel.com/blog/series-f"
+pricing:
+  as_listed_by_vendor: "usage based ($0.128 per Active CPU hour, $0.0212 per GB-hour memory, as listed); Hobby free allotment; Pro usage draws on the $20/month plan credit"
+  model: "usage or credits"
+  source: "https://vercel.com/docs/vercel-sandbox/pricing"
+sources:
+  - "https://vercel.com/docs/vercel-sandbox/pricing"
+  - "https://vercel.com/blog/series-f"
+  - "https://vercel.com/sandbox"
+  - "https://vercel.com/legal/terms"
+  - "https://siliconangle.com/2026/06/17/vercel-launches-new-framework-enterprise-controls-agentic-ai-infrastructure/"
+last_verified: "2026-10-29"

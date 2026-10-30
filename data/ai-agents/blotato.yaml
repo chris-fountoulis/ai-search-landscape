@@ -1,0 +1,20 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "Blotato"
+slug: "blotato"
+dataset: "ai-agents"
+company: "Blotato"
+product: "Blotato API and MCP"
+website: "blotato.com"
+segment: "infrastructure"
+status: "active"
+pricing:
+  as_listed_by_vendor: "$29 to $499 (as listed)"
+  model: "flat"
+  source: "https://www.blotato.com/pricing"
+sources:
+  - "https://www.blotato.com/pricing"
+  - "https://www.blotato.com/about"
+  - "https://www.blotato.com/terms-of-service"
+  - "https://www.inc.com/bryan-elliott/exit-backed-founder-multimillion-dollar-ai-business/91416877"
+last_verified: "2026-10-29"

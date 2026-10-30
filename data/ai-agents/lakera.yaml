@@ -1,0 +1,36 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "Lakera"
+slug: "lakera"
+dataset: "ai-agents"
+company: "Lakera"
+website: "lakera.ai"
+segment: "infrastructure"
+hq:
+  city: "San Francisco"
+  country: "US"
+founded:
+  year: 2021
+  source: "https://techcrunch.com/2024/07/24/lakera-which-protects-enterprises-from-llm-vulnerabilities-raises-20m/"
+status: "acquired"
+funding:
+  total_usd: 30000000
+  latest_round:
+    name: "Series A"
+    date: "2024-07"
+    amount_usd: 20000000
+  source: "https://techcrunch.com/2024/07/24/lakera-which-protects-enterprises-from-llm-vulnerabilities-raises-20m/"
+acquisition:
+  acquirer: "Check Point Software Technologies"
+  date: "2025-09"
+  date_type: "closed"
+  source: "https://siliconangle.com/2025/09/16/crowdstrike-check-point-extend-ai-security-capabilities-new-acquisitions/"
+pricing:
+  as_listed_by_vendor: "custom"
+  model: "custom"
+sources:
+  - "https://siliconangle.com/2025/09/16/crowdstrike-check-point-extend-ai-security-capabilities-new-acquisitions/"
+  - "https://www.lakera.ai/"
+  - "https://techcrunch.com/2024/07/24/lakera-which-protects-enterprises-from-llm-vulnerabilities-raises-20m/"
+  - "https://techcrunch.com/2023/10/12/lakera-launches-to-protect-large-language-models-from-malicious-prompts/"
+last_verified: "2026-10-29"

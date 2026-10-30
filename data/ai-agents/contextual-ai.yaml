@@ -1,0 +1,33 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "Contextual AI"
+slug: "contextual-ai"
+dataset: "ai-agents"
+company: "Contextual AI"
+website: "contextual.ai"
+segment: "infrastructure"
+hq:
+  city: "Mountain View"
+  country: "US"
+founded:
+  year: 2023
+  source: "https://contextual.ai/legal/terms-of-use"
+status: "active"
+funding:
+  total_usd: 100000000
+  latest_round:
+    name: "Series A"
+    date: "2024-08"
+    amount_usd: 80000000
+  source: "https://www.pymnts.com/artificial-intelligence-2/2024/contextual-ai-raises-80-million-to-scale-enterprise-ai-platform/"
+pricing:
+  as_listed_by_vendor: "usage-based, no monthly list price (as listed); Enterprise custom"
+  model: "usage or credits"
+sources:
+  - "https://www.pymnts.com/artificial-intelligence-2/2024/contextual-ai-raises-80-million-to-scale-enterprise-ai-platform/"
+  - "https://techcrunch.com/2023/06/07/contextual-ai-launches-from-stealth-to-build-enterprise-focused-language-models/"
+  - "https://news.bloomberglaw.com/antitrust/google-hires-staff-from-ai-startup-contextual-in-licensing-deal"
+  - "https://contextual.ai/pricing/"
+  - "https://contextual.ai/legal/terms-of-use"
+  - "https://contextual.ai/company/"
+last_verified: "2026-10-29"

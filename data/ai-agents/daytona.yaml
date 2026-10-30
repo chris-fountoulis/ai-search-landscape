@@ -1,0 +1,31 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "Daytona"
+slug: "daytona"
+dataset: "ai-agents"
+company: "Daytona"
+website: "daytona.io"
+segment: "infrastructure"
+hq:
+  city: "New York"
+  country: "US"
+founded:
+  year: 2023
+  source: "https://techcrunch.com/2026/10/23/agent-cloud-startup-daytona-hits-1b-valuation-backed-by-firstmark-and-a-whos-who-of-angels/"
+status: "active"
+funding:
+  total_usd: 91000000
+  latest_round:
+    name: "Series B"
+    date: "2026-10"
+    amount_usd: 60000000
+  source: "https://techcrunch.com/2026/10/23/agent-cloud-startup-daytona-hits-1b-valuation-backed-by-firstmark-and-a-whos-who-of-angels/"
+pricing:
+  as_listed_by_vendor: "usage-based, no monthly list price (as listed)"
+  model: "usage or credits"
+sources:
+  - "https://techcrunch.com/2026/10/23/agent-cloud-startup-daytona-hits-1b-valuation-backed-by-firstmark-and-a-whos-who-of-angels/"
+  - "https://techcrunch.com/2023/11/06/daytona-wants-to-be-an-enterprise-grade-github-codespaces/"
+  - "https://www.daytona.io/pricing"
+  - "https://www.daytona.io/terms-of-service"
+last_verified: "2026-10-29"

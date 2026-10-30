@@ -1,0 +1,34 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "Restate"
+slug: "restate"
+dataset: "ai-agents"
+company: "Restate"
+product: "Restate Cloud"
+website: "restate.dev"
+segment: "infrastructure"
+hq:
+  city: "Berlin"
+  country: "DE"
+founded:
+  year: 2022
+  source: "https://restate.dev/imprint"
+status: "active"
+funding:
+  total_usd: 27000000
+  latest_round:
+    name: "Series A"
+    date: "2026-09"
+    amount_usd: 20000000
+  source: "https://techcrunch.com/2026/09/30/restate-lands-20m-as-the-need-for-durable-infrastructure-increases-with-ai-agents/"
+pricing:
+  as_listed_by_vendor: "from $75 (as listed)"
+  model: "usage or credits"
+  source: "https://restate.dev/imprint"
+sources:
+  - "https://techcrunch.com/2026/09/30/restate-lands-20m-as-the-need-for-durable-infrastructure-increases-with-ai-agents/"
+  - "https://techcrunch.com/2024/06/12/restate-raises-7m-for-its-lightweight-workflows-as-code-platform/"
+  - "https://restate.dev/imprint"
+  - "https://restate.dev/cloud"
+  - "https://restate.dev/blog"
+last_verified: "2026-10-29"

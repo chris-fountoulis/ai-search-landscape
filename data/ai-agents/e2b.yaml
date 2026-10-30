@@ -1,0 +1,33 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "E2B"
+slug: "e2b"
+dataset: "ai-agents"
+company: "E2B"
+website: "e2b.dev"
+segment: "infrastructure"
+hq:
+  city: "San Francisco"
+  country: "US"
+founded:
+  year: 2023
+  source: "https://e2b.dev/about"
+status: "active"
+funding:
+  total_usd: 32500000
+  latest_round:
+    name: "Series A"
+    date: "2025-07"
+    amount_usd: 21000000
+  source: "https://siliconangle.com/2025/07/28/e2b-shares-vision-sandboxed-cloud-environments-every-ai-agent-raising-21m-funding/"
+pricing:
+  as_listed_by_vendor: "from $150 (as listed)"
+  model: "usage or credits"
+  source: "https://e2b.dev/pricing"
+sources:
+  - "https://e2b.dev/about"
+  - "https://siliconangle.com/2025/07/28/e2b-shares-vision-sandboxed-cloud-environments-every-ai-agent-raising-21m-funding/"
+  - "https://e2b.dev/pricing"
+  - "https://e2b.dev/terms"
+  - "https://e2b.dev/careers"
+last_verified: "2026-10-29"

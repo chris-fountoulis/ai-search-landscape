@@ -1,0 +1,31 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "Nevermined"
+slug: "nevermined"
+dataset: "ai-agents"
+company: "Nevermined"
+product: "Nevermined Pay"
+website: "nevermined.ai"
+segment: "infrastructure"
+hq:
+  city: "Zug"
+  country: "CH"
+status: "active"
+funding:
+  total_usd: 4000000
+  latest_round:
+    name: "Unnamed round"
+    date: "2025-01"
+    amount_usd: 4000000
+  source: "https://siliconangle.com/2025/01/09/decentralized-payments-startup-nevermined-raises-4m-unlock-ai-ai-agent-commerce/"
+pricing:
+  as_listed_by_vendor: "$20 to $500 (as listed)"
+  model: "flat"
+  source: "https://nevermined.ai/pricing"
+sources:
+  - "https://siliconangle.com/2025/01/09/decentralized-payments-startup-nevermined-raises-4m-unlock-ai-ai-agent-commerce/"
+  - "https://nevermined.ai/legal/terms"
+  - "https://nevermined.ai/pricing"
+  - "https://pymnts.com/news/investment-tracker/2025/nevermined-raises-4-million-to-help-ai-agents-pay-and-get-paid"
+  - "https://pulse2.com/nevermined-ai-payment-infrastructure-company-raises-over-4-million"
+last_verified: "2026-10-29"

@@ -1,0 +1,37 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "Merge (Agent Handler)"
+slug: "merge-agent-handler"
+dataset: "ai-agents"
+company: "Merge"
+product: "Merge Agent Handler"
+website: "merge.dev"
+segment: "infrastructure"
+hq:
+  city: "San Francisco"
+  country: "US"
+founded:
+  year: 2020
+  source: "https://www.merge.dev/about"
+status: "active"
+funding:
+  total_usd: 75000000
+  latest_round:
+    name: "Series B"
+    date: "2022-10"
+    amount_usd: 55000000
+  source: "https://techcrunch.com/2022/10/24/merge-raises-55m-series-b-for-its-unified-api/"
+pricing:
+  as_listed_by_vendor: "$1,000 to $3,200 (as listed)"
+  model: "usage or credits"
+  source: "https://www.merge.dev/pricing/agent-handler"
+sources:
+  - "https://techcrunch.com/2022/10/24/merge-raises-55m-series-b-for-its-unified-api/"
+  - "https://merge.dev/blog/announcing-merges-55-million-series-b"
+  - "https://techcrunch.com/2021/11/03/merge-raises-15m-series-a-for-its-b2b-integrations-platform/"
+  - "https://techcrunch.com/2021/05/17/merge-raises-4-5m-to-help-b2b-companies-build-customer-facing-integrations/"
+  - "https://www.merge.dev/pricing/agent-handler"
+  - "https://www.merge.dev/about"
+  - "https://www.merge.dev/legal/terms"
+  - "https://siliconangle.com/2026/06/01/merge-launches-agent-handler-employees-gatekeeper-workplace-ai-agents/"
+last_verified: "2026-10-29"

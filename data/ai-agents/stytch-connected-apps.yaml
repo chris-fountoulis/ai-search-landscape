@@ -1,0 +1,41 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "Stytch (Connected Apps)"
+slug: "stytch-connected-apps"
+dataset: "ai-agents"
+company: "Stytch"
+product: "Connected Apps"
+website: "stytch.com"
+segment: "infrastructure"
+hq:
+  city: "San Francisco"
+  country: "US"
+founded:
+  year: 2021
+  source: "https://techcrunch.com/2021/07/14/ex-plaid-employees-raise-30m-for-stytch-an-api-first-passwordless-authentication-platform/"
+status: "acquired"
+funding:
+  total_usd: 126250000
+  latest_round:
+    name: "Series B"
+    date: "2021-11"
+    amount_usd: 90000000
+  source: "https://techcrunch.com/2021/07/14/ex-plaid-employees-raise-30m-for-stytch-an-api-first-passwordless-authentication-platform/"
+acquisition:
+  acquirer: "Twilio"
+  date: "2025-11"
+  date_type: "closed"
+  source: "https://stytch.com/docs/resources/changelog"
+pricing:
+  as_listed_by_vendor: "usage based ($0 base, 10,000 monthly active users and AI agents free, SSO or SCIM connections $125 each beyond 5, as listed); Enterprise custom"
+  model: "usage or credits"
+  source: "https://stytch.com/pricing"
+sources:
+  - "https://stytch.com/docs/resources/changelog"
+  - "https://www.twilio.com/en-us/press/releases/third-quarter-2025"
+  - "https://techcrunch.com/2021/11/18/stytch-api-passwordless-unicorn/"
+  - "https://techcrunch.com/2021/07/14/ex-plaid-employees-raise-30m-for-stytch-an-api-first-passwordless-authentication-platform/"
+  - "https://stytch.com/connected-apps"
+  - "https://stytch.com/pricing"
+  - "https://www.twilio.com/en-us/legal/tos"
+last_verified: "2026-10-29"

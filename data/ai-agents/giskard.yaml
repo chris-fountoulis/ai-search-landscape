@@ -1,0 +1,33 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "Giskard"
+slug: "giskard"
+dataset: "ai-agents"
+company: "Giskard"
+website: "giskard.ai"
+segment: "infrastructure"
+hq:
+  city: "Paris"
+  country: "FR"
+founded:
+  year: 2021
+  source: "https://www.giskard.ai/about"
+status: "active"
+funding:
+  total_usd: 1669950
+  latest_round:
+    name: "Seed"
+    date: "2022-12"
+    amount_usd: 1669950
+  source: "https://www.giskard.ai/knowledge/news-fundraising-2022"
+pricing:
+  as_listed_by_vendor: "custom"
+  model: "custom"
+sources:
+  - "https://www.giskard.ai/about"
+  - "https://www.giskard.ai/knowledge/news-fundraising-2022"
+  - "https://www.giskard.ai/knowledge/1-000-github-stars-3meu-and-new-llm-scan-feature"
+  - "https://www.giskard.ai/knowledge/giskard-leads-genai-evaluation-in-france-2030s-argimi-consortium"
+  - "https://recherche-entreprises.api.gouv.fr/search?q=giskard%20ai"
+  - "https://www.giskard.ai/pricing"
+last_verified: "2026-10-29"

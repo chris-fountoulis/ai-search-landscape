@@ -1,0 +1,33 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "Keycard"
+slug: "keycard"
+dataset: "ai-agents"
+company: "Keycard"
+website: "keycard.ai"
+segment: "infrastructure"
+hq:
+  city: "San Francisco"
+  country: "US"
+founded:
+  year: 2025
+  source: "https://www.keycard.ai/about/"
+status: "active"
+funding:
+  total_usd: 38000000
+  latest_round:
+    name: "Series A"
+    date: "2025-10"
+    amount_usd: 30000000
+  source: "https://www.securityweek.com/keycard-emerges-from-stealth-mode-with-38-million-in-funding/"
+pricing:
+  as_listed_by_vendor: "from $500 (as listed)"
+  model: "usage or credits"
+  source: "https://www.keycard.ai/pricing/"
+sources:
+  - "https://www.securityweek.com/keycard-emerges-from-stealth-mode-with-38-million-in-funding/"
+  - "https://siliconangle.com/2025/10/21/ai-agent-security-startup-keycard-reels-38m/"
+  - "https://www.keycard.ai/pricing/"
+  - "https://www.keycard.ai/about/"
+  - "https://www.keycard.ai/privacy/"
+last_verified: "2026-10-29"

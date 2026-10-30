@@ -1,0 +1,23 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "Amazon Web Services (Bedrock AgentCore)"
+slug: "amazon-web-services-bedrock-agentcore"
+dataset: "ai-agents"
+company: "Amazon Web Services"
+product: "Amazon Bedrock AgentCore"
+website: "amazon.com"
+segment: "infrastructure"
+hq:
+  city: "Seattle"
+  country: "US"
+status: "active"
+public_company: true
+pricing:
+  as_listed_by_vendor: "usage based, no minimum fee (as listed)"
+  model: "usage or credits"
+sources:
+  - "https://aws.amazon.com/bedrock/agentcore/pricing/"
+  - "https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-bedrock-agentcore-available/"
+  - "https://aws.amazon.com/agreement/"
+  - "https://techcrunch.com/2025/12/02/aws-announces-new-capabilities-for-its-ai-agent-builder/"
+last_verified: "2026-10-29"

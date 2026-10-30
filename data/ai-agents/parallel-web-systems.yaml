@@ -1,0 +1,30 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "Parallel Web Systems"
+slug: "parallel-web-systems"
+dataset: "ai-agents"
+company: "Parallel Web Systems"
+website: "parallel.ai"
+segment: "infrastructure"
+hq:
+  city: "Palo Alto"
+  country: "US"
+status: "active"
+funding:
+  total_usd: 230000000
+  latest_round:
+    name: "Series B"
+    date: "2026-04"
+    amount_usd: 100000000
+  source: "https://techcrunch.com/2026/04/29/parallel-web-systems-hits-2b-valuation-five-months-after-its-last-big-raise/"
+pricing:
+  as_listed_by_vendor: "usage-based, per 1,000 requests (as listed)"
+  model: "usage or credits"
+  source: "https://parallel.ai/pricing"
+sources:
+  - "https://techcrunch.com/2026/04/29/parallel-web-systems-hits-2b-valuation-five-months-after-its-last-big-raise/"
+  - "https://parallel.ai/customer-terms"
+  - "https://parallel.ai/pricing"
+  - "https://parallel.ai/"
+  - "https://techcrunch.com/2026/05/20/ai-search-startups-are-blowing-up/"
+last_verified: "2026-10-29"

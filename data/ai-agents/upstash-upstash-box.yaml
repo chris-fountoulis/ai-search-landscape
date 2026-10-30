@@ -1,0 +1,33 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "Upstash (Upstash Box)"
+slug: "upstash-upstash-box"
+dataset: "ai-agents"
+company: "Upstash"
+product: "Upstash Box"
+website: "upstash.com"
+segment: "infrastructure"
+hq:
+  country: "US"
+founded:
+  year: 2020
+  source: "https://upstash.com/about"
+status: "active"
+funding:
+  total_usd: 11900000
+  latest_round:
+    name: "Series A"
+    date: "2024-02"
+    amount_usd: 10000000
+  source: "https://techcrunch.com/2024/02/08/upstashs-serverless-data-platform-hits-arr-of-1m-just-two-years-after-seed-funding/"
+pricing:
+  as_listed_by_vendor: "$8 to $32 (as listed)"
+  model: "usage or credits"
+  source: "https://upstash.com/pricing/box"
+sources:
+  - "https://upstash.com/pricing/box"
+  - "https://upstash.com/box"
+  - "https://upstash.com/about"
+  - "https://techcrunch.com/2024/02/08/upstashs-serverless-data-platform-hits-arr-of-1m-just-two-years-after-seed-funding/"
+  - "https://techcrunch.com/2022/03/17/upstash-snags-1-9m-seed-to-build-serverless-data-platform-for-redis-and-kafka/"
+last_verified: "2026-10-29"

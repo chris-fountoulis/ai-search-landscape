@@ -1,0 +1,33 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "Airia"
+slug: "airia"
+dataset: "ai-agents"
+company: "Airia"
+product: "Airia"
+website: "airia.com"
+segment: "infrastructure"
+hq:
+  city: "Atlanta"
+  country: "US"
+founded:
+  year: 2024
+  source: "https://airia.com/about/"
+status: "active"
+funding:
+  total_usd: 50000000
+  latest_round:
+    name: "Founder funding"
+    date: "2025-09"
+    amount_usd: 100000000
+  source: "https://siliconangle.com/2025/09/16/airia-raises-100m-co-founder-build-security-foundation-enterprise-ai/"
+pricing:
+  as_listed_by_vendor: "custom"
+  model: "custom"
+sources:
+  - "https://siliconangle.com/2025/09/16/airia-raises-100m-co-founder-build-security-foundation-enterprise-ai/"
+  - "https://airia.com/about/"
+  - "https://airia.com/privacy-policy"
+  - "https://airia.ai/docs/build/interface-options/usage_limits"
+  - "https://techcrunch.com/2026/03/30/former-coatue-partner-raises-huge-65m-seed-for-enterprise-ai-agent-startup/"
+last_verified: "2026-10-29"

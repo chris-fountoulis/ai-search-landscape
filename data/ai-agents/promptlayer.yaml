@@ -1,0 +1,28 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "PromptLayer"
+slug: "promptlayer"
+dataset: "ai-agents"
+company: "PromptLayer"
+website: "promptlayer.com"
+segment: "infrastructure"
+hq:
+  city: "New York"
+  country: "US"
+status: "active"
+funding:
+  total_usd: 4800000
+  latest_round:
+    name: "Seed"
+    date: "2025-02"
+    amount_usd: 4800000
+  source: "https://techcrunch.com/2025/02/07/promptlayer-is-building-tools-to-put-non-techies-in-the-drivers-seat-of-ai-app-development/"
+pricing:
+  as_listed_by_vendor: "$49 to $500 (as listed)"
+  model: "flat"
+  source: "https://www.promptlayer.com/pricing"
+sources:
+  - "https://techcrunch.com/2025/02/07/promptlayer-is-building-tools-to-put-non-techies-in-the-drivers-seat-of-ai-app-development/"
+  - "https://www.promptlayer.com/pricing"
+  - "https://www.promptlayer.com/terms/"
+last_verified: "2026-10-29"

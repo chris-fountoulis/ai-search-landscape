@@ -1,0 +1,32 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "Braintrust"
+slug: "braintrust"
+dataset: "ai-agents"
+company: "Braintrust"
+product: "Braintrust"
+website: "braintrust.dev"
+segment: "infrastructure"
+hq:
+  city: "San Francisco"
+  country: "US"
+status: "active"
+funding:
+  total_usd: 125000000
+  latest_round:
+    name: "Series B"
+    date: "2026-02"
+    amount_usd: 80000000
+  source: "https://www.braintrust.dev/blog/announcing-series-b"
+pricing:
+  as_listed_by_vendor: "from $249 (as listed)"
+  model: "usage or credits"
+  source: "https://www.braintrust.dev/pricing"
+sources:
+  - "https://www.braintrust.dev/blog/announcing-series-b"
+  - "https://siliconangle.com/2026/02/17/braintrust-lands-80m-series-b-funding-round-become-observability-layer-ai/"
+  - "https://www.braintrust.dev/blog/announcing-series-a"
+  - "https://www.braintrust.dev/pricing"
+  - "https://www.braintrust.dev/legal/terms-of-service"
+  - "https://www.braintrust.dev/careers"
+last_verified: "2026-10-29"

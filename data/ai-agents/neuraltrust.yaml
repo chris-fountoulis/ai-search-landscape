@@ -1,0 +1,31 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "NeuralTrust"
+slug: "neuraltrust"
+dataset: "ai-agents"
+company: "NeuralTrust"
+product: "TrustGate; TrustGuard; TrustLens"
+website: "neuraltrust.ai"
+segment: "infrastructure"
+hq:
+  city: "Barcelona"
+  country: "ES"
+status: "active"
+funding:
+  total_usd: 20000000
+  latest_round:
+    name: "Seed"
+    date: "2026-06"
+    amount_usd: 20000000
+  source: "https://neuraltrust.ai/news/neuraltrust-raises-20m"
+pricing:
+  as_listed_by_vendor: "from $49 (as listed)"
+  model: "usage or credits"
+  source: "https://neuraltrust.ai/pricing"
+sources:
+  - "https://neuraltrust.ai/news/neuraltrust-raises-20m"
+  - "https://neuraltrust.ai/pricing"
+  - "https://neuraltrust.ai/terms"
+  - "https://neuraltrust.ai/about"
+  - "https://neuraltrust.ai/news"
+last_verified: "2026-10-29"

@@ -1,0 +1,40 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "Arize"
+slug: "arize"
+dataset: "ai-agents"
+company: "Arize"
+product: "Arize AX"
+website: "arize.com"
+segment: "infrastructure"
+hq:
+  city: "Berkeley"
+  country: "US"
+founded:
+  year: 2020
+  source: "https://www.dynatrace.com/news/press-release/dynatrace-completes-acquisition-of-arize/"
+status: "acquired"
+funding:
+  total_usd: 130000000
+  latest_round:
+    name: "Series C"
+    date: "2025-02"
+    amount_usd: 70000000
+  source: "https://www.dynatrace.com/news/press-release/dynatrace-completes-acquisition-of-arize/"
+acquisition:
+  acquirer: "Dynatrace"
+  date: "2026-10"
+  date_type: "closed"
+  price_usd: 915000000
+  source: "https://www.dynatrace.com/news/press-release/dynatrace-completes-acquisition-of-arize/"
+pricing:
+  as_listed_by_vendor: "from $50 (as listed)"
+  model: "flat"
+  source: "https://arize.com/pricing/"
+sources:
+  - "https://www.dynatrace.com/news/press-release/dynatrace-completes-acquisition-of-arize/"
+  - "https://www.dynatrace.com/news/press-release/dynatrace-to-acquire-arize/"
+  - "https://techcrunch.com/2025/02/20/arize-ai-hopes-it-has-first-mover-advantage-in-ai-observability/"
+  - "https://arize.com/pricing/"
+  - "https://arize.com/terms-of-service/"
+last_verified: "2026-10-29"

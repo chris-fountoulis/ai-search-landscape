@@ -1,0 +1,29 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "Grafana Labs (Agent Observability)"
+slug: "grafana-labs-agent-observability"
+dataset: "ai-agents"
+company: "Grafana Labs"
+product: "Agent Observability (Grafana Cloud)"
+website: "grafana.com"
+segment: "infrastructure"
+hq:
+  city: "New York"
+  country: "US"
+status: "active"
+funding:
+  latest_round:
+    name: "Unnamed round"
+    date: "2024-08"
+    amount_usd: 270000000
+  source: "https://siliconangle.com/2024/08/21/infrastructure-monitoring-startup-grafana-labs-raises-270m-6b-valuation/"
+pricing:
+  as_listed_by_vendor: "$19 to $2,083 (as listed)"
+  model: "usage or credits"
+  source: "https://grafana.com/pricing/"
+sources:
+  - "https://grafana.com/pricing/"
+  - "https://siliconangle.com/2024/08/21/infrastructure-monitoring-startup-grafana-labs-raises-270m-6b-valuation/"
+  - "https://siliconangle.com/2026/10/20/grafana-labs-leans-on-ai-agents-to-automate-ai-agent-observability/"
+  - "https://grafana.com/products/cloud/ai-observability/"
+last_verified: "2026-10-29"

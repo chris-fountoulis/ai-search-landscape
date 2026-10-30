@@ -1,0 +1,40 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "Weights & Biases (Weave)"
+slug: "weights-and-biases-weave"
+dataset: "ai-agents"
+company: "Weights & Biases"
+product: "W&B Weave"
+website: "wandb.ai"
+segment: "infrastructure"
+hq:
+  city: "San Francisco"
+  country: "US"
+founded:
+  year: 2017
+  source: "https://techcrunch.com/2023/08/09/weights-biases-who-counts-openai-as-a-customer-lands-50m/"
+status: "acquired"
+funding:
+  total_usd: 250000000
+  latest_round:
+    name: "Strategic round"
+    date: "2023-08"
+    amount_usd: 50000000
+  source: "https://techcrunch.com/2023/08/09/weights-biases-who-counts-openai-as-a-customer-lands-50m/"
+acquisition:
+  acquirer: "CoreWeave"
+  date: "2025-05"
+  date_type: "closed"
+  source: "https://techcrunch.com/2025/03/04/coreweave-acquires-ai-developer-platform-weights-biases/"
+pricing:
+  as_listed_by_vendor: "from $60 (as listed)"
+  model: "usage or credits"
+  source: "https://coreweave.com/forge-pricing"
+sources:
+  - "https://techcrunch.com/2023/08/09/weights-biases-who-counts-openai-as-a-customer-lands-50m/"
+  - "https://wandb.ai/site/press-release/weights-biases-raises-50-million-round-led-by-daniel-gross-and-nat-friedman-announces-wb-prompts/"
+  - "https://techcrunch.com/2025/03/04/coreweave-acquires-ai-developer-platform-weights-biases/"
+  - "https://investors.coreweave.com/news/news-details/2025/CoreWeave-Completes-Acquisition-of-Weights--Biases/default.aspx"
+  - "https://wandb.ai/site/weave/"
+  - "https://coreweave.com/forge-pricing"
+last_verified: "2026-10-29"

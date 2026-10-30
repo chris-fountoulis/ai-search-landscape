@@ -1,0 +1,25 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "Cloudflare (Agents and Sandbox SDK)"
+slug: "cloudflare-agents-and-sandbox-sdk"
+dataset: "ai-agents"
+company: "Cloudflare"
+product: "Agents SDK; Sandbox SDK"
+website: "cloudflare.com"
+segment: "infrastructure"
+hq:
+  city: "San Francisco"
+  country: "US"
+status: "active"
+public_company: true
+pricing:
+  as_listed_by_vendor: "from $5 (as listed)"
+  model: "usage or credits"
+  source: "https://developers.cloudflare.com/workers/platform/pricing/"
+sources:
+  - "https://developers.cloudflare.com/workers/platform/pricing/"
+  - "https://developers.cloudflare.com/sandbox/platform/pricing/"
+  - "https://developers.cloudflare.com/agents/"
+  - "https://www.cloudflare.com/about-overview/"
+  - "https://www.forbes.com/sites/janakirammsv/2026/04/16/cloudflare-and-openai-launch-agent-cloud-for-enterprises/"
+last_verified: "2026-10-29"

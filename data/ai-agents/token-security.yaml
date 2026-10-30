@@ -1,0 +1,31 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "Token Security"
+slug: "token-security"
+dataset: "ai-agents"
+company: "Token Security"
+website: "token.security"
+segment: "infrastructure"
+hq:
+  city: "Tel Aviv"
+  country: "IL"
+founded:
+  year: 2023
+  source: "https://www.token.security/legal/terms-of-use"
+status: "active"
+funding:
+  total_usd: 27000000
+  latest_round:
+    name: "Series A"
+    date: "2025-01"
+    amount_usd: 20000000
+  source: "https://www.prnewswire.com/news-releases/token-security-raises-20m-to-secure-enterprises-machine-identities--from-legacy-applications-to-ai-agents-302361620.html"
+pricing:
+  as_listed_by_vendor: "custom"
+  model: "custom"
+sources:
+  - "https://www.prnewswire.com/news-releases/token-security-raises-20m-to-secure-enterprises-machine-identities--from-legacy-applications-to-ai-agents-302361620.html"
+  - "https://techcrunch.com/2025/01/27/hackers-are-targeting-machine-identities-token-security-just-raised-20m-to-stop-them/"
+  - "https://www.token.security/legal/terms-of-use"
+  - "https://www.token.security/news"
+last_verified: "2026-10-29"

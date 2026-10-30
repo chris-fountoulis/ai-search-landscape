@@ -1,0 +1,31 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "Kernel"
+slug: "kernel"
+dataset: "ai-agents"
+company: "Kernel"
+website: "kernel.sh"
+segment: "infrastructure"
+hq:
+  country: "US"
+founded:
+  year: 2025
+  source: "https://siliconangle.com/2025/10/09/kernel-raises-22m-power-browser-infrastructure-ai-agents/"
+status: "active"
+funding:
+  total_usd: 22000000
+  latest_round:
+    name: "Seed and Series A"
+    date: "2025-10"
+    amount_usd: 22000000
+  source: "https://siliconangle.com/2025/10/09/kernel-raises-22m-power-browser-infrastructure-ai-agents/"
+pricing:
+  as_listed_by_vendor: "$30 to $200 (as listed)"
+  model: "usage or credits"
+  source: "https://www.kernel.sh/pricing"
+sources:
+  - "https://siliconangle.com/2025/10/09/kernel-raises-22m-power-browser-infrastructure-ai-agents/"
+  - "https://www.kernel.sh/pricing"
+  - "https://www.kernel.sh/docs/privacy"
+  - "https://www.accel.com/news/our-investment-in-kernel-the-best-browser-infrastructure-for-agents"
+last_verified: "2026-10-29"

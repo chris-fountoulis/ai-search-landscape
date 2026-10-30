@@ -1,0 +1,35 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "Cognee"
+slug: "cognee"
+dataset: "ai-agents"
+company: "Cognee"
+product: "Cognee"
+website: "cognee.ai"
+segment: "infrastructure"
+hq:
+  city: "Berlin"
+  country: "DE"
+founded:
+  year: 2024
+  source: "https://www.cognee.ai/impressum"
+status: "active"
+funding:
+  total_usd: 7500000
+  latest_round:
+    name: "Seed"
+    date: "2026-02"
+    amount_usd: 7500000
+  source: "https://www.cognee.ai/cognee-raises-seven-million-five-hundred-thousand-dollars-seed"
+pricing:
+  as_listed_by_vendor: "usage-based, $1 per 1M tokens plus $5 per extra workspace; Enterprise custom (as listed)"
+  model: "usage or credits"
+  source: "https://www.cognee.ai/pricing"
+sources:
+  - "https://www.cognee.ai/cognee-raises-seven-million-five-hundred-thousand-dollars-seed"
+  - "https://www.cognee.ai/impressum"
+  - "https://www.cognee.ai/pricing"
+  - "https://www.cognee.ai/about-us"
+  - "https://pebblebed.com/portfolio"
+  - "https://github.com/topoteretes/cognee"
+last_verified: "2026-10-29"

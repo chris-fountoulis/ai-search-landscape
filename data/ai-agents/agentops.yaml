@@ -1,0 +1,33 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "AgentOps"
+slug: "agentops"
+dataset: "ai-agents"
+company: "AgentOps"
+product: "AgentOps"
+website: "agentops.ai"
+segment: "infrastructure"
+hq:
+  city: "San Francisco"
+  country: "US"
+founded:
+  year: 2023
+  source: "https://techcrunch.com/2024/08/28/san-franciscos-ai-hackathons-agency-lets-you-see-what-your-ai-agents-do/"
+status: "active"
+funding:
+  total_usd: 2600000
+  latest_round:
+    name: "Pre-seed"
+    date: "2024-08"
+    amount_usd: 2600000
+  source: "https://techcrunch.com/2024/08/28/san-franciscos-ai-hackathons-agency-lets-you-see-what-your-ai-agents-do/"
+pricing:
+  as_listed_by_vendor: "from $40 (as listed)"
+  model: "usage or credits"
+  source: "https://www.agentops.ai/"
+sources:
+  - "https://techcrunch.com/2024/08/28/san-franciscos-ai-hackathons-agency-lets-you-see-what-your-ai-agents-do/"
+  - "https://www.agentops.ai/"
+  - "https://github.com/AgentOps-AI/agentops"
+  - "https://api.github.com/orgs/AgentOps-AI"
+last_verified: "2026-10-29"

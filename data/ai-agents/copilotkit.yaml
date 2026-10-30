@@ -1,0 +1,29 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "CopilotKit"
+slug: "copilotkit"
+dataset: "ai-agents"
+company: "CopilotKit"
+website: "copilotkit.ai"
+segment: "infrastructure"
+hq:
+  city: "Seattle"
+  country: "US"
+status: "active"
+funding:
+  total_usd: 27000000
+  latest_round:
+    name: "Series A"
+    date: "2026-05"
+    amount_usd: 27000000
+  source: "https://techcrunch.com/2026/05/05/copilotkit-raises-27m-to-help-devs-deploy-app-native-ai-agents/"
+pricing:
+  as_listed_by_vendor: "from $49 (as listed)"
+  model: "usage or credits"
+  source: "https://www.copilotkit.ai/pricing"
+sources:
+  - "https://techcrunch.com/2026/05/05/copilotkit-raises-27m-to-help-devs-deploy-app-native-ai-agents/"
+  - "https://www.copilotkit.ai/pricing"
+  - "https://www.copilotkit.ai/terms-of-service"
+  - "https://www.copilotkit.ai/careers"
+last_verified: "2026-10-29"

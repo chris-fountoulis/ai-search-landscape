@@ -1,0 +1,38 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "Langfuse"
+slug: "langfuse"
+dataset: "ai-agents"
+company: "Langfuse"
+website: "langfuse.com"
+segment: "infrastructure"
+hq:
+  city: "Berlin"
+  country: "DE"
+founded:
+  year: 2023
+  source: "https://langfuse.com/imprint"
+status: "acquired"
+funding:
+  total_usd: 4000000
+  latest_round:
+    name: "Seed"
+    date: "2023-11"
+    amount_usd: 4000000
+  source: "https://langfuse.com/blog/announcing-our-seed-round"
+acquisition:
+  acquirer: "ClickHouse"
+  date: "2026-01"
+  date_type: "closed"
+  source: "https://langfuse.com/blog/joining-clickhouse"
+pricing:
+  as_listed_by_vendor: "$29 to $2,499 (as listed)"
+  model: "usage or credits"
+  source: "https://langfuse.com/pricing"
+sources:
+  - "https://langfuse.com/blog/joining-clickhouse"
+  - "https://langfuse.com/imprint"
+  - "https://langfuse.com/pricing"
+  - "https://langfuse.com/blog/announcing-our-seed-round"
+  - "https://siliconangle.com/2026/01/16/database-maker-clickhouse-raises-400m-acquires-ai-observability-startup-langfuse/"
+last_verified: "2026-10-29"

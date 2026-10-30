@@ -1,0 +1,30 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "Browserbase"
+slug: "browserbase"
+dataset: "ai-agents"
+company: "Browserbase"
+product: "Browserbase"
+website: "browserbase.com"
+segment: "infrastructure"
+hq:
+  city: "San Francisco"
+  country: "US"
+status: "active"
+funding:
+  latest_round:
+    name: "Series B"
+    date: "2025-06"
+    amount_usd: 40000000
+  source: "https://siliconangle.com/2025/06/17/browserbase-reels-40m-browser-automation-tools/"
+pricing:
+  as_listed_by_vendor: "$20 to $99 (as listed)"
+  model: "usage or credits"
+  source: "https://www.browserbase.com/pricing"
+sources:
+  - "https://siliconangle.com/2025/06/17/browserbase-reels-40m-browser-automation-tools/"
+  - "https://www.browserbase.com/pricing"
+  - "https://www.browserbase.com/careers"
+  - "https://www.browserbase.com/terms-of-service"
+  - "https://kleinerperkins.com/partnerships/"
+last_verified: "2026-10-29"

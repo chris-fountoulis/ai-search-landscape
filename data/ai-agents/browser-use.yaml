@@ -1,0 +1,29 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "Browser Use"
+slug: "browser-use"
+dataset: "ai-agents"
+company: "Browser Use"
+product: "Browser Use Cloud"
+website: "browser-use.com"
+segment: "infrastructure"
+founded:
+  year: 2024
+  source: "https://browser-use.com/legal/terms-of-service"
+status: "active"
+funding:
+  total_usd: 17000000
+  latest_round:
+    name: "Seed"
+    date: "2025-03"
+    amount_usd: 17000000
+  source: "https://techcrunch.com/2025/03/23/browser-use-the-tool-making-it-easier-for-ai-agents-to-navigate-websites-raises-17m/"
+pricing:
+  as_listed_by_vendor: "usage-based, no monthly plan (as listed)"
+  model: "usage or credits"
+sources:
+  - "https://techcrunch.com/2025/03/23/browser-use-the-tool-making-it-easier-for-ai-agents-to-navigate-websites-raises-17m/"
+  - "https://browser-use.com/pricing"
+  - "https://browser-use.com/legal/terms-of-service"
+  - "https://browser-use.com/"
+last_verified: "2026-10-29"

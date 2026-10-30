@@ -1,0 +1,31 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "Patronus AI"
+slug: "patronus-ai"
+dataset: "ai-agents"
+company: "Patronus AI"
+website: "patronus.ai"
+segment: "infrastructure"
+hq:
+  city: "San Francisco"
+  country: "US"
+founded:
+  year: 2023
+  source: "https://www.patronus.ai/contact"
+status: "active"
+funding:
+  total_usd: 70000000
+  latest_round:
+    name: "Series B"
+    date: "2026-06"
+    amount_usd: 50000000
+  source: "https://techcrunch.com/2026/06/25/patronus-ai-lands-50m-to-build-digital-worlds-that-stress-test-ai-agents/"
+pricing:
+  as_listed_by_vendor: "custom"
+  model: "custom"
+sources:
+  - "https://techcrunch.com/2026/06/25/patronus-ai-lands-50m-to-build-digital-worlds-that-stress-test-ai-agents/"
+  - "https://www.patronus.ai/terms-of-use"
+  - "https://www.patronus.ai/contact"
+  - "https://www.patronus.ai/pricing"
+last_verified: "2026-10-29"

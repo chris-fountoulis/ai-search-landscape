@@ -1,0 +1,32 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "Paid"
+slug: "paid"
+dataset: "ai-agents"
+company: "Paid"
+website: "paid.ai"
+segment: "infrastructure"
+hq:
+  city: "London"
+  country: "GB"
+founded:
+  year: 2025
+  source: "https://paid.ai/legal/terms"
+status: "active"
+funding:
+  total_usd: 33300000
+  latest_round:
+    name: "Seed"
+    date: "2025-09"
+    amount_usd: 21600000
+  source: "https://techcrunch.com/2025/09/28/paid-the-ai-agent-results-based-billing-startup-from-manny-medina-raises-huge-21m-seed/"
+pricing:
+  as_listed_by_vendor: "$29.99 to $79.99 (as listed)"
+  model: "custom"
+  source: "https://techcrunch.com/2025/09/28/paid-the-ai-agent-results-based-billing-startup-from-manny-medina-raises-huge-21m-seed/"
+sources:
+  - "https://techcrunch.com/2025/09/28/paid-the-ai-agent-results-based-billing-startup-from-manny-medina-raises-huge-21m-seed/"
+  - "https://techcrunch.com/2025/03/25/outreach-founder-manny-medina-has-a-new-startup-that-helps-ai-agents-get-paid/"
+  - "https://paid.ai/legal/terms"
+  - "https://paid.ai/about"
+last_verified: "2026-10-29"

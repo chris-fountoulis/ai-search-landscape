@@ -1,0 +1,32 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "Natural"
+slug: "natural"
+dataset: "ai-agents"
+company: "Natural"
+website: "natural.com"
+segment: "infrastructure"
+hq:
+  city: "San Francisco"
+  country: "US"
+founded:
+  year: 2025
+  source: "https://techcrunch.com/2026/07/20/natural-raises-30m-to-reinvent-payments-for-ai-agents-and-take-on-stripe/"
+status: "active"
+funding:
+  total_usd: 40000000
+  latest_round:
+    name: "Series A"
+    date: "2026-07"
+    amount_usd: 30000000
+  source: "https://techcrunch.com/2026/07/20/natural-raises-30m-to-reinvent-payments-for-ai-agents-and-take-on-stripe/"
+pricing:
+  as_listed_by_vendor: "usage based: wallets free, business payments 0.1% (as listed); Enterprise custom"
+  model: "usage or credits"
+  source: "https://www.natural.com/pricing"
+sources:
+  - "https://techcrunch.com/2026/07/20/natural-raises-30m-to-reinvent-payments-for-ai-agents-and-take-on-stripe/"
+  - "https://thenextweb.com/news/natural-series-a-agentic-payments-ai-agents"
+  - "https://www.natural.com/pricing"
+  - "https://www.natural.com/privacy"
+last_verified: "2026-10-29"

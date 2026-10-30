@@ -1,0 +1,33 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "Mem0"
+slug: "mem0"
+dataset: "ai-agents"
+company: "Mem0"
+product: "Mem0 Platform"
+website: "mem0.ai"
+segment: "infrastructure"
+hq:
+  city: "San Francisco"
+  country: "US"
+founded:
+  year: 2024
+  source: "https://mem0.ai/about-us"
+status: "active"
+funding:
+  total_usd: 23900000
+  latest_round:
+    name: "Series A"
+    date: "2025-10"
+    amount_usd: 20000000
+  source: "https://techcrunch.com/2025/10/28/mem0-raises-24m-from-yc-peak-xv-and-basis-set-to-build-the-memory-layer-for-ai-apps/"
+pricing:
+  as_listed_by_vendor: "custom"
+  model: "custom"
+sources:
+  - "https://techcrunch.com/2025/10/28/mem0-raises-24m-from-yc-peak-xv-and-basis-set-to-build-the-memory-layer-for-ai-apps/"
+  - "https://mem0.ai/pricing"
+  - "https://mem0.ai/terms"
+  - "https://mem0.ai/privacy-policy"
+  - "https://mem0.ai/about-us"
+last_verified: "2026-10-29"

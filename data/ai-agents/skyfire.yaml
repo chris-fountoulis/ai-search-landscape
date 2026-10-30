@@ -1,0 +1,33 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "Skyfire"
+slug: "skyfire"
+dataset: "ai-agents"
+company: "Skyfire"
+product: "Know Your Agent; Agentic Wallet; Buy for Me"
+website: "skyfire.xyz"
+segment: "infrastructure"
+hq:
+  city: "San Francisco"
+  country: "US"
+founded:
+  year: 2024
+  source: "https://skyfire.xyz/about/"
+status: "active"
+funding:
+  total_usd: 9500000
+  latest_round:
+    name: "Seed (strategic extension)"
+    date: "2024-10"
+  source: "https://www.theblock.co/post/322742/coinbase-ventures-and-a16zs-csx-bring-skyfires-total-funding-raised-to-9-5-million"
+pricing:
+  as_listed_by_vendor: "custom"
+  model: "custom"
+sources:
+  - "https://www.theblock.co/post/322742/coinbase-ventures-and-a16zs-csx-bring-skyfires-total-funding-raised-to-9-5-million"
+  - "https://techcrunch.com/2024/08/21/skyfire-lets-ai-agents-spend-your-money/"
+  - "https://skyfire.xyz/about/"
+  - "https://skyfire.xyz/terms-of-service/"
+  - "https://skyfire.xyz/privacy-policy/"
+  - "https://skyfire.xyz/"
+last_verified: "2026-10-29"

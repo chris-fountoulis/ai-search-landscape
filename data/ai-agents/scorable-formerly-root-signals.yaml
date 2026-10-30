@@ -1,0 +1,34 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "Scorable (formerly Root Signals)"
+slug: "scorable-formerly-root-signals"
+dataset: "ai-agents"
+company: "Scorable"
+product: "Scorable"
+website: "rootsignals.ai"
+segment: "infrastructure"
+hq:
+  city: "Helsinki"
+  country: "FI"
+founded:
+  year: 2023
+  source: "https://web.archive.org/web/2025/https://www.eu-startups.com/2024/09/helsinki-based-root-signals-raises-e2-5-million-to-make-genai-outputs-measurable-and-reliable/"
+status: "active"
+funding:
+  total_usd: 2783250
+  latest_round:
+    name: "Unnamed round"
+    date: "2024-09"
+    amount_usd: 2783250
+  source: "https://web.archive.org/web/2025/https://www.eu-startups.com/2024/09/helsinki-based-root-signals-raises-e2-5-million-to-make-genai-outputs-measurable-and-reliable/"
+pricing:
+  as_listed_by_vendor: "from $19 (as listed)"
+  model: "per seat"
+  source: "https://scorable.ai/pricing"
+sources:
+  - "https://web.archive.org/web/2025/https://www.eu-startups.com/2024/09/helsinki-based-root-signals-raises-e2-5-million-to-make-genai-outputs-measurable-and-reliable/"
+  - "https://scorable.ai/"
+  - "https://scorable.ai/pricing"
+  - "https://scorable.ai/terms-of-service"
+  - "https://avoindata.prh.fi/opendata-ytj-api/v3/companies?name=Root%20Signals"
+last_verified: "2026-10-29"

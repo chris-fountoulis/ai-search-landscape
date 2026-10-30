@@ -1,0 +1,36 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "LiveKit"
+slug: "livekit"
+dataset: "ai-agents"
+company: "LiveKit"
+product: "LiveKit Agents"
+website: "livekit.io"
+segment: "infrastructure"
+hq:
+  city: "San Francisco"
+  country: "US"
+founded:
+  year: 2021
+  source: "https://techcrunch.com/2026/01/22/voice-ai-engine-and-openai-partner-livekit-hits-1b-valuation/"
+status: "active"
+funding:
+  total_usd: 174500000
+  latest_round:
+    name: "Series C"
+    date: "2026-01"
+    amount_usd: 100000000
+  source: "https://techcrunch.com/2026/01/22/voice-ai-engine-and-openai-partner-livekit-hits-1b-valuation/"
+pricing:
+  as_listed_by_vendor: "$50 to $500 (as listed)"
+  model: "usage or credits"
+  source: "https://livekit.com/pricing"
+sources:
+  - "https://techcrunch.com/2026/01/22/voice-ai-engine-and-openai-partner-livekit-hits-1b-valuation/"
+  - "https://techcrunch.com/2021/12/13/livekit-metaverse-open-infrastructure/"
+  - "https://livekit.com/blog/livekit-series-a"
+  - "https://techcrunch.com/2025/04/10/livekits-tools-help-power-real-time-communications/"
+  - "https://fortune.com/press-releases/livekit-raises-100m-1b-valuation-voice-first-computing-2026-01-22"
+  - "https://livekit.com/pricing"
+  - "https://livekit.com/legal/terms-of-service"
+last_verified: "2026-10-29"

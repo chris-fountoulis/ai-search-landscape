@@ -1,0 +1,32 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "Supermemory"
+slug: "supermemory"
+dataset: "ai-agents"
+company: "Supermemory"
+website: "supermemory.ai"
+segment: "infrastructure"
+hq:
+  city: "San Francisco"
+  country: "US"
+founded:
+  year: 2025
+  source: "https://techcrunch.com/2025/10/06/a-19-year-old-nabs-backing-from-google-execs-for-his-ai-memory-startup-supermemory/"
+status: "active"
+funding:
+  total_usd: 2600000
+  latest_round:
+    name: "Seed"
+    date: "2025-10"
+    amount_usd: 2600000
+  source: "https://techcrunch.com/2025/10/06/a-19-year-old-nabs-backing-from-google-execs-for-his-ai-memory-startup-supermemory/"
+pricing:
+  as_listed_by_vendor: "$19 to $399 (as listed)"
+  model: "usage or credits"
+  source: "https://supermemory.ai/pricing/"
+sources:
+  - "https://supermemory.ai/pricing/"
+  - "https://techcrunch.com/2025/10/06/a-19-year-old-nabs-backing-from-google-execs-for-his-ai-memory-startup-supermemory/"
+  - "https://supermemory.ai/"
+  - "https://supermemory.ai/terms/"
+last_verified: "2026-10-29"

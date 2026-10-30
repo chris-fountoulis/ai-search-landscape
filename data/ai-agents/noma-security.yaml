@@ -1,0 +1,32 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "Noma Security"
+slug: "noma-security"
+dataset: "ai-agents"
+company: "Noma Security"
+website: "noma.security"
+segment: "infrastructure"
+hq:
+  city: "New York"
+  country: "US"
+founded:
+  year: 2023
+  source: "https://noma.security/contact"
+status: "active"
+funding:
+  total_usd: 132000000
+  latest_round:
+    name: "Series B"
+    date: "2025-07"
+    amount_usd: 100000000
+  source: "https://www.securityweek.com/noma-security-raises-100-million-for-ai-security-platform/"
+pricing:
+  as_listed_by_vendor: "custom"
+  model: "custom"
+sources:
+  - "https://www.securityweek.com/noma-security-raises-100-million-for-ai-security-platform/"
+  - "https://techcrunch.com/2024/10/31/noma-is-building-tools-to-spot-security-issues-with-ai-apps/"
+  - "https://en.globes.co.il/en/article-1001517758"
+  - "https://noma.security/contact"
+  - "https://noma.security/terms-of-use"
+last_verified: "2026-10-29"

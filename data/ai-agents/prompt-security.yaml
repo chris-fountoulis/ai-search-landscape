@@ -1,0 +1,36 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "Prompt Security"
+slug: "prompt-security"
+dataset: "ai-agents"
+company: "Prompt Security"
+product: "Prompt Security"
+website: "prompt.security"
+segment: "infrastructure"
+hq:
+  country: "IL"
+founded:
+  year: 2023
+  source: "https://siliconangle.com/2025/08/05/sentinelone-acquires-ai-security-startup-prompt-security/"
+status: "acquired"
+funding:
+  total_usd: 23000000
+  latest_round:
+    name: "Series A"
+    date: "2024-11"
+    amount_usd: 18000000
+  source: "https://siliconangle.com/2025/08/05/sentinelone-acquires-ai-security-startup-prompt-security/"
+acquisition:
+  acquirer: "SentinelOne"
+  date: "2025-08"
+  date_type: "closed"
+  source: "https://siliconangle.com/2025/08/05/sentinelone-acquires-ai-security-startup-prompt-security/"
+pricing:
+  as_listed_by_vendor: "custom"
+  model: "custom"
+sources:
+  - "https://siliconangle.com/2025/08/05/sentinelone-acquires-ai-security-startup-prompt-security/"
+  - "https://www.calcalistech.com/ctechnews/article/hkx8pismkg"
+  - "https://prompt.security/"
+  - "https://www.sentinelone.com/platform/securing-ai-prompt/"
+last_verified: "2026-10-29"

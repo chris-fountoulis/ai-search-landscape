@@ -1,0 +1,32 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "Credal"
+slug: "credal"
+dataset: "ai-agents"
+company: "Credal"
+product: "Agent Builder"
+website: "credal.ai"
+segment: "infrastructure"
+hq:
+  city: "New York"
+  country: "US"
+founded:
+  year: 2023
+  source: "https://techcrunch.com/2023/10/26/credal-aims-to-connect-company-data-to-llms-securely/"
+status: "active"
+funding:
+  total_usd: 10000000
+  latest_round:
+    name: "Seed"
+    date: "2023-10"
+    amount_usd: 4800000
+  source: "https://techcrunch.com/2023/10/26/credal-aims-to-connect-company-data-to-llms-securely/"
+pricing:
+  as_listed_by_vendor: "custom"
+  model: "custom"
+sources:
+  - "https://www.credal.ai/careers"
+  - "https://techcrunch.com/2023/10/26/credal-aims-to-connect-company-data-to-llms-securely/"
+  - "https://www.credal.ai/pricing"
+  - "https://www.credal.ai/policies/terms-and-conditions"
+last_verified: "2026-10-29"

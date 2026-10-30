@@ -1,0 +1,35 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "Arcjet"
+slug: "arcjet"
+dataset: "ai-agents"
+company: "Arcjet"
+product: "Arcjet (AI agent runtime security)"
+website: "arcjet.com"
+segment: "infrastructure"
+hq:
+  city: "San Francisco"
+  country: "US"
+founded:
+  year: 2023
+  source: "https://arcjet.com/about"
+status: "active"
+funding:
+  total_usd: 11900000
+  latest_round:
+    name: "Series A"
+    date: "2025-10"
+    amount_usd: 8300000
+  source: "https://arcjet.com/blog/launching-the-future-of-developer-security-seed-funding-from-a16z"
+pricing:
+  as_listed_by_vendor: "$25 to $299 (as listed)"
+  model: "usage or credits"
+  source: "https://arcjet.com/pricing"
+sources:
+  - "https://arcjet.com/about"
+  - "https://arcjet.com/blog/launching-the-future-of-developer-security-seed-funding-from-a16z"
+  - "https://arcjet.com/blog/introducing-arcjets-local-ai-security-model-announcing-series-a-funding"
+  - "https://siliconangle.com/2026/09/17/exclusive-arcjet-launches-runtime-security-to-track-and-control-ai-agents-in-production/"
+  - "https://arcjet.com/pricing"
+  - "https://arcjet.com/terms"
+last_verified: "2026-10-29"

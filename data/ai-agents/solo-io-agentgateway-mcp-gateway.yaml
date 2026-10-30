@@ -1,0 +1,33 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "Solo.io (agentgateway / MCP Gateway)"
+slug: "solo-io-agentgateway-mcp-gateway"
+dataset: "ai-agents"
+company: "Solo.io"
+product: "kagent; agentgateway; agentregistry"
+website: "solo.io"
+segment: "infrastructure"
+hq:
+  city: "Boston"
+  country: "US"
+founded:
+  year: 2017
+  source: "https://www.solo.io/company/about-us"
+status: "active"
+funding:
+  total_usd: 175000000
+  latest_round:
+    name: "Series C"
+    date: "2021-10"
+    amount_usd: 135000000
+  source: "https://techcrunch.com/2021/10/07/solo-io-reaches-1b-valuation-with-135m-series-c-investment/"
+pricing:
+  as_listed_by_vendor: "custom"
+  model: "custom"
+sources:
+  - "https://www.solo.io/company/about-us"
+  - "https://techcrunch.com/2021/10/07/solo-io-reaches-1b-valuation-with-135m-series-c-investment/"
+  - "https://siliconangle.com/2021/10/07/microservices-connectivity-firm-solo-io-raises-135m-series-c-funding/"
+  - "https://siliconangle.com/2020/10/01/api-infrastructure-startup-solo-io-raises-23m-series-b-round/"
+  - "https://www.solo.io/pricing"
+last_verified: "2026-10-29"

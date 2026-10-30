@@ -1,0 +1,34 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "Descope"
+slug: "descope"
+dataset: "ai-agents"
+company: "Descope"
+product: "Agentic Identity Hub"
+website: "descope.com"
+segment: "infrastructure"
+hq:
+  city: "Cupertino"
+  country: "US"
+founded:
+  year: 2022
+  source: "https://www.descope.com/about"
+status: "active"
+funding:
+  total_usd: 88000000
+  latest_round:
+    name: "Seed extension"
+    date: "2025-09"
+    amount_usd: 35000000
+  source: "https://techcrunch.com/2023/02/15/passwordless-authentication-startup-descope-lands-whopping-53m-seed-round/"
+pricing:
+  as_listed_by_vendor: "$249 to $799 (as listed)"
+  model: "usage or credits"
+  source: "https://www.descope.com/pricing"
+sources:
+  - "https://www.descope.com/about"
+  - "https://siliconangle.com/2026/10/15/descopes-agentic-identity-hub-3-0-takes-aim-at-shadow-ai-agents-inside-companies/"
+  - "https://techcrunch.com/2023/02/15/passwordless-authentication-startup-descope-lands-whopping-53m-seed-round/"
+  - "https://www.descope.com/pricing"
+  - "https://www.descope.com/terms"
+last_verified: "2026-10-29"

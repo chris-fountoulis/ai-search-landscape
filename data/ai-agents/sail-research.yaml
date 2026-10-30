@@ -1,0 +1,31 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "Sail Research"
+slug: "sail-research"
+dataset: "ai-agents"
+company: "Sail Research"
+product: "Sailboxes"
+website: "sailresearch.com"
+segment: "infrastructure"
+hq:
+  city: "San Francisco"
+  country: "US"
+status: "active"
+funding:
+  total_usd: 80000000
+  latest_round:
+    name: "Series A"
+    date: "2026-06"
+  source: "https://sailresearch.com/blog/sail-raises-80m"
+pricing:
+  as_listed_by_vendor: "from $250 (as listed)"
+  model: "usage or credits"
+  source: "https://docs.sailresearch.com/pricing"
+sources:
+  - "https://sailresearch.com/blog/sail-raises-80m"
+  - "https://siliconangle.com/2026/06/25/sail-research-raises-80m-optimize-long-horizon-ai-agents/"
+  - "https://docs.sailresearch.com/pricing"
+  - "https://sailresearch.com/sailboxes"
+  - "https://sailresearch.com/careers"
+  - "https://sailresearch.com/terms"
+last_verified: "2026-10-29"

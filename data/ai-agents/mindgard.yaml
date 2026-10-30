@@ -1,0 +1,31 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "Mindgard"
+slug: "mindgard"
+dataset: "ai-agents"
+company: "Mindgard"
+website: "mindgard.ai"
+segment: "infrastructure"
+hq:
+  city: "London"
+  country: "GB"
+founded:
+  year: 2022
+  source: "https://mindgard.ai/contact-us"
+status: "active"
+funding:
+  total_usd: 11986274
+  latest_round:
+    name: "Funding round (unnamed)"
+    date: "2024-12"
+    amount_usd: 8000000
+  source: "https://techcrunch.com/2024/12/20/british-university-spinoff-mindgard-protects-companies-from-ai-threats/"
+pricing:
+  as_listed_by_vendor: "custom"
+  model: "custom"
+sources:
+  - "https://techcrunch.com/2024/12/20/british-university-spinoff-mindgard-protects-companies-from-ai-threats/"
+  - "https://mindgard.ai/terms-and-conditions"
+  - "https://mindgard.ai/contact-us"
+  - "https://mindgard.ai/about"
+last_verified: "2026-10-29"

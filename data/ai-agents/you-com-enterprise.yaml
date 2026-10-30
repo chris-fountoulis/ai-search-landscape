@@ -1,0 +1,33 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "You.com (Enterprise)"
+slug: "you-com-enterprise"
+dataset: "ai-agents"
+company: "You.com"
+product: "You.com Research API"
+website: "you.com"
+segment: "infrastructure"
+hq:
+  city: "Palo Alto"
+  country: "US"
+founded:
+  year: 2020
+  source: "https://techcrunch.com/2026/01/19/here-are-the-49-us-ai-startups-that-have-raised-100m-or-more-in-2025/"
+status: "active"
+funding:
+  latest_round:
+    name: "Series C"
+    date: "2025-09"
+    amount_usd: 100000000
+  source: "https://techcrunch.com/2026/01/19/here-are-the-49-us-ai-startups-that-have-raised-100m-or-more-in-2025/"
+pricing:
+  as_listed_by_vendor: "usage-based, $5 to $450 per 1,000 calls (as listed)"
+  model: "usage or credits"
+  source: "https://you.com/pricing"
+sources:
+  - "https://techcrunch.com/2026/01/19/here-are-the-49-us-ai-startups-that-have-raised-100m-or-more-in-2025/"
+  - "https://siliconangle.com/2025/09/03/com-raises-100m-help-developers-build-ai-applications/"
+  - "https://techcrunch.com/2024/09/04/you-com-refocuses-from-ai-search-to-deeper-productivity-agents-with-new-50m-round/"
+  - "https://you.com/pricing"
+  - "https://you.com/terms"
+last_verified: "2026-10-29"

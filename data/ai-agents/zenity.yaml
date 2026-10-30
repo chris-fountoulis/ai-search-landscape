@@ -1,0 +1,31 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "Zenity"
+slug: "zenity"
+dataset: "ai-agents"
+company: "Zenity"
+website: "zenity.io"
+segment: "infrastructure"
+hq:
+  city: "Tel Aviv"
+  country: "IL"
+founded:
+  year: 2021
+  source: "https://zenity.io/company"
+status: "active"
+funding:
+  total_usd: 184500000
+  latest_round:
+    name: "Series C"
+    date: "2026-08"
+    amount_usd: 125000000
+  source: "https://fortune.com/2026/08/03/softbank-hitachi-lg-back-zenitys-125-million-round-to-police-ai-agents/"
+pricing:
+  as_listed_by_vendor: "custom"
+  model: "custom"
+sources:
+  - "https://fortune.com/2026/08/03/softbank-hitachi-lg-back-zenitys-125-million-round-to-police-ai-agents/"
+  - "https://zenity.io/company"
+  - "https://zenity.io/press-release/zenity-raises-125-million-to-secure-the-era-of-1-billion-ai-agents"
+  - "https://zenity.io/privacy-policy"
+last_verified: "2026-10-29"

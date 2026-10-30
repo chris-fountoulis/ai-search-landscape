@@ -1,0 +1,32 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "Operant AI"
+slug: "operant-ai"
+dataset: "ai-agents"
+company: "Operant AI"
+website: "operant.ai"
+segment: "infrastructure"
+hq:
+  city: "San Francisco"
+  country: "US"
+founded:
+  year: 2021
+  source: "https://www.operant.ai/company/terms-of-use"
+status: "active"
+funding:
+  total_usd: 13500000
+  latest_round:
+    name: "Series A"
+    date: "2024-09"
+    amount_usd: 10000000
+  source: "https://vcnewsdaily.com/operant-ai/venture-capital-funding/xcpkfybjlp"
+pricing:
+  as_listed_by_vendor: "custom"
+  model: "custom"
+sources:
+  - "https://vcnewsdaily.com/operant-ai/venture-capital-funding/xcpkfybjlp"
+  - "https://www.operant.ai/company/terms-of-use"
+  - "https://www.operant.ai/company/contact"
+  - "https://www.crn.com/news/security/2026/the-10-hottest-ai-security-startups-of-2026-so-far?page=5"
+  - "https://www.operant.ai/platform/pricing"
+last_verified: "2026-10-29"

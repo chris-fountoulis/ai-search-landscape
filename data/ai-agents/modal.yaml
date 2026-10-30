@@ -1,0 +1,37 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "Modal"
+slug: "modal"
+dataset: "ai-agents"
+company: "Modal"
+product: "Modal Sandboxes"
+website: "modal.com"
+segment: "infrastructure"
+hq:
+  city: "New York"
+  country: "US"
+founded:
+  year: 2021
+  source: "https://modal.com/company"
+status: "active"
+funding:
+  total_usd: 1216000000
+  latest_round:
+    name: "Series D"
+    date: "2026-10"
+    amount_usd: 750000000
+    valuation_usd: 15750000000
+  source: "https://modal.com/blog/1-billion-annualized-run-rate-series-d"
+pricing:
+  as_listed_by_vendor: "from $250 (as listed)"
+  model: "usage or credits"
+  source: "https://modal.com/pricing"
+sources:
+  - "https://modal.com/blog/1-billion-annualized-run-rate-series-d"
+  - "https://modal.com/blog/modal-series-c"
+  - "https://modal.com/blog/announcing-our-series-b"
+  - "https://techcrunch.com/2026/09/28/source-inference-provider-modal-labs-closing-in-on-750m-round-at-15-75b-valuation/"
+  - "https://modal.com/pricing"
+  - "https://modal.com/company"
+  - "https://modal.com/legal/terms"
+last_verified: "2026-10-29"

@@ -1,0 +1,27 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "Tensorlake"
+slug: "tensorlake"
+dataset: "ai-agents"
+company: "Tensorlake"
+product: "Tensorlake Sandboxes"
+website: "tensorlake.ai"
+segment: "infrastructure"
+hq:
+  city: "San Francisco"
+  country: "US"
+status: "active"
+funding:
+  total_usd: 8600000
+  source: "https://siliconangle.com/2026/03/12/serverless-infrastructure-tensorlake-makes-simpler-deploy-scale-agentic-workflows/"
+pricing:
+  as_listed_by_vendor: "from $250 (as listed)"
+  model: "usage or credits"
+  source: "https://tensorlake.ai/pricing"
+sources:
+  - "https://siliconangle.com/2026/03/12/serverless-infrastructure-tensorlake-makes-simpler-deploy-scale-agentic-workflows/"
+  - "https://tensorlake.ai/pricing"
+  - "https://tensorlake.ai/careers"
+  - "https://tensorlake.ai/"
+  - "https://tensorlake.ai/terms"
+last_verified: "2026-10-29"

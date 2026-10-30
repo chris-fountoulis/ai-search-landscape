@@ -1,0 +1,39 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "Galileo"
+slug: "galileo"
+dataset: "ai-agents"
+company: "Galileo"
+product: "Splunk Agent Observability (formerly Galileo)"
+website: "galileo.ai"
+segment: "infrastructure"
+hq:
+  country: "US"
+founded:
+  year: 2021
+  source: "https://galileo.ai/about"
+status: "acquired"
+funding:
+  total_usd: 50100000
+  latest_round:
+    name: "Series B"
+    date: "2024-10"
+    amount_usd: 45000000
+  source: "https://siliconangle.com/2024/10/15/ai-observability-firm-galileo-raises-45m-improve-ai-model-accuracy/"
+acquisition:
+  acquirer: "Cisco"
+  date: "2026-04"
+  date_type: "closed"
+  source: "https://siliconangle.com/2026/04/09/cisco-buys-galileo-strengthen-splunks-agentic-monitoring-capabilities/"
+pricing:
+  as_listed_by_vendor: "from $100 (as listed)"
+  model: "usage or credits"
+  source: "https://www.splunk.com/en_us/products/pricing.html"
+sources:
+  - "https://siliconangle.com/2026/04/09/cisco-buys-galileo-strengthen-splunks-agentic-monitoring-capabilities/"
+  - "https://siliconangle.com/2024/10/15/ai-observability-firm-galileo-raises-45m-improve-ai-model-accuracy/"
+  - "https://techcrunch.com/2022/05/03/galileo-emerges-from-stealth-to-streamline-ai-model-development/"
+  - "https://galileo.ai/about"
+  - "https://www.splunk.com/en_us/products/pricing.html"
+  - "https://galileo.ai/terms-of-service"
+last_verified: "2026-10-29"

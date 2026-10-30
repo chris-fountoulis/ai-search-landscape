@@ -1,0 +1,33 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "Hamming AI"
+slug: "hamming-ai"
+dataset: "ai-agents"
+company: "Hamming AI"
+website: "hamming.ai"
+segment: "infrastructure"
+hq:
+  city: "Austin"
+  country: "US"
+founded:
+  year: 2024
+  source: "https://hamming.ai/about"
+status: "active"
+funding:
+  total_usd: 3800000
+  latest_round:
+    name: "Seed"
+    date: "2024-12"
+    amount_usd: 3800000
+  source: "https://americanbazaaronline.com/2024/12/19/y-combinator-backed-hamming-ai-raises-3-8-million-to-make-voice-ai-agents-more-reliable-457844/"
+pricing:
+  as_listed_by_vendor: "custom"
+  model: "custom"
+sources:
+  - "https://americanbazaaronline.com/2024/12/19/y-combinator-backed-hamming-ai-raises-3-8-million-to-make-voice-ai-agents-more-reliable-457844/"
+  - "https://hamming.ai/privacy"
+  - "https://hamming.ai/terms"
+  - "https://hamming.ai/about"
+  - "https://hamming.ai/pricing"
+  - "https://www.ycombinator.com/companies/hamming-ai"
+last_verified: "2026-10-29"

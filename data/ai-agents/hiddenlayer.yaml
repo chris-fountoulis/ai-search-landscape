@@ -1,0 +1,31 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "HiddenLayer"
+slug: "hiddenlayer"
+dataset: "ai-agents"
+company: "HiddenLayer"
+website: "hiddenlayer.com"
+segment: "infrastructure"
+hq:
+  city: "Austin"
+  country: "US"
+founded:
+  year: 2019
+  source: "https://techcrunch.com/2026/09/02/hiddenlayer-nabs-100m-as-enterprises-rush-to-secure-their-ai-deployments/"
+status: "active"
+funding:
+  total_usd: 156000000
+  latest_round:
+    name: "Series B"
+    date: "2026-09"
+    amount_usd: 100000000
+  source: "https://techcrunch.com/2026/09/02/hiddenlayer-nabs-100m-as-enterprises-rush-to-secure-their-ai-deployments/"
+pricing:
+  as_listed_by_vendor: "custom"
+  model: "custom"
+sources:
+  - "https://techcrunch.com/2026/09/02/hiddenlayer-nabs-100m-as-enterprises-rush-to-secure-their-ai-deployments/"
+  - "https://techcrunch.com/2023/09/19/hiddenlayer-raises-50m-for-its-ai-defending-cybersecurity-tools/"
+  - "https://www.hiddenlayer.com/news/hiddenlayer-100m-series-b-ai-security"
+  - "https://www.hiddenlayer.com/privacy"
+last_verified: "2026-10-29"

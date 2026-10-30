@@ -1,0 +1,34 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "Comet (Opik)"
+slug: "comet-opik"
+dataset: "ai-agents"
+company: "Comet"
+product: "Opik"
+website: "comet.com"
+segment: "infrastructure"
+hq:
+  city: "New York"
+  country: "US"
+founded:
+  year: 2017
+  source: "https://www.comet.com/site/about-us/"
+status: "active"
+funding:
+  total_usd: 69800000
+  latest_round:
+    name: "Series B"
+    date: "2021-11"
+    amount_usd: 50000000
+  source: "https://techcrunch.com/2021/11/18/mlops-startup-comet-nabs-50m-series-b-just-six-months-after-raising-its-a/"
+pricing:
+  as_listed_by_vendor: "from $19 (as listed)"
+  model: "flat"
+  source: "https://www.comet.com/site/pricing/"
+sources:
+  - "https://techcrunch.com/2021/11/18/mlops-startup-comet-nabs-50m-series-b-just-six-months-after-raising-its-a/"
+  - "https://techcrunch.com/2020/04/22/comet-ai-nabs-4-5m-for-more-efficient-machine-learning-model-management/"
+  - "https://www.comet.com/site/pricing/"
+  - "https://www.comet.com/site/about-us/"
+  - "https://www.comet.com/site/terms-of-service/"
+last_verified: "2026-10-29"

@@ -1,0 +1,31 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "Runlayer"
+slug: "runlayer"
+dataset: "ai-agents"
+company: "Runlayer"
+website: "runlayer.com"
+segment: "infrastructure"
+hq:
+  city: "New York"
+  country: "US"
+founded:
+  year: 2025
+  source: "https://www.runlayer.com/about"
+status: "active"
+funding:
+  total_usd: 42000000
+  latest_round:
+    name: "Series A"
+    date: "2026-06"
+    amount_usd: 30000000
+  source: "https://www.runlayer.com/blog/series-A-30m-fundraise-felicis-khosla"
+pricing:
+  as_listed_by_vendor: "custom"
+  model: "custom"
+sources:
+  - "https://www.runlayer.com/blog/series-A-30m-fundraise-felicis-khosla"
+  - "https://techcrunch.com/2025/11/17/mcp-ai-agent-security-startup-runlayer-launches-with-8-unicorns-11m-from-khoslas-keith-rabois-and-felicis/"
+  - "https://techcrunch.com/2026/08/20/runlayer-rippling-drop-lawsuits-but-the-brouhaha-is-still-a-cautionary-tale-for-founders/"
+  - "https://www.runlayer.com/about"
+last_verified: "2026-10-29"

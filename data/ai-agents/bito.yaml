@@ -1,0 +1,34 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "Bito"
+slug: "bito"
+dataset: "ai-agents"
+company: "Bito"
+product: "Governor"
+website: "bito.ai"
+segment: "infrastructure"
+hq:
+  city: "Menlo Park"
+  country: "US"
+founded:
+  year: 2021
+  source: "https://bito.ai/about-us/"
+status: "active"
+funding:
+  total_usd: 8800000
+  latest_round:
+    name: "Seed"
+    date: "2025-05"
+    amount_usd: 5700000
+  source: "https://siliconangle.com/2025/05/27/bito-bites-off-5-7m-funding-take-github-copilot-ai-coding/"
+pricing:
+  as_listed_by_vendor: "$15 to $25 (as listed)"
+  model: "per seat"
+  source: "https://bito.ai/pricing/"
+sources:
+  - "https://siliconangle.com/2025/05/27/bito-bites-off-5-7m-funding-take-github-copilot-ai-coding/"
+  - "https://bito.ai/pricing/"
+  - "https://bito.ai/about-us/"
+  - "https://bito.ai/terms-of-service/"
+  - "https://bito.ai/"
+last_verified: "2026-10-29"

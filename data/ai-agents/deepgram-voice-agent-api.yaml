@@ -1,0 +1,30 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "Deepgram (Voice Agent API)"
+slug: "deepgram-voice-agent-api"
+dataset: "ai-agents"
+company: "Deepgram"
+product: "Voice Agent API"
+website: "deepgram.com"
+segment: "infrastructure"
+hq:
+  city: "San Francisco"
+  country: "US"
+status: "active"
+funding:
+  total_usd: 215000000
+  latest_round:
+    name: "Series C"
+    date: "2026-01"
+    amount_usd: 130000000
+  source: "https://techcrunch.com/2026/01/13/deepgram-raises-130m-at-1-3b-valuation-and-buys-a-yc-ai-startup/"
+pricing:
+  as_listed_by_vendor: "usage-based: $0.075/min pay as you go (as listed); Growth from $4,000/year; Enterprise custom"
+  model: "usage or credits"
+  source: "https://deepgram.com/pricing"
+sources:
+  - "https://techcrunch.com/2026/01/13/deepgram-raises-130m-at-1-3b-valuation-and-buys-a-yc-ai-startup/"
+  - "https://deepgram.com/pricing"
+  - "https://deepgram.com/terms"
+  - "https://deepgram.com/product/voice-agents"
+last_verified: "2026-10-29"

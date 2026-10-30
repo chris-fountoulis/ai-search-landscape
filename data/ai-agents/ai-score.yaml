@@ -1,0 +1,33 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "AI Score"
+slug: "ai-score"
+dataset: "ai-agents"
+company: "AI Score"
+website: "aiscore.ai"
+segment: "infrastructure"
+hq:
+  city: "London"
+  country: "GB"
+founded:
+  year: 2025
+  source: "https://aiscore.ai/contact-us/"
+status: "active"
+funding:
+  total_usd: 6400000
+  latest_round:
+    name: "Seed"
+    date: "2026-09"
+    amount_usd: 5400000
+  source: "https://tech.eu/2026/09/04/uk-startup-ai-score-raises-54m-to-scale-its-enterprise-ai-governance-platform/"
+pricing:
+  as_listed_by_vendor: "custom"
+  model: "custom"
+sources:
+  - "https://tech.eu/2026/09/04/uk-startup-ai-score-raises-54m-to-scale-its-enterprise-ai-governance-platform/"
+  - "https://www.fuel.ventures/uk-ai-startup-ai-score-raises-54m-to-build-the-governance-platform-for-the-next-generation-of-enterprise-ai"
+  - "https://aiscore.ai/privacy-policy/"
+  - "https://aiscore.ai/contact-us/"
+  - "https://aiscore.ai/about-us/"
+  - "https://find-and-update.company-information.service.gov.uk/company/16381026"
+last_verified: "2026-10-29"

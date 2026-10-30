@@ -1,0 +1,35 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "Pipedream"
+slug: "pipedream"
+dataset: "ai-agents"
+company: "Pipedream"
+product: "Pipedream Connect"
+website: "pipedream.com"
+segment: "infrastructure"
+hq:
+  city: "Pleasanton"
+  country: "US"
+founded:
+  year: 2019
+  source: "https://siliconangle.com/2025/11/19/workday-acquire-pipedream-extend-ai-agent-integrations-across-enterprise-apps/"
+status: "acquired"
+funding:
+  total_usd: 22400000
+  source: "https://siliconangle.com/2025/11/19/workday-acquire-pipedream-extend-ai-agent-integrations-across-enterprise-apps/"
+acquisition:
+  acquirer: "Workday"
+  date: "2025-11"
+  date_type: "closed"
+  source: "https://siliconangle.com/2025/11/19/workday-acquire-pipedream-extend-ai-agent-integrations-across-enterprise-apps/"
+pricing:
+  as_listed_by_vendor: "from $150 (as listed)"
+  model: "usage or credits"
+  source: "https://pipedream.com/pricing"
+sources:
+  - "https://siliconangle.com/2025/11/19/workday-acquire-pipedream-extend-ai-agent-integrations-across-enterprise-apps/"
+  - "https://techcrunch.com/2022/05/17/2315521/"
+  - "https://pipedream.com/pricing"
+  - "https://pipedream.com/terms"
+  - "https://pipedream.com/"
+last_verified: "2026-10-29"

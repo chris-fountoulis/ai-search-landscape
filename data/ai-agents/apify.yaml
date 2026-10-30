@@ -1,0 +1,34 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "Apify"
+slug: "apify"
+dataset: "ai-agents"
+company: "Apify"
+product: "Apify (Actors and MCP for AI agents)"
+website: "apify.com"
+segment: "infrastructure"
+hq:
+  city: "Prague"
+  country: "CZ"
+founded:
+  year: 2015
+  source: "https://docs.apify.com/legal"
+status: "active"
+funding:
+  total_usd: 3117240
+  latest_round:
+    name: "Venture (J&T Ventures)"
+    date: "2024-04"
+    amount_usd: 3117240
+  source: "https://tech.eu/2024/04/15/prague-startup-apify-raises-eur28m-for-ai-data-mining/"
+pricing:
+  as_listed_by_vendor: "$19 to $999 (as listed)"
+  model: "usage or credits"
+  source: "https://apify.com/pricing"
+sources:
+  - "https://tech.eu/2024/04/15/prague-startup-apify-raises-eur28m-for-ai-data-mining/"
+  - "https://docs.apify.com/legal"
+  - "https://apify.com/pricing"
+  - "https://apify.com/about"
+  - "https://www.lupa.cz/aktuality/cesky-obchod-s-aplikacemi-uz-vyvojarum-mesicne-vyplaci-milion-dolaru-nakopl-ho-rozvoj-ai/"
+last_verified: "2026-10-29"

@@ -1,0 +1,29 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "NewCore"
+slug: "newcore"
+dataset: "ai-agents"
+company: "NewCore"
+website: "newcore.com"
+segment: "infrastructure"
+hq:
+  city: "Tel Aviv"
+  country: "IL"
+status: "active"
+funding:
+  total_usd: 66000000
+  latest_round:
+    name: "Seed"
+    date: "2026-06"
+    amount_usd: 66000000
+  source: "https://techcrunch.com/2026/06/15/ai-agents-are-becoming-employees-newcore-emerges-with-66m-to-give-them-identities/"
+pricing:
+  as_listed_by_vendor: "custom"
+  model: "custom"
+sources:
+  - "https://techcrunch.com/2026/06/15/ai-agents-are-becoming-employees-newcore-emerges-with-66m-to-give-them-identities/"
+  - "https://siliconangle.com/2026/06/15/newcore-launches-security-first-identities-ai-agents-closing-66m-seed-funding-round/"
+  - "https://newcore.com/about"
+  - "https://newcore.com/legal/terms"
+  - "https://newcore.com/get-in-touch"
+last_verified: "2026-10-29"
