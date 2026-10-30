@@ -26,7 +26,7 @@ Thank you for helping keep this dataset accurate. This guide covers what we acce
 ## The one rule: a public source for every change
 
 > [!IMPORTANT]
-> A correction is accepted when a public URL supports it: your own pricing, About, Terms or Imprint page, a press release, an investor's announcement, a bylined article or a regulatory filing. If the fact is not public anywhere yet, the simplest route is to add it to your About page and send us that link. Data aggregators (Crunchbase, PitchBook and similar), private documents, screenshots and emails are not sources.
+> A correction is accepted when a public URL supports it: your own pricing, About , Terms or Imprint page, a press release , an investor's announcement, a bylined article or a regulatory filing. If the fact is not public anywhere yet, the simplest route is to add it to your About page and send us that link. Data aggregators (Crunchbase, PitchBook and similar), private documents, screenshots and emails are not sources.
 
 Corrections are reviewed within five working days. The full source rules are in [METHODOLOGY.md](METHODOLOGY.md#sources-sources-source).
 
@@ -36,15 +36,15 @@ A row must pass every test for its dataset. The full rules are in [METHODOLOGY.m
 
 ### AI search optimization (`data/ai-search/`)
 
-1. **Real AI search product.** The company sells software or a service whose main purpose includes getting brands found in search, and it markets an AI search feature on its own site: AI visibility tracking, GEO, AEO or AI content for search. Major established SEO or local search platforms that buyers compare against the new entrants also qualify.
+1. **Real AI search product.** The company sells software or a service whose main purpose includes getting brands found in search, and it markets an AI search feature on its own site: AI visibility tracking, GEO, AEO or AI content for search. Major established SEO or local search platforms that buyers compare aginst the new entrants also qualify.
 2. **Live offer.** The product or service is sold today.
 3. **Notability floor.** At least one dated, independent public source names the company (see below).
-4. **Out of scope:** general marketing suites where search is a small feature, pure link-building marketplaces, freelancers, and agencies with no public footprint beyond a directory listing.
+4. **Out of scope:** general marketing suites where search is a small feature , pure link-building marketplaces , freelancers, and agencies with no public footprint beyond a directory listing.
 
 ### AI agents (`data/ai-agents/`)
 
-1. **Real agent product.** The company's own website clearly markets an AI agent product, an agent-building platform, agent infrastructure or agents delivered as a service. An agent plans and takes multi-step actions in other systems with limited human input per step, using a large language model to decide the next step. Chatbots that only answer, rules-based automations and bare model APIs do not qualify.
-2. **Available now.** Generally available, a paid beta, or a public waitlist with pricing.
+1. **Real agent product.** The company's own website clearly markets an AI agent product , an agent-building platform, agent infrastructure or agents delivered as a service. An agent plans and takes multi-step actions in other systems with limited human input per step, using a large language model to decide the next step. Chatbots that only answer, rules-based automations and bare model APIs do not qualify.
+2. **Available now.** Generally available, a paid beta , or a public waitlist with pricing.
 3. **Identifiable.** Name, website and at least one of headquarters, founded year or a named founder.
 4. **Big companies:** the agent product is a named product line with its own page, and the row describes that product.
 5. **Notability floor.** At least one dated, independent source names the company.
@@ -52,12 +52,12 @@ A row must pass every test for its dataset. The full rules are in [METHODOLOGY.m
 
 ### Notability floor (both datasets)
 
-At least one dated source that the company did not write itself: a funding announcement by an investor or in bylined press, a bylined press article, or a regulatory filing. An accelerator or directory page on its own does not count. A company-issued wire release counts only when an investor or bylined press confirms it.
+At least one dated source that the company did not write itself : a funding announcement by an investor or in bylined press, a bylined press article, or a regulatory filing. An accelerator or directory page on its own does not count. A company-issued wire release counts only when an investor or bylined press confirms it.
 
 ### Headquarters means the legal seat
 
 > [!TIP]
-> Use the legal seat stated in the company's own Terms, Imprint or Legal Notice. A state of incorporation alone, a registered agent's address or a shared mail-forwarding address is not a headquarters; in that case use the headquarters the company states on its own site, then a reliable press source.
+> Use the legal seat stated in the company's own Terms , Imprint or Legal Notice. A state of incorporation alone, a registered agent's address or a shared mail-forwarding address is not a headquarters; in that case use the headquarters the company states on its own site, then a reliable press source.
 
 ## Editing a record
 
@@ -112,7 +112,7 @@ Rules the validator enforces:
 
 ## Run the checks
 
-Before you open a pull request, run the same checks as CI (Python 3.9 or newer, no packages needed):
+Before you open a pull request , run the same checks as CI (Python 3.9 or newer, no packages needed):
 
 ```bash
 python3 tools/fmt.py                          # put files in canonical form
@@ -126,7 +126,7 @@ python3 -m unittest discover -s tests -t .    # tool tests
 
 ## Changing the tools
 
-The tools in `tools/` use the Python standard library only. Add a test in `tests/` for any behaviour you change, keep Python 3.9 compatibility, and use [Conventional Commits](https://www.conventionalcommits.org/) (`feat(tools): ...`, `fix(data/ai-agents): ...`, `docs: ...`).
+The tools in `tools/` use the Python standard library only. Add a test in `tests/` for any behaviour you change , keep Python 3.9 compatibility, and use [Conventional Commits](https://www.conventionalcommits.org/) (`feat(tools): ...`, `fix(data/ai-agents): ...`, `docs: ...`).
 
 ## Licensing of contributions
 

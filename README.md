@@ -134,7 +134,7 @@ funded = df[~df.model_lab].drop_duplicates(["segment_label", "company"])
 print(funded.groupby("segment_label").funding_total_usd.sum().div(1e9).round(2).sort_values())
 ```
 
-Or clone it and run the same checks CI runs (Python 3.9 or newer, standard library only):
+Or clone it and run the same checks CI runs (Python 3.9 or newer, standard libary only):
 
 ```console
 $ git clone https://github.com/chris-fountoulis/ai-search-landscape && cd ai-search-landscape
@@ -148,7 +148,7 @@ OK
 ```
 
 > [!TIP]
-> Prefer a table you can search? The [live site](https://chris-fountoulis.github.io/ai-search-landscape/) loads the same `dist/landscape.json` with search, filters, sortable columns and a link from every row to its YAML file.
+> Prefer a table you can search? The [live site](https://chris-fountoulis.github.io/ai-search-landscape/) loads the same `dist/landscape.json` with search, filters , sortable columns and a link from every row to its YAML file.
 
 ## Use the data
 
@@ -270,7 +270,7 @@ The audit re-pointed or added 1,057 sources, corrected 42 values and removed 36 
 
 ## Contributing
 
-Corrections and additions are welcome, including from the companies listed. Every change needs a public source and is reviewed within five working days.
+Corrections and additions are welcome , including from the companies listed. Every change needs a public source and is reviewed within five working days.
 
 | You want to | Open |
 |---|---|
@@ -282,16 +282,16 @@ The inclusion rubric, the editing guide and the local checks are in [CONTRIBUTIN
 
 ## Roadmap
 
-- [ ] **January 2027 edition** of both studies, refreshed at the same URLs, including the 136 AI agent candidates deferred from October for their notability check.
+- [ ] **January 2027 edition** of both studies , refreshed at the same URLs , including the 136 AI agent candidates deferred from October for their notability check.
 - [ ] **Legal-seat recheck** of every AI search HQ, now that both studies use the same HQ rule.
 - [ ] **Revenue fields**, published only with a per-figure source, basis (filed, company-stated or reported) and scope note.
 - [ ] **Price source review**: confirm by hand the listed prices whose pricing pages render only in a browser (see the [source audit](#source-audit-2026-10-30)).
 
 ## Cite this dataset
 
-> Fountoulis, C. and Growth Of Influence (2026). *AI Search Landscape: an open, sourced dataset of AI search optimization and AI agent companies* (version 0.2.0). https://github.com/chris-fountoulis/ai-search-landscape
+> Fountoulis, C. and Growth Of Influence (2026). *AI Search Landscape : an open, sourced dataset of AI search optimization and AI agent companies* (version 0.2.0). https://github.com/chris-fountoulis/ai-search-landscape
 
-Machine-readable metadata is in [`CITATION.cff`](CITATION.cff), so GitHub shows a "Cite this repository" button. When you use the numbers, link the repository or the study you used.
+Machine-readable metadata is in [`CITATION.cff`](CITATION.cff), so GitHub shows a "Cite this repository" button. When you use the numbers , link the repository or the study you used.
 
 ## License
 
