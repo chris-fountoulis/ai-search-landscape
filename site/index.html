@@ -63,6 +63,9 @@
   thead th[aria-sort=ascending] button::after { content: " \25B2"; color: var(--gold); }
   thead th[aria-sort=descending] button::after { content: " \25BC"; color: var(--gold); }
   thead th.static { padding: .7rem .75rem; }
+  thead th.wrap-ok { white-space: normal; }
+  td.price { min-width: 12rem; }
+  td.seg { min-width: 8.5rem; }
   td { padding: .6rem .75rem; border-top: 1px solid var(--line); vertical-align: top; }
   tbody tr:hover { background: #fbf7ee; }
   td.num { text-align: right; white-space: nowrap; font-variant-numeric: tabular-nums; }
@@ -70,6 +73,10 @@
   td .sub { display: block; color: var(--light); font-size: .82rem; }
   .tag { display: inline-block; font-size: .75rem; font-weight: 700; padding: .1rem .5rem; border-radius: 50px; background: #eef1f8; color: var(--navy); white-space: nowrap; }
   .tag.acquired { background: #fff1d8; color: #7a4a00; }
+  td.rec { white-space: nowrap; }
+  td.status { min-width: 7rem; max-width: 12rem; }
+  td.status .tag { white-space: normal; border-radius: 10px; }
+  td.num.note { white-space: normal; min-width: 7rem; text-align: left; }
   .tag.closed { background: #f3e1e1; color: #7a1f1f; }
   .empty { padding: 2rem; text-align: center; }
   footer { background: var(--navy); color: #c9cfe3; padding: 2rem 1.25rem; font-size: .9rem; }
@@ -160,7 +167,7 @@
             <th scope="col" data-key="founded" class="hide-sm"><button type="button">Founded</button></th>
             <th scope="col" data-key="funding"><button type="button">Funding</button></th>
             <th scope="col" data-key="round" class="hide-sm"><button type="button">Latest round</button></th>
-            <th scope="col" data-key="price" class="hide-sm"><button type="button">Price per month (as listed by the vendor)</button></th>
+            <th scope="col" data-key="price" class="hide-sm wrap-ok"><button type="button">Price per month (as listed by the vendor)</button></th>
             <th scope="col" data-key="status"><button type="button">Status</button></th>
             <th scope="col" class="static">Record</th>
           </tr>
@@ -292,14 +299,14 @@
       return "<tr>" +
         '<td><a class="name" href="https://' + esc(r.website) + '" rel="noopener" target="_blank">' + esc(r.name) + "</a>" +
           '<span class="sub">' + esc(r.website) + (sub ? " &middot; " + esc(sub) : "") + "</span></td>" +
-        "<td>" + esc(segLabel(r)) + "</td>" +
+        '<td class="seg">' + esc(segLabel(r)) + "</td>" +
         "<td>" + esc(hqText(r)) + "</td>" +
         '<td class="num hide-sm">' + esc(r.founded ? r.founded.year : "") + "</td>" +
-        '<td class="num">' + esc(fundingText(r)) + "</td>" +
+        '<td class="num' + (total(r) == null ? " note" : "") + '">' + esc(fundingText(r)) + "</td>" +
         '<td class="hide-sm">' + esc(lr) + "</td>" +
-        '<td class="hide-sm">' + esc(price) + "</td>" +
-        '<td><span class="tag ' + esc(r.status) + '">' + esc(status) + "</span></td>" +
-        '<td><a href="' + esc(r.yaml_url) + '" rel="noopener" target="_blank" aria-label="YAML record and sources for ' + esc(r.name) + '">YAML</a>' +
+        '<td class="hide-sm price">' + esc(price) + "</td>" +
+        '<td class="status"><span class="tag ' + esc(r.status) + '">' + esc(status) + "</span></td>" +
+        '<td class="rec"><a href="' + esc(r.yaml_url) + '" rel="noopener" target="_blank" aria-label="YAML record and sources for ' + esc(r.name) + '">YAML</a>' +
           '<span class="sub">' + (r.sources ? r.sources.length : 0) + " sources</span></td>" +
         "</tr>";
     }).join("");
