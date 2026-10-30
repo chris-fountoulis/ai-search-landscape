@@ -1,0 +1,19 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "Clearscope"
+slug: "clearscope"
+dataset: "ai-search"
+company: "Clearscope"
+website: "clearscope.io"
+segment: "content-automation"
+hq:
+  city: "Unknown"
+  country: "US"
+status: "active"
+pricing:
+  as_listed_by_vendor: "$129 to $399; Enterprise custom"
+  source: "https://www.clearscope.io/pricing"
+sources:
+  - "https://www.clearscope.io/pricing"
+  - "https://kustiq.com/company/clearscope.io"
+last_verified: "2026-10-26"

@@ -1,0 +1,22 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "Semji"
+slug: "semji"
+dataset: "ai-search"
+company: "Semji"
+website: "semji.com"
+segment: "content-automation"
+hq:
+  city: "Lyon"
+  country: "FR"
+status: "active"
+funding:
+  latest_round:
+    name: "Seed"
+  source: "https://semji.com/"
+pricing:
+  as_listed_by_vendor: "custom"
+sources:
+  - "https://semji.com/"
+  - "https://semji.com/pricing/"
+last_verified: "2026-10-26"

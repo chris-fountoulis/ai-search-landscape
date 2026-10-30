@@ -1,0 +1,20 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "Search Atlas (OTTO)"
+slug: "search-atlas-otto"
+dataset: "ai-search"
+company: "Search Atlas"
+website: "searchatlas.com"
+segment: "content-automation"
+hq:
+  city: "Unknown"
+  country: "US"
+status: "active"
+pricing:
+  as_listed_by_vendor: "$99 to $399; Agency from $999"
+  source: "https://searchatlas.com/pricing/"
+sources:
+  - "https://searchatlas.com/pricing/"
+  - "https://www.everydev.ai/developers/search-atlas"
+  - "https://getlatka.com/companies/linkgraphio"
+last_verified: "2026-10-26"

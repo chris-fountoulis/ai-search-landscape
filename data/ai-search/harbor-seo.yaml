@@ -1,0 +1,19 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "Harbor SEO"
+slug: "harbor-seo"
+dataset: "ai-search"
+company: "Harbor SEO"
+website: "harborseo.ai"
+segment: "content-automation"
+hq:
+  city: "Oranmore, Co. Galway"
+  country: "IE"
+status: "active"
+pricing:
+  as_listed_by_vendor: "EUR 24 to 82; free tier"
+  source: "https://harborseo.ai/pricing"
+sources:
+  - "https://harborseo.ai/terms"
+  - "https://harborseo.ai/pricing"
+last_verified: "2026-10-26"

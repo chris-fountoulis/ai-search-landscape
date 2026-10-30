@@ -1,0 +1,19 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "Outrank"
+slug: "outrank"
+dataset: "ai-search"
+company: "Outrank"
+website: "outrank.so"
+segment: "content-automation"
+hq:
+  city: "Paris"
+  country: "FR"
+status: "active"
+pricing:
+  as_listed_by_vendor: "from $99"
+  source: "https://www.outrank.so/"
+sources:
+  - "https://www.arr.club/outrank/outrank-arr-hit-3m-300-300k-mrr-in-15-months-"
+  - "https://www.outrank.so/"
+last_verified: "2026-10-26"

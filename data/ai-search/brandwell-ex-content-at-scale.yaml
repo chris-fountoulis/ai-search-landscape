@@ -1,0 +1,20 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "BrandWell (ex Content at Scale)"
+slug: "brandwell-ex-content-at-scale"
+dataset: "ai-search"
+company: "BrandWell"
+website: "brandwell.ai"
+segment: "content-automation"
+hq:
+  city: "Scottsdale, Arizona"
+  country: "US"
+status: "active"
+pricing:
+  as_listed_by_vendor: "$99 to $1,000"
+  source: "https://brandwell.ai/pricing/"
+sources:
+  - "https://www.gpec.org/?p=26200"
+  - "https://martechseries.com/content/content-at-scale-is-now-brandwell-an-all-in-one-growth-engine-for-sustainable-brand-growth/"
+  - "https://brandwell.ai/pricing/"
+last_verified: "2026-10-26"

@@ -1,0 +1,21 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "Hypotenuse AI"
+slug: "hypotenuse-ai"
+dataset: "ai-search"
+company: "Hypotenuse AI"
+website: "hypotenuse.ai"
+segment: "content-automation"
+hq:
+  city: "Singapore"
+  country: "SG"
+founded:
+  year: 2020
+  source: "https://imda.gov.sg/resources/blog/blog-articles/2024/01/tech-innovators-ai-start-up-is-making-an-impact"
+status: "active"
+pricing:
+  as_listed_by_vendor: "custom"
+sources:
+  - "https://imda.gov.sg/resources/blog/blog-articles/2024/01/tech-innovators-ai-start-up-is-making-an-impact"
+  - "https://www.hypotenuse.ai/pricing"
+last_verified: "2026-10-26"

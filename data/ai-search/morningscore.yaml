@@ -1,0 +1,28 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "Morningscore"
+slug: "morningscore"
+dataset: "ai-search"
+company: "Morningscore"
+website: "morningscore.io"
+segment: "content-automation"
+hq:
+  city: "Odense"
+  country: "DK"
+founded:
+  year: 2018
+  source: "https://morningscore.io/morningscore-secures-700k-usd-funding/"
+status: "active"
+funding:
+  total_usd: 700000
+  latest_round:
+    name: "Angel"
+  source: "https://morningscore.io/morningscore-secures-700k-usd-funding/"
+pricing:
+  as_listed_by_vendor: "$69 to $299"
+  source: "https://morningscore.io/pricing/"
+sources:
+  - "https://morningscore.io/morningscore-secures-700k-usd-funding/"
+  - "https://bebeez.eu/2025/01/15/danish-startup-morningscore-secures-funding-to-elevate-ai-seo-and-broaden-reach/"
+  - "https://morningscore.io/pricing/"
+last_verified: "2026-10-26"

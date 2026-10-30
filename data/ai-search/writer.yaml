@@ -1,0 +1,28 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "Writer"
+slug: "writer"
+dataset: "ai-search"
+company: "Writer"
+website: "writer.com"
+segment: "content-automation"
+hq:
+  city: "San Francisco"
+  country: "US"
+status: "active"
+funding:
+  total_usd: 326000000
+  latest_round:
+    name: "Series C"
+    date: "2024-11"
+    amount_usd: 200000000
+    valuation_usd: 1900000000
+  source: "https://techcrunch.com/2024/11/12/generative-ai-startup-writer-raises-200m-at-a-1-9b-valuation/"
+pricing:
+  as_listed_by_vendor: "custom (Starter per seat, price not shown)"
+sources:
+  - "https://techcrunch.com/2024/11/12/generative-ai-startup-writer-raises-200m-at-a-1-9b-valuation/"
+  - "https://www.businesswire.com/news/home/20241112482564/en/Writer-Raises-200M-Series-C-at-1.9B-Valuation-to-Fuel-Leadership-in-Agentic-Enterprise-AI"
+  - "https://www.forbes.com/sites/rashishrivastava/2024/11/12/ai-startup-writer-nabs-a-19-billion-valuation-to-become-a-super-app-for-enterprises/"
+  - "https://getcoai.com/news/ai-startup-writer-secures-1-9b-valuation-for-enterprise-super-app"
+last_verified: "2026-10-26"

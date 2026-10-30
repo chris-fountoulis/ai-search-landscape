@@ -1,0 +1,26 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "Letterdrop"
+slug: "letterdrop"
+dataset: "ai-search"
+company: "Letterdrop"
+website: "letterdrop.com"
+segment: "content-automation"
+hq:
+  city: "San Francisco"
+  country: "US"
+founded:
+  year: 2021
+  source: "https://www.ycombinator.com/companies/letterdrop"
+status: "active"
+funding:
+  latest_round:
+    name: "Seed"
+  source: "https://www.ycombinator.com/companies/letterdrop"
+pricing:
+  as_listed_by_vendor: "custom"
+sources:
+  - "https://www.ycombinator.com/companies/letterdrop"
+  - "https://www.vcbacked.co/company/letterdrop"
+  - "https://letterdrop.com/pricing"
+last_verified: "2026-10-26"

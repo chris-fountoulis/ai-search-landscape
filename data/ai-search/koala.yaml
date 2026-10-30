@@ -1,0 +1,16 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "Koala"
+slug: "koala"
+dataset: "ai-search"
+company: "Koala"
+website: "koala.sh"
+segment: "content-automation"
+status: "active"
+pricing:
+  as_listed_by_vendor: "$25 to $2,000 (free tier)"
+  source: "https://koala.sh/pricing"
+sources:
+  - "https://koala.sh/pricing"
+  - "https://www.parse.gl/brands/koala-sh"
+last_verified: "2026-10-26"

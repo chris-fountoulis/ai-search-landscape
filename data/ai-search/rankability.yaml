@@ -1,0 +1,18 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "Rankability"
+slug: "rankability"
+dataset: "ai-search"
+company: "Rankability"
+website: "rankability.com"
+segment: "content-automation"
+hq:
+  country: "US"
+status: "active"
+pricing:
+  as_listed_by_vendor: "$97 to $497; Enterprise custom"
+  source: "https://www.rankability.com/pricing/"
+sources:
+  - "https://www.rankability.com/pricing/"
+  - "https://coldiq.com/tech-stacks/people/nathan-gotch"
+last_verified: "2026-10-26"

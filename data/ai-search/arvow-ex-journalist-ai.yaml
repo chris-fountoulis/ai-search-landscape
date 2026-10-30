@@ -1,0 +1,19 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "Arvow (ex Journalist AI)"
+slug: "arvow-ex-journalist-ai"
+dataset: "ai-search"
+company: "Arvow"
+website: "arvow.com"
+segment: "content-automation"
+hq:
+  city: "Singapore"
+  country: "SG"
+status: "active"
+pricing:
+  as_listed_by_vendor: "$39 to $249; Human + AI service from $2,000"
+  source: "https://arvow.com/pricing"
+sources:
+  - "https://arvow.com/pricing"
+  - "https://businessabc.net/wiki/arvow"
+last_verified: "2026-10-26"

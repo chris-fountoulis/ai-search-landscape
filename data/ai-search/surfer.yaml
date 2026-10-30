@@ -1,0 +1,29 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "Surfer"
+slug: "surfer"
+dataset: "ai-search"
+company: "Surfer"
+website: "surfer.ai"
+segment: "content-automation"
+hq:
+  city: "Wroclaw"
+  country: "PL"
+founded:
+  year: 2017
+  source: "https://theygotacquired.com/saas/surfer-seo-acquired-by-positive-group/"
+status: "acquired"
+acquisition:
+  acquirer: "Positive Group"
+  date: "2025-10"
+  date_type: "announced"
+  source: "https://surferseo.com/blog/surfer-acquisition"
+pricing:
+  as_listed_by_vendor: "EUR 49 to 299 (billed yearly); Enterprise custom"
+  source: "https://theygotacquired.com/saas/surfer-seo-acquired-by-positive-group/"
+sources:
+  - "https://theygotacquired.com/saas/surfer-seo-acquired-by-positive-group/"
+  - "https://surferseo.com/blog/surfer-acquisition"
+  - "https://searchenginejournal.com/surfer-seo-acquired-by-positive-group/558918"
+  - "https://finder.techleap.nl/news/feed/positive-group-acquires-ai-seo-firm-surfer"
+last_verified: "2026-10-26"

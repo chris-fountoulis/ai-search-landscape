@@ -1,0 +1,26 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "SEO.ai"
+slug: "seo-ai"
+dataset: "ai-search"
+company: "SEO.ai"
+website: "seo.ai"
+segment: "content-automation"
+hq:
+  city: "Kongens Lyngby"
+  country: "DK"
+founded:
+  year: 2022
+  source: "https://thehub.io/startups/seoai"
+status: "active"
+funding:
+  latest_round:
+    name: "Pre-seed"
+  source: "https://thehub.io/startups/seoai"
+pricing:
+  as_listed_by_vendor: "$149 to $299; larger tiers custom"
+  source: "https://seo.ai/pricing"
+sources:
+  - "https://thehub.io/startups/seoai"
+  - "https://seo.ai/pricing"
+last_verified: "2026-10-26"

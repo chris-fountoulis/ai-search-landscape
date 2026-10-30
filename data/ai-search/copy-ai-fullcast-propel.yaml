@@ -1,0 +1,33 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "Copy.ai (Fullcast Propel)"
+slug: "copy-ai-fullcast-propel"
+dataset: "ai-search"
+company: "Copy.ai"
+website: "copy.ai"
+segment: "content-automation"
+hq:
+  city: "Unknown"
+  country: "US"
+founded:
+  year: 2020
+  source: "https://techcrunch.com/2021/10/14/writing-helper-copy-ai-closes-on-its-second-funding-round-this-year/"
+status: "acquired"
+funding:
+  total_usd: 13900000
+  latest_round:
+    name: "Series A"
+  source: "https://techcrunch.com/2021/10/14/writing-helper-copy-ai-closes-on-its-second-funding-round-this-year/"
+acquisition:
+  acquirer: "Fullcast"
+  date: "2025-10"
+  date_type: "announced"
+  source: "https://www.fullcast.ai/content/fullcast-announces-the-acquisition-of-copy-ai/"
+pricing:
+  as_listed_by_vendor: "$24 to $3,000 (annual); Enterprise custom"
+  source: "https://techcrunch.com/2021/10/14/writing-helper-copy-ai-closes-on-its-second-funding-round-this-year/"
+sources:
+  - "https://techcrunch.com/2021/10/14/writing-helper-copy-ai-closes-on-its-second-funding-round-this-year/"
+  - "https://www.fullcast.ai/content/fullcast-announces-the-acquisition-of-copy-ai/"
+  - "https://www.copy.ai/blog/series-a"
+last_verified: "2026-10-26"

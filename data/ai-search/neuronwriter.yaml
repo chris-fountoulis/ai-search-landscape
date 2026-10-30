@@ -1,0 +1,19 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "NeuronWriter"
+slug: "neuronwriter"
+dataset: "ai-search"
+company: "NeuronWriter"
+website: "neuronwriter.com"
+segment: "content-automation"
+hq:
+  city: "Zamosc"
+  country: "PL"
+status: "active"
+pricing:
+  as_listed_by_vendor: "$23 to $117"
+  source: "https://neuronwriter.com/pricing/"
+sources:
+  - "https://neuronwriter.com/pricing/"
+  - "https://www.choppingblock.ai/companies/neuronwriter"
+last_verified: "2026-10-26"

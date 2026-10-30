@@ -1,0 +1,26 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "AirOps"
+slug: "airops"
+dataset: "ai-search"
+company: "AirOps"
+website: "airops.com"
+segment: "content-automation"
+hq:
+  city: "New York"
+  country: "US"
+status: "active"
+funding:
+  total_usd: 60000000
+  latest_round:
+    name: "Series B"
+    date: "2025-11"
+    amount_usd: 40000000
+  source: "https://www.businesswire.com/news/home/20251110823725/en/AirOps-Raises-%2440M-to-Redefine-How-Brands-Compete-in-the-Era-of-AI-Search"
+pricing:
+  as_listed_by_vendor: "free Solo tier; Pro and Enterprise not listed"
+sources:
+  - "https://www.businesswire.com/news/home/20251110823725/en/AirOps-Raises-%2440M-to-Redefine-How-Brands-Compete-in-the-Era-of-AI-Search"
+  - "https://www.thesaasnews.com/news/airops-raises-40-million-in-series-b/"
+  - "https://pulse2.com/airops-15-5-million-series-a-raised-to-help-marketers-scale-ai-growth-workflows"
+last_verified: "2026-10-26"

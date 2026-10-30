@@ -1,0 +1,19 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "Junia AI"
+slug: "junia-ai"
+dataset: "ai-search"
+company: "Junia AI"
+website: "junia.ai"
+segment: "content-automation"
+hq:
+  city: "Unknown"
+  country: "EE"
+status: "active"
+pricing:
+  as_listed_by_vendor: "$20 to $35; done-for-you SEO from $2,000"
+  source: "https://www.junia.ai/pricing"
+sources:
+  - "https://www.junia.ai/terms"
+  - "https://www.junia.ai/pricing"
+last_verified: "2026-10-26"

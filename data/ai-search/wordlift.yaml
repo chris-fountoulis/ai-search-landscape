@@ -1,0 +1,22 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "WordLift"
+slug: "wordlift"
+dataset: "ai-search"
+company: "WordLift"
+website: "wordlift.io"
+segment: "content-automation"
+hq:
+  city: "Rome"
+  country: "IT"
+founded:
+  year: 2017
+  source: "https://wordlift.io/about-us/"
+status: "active"
+pricing:
+  as_listed_by_vendor: "EUR 799 to 999 (about $863 to $1,079); Enterprise custom"
+  source: "https://wordlift.io/pricing/"
+sources:
+  - "https://wordlift.io/about-us/"
+  - "https://wordlift.io/pricing/"
+last_verified: "2026-10-26"

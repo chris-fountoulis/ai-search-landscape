@@ -1,0 +1,25 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "Jasper"
+slug: "jasper"
+dataset: "ai-search"
+company: "Jasper"
+website: "jasper.ai"
+segment: "content-automation"
+hq:
+  city: "Austin"
+  country: "US"
+status: "active"
+funding:
+  total_usd: 131000000
+  latest_round:
+    name: "Series A"
+  source: "https://techcrunch.com/2022/10/18/ai-content-platform-jasper-raises-125m-at-a-1-7b-valuation/"
+pricing:
+  as_listed_by_vendor: "$69 per seat (Pro, monthly); Business custom"
+  source: "https://www.jasper.ai/pricing"
+sources:
+  - "https://techcrunch.com/2022/10/18/ai-content-platform-jasper-raises-125m-at-a-1-7b-valuation/"
+  - "https://news.crunchbase.com/ai-robotics/unicorn-venture-funding-marketing-jasper/"
+  - "https://www.jasper.ai/pricing"
+last_verified: "2026-10-26"

@@ -1,0 +1,19 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "Frase"
+slug: "frase"
+dataset: "ai-search"
+company: "Frase"
+website: "frase.io"
+segment: "content-automation"
+hq:
+  city: "Boston"
+  country: "US"
+status: "active"
+pricing:
+  as_listed_by_vendor: "$49 to $299 monthly; Enterprise custom"
+  source: "https://www.frase.io/pricing"
+sources:
+  - "https://www.frase.io/pricing"
+  - "https://getlatka.com/companies/frase.io"
+last_verified: "2026-10-26"
