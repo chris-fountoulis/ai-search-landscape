@@ -1,0 +1,42 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below and link the repository or the study you used."
+type: dataset
+title: "AI Search Landscape: an open, sourced dataset of AI search optimization and AI agent companies"
+abstract: >-
+  The structured dataset behind two Growth Of Influence studies: 151 AI search
+  optimization (GEO and AEO) companies and 437 AI agent products from 420
+  companies, October 2026 editions. One record per company with headquarters,
+  founded year, disclosed funding, acquisitions and listed prices, each figure
+  with a source URL.
+authors:
+  - family-names: Fountoulis
+    given-names: Chris
+    email: chris@growthofinfluence.com
+    affiliation: Growth Of Influence
+  - name: Growth Of Influence
+    website: "https://growthofinfluence.com"
+repository-code: "https://github.com/chris-fountoulis/ai-search-landscape"
+url: "https://chris-fountoulis.github.io/ai-search-landscape/"
+license: CC-BY-4.0
+version: "0.1.0"
+date-released: "2026-10-30"
+keywords:
+  - generative engine optimization
+  - answer engine optimization
+  - AI search
+  - AI agents
+  - market map
+  - open data
+references:
+  - type: report
+    title: "AI Search Optimization Companies: Market Map"
+    authors:
+      - name: Growth Of Influence
+    url: "https://growthofinfluence.com/ai-search-optimization-companies/"
+    date-published: "2026-10-26"
+  - type: report
+    title: "AI Agent Companies: Market Map"
+    authors:
+      - name: Growth Of Influence
+    url: "https://growthofinfluence.com/ai-agent-companies/"
+    date-published: "2026-10-29"
