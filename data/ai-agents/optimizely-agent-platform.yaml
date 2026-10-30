@@ -1,0 +1,22 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "Optimizely (Agent Platform)"
+slug: "optimizely-agent-platform"
+dataset: "ai-agents"
+company: "Optimizely"
+product: "Opal"
+website: "optimizely.com"
+segment: "marketing-agency"
+hq:
+  city: "New York"
+  country: "US"
+status: "active"
+pricing:
+  as_listed_by_vendor: "custom"
+  model: "custom"
+sources:
+  - "https://www.optimizely.com/products/ai/"
+  - "https://www.optimizely.com/agents/"
+  - "https://www.optimizely.com/pricing/"
+  - "https://www.optimizely.com/legal/terms/"
+last_verified: "2026-10-29"

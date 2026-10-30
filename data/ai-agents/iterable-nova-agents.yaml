@@ -1,0 +1,31 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "Iterable (Nova Agents)"
+slug: "iterable-nova-agents"
+dataset: "ai-agents"
+company: "Iterable"
+product: "Nova Agents"
+website: "iterable.com"
+segment: "marketing-agency"
+hq:
+  city: "San Francisco"
+  country: "US"
+founded:
+  year: 2013
+  source: "https://iterable.com/company/"
+status: "active"
+funding:
+  latest_round:
+    name: "Series E"
+    amount_usd: 200000000
+  source: "https://www.dtcp.capital/news-and-insights/detail/iterable-closes-200-million-in-growth-funding-at-2-billion-valuation-to-galvanize-a-new-era-of-empathy-driven-customer-experiences/"
+pricing:
+  as_listed_by_vendor: "custom"
+  model: "custom"
+sources:
+  - "https://www.dtcp.capital/news-and-insights/detail/iterable-closes-200-million-in-growth-funding-at-2-billion-valuation-to-galvanize-a-new-era-of-empathy-driven-customer-experiences/"
+  - "https://iterable.com/company/"
+  - "https://iterable.com/product/ai/"
+  - "https://siliconangle.com/2026/04/22/iterable-launches-nova-agent-assist-markets-scaling-customer-personalization/"
+  - "https://iterable.com/pricing/"
+last_verified: "2026-10-29"

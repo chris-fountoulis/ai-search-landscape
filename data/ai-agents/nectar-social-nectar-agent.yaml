@@ -1,0 +1,32 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "Nectar Social (Nectar Agent)"
+slug: "nectar-social-nectar-agent"
+dataset: "ai-agents"
+company: "Nectar Social"
+product: "Nectar Agent"
+website: "nectarsocial.com"
+segment: "marketing-agency"
+hq:
+  city: "Palo Alto"
+  country: "US"
+founded:
+  year: 2023
+  source: "https://techcrunch.com/2026/05/16/marketing-operating-system-nectar-social-raises-30m-series-a-in-round-led-by-menlo/"
+status: "active"
+funding:
+  total_usd: 40600000
+  latest_round:
+    name: "Series A"
+    date: "2026-05"
+    amount_usd: 30000000
+  source: "https://techcrunch.com/2026/05/16/marketing-operating-system-nectar-social-raises-30m-series-a-in-round-led-by-menlo/"
+pricing:
+  as_listed_by_vendor: "custom"
+  model: "custom"
+sources:
+  - "https://techcrunch.com/2026/05/16/marketing-operating-system-nectar-social-raises-30m-series-a-in-round-led-by-menlo/"
+  - "https://fortune.com/2025/06/05/nectar-social-buzzes-out-of-stealth-with-10-6-million-backing-from-gv-and-true-ventures/"
+  - "https://nectarsocial.com/"
+  - "https://nectarsocial.com/privacy/"
+last_verified: "2026-10-29"

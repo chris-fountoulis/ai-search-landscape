@@ -1,0 +1,35 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "Whatagraph (IQ Agents)"
+slug: "whatagraph-iq-agents"
+dataset: "ai-agents"
+company: "Whatagraph"
+product: "IQ Agents"
+website: "whatagraph.com"
+segment: "marketing-agency"
+hq:
+  city: "Amsterdam"
+  country: "NL"
+founded:
+  year: 2015
+  source: "https://whatagraph.com/blog/articles/whatagraph-series-a-funding"
+status: "active"
+funding:
+  total_usd: 7867980
+  latest_round:
+    name: "Series A"
+    date: "2021-09"
+    amount_usd: 7200000
+  source: "https://whatagraph.com/blog/articles/whatagraph-series-a-funding"
+pricing:
+  as_listed_by_vendor: "from EUR 699 (as listed)"
+  model: "usage or credits"
+  source: "https://whatagraph.com/pricing"
+sources:
+  - "https://whatagraph.com/pricing"
+  - "https://whatagraph.com/ai-agents-for-marketing"
+  - "https://whatagraph.com/terms-and-conditions"
+  - "https://whatagraph.com/blog/articles/whatagraph-series-a-funding"
+  - "https://tech.eu/2021/09/29/marketing-reports-platform-whatagraph-charts-7-2-million"
+  - "https://www.eu-startups.com/2019/03/amsterdam-based-digital-marketing-analytics-startup-whatagraph-has-raised-e600k/"
+last_verified: "2026-10-29"

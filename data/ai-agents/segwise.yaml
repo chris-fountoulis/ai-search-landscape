@@ -1,0 +1,32 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "Segwise"
+slug: "segwise"
+dataset: "ai-agents"
+company: "Segwise"
+website: "segwise.ai"
+segment: "marketing-agency"
+hq:
+  city: "Bengaluru"
+  country: "IN"
+founded:
+  year: 2023
+  source: "https://india.entrepreneur.com/news-and-trends/ai-powered-observability-platform-segwise-raises-usd-16mn/469764"
+status: "active"
+funding:
+  total_usd: 1600000
+  latest_round:
+    name: "Pre-seed"
+    date: "2024-02"
+    amount_usd: 1600000
+  source: "https://india.entrepreneur.com/news-and-trends/ai-powered-observability-platform-segwise-raises-usd-16mn/469764"
+pricing:
+  as_listed_by_vendor: "$250 to $499 (as listed)"
+  model: "flat"
+  source: "https://segwise.ai/pricing"
+sources:
+  - "https://india.entrepreneur.com/news-and-trends/ai-powered-observability-platform-segwise-raises-usd-16mn/469764"
+  - "https://segwise.ai/pricing"
+  - "https://segwise.ai/privacy-policy"
+  - "https://segwise.ai/"
+last_verified: "2026-10-29"

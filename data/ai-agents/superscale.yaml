@@ -1,0 +1,30 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "Superscale"
+slug: "superscale"
+dataset: "ai-agents"
+company: "Superscale"
+website: "superscale.ai"
+segment: "marketing-agency"
+hq:
+  city: "Baunatal"
+  country: "DE"
+status: "active"
+funding:
+  total_usd: 5000000
+  latest_round:
+    name: "Pre-seed"
+    date: "2025-06"
+    amount_usd: 5000000
+  source: "https://tech.eu/2025/06/18/superscale-ai-secures-5m-pre-seed-to-build-the-future-of-autonomous-marketing/"
+pricing:
+  as_listed_by_vendor: "from $99 (as listed)"
+  model: "flat"
+  source: "https://superscale.ai/pricing"
+sources:
+  - "https://tech.eu/2025/06/18/superscale-ai-secures-5m-pre-seed-to-build-the-future-of-autonomous-marketing/"
+  - "https://creandum.com/stories/backing-superscale"
+  - "https://superscale.ai/pricing"
+  - "https://superscale.ai/data/imprint"
+  - "https://superscale.ai/news"
+last_verified: "2026-10-29"

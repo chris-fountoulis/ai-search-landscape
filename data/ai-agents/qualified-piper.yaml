@@ -1,0 +1,35 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "Qualified (Piper)"
+slug: "qualified-piper"
+dataset: "ai-agents"
+company: "Qualified"
+product: "Piper the AI SDR Agent"
+website: "qualified.com"
+segment: "marketing-agency"
+hq:
+  city: "San Francisco"
+  country: "US"
+status: "acquired"
+funding:
+  total_usd: 163000000
+  latest_round:
+    name: "Series C"
+    date: "2022-04"
+    amount_usd: 95000000
+  source: "https://siliconangle.com/2022/04/26/qualified-com-raises-95m-transform-corporate-websites-b2b-pipeline-generation-tool/"
+acquisition:
+  acquirer: "Salesforce"
+  date: "2026-04"
+  date_type: "closed"
+  source: "https://www.qualified.com/newsroom/salesforce-signs-definitive-agreement-to-acquire-qualified"
+pricing:
+  as_listed_by_vendor: "custom"
+  model: "custom"
+sources:
+  - "https://www.qualified.com/newsroom/salesforce-signs-definitive-agreement-to-acquire-qualified"
+  - "https://siliconangle.com/2022/04/26/qualified-com-raises-95m-transform-corporate-websites-b2b-pipeline-generation-tool/"
+  - "https://www.qualified.com/newsroom/qualified-announces-95m-series-c-to-transform-pipeline-generation-for-b2b-enterprises"
+  - "https://www.redpoint.com/companies/qualified/"
+  - "https://www.qualified.com/pricing"
+last_verified: "2026-10-29"

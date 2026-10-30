@@ -1,0 +1,32 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "Tofu"
+slug: "tofu"
+dataset: "ai-agents"
+company: "Tofu"
+website: "tofuhq.com"
+segment: "marketing-agency"
+hq:
+  city: "San Mateo"
+  country: "US"
+founded:
+  year: 2023
+  source: "https://www.signalfire.com/blog/generative-marketing-tofu-investor"
+status: "active"
+funding:
+  total_usd: 17000000
+  latest_round:
+    name: "Series A"
+    date: "2025-02"
+    amount_usd: 12000000
+  source: "https://www.signalfire.com/blog/generative-marketing-tofu-investor"
+pricing:
+  as_listed_by_vendor: "custom"
+  model: "custom"
+sources:
+  - "https://techcrunch.com/2025/02/13/tofu-is-building-a-omni-channel-marketing-platform-for-enterprises/"
+  - "https://www.tofuhq.com/terms-and-conditions"
+  - "https://www.indexventures.com/companies/tofu/"
+  - "https://www.signalfire.com/blog/generative-marketing-tofu-investor"
+  - "https://www.tofuhq.com/"
+last_verified: "2026-10-29"

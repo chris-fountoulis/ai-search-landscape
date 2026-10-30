@@ -1,0 +1,27 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "JustAI"
+slug: "justai"
+dataset: "ai-agents"
+company: "JustAI"
+product: "JustAI agentic marketing platform"
+website: "getjust.ai"
+segment: "marketing-agency"
+status: "active"
+funding:
+  total_usd: 18700000
+  latest_round:
+    name: "Series A"
+    date: "2026-06"
+    amount_usd: 17000000
+  source: "https://pulse2.com/justai-raises-17-million-series-a-to-build-agentic-marketing-platform/"
+pricing:
+  as_listed_by_vendor: "custom"
+  model: "custom"
+sources:
+  - "https://pulse2.com/justai-raises-17-million-series-a-to-build-agentic-marketing-platform/"
+  - "https://www.thehindubusinessline.com/info-tech/just-words-an-ai-startup-raises-17m-in-seed-funding-from-peak-xv-and-y-combinator/article68572216.ece"
+  - "https://getjust.ai/"
+  - "https://getjust.ai/about"
+  - "https://getjust.ai/privacy-policy"
+last_verified: "2026-10-29"

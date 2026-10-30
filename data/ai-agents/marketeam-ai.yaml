@@ -1,0 +1,29 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "Marketeam.ai"
+slug: "marketeam-ai"
+dataset: "ai-agents"
+company: "Marketeam.ai"
+product: "Marketeam agents"
+website: "marketeam.ai"
+segment: "marketing-agency"
+hq:
+  city: "Tel Aviv"
+  country: "IL"
+status: "active"
+funding:
+  total_usd: 5000000
+  latest_round:
+    name: "Seed"
+    date: "2025-01"
+    amount_usd: 3000000
+  source: "https://www.cmswire.com/the-wire/marketeamai-raises-3-million-in-seed-funding-to-accelerate-transition-to-ai-native-autonomous-agents"
+pricing:
+  as_listed_by_vendor: "custom"
+  model: "custom"
+sources:
+  - "https://www.cmswire.com/the-wire/marketeamai-raises-3-million-in-seed-funding-to-accelerate-transition-to-ai-native-autonomous-agents"
+  - "https://marketeam.ai/legal/terms-of-use"
+  - "https://marketeam.ai/about"
+  - "https://www.prnewswire.com/il/news-releases/marketeamai-wins-proactive-ai-assistance-solution-of-the-year-in-the-2025-ai-breakthrough-awards-demonstrating-unprecedented-end-to-end-autonomous-marketing-capabilities-302492179.html"
+last_verified: "2026-10-29"

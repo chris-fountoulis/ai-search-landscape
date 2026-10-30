@@ -1,0 +1,33 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "Gradial"
+slug: "gradial"
+dataset: "ai-agents"
+company: "Gradial"
+product: "Gradial agents (Grady)"
+website: "gradial.com"
+segment: "marketing-agency"
+hq:
+  city: "Seattle"
+  country: "US"
+founded:
+  year: 2023
+  source: "https://gradial.com/about"
+status: "active"
+funding:
+  total_usd: 110000000
+  latest_round:
+    name: "Series C"
+    date: "2026-06"
+    amount_usd: 65000000
+  source: "https://gradial.com/blog/gradial-65m-series-c"
+pricing:
+  as_listed_by_vendor: "custom"
+  model: "custom"
+sources:
+  - "https://gradial.com/blog/gradial-65m-series-c"
+  - "https://siliconangle.com/2026/06/18/agentic-marketing-ai-startup-gradial-grabs-65m-fresh-funding/"
+  - "https://gradial.com/about"
+  - "https://gradial.com/terms-of-service"
+  - "https://www.madrona.com/portfolio/"
+last_verified: "2026-10-29"

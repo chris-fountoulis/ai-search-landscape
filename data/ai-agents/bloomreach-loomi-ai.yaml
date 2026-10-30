@@ -1,0 +1,31 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "Bloomreach (Loomi AI)"
+slug: "bloomreach-loomi-ai"
+dataset: "ai-agents"
+company: "Bloomreach"
+product: "Loomi marketing agent"
+website: "bloomreach.com"
+segment: "marketing-agency"
+hq:
+  city: "Mountain View"
+  country: "US"
+status: "active"
+funding:
+  total_usd: 420000000
+  latest_round:
+    name: "Growth equity"
+    date: "2022-02"
+    amount_usd: 175000000
+  source: "https://techcrunch.com/2021/01/26/bloomreach-raises-150m-on-900m-valuation-and-acquires-exponea/"
+pricing:
+  as_listed_by_vendor: "from $5,000 (as listed)"
+  model: "custom"
+  source: "https://www.bloomreach.com/en/pricing"
+sources:
+  - "https://techcrunch.com/2022/02/23/bloomreach-customer-personalization/"
+  - "https://www.bloomreach.com/en/news/2026/bloomreach-announces-the-general-availability-of-loomi-marketing-agent/"
+  - "https://techcrunch.com/2021/01/26/bloomreach-raises-150m-on-900m-valuation-and-acquires-exponea/"
+  - "https://www.bloomreach.com/en/pricing"
+  - "https://www.bloomreach.com/en/legal/privacy"
+last_verified: "2026-10-29"

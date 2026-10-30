@@ -1,0 +1,30 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "Creatify (Creatify Agent and AI Media Buyer)"
+slug: "creatify-creatify-agent-and-ai-media-buyer"
+dataset: "ai-agents"
+company: "Creatify"
+product: "Creatify Agent and AI Media Buyer (AdMax)"
+website: "creatify.ai"
+segment: "marketing-agency"
+hq:
+  city: "Mountain View"
+  country: "US"
+status: "active"
+funding:
+  total_usd: 23000000
+  latest_round:
+    name: "Series A"
+    date: "2025-06"
+    amount_usd: 15500000
+  source: "https://pulse2.com/creatify-15-5-million-series-a-raised-for-ai-ad-agent-for-video/"
+pricing:
+  as_listed_by_vendor: "$15 to $195 (as listed)"
+  model: "usage or credits"
+  source: "https://creatify.ai/pricing"
+sources:
+  - "https://pulse2.com/creatify-15-5-million-series-a-raised-for-ai-ad-agent-for-video/"
+  - "https://techcrunch.com/2025/06/02/former-dreamworks-ceo-jeffrey-katzenberg-co-leads-15-5m-series-a-for-ai-video-ad-platform/"
+  - "https://creatify.ai/pricing"
+  - "https://creatify.ai/terms"
+last_verified: "2026-10-29"

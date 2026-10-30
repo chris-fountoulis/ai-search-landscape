@@ -1,0 +1,33 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "Typeface (Marketing Orchestration Engine)"
+slug: "typeface-marketing-orchestration-engine"
+dataset: "ai-agents"
+company: "Typeface"
+product: "Arc Agents (Marketing Orchestration Engine)"
+website: "typeface.ai"
+segment: "marketing-agency"
+hq:
+  city: "San Francisco"
+  country: "US"
+founded:
+  year: 2022
+  source: "https://typeface.ai/blog/typeface-announces-100-m-in-new-funding-to-fuel-global-expansion-of-its-personalized-generative-ai-platform-for-enterprises"
+status: "active"
+funding:
+  total_usd: 165000000
+  latest_round:
+    name: "Series B"
+    date: "2023-06"
+    amount_usd: 100000000
+  source: "https://typeface.ai/blog/typeface-announces-100-m-in-new-funding-to-fuel-global-expansion-of-its-personalized-generative-ai-platform-for-enterprises"
+pricing:
+  as_listed_by_vendor: "custom"
+  model: "custom"
+sources:
+  - "https://typeface.ai/blog/typeface-announces-100-m-in-new-funding-to-fuel-global-expansion-of-its-personalized-generative-ai-platform-for-enterprises"
+  - "https://techcrunch.com/2024/09/16/generative-ai-startup-typeface-acquires-two-companies-treat-and-narrato-to-bolster-its-portfolio/"
+  - "https://www.typeface.ai/product/arc-agents"
+  - "https://www.typeface.ai/terms-of-service"
+  - "https://www.typeface.ai/newsroom"
+last_verified: "2026-10-29"

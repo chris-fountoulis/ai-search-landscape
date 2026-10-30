@@ -1,0 +1,32 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "Hightouch (Agentic Marketing Platform)"
+slug: "hightouch-agentic-marketing-platform"
+dataset: "ai-agents"
+company: "Hightouch"
+product: "Agentic Marketing Platform"
+website: "hightouch.com"
+segment: "marketing-agency"
+hq:
+  city: "San Francisco"
+  country: "US"
+status: "active"
+funding:
+  total_usd: 322200000
+  latest_round:
+    name: "Series D"
+    date: "2026-04"
+    amount_usd: 150000000
+  source: "https://hightouch.com/blog/hightouch-funding-series-d"
+pricing:
+  as_listed_by_vendor: "custom"
+  model: "usage or credits"
+sources:
+  - "https://hightouch.com/blog/hightouch-funding-series-d"
+  - "https://techcrunch.com/2021/11/17/customer-data-hightouch/"
+  - "https://siliconangle.com/2025/02/18/marketing-analytics-startup-hightouch-reels-80m-1-2b-valuation/"
+  - "https://techcrunch.com/2026/04/15/hightouch-reaches-100m-arr-fueled-by-marketing-tools-powered-by-ai/"
+  - "https://hightouch.com/pricing"
+  - "https://hightouch.com/privacy-policy"
+  - "https://hightouch.com/terms-of-service"
+last_verified: "2026-10-29"
