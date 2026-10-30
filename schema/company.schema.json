@@ -1,0 +1,161 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://github.com/chris-fountoulis/ai-search-landscape/blob/main/schema/company.schema.json",
+  "title": "AI Search Landscape company record",
+  "description": "One company or product row in data/ai-search/ or data/ai-agents/. A missing field means not disclosed or not verified, never zero. Every number carries a source URL.",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["name", "slug", "dataset", "company", "website", "segment", "status", "sources", "last_verified"],
+  "properties": {
+    "name": {
+      "description": "Display name exactly as published in the study, for example 'Cursor (Anysphere)' or 'OpenAI (Codex)'.",
+      "type": "string",
+      "minLength": 1,
+      "maxLength": 120
+    },
+    "slug": {
+      "description": "File name without .yaml. Lowercase letters, digits and single hyphens.",
+      "type": "string",
+      "pattern": "^[a-z0-9]+(-[a-z0-9]+)*$",
+      "maxLength": 80
+    },
+    "dataset": {
+      "description": "Which study the row belongs to. Must match the folder the file is in.",
+      "enum": ["ai-search", "ai-agents"]
+    },
+    "company": {
+      "description": "The company entity. Several product rows can share one company; funding is counted once per company.",
+      "type": "string",
+      "minLength": 1,
+      "maxLength": 120
+    },
+    "product": {
+      "description": "Named product line, when the row describes one product of a larger company.",
+      "type": "string",
+      "minLength": 1,
+      "maxLength": 120
+    },
+    "website": {
+      "description": "Bare domain as published, without scheme, for example 'example.com' or 'example.com/agents'.",
+      "type": "string",
+      "pattern": "^[a-z0-9]([a-z0-9-]*[a-z0-9])?(\\.[a-z0-9]([a-z0-9-]*[a-z0-9])?)+(/[A-Za-z0-9._~%/-]*)?$"
+    },
+    "segment": {
+      "description": "Segment id from schema/vocab/segments.json for this dataset.",
+      "type": "string"
+    },
+    "hq": {
+      "description": "Headquarters. Legal seat from the company's own Terms, Imprint or Legal Notice first; see METHODOLOGY.md.",
+      "type": "object",
+      "additionalProperties": false,
+      "minProperties": 1,
+      "properties": {
+        "city": {"type": "string", "minLength": 1, "maxLength": 80},
+        "country": {"description": "ISO 3166-1 alpha-2 code from schema/vocab/countries.json.", "type": "string", "pattern": "^[A-Z]{2}$"}
+      }
+    },
+    "founded": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["year", "source"],
+      "properties": {
+        "year": {"type": "integer", "minimum": 1800, "maximum": 2100},
+        "source": {"$ref": "#/$defs/url"}
+      }
+    },
+    "status": {
+      "description": "Status id from schema/vocab/statuses.json.",
+      "enum": ["active", "acquired", "closed"]
+    },
+    "public_company": {
+      "description": "True when the company, or the parent that sells the product, is listed on a stock exchange. Public companies carry no funding total.",
+      "type": "boolean"
+    },
+    "model_lab": {
+      "description": "True for frontier model labs, which the AI agent study reports apart from every funding total.",
+      "type": "boolean"
+    },
+    "funding": {
+      "description": "Disclosed equity funding in US dollars. Totals are minimums: only disclosed, verified rounds count.",
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["source"],
+      "minProperties": 2,
+      "properties": {
+        "total_usd": {"type": "integer", "minimum": 0},
+        "bootstrapped": {"description": "True only when a public source states the company raised no outside funding.", "type": "boolean"},
+        "latest_round": {
+          "type": "object",
+          "additionalProperties": false,
+          "required": ["name"],
+          "properties": {
+            "name": {"type": "string", "minLength": 1, "maxLength": 80},
+            "date": {"$ref": "#/$defs/partial_date"},
+            "amount_usd": {"type": "integer", "minimum": 0},
+            "valuation_usd": {"type": "integer", "minimum": 0}
+          }
+        },
+        "source": {"$ref": "#/$defs/url"}
+      }
+    },
+    "acquisition": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["acquirer", "source"],
+      "properties": {
+        "acquirer": {"type": "string", "minLength": 1, "maxLength": 120},
+        "date": {"$ref": "#/$defs/partial_date"},
+        "date_type": {"description": "Whether date is the announcement or the closing of the deal.", "enum": ["announced", "closed"]},
+        "price_usd": {"type": "integer", "minimum": 0},
+        "price_note": {"description": "Qualifier exactly as published, for example 'about, reported'.", "type": "string", "maxLength": 120},
+        "source": {"$ref": "#/$defs/url"}
+      }
+    },
+    "closure": {
+      "description": "Set when status is closed: when the product or company shut down, with a public source.",
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["source"],
+      "properties": {
+        "date": {"$ref": "#/$defs/partial_date"},
+        "source": {"$ref": "#/$defs/url"}
+      }
+    },
+    "pricing": {
+      "description": "List price per month as listed by the vendor on its own site, before tax, on the last_verified date.",
+      "type": "object",
+      "additionalProperties": false,
+      "minProperties": 1,
+      "properties": {
+        "as_listed_by_vendor": {"type": "string", "minLength": 1, "maxLength": 200},
+        "model": {"description": "Pricing model id from schema/vocab/pricing-models.json (AI agent study only).", "type": "string"},
+        "source": {"$ref": "#/$defs/url"}
+      }
+    },
+    "sources": {
+      "description": "Every URL the row was checked against. Each field-level source must appear here.",
+      "type": "array",
+      "minItems": 1,
+      "uniqueItems": true,
+      "items": {"$ref": "#/$defs/url"}
+    },
+    "last_verified": {
+      "description": "Date the row was last checked against its sources.",
+      "type": "string",
+      "pattern": "^20[0-9]{2}-(0[1-9]|1[0-2])-(0[1-9]|[12][0-9]|3[01])$"
+    }
+  },
+  "$defs": {
+    "url": {
+      "type": "string",
+      "format": "uri",
+      "pattern": "^https?://[^\\s/$.?#][^\\s]*$",
+      "maxLength": 600
+    },
+    "partial_date": {
+      "description": "YYYY, YYYY-MM or YYYY-MM-DD.",
+      "type": "string",
+      "pattern": "^(19|20)[0-9]{2}(-(0[1-9]|1[0-2])(-(0[1-9]|[12][0-9]|3[01]))?)?$"
+    }
+  }
+}
