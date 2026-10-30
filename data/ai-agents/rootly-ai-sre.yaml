@@ -1,0 +1,34 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "Rootly (AI SRE)"
+slug: "rootly-ai-sre"
+dataset: "ai-agents"
+company: "Rootly"
+product: "Rootly AI SRE"
+website: "rootly.com"
+segment: "coding"
+hq:
+  city: "San Francisco"
+  country: "US"
+founded:
+  year: 2021
+  source: "https://rootly.com/about"
+status: "active"
+funding:
+  total_usd: 15200000
+  latest_round:
+    name: "Series A"
+    date: "2023-08"
+    amount_usd: 12000000
+  source: "https://rootly.com/blog/rootly-raises-12-million-from-renegade-partners-google-gradient-ventures-xyz-ventures"
+pricing:
+  as_listed_by_vendor: "$20 to $40 (as listed)"
+  model: "per seat"
+  source: "https://rootly.com/pricing"
+sources:
+  - "https://rootly.com/blog/rootly-raises-12-million-from-renegade-partners-google-gradient-ventures-xyz-ventures"
+  - "https://siliconangle.com/2023/08/10/incident-management-platform-startup-rootly-raises-12m-accelerate-product-roadmap/"
+  - "https://rootly.com/pricing"
+  - "https://rootly.com/terms"
+  - "https://rootly.com/about"
+last_verified: "2026-10-29"

@@ -1,0 +1,31 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "Vercel (v0)"
+slug: "vercel-v0"
+dataset: "ai-agents"
+company: "Vercel"
+product: "v0"
+website: "v0.app"
+segment: "coding"
+hq:
+  city: "San Francisco"
+  country: "US"
+status: "active"
+funding:
+  latest_round:
+    name: "Series F"
+    date: "2025-09"
+    amount_usd: 300000000
+  source: "https://vercel.com/blog/series-f"
+pricing:
+  as_listed_by_vendor: "$30 to $100 (as listed)"
+  model: "per seat"
+  source: "https://v0.app/pricing"
+sources:
+  - "https://vercel.com/blog/series-f"
+  - "https://www.gic.com.sg/newsroom/all/vercel-closes-series-f-at-9-3b-valuation-to-scale-the-ai-cloud/"
+  - "https://tech.yahoo.com/business/articles/ai-coding-startup-vercel-raises-163055831.html"
+  - "https://v0.app/pricing"
+  - "https://vercel.com/legal/terms"
+  - "https://techcrunch.com/2026/04/13/vercel-ceo-guillermo-rauch-signals-ipo-readiness-as-ai-agents-fuel-revenue-surge/"
+last_verified: "2026-10-29"

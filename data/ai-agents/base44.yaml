@@ -1,0 +1,29 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "Base44"
+slug: "base44"
+dataset: "ai-agents"
+company: "Base44"
+product: "Base44"
+website: "base44.com"
+segment: "coding"
+hq:
+  city: "Tel Aviv"
+  country: "IL"
+status: "acquired"
+acquisition:
+  acquirer: "Wix"
+  date: "2025-06"
+  date_type: "closed"
+  price_usd: 80000000
+  source: "https://techcrunch.com/2025/06/18/6-month-old-solo-owned-vibe-coder-base44-sells-to-wix-for-80m-cash/"
+pricing:
+  as_listed_by_vendor: "$20 to $200 (as listed)"
+  model: "usage or credits"
+  source: "https://base44.com/pricing"
+sources:
+  - "https://techcrunch.com/2025/06/18/6-month-old-solo-owned-vibe-coder-base44-sells-to-wix-for-80m-cash/"
+  - "https://base44.com/pricing"
+  - "https://calcalistech.com/ctechnews/article/syw900pvdzg"
+  - "https://www.ynetnews.com/business/article/bkqk6tylzg"
+last_verified: "2026-10-29"

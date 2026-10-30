@@ -1,0 +1,31 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "Macroscope"
+slug: "macroscope"
+dataset: "ai-agents"
+company: "Macroscope"
+website: "macroscope.com"
+segment: "coding"
+hq:
+  city: "San Francisco"
+  country: "US"
+founded:
+  year: 2023
+  source: "https://techcrunch.com/2025/09/17/meet-macroscope-an-ai-tool-for-understanding-your-code-base-fixing-bugs/"
+status: "active"
+funding:
+  total_usd: 40000000
+  latest_round:
+    name: "Series A"
+    date: "2025-07"
+    amount_usd: 30000000
+  source: "https://techcrunch.com/2025/09/17/meet-macroscope-an-ai-tool-for-understanding-your-code-base-fixing-bugs/"
+pricing:
+  as_listed_by_vendor: "usage based ($0.05 per KB reviewed, $0.50 minimum per review, as listed)"
+  model: "usage or credits"
+  source: "https://macroscope.com/llms.txt"
+sources:
+  - "https://techcrunch.com/2025/09/17/meet-macroscope-an-ai-tool-for-understanding-your-code-base-fixing-bugs/"
+  - "https://macroscope.com/llms.txt"
+  - "https://macroscope.com/"
+last_verified: "2026-10-29"

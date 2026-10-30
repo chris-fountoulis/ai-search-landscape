@@ -1,0 +1,34 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "CodeRabbit"
+slug: "coderabbit"
+dataset: "ai-agents"
+company: "CodeRabbit"
+website: "coderabbit.ai"
+segment: "coding"
+hq:
+  city: "San Francisco"
+  country: "US"
+founded:
+  year: 2023
+  source: "https://www.coderabbit.ai/legal/terms-of-service"
+status: "active"
+funding:
+  total_usd: 231000000
+  latest_round:
+    name: "Series C"
+    date: "2026-08"
+    amount_usd: 143000000
+  source: "https://siliconangle.com/2026/08/12/coderabbit-bags-143m-help-companies-get-grip-explosion-ai-generated-code/"
+pricing:
+  as_listed_by_vendor: "$30 to $90 (as listed)"
+  model: "per seat"
+  source: "https://www.coderabbit.ai/pricing"
+sources:
+  - "https://siliconangle.com/2026/08/12/coderabbit-bags-143m-help-companies-get-grip-explosion-ai-generated-code/"
+  - "https://www.coderabbit.ai/newsroom"
+  - "https://techcrunch.com/2025/09/16/coderabbit-raises-60m-valuing-the-2-year-old-ai-code-review-startup-at-550m/"
+  - "https://www.coderabbit.ai/pricing"
+  - "https://www.coderabbit.ai/legal/terms-of-service"
+  - "https://www.coderabbit.ai/about-us"
+last_verified: "2026-10-29"

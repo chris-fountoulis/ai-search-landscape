@@ -1,0 +1,33 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "Aikido Security"
+slug: "aikido-security"
+dataset: "ai-agents"
+company: "Aikido Security"
+product: "Aikido AI Pentest and AutoFix"
+website: "aikido.dev"
+segment: "coding"
+hq:
+  city: "Ghent"
+  country: "BE"
+founded:
+  year: 2022
+  source: "https://www.aikido.dev/about"
+status: "active"
+funding:
+  total_usd: 85000000
+  latest_round:
+    name: "Series B"
+    date: "2026-01"
+    amount_usd: 60000000
+  source: "https://siliconangle.com/2026/01/14/aikido-security-raises-60m-series-b-1b-valuation-unify-application-security/"
+pricing:
+  as_listed_by_vendor: "$300 to $5,250 (as listed)"
+  model: "flat"
+  source: "https://www.aikido.dev/pricing"
+sources:
+  - "https://www.aikido.dev/about"
+  - "https://www.aikido.dev/pricing"
+  - "https://siliconangle.com/2026/01/14/aikido-security-raises-60m-series-b-1b-valuation-unify-application-security/"
+  - "https://siliconangle.com/2026/06/30/aikido-acquires-root-patch-open-source-without-forced-upgrades/"
+last_verified: "2026-10-29"

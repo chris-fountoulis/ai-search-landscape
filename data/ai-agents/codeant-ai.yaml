@@ -1,0 +1,32 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "CodeAnt AI"
+slug: "codeant-ai"
+dataset: "ai-agents"
+company: "CodeAnt AI"
+product: "CodeAnt AI Code Review and AI Pentesting"
+website: "codeant.ai"
+segment: "coding"
+hq:
+  city: "San Francisco"
+  country: "US"
+founded:
+  year: 2023
+  source: "https://www.codeant.ai/about"
+status: "active"
+funding:
+  total_usd: 2000000
+  latest_round:
+    name: "Seed"
+    date: "2025-05"
+    amount_usd: 2000000
+  source: "https://theaiinsider.tech/2025/05/09/while-ai-makes-writing-code-easier-than-ever-codeant-ai-closes-2m-funding-round-to-make-it-easy-to-review/"
+pricing:
+  as_listed_by_vendor: "custom"
+  model: "custom"
+sources:
+  - "https://theaiinsider.tech/2025/05/09/while-ai-makes-writing-code-easier-than-ever-codeant-ai-closes-2m-funding-round-to-make-it-easy-to-review/"
+  - "https://www.codeant.ai/about"
+  - "https://www.codeant.ai/terms-and-conditions"
+  - "https://www.codeant.ai/pricing"
+last_verified: "2026-10-29"

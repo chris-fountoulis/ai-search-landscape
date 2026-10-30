@@ -1,0 +1,32 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "incident.io (AI SRE)"
+slug: "incident-io-ai-sre"
+dataset: "ai-agents"
+company: "incident.io"
+product: "Investigations (AI SRE)"
+website: "incident.io"
+segment: "coding"
+hq:
+  city: "London"
+  country: "GB"
+founded:
+  year: 2021
+  source: "https://incident.io/legal/terms"
+status: "active"
+funding:
+  total_usd: 96000000
+  latest_round:
+    name: "Series B"
+    date: "2025-04"
+    amount_usd: 62000000
+  source: "https://techcrunch.com/2025/04/10/incident-io-raises-62m-at-a-400m-valuation-to-help-it-teams-move-fast-when-things-break/"
+pricing:
+  as_listed_by_vendor: "custom"
+  model: "custom"
+sources:
+  - "https://techcrunch.com/2025/04/10/incident-io-raises-62m-at-a-400m-valuation-to-help-it-teams-move-fast-when-things-break/"
+  - "https://incident.io/solution/ai-sre"
+  - "https://incident.io/pricing"
+  - "https://incident.io/legal/terms"
+last_verified: "2026-10-29"

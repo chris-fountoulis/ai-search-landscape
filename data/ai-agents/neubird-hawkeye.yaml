@@ -1,0 +1,31 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "NeuBird (Hawkeye)"
+slug: "neubird-hawkeye"
+dataset: "ai-agents"
+company: "NeuBird"
+product: "Hawkeye / Production Ops Agent"
+website: "neubird.ai"
+segment: "coding"
+hq:
+  city: "Redwood City"
+  country: "US"
+status: "active"
+funding:
+  total_usd: 63800000
+  latest_round:
+    name: "Unnamed round"
+    date: "2026-04"
+    amount_usd: 19300000
+  source: "https://siliconangle.com/2026/04/07/agentic-ai-startup-neubird-raises-19-3m-help-human-site-reliability-engineers-rise-ashes-alert-fatigue/"
+pricing:
+  as_listed_by_vendor: "custom"
+  model: "usage or credits"
+sources:
+  - "https://siliconangle.com/2026/04/07/agentic-ai-startup-neubird-raises-19-3m-help-human-site-reliability-engineers-rise-ashes-alert-fatigue/"
+  - "https://techcrunch.com/2024/04/17/neubird-generative-ai-solution-for-complex-cloud-environments-raises-22-million/"
+  - "https://techcrunch.com/2024/12/11/microsofts-m12-invests-another-22-5m-into-nuebird-months-after-its-22m-seed-round/"
+  - "https://bridgemena.com/news/aramco-s-prosperity7-ventures-joins-19-3-m-funding-round-for-ai-company-neu-bird-ai"
+  - "https://neubird.ai/contact"
+  - "https://neubird.ai/pricing"
+last_verified: "2026-10-29"

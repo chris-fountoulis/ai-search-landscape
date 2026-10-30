@@ -1,0 +1,35 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "Lovable"
+slug: "lovable"
+dataset: "ai-agents"
+company: "Lovable"
+website: "lovable.dev"
+segment: "coding"
+hq:
+  city: "Stockholm"
+  country: "SE"
+founded:
+  year: 2024
+  source: "https://lovable.dev/blog/series-c"
+status: "active"
+funding:
+  total_usd: 930000000
+  latest_round:
+    name: "Series C"
+    date: "2026-08"
+    amount_usd: 400000000
+    valuation_usd: 13300000000
+  source: "https://lovable.dev/blog/series-c"
+pricing:
+  as_listed_by_vendor: "$25 to $4,300 (as listed)"
+  model: "usage or credits"
+  source: "https://docs.lovable.dev/introduction/subscription-plans"
+sources:
+  - "https://lovable.dev/blog/series-c"
+  - "https://techcrunch.com/2026/08/12/lovable-confirms-new-13-3b-valuation-raises-another-400m/"
+  - "https://techcrunch.com/2025/12/18/vibe-coding-startup-lovable-raises-330m-at-a-6-6b-valuation/"
+  - "https://techcrunch.com/2026/09/24/lovables-annualized-revenue-crosses-600m-as-vibe-coding-takes-off/"
+  - "https://docs.lovable.dev/introduction/subscription-plans"
+  - "https://lovable.dev/terms"
+last_verified: "2026-10-29"

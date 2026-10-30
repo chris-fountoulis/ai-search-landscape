@@ -1,0 +1,31 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "Emergent"
+slug: "emergent"
+dataset: "ai-agents"
+company: "Emergent"
+website: "emergent.sh"
+segment: "coding"
+hq:
+  city: "San Francisco"
+  country: "US"
+founded:
+  year: 2024
+  source: "https://inc42.com/buzz/emergent-joins-unicorn-club-after-raising-130-mn-at-1-5-bn-valuation/"
+status: "active"
+funding:
+  total_usd: 230000000
+  latest_round:
+    name: "Series C"
+    date: "2026-07"
+    amount_usd: 130000000
+  source: "https://inc42.com/buzz/emergent-joins-unicorn-club-after-raising-130-mn-at-1-5-bn-valuation/"
+pricing:
+  as_listed_by_vendor: "$20 to $200 (as listed)"
+  model: "usage or credits"
+  source: "https://emergent.sh/pricing"
+sources:
+  - "https://inc42.com/buzz/emergent-joins-unicorn-club-after-raising-130-mn-at-1-5-bn-valuation/"
+  - "https://emergent.sh/pricing"
+  - "https://siliconangle.com/2026/04/15/emergent-launches-wingman-personal-ai-agent-everyone/"
+last_verified: "2026-10-29"

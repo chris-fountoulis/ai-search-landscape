@@ -1,0 +1,35 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "Greptile"
+slug: "greptile"
+dataset: "ai-agents"
+company: "Greptile"
+website: "greptile.com"
+segment: "coding"
+hq:
+  city: "San Francisco"
+  country: "US"
+founded:
+  year: 2023
+  source: "https://www.greptile.com/blog/series-b"
+status: "active"
+funding:
+  total_usd: 79000000
+  latest_round:
+    name: "Series B"
+    date: "2026-10"
+    amount_usd: 50000000
+  source: "https://www.greptile.com/blog/series-b"
+pricing:
+  as_listed_by_vendor: "usage: $1 per credit, Enterprise custom (as listed)"
+  model: "usage or credits"
+  source: "https://www.greptile.com/pricing"
+sources:
+  - "https://www.greptile.com/blog/series-b"
+  - "https://siliconangle.com/2025/09/23/greptile-bags-25m-funding-take-coderabbit-graphite-ai-code-validation/"
+  - "https://techcrunch.com/2024/06/06/greptile-raises-4m-to-build-an-ai-code-base-expert/"
+  - "https://www.greptile.com/pricing"
+  - "https://www.greptile.com/terms-of-service"
+  - "https://runtimewire.com/article/greptile-raises-50m-series-b-at-750m-valuation"
+  - "https://www.ycombinator.com/companies/greptile"
+last_verified: "2026-10-29"

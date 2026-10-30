@@ -1,0 +1,25 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "Amazon (Kiro)"
+slug: "amazon-kiro"
+dataset: "ai-agents"
+company: "Amazon"
+product: "Kiro"
+website: "kiro.dev"
+segment: "coding"
+hq:
+  city: "Seattle"
+  country: "US"
+status: "active"
+public_company: true
+pricing:
+  as_listed_by_vendor: "$20 to $200 (as listed)"
+  model: "per seat"
+  source: "https://kiro.dev/pricing/"
+sources:
+  - "https://kiro.dev/pricing/"
+  - "https://kiro.dev/blog/introducing-kiro/"
+  - "https://kiro.dev/"
+  - "https://aws.amazon.com/agreement/"
+  - "https://techcrunch.com/2025/12/02/amazon-previews-3-ai-agents-including-kiro-that-can-code-on-its-own-for-days/"
+last_verified: "2026-10-29"

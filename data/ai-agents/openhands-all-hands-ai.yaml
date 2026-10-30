@@ -1,0 +1,30 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "OpenHands (All Hands AI)"
+slug: "openhands-all-hands-ai"
+dataset: "ai-agents"
+company: "OpenHands"
+website: "openhands.dev"
+segment: "coding"
+hq:
+  city: "Cambridge"
+  country: "US"
+status: "active"
+funding:
+  total_usd: 23800000
+  latest_round:
+    name: "Series A"
+    date: "2025-11"
+    amount_usd: 18800000
+  source: "https://web.archive.org/web/2026id_/https://www.businesswire.com/news/home/20251118768131/en/OpenHands-Raises-%2418.8M-Series-A-to-Bring-Open-Source-Cloud-Coding-Agents-to-Enterprises"
+pricing:
+  as_listed_by_vendor: "from $500 (as listed)"
+  model: "flat"
+  source: "https://openhands.dev/pricing"
+sources:
+  - "https://openhands.dev/press"
+  - "https://web.archive.org/web/2026id_/https://www.businesswire.com/news/home/20251118768131/en/OpenHands-Raises-%2418.8M-Series-A-to-Bring-Open-Source-Cloud-Coding-Agents-to-Enterprises"
+  - "https://techcrunch.com/2024/09/05/all-hands-ai-raises-5m-to-build-open-source-agents-for-developers"
+  - "https://openhands.dev/pricing"
+  - "https://openhands.dev/privacy"
+last_verified: "2026-10-29"

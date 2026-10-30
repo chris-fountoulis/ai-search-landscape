@@ -1,0 +1,35 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "TestSprite"
+slug: "testsprite"
+dataset: "ai-agents"
+company: "TestSprite"
+website: "testsprite.com"
+segment: "coding"
+hq:
+  city: "Seattle"
+  country: "US"
+founded:
+  year: 2024
+  source: "https://www.testsprite.com/about"
+status: "active"
+funding:
+  total_usd: 8200000
+  latest_round:
+    name: "Seed"
+    date: "2025-10"
+    amount_usd: 6700000
+  source: "https://www.testsprite.com/blog/building-the-testing-backbone-announcing-our-seed-round"
+pricing:
+  as_listed_by_vendor: "$19 to $199 (as listed)"
+  model: "usage or credits"
+  source: "https://www.testsprite.com/pricing"
+sources:
+  - "https://www.testsprite.com/blog/building-the-testing-backbone-announcing-our-seed-round"
+  - "https://pulse2.com/testsprite-6-7-million-seed-funding-closed-to-power-testing-for-ai-native-development"
+  - "https://siliconangle.com/2024/11/14/testsprite-nabs-1-5m-build-autonomous-ai-software-testing-platform/"
+  - "https://siliconangle.com/2026/06/11/testsprite-launches-open-source-command-line-tool-help-ai-agents-check-work/"
+  - "https://www.testsprite.com/pricing"
+  - "https://www.testsprite.com/about"
+  - "https://www.testsprite.com/terms"
+last_verified: "2026-10-29"

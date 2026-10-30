@@ -1,0 +1,24 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "PagerDuty (AI agents)"
+slug: "pagerduty-ai-agents"
+dataset: "ai-agents"
+company: "PagerDuty"
+product: "PagerDuty AI agents (SRE, Scribe, Shift, Insights)"
+website: "pagerduty.com"
+segment: "coding"
+hq:
+  city: "San Francisco"
+  country: "US"
+status: "active"
+public_company: true
+pricing:
+  as_listed_by_vendor: "$233 to $4,000 (as listed)"
+  model: "flat"
+  source: "https://www.pagerduty.com/pricing/incident-management/"
+sources:
+  - "https://www.pagerduty.com/platform/ai-agents/"
+  - "https://www.pagerduty.com/pricing/incident-management/"
+  - "https://www.pagerduty.com/terms-of-service/"
+  - "https://siliconangle.com/2025/10/08/pagerduty-debuts-end-end-ai-agents-automate-accelerate-incident-management/"
+last_verified: "2026-10-29"

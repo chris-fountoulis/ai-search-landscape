@@ -1,0 +1,32 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "QA Wolf"
+slug: "qa-wolf"
+dataset: "ai-agents"
+company: "QA Wolf"
+website: "qawolf.com"
+segment: "coding"
+hq:
+  city: "Seattle"
+  country: "US"
+founded:
+  year: 2019
+  source: "https://www.qawolf.com/legal/terms"
+status: "active"
+funding:
+  total_usd: 57000000
+  latest_round:
+    name: "Series B"
+    date: "2024-07"
+    amount_usd: 36000000
+  source: "https://techcrunch.com/2024/07/23/qa-wolf-secures-36m-to-grow-its-app-qa-testing-suite/"
+pricing:
+  as_listed_by_vendor: "$1 to $2 (as listed)"
+  model: "per task or conversation"
+  source: "https://www.qawolf.com/pricing"
+sources:
+  - "https://techcrunch.com/2024/07/23/qa-wolf-secures-36m-to-grow-its-app-qa-testing-suite/"
+  - "https://siliconangle.com/2024/07/23/qa-wolf-raises-36m-fresh-funding-ease-application-reliability-testing/"
+  - "https://www.qawolf.com/pricing"
+  - "https://www.qawolf.com/legal/terms"
+last_verified: "2026-10-29"

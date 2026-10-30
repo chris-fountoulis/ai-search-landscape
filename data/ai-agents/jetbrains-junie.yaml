@@ -1,0 +1,22 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "JetBrains (Junie)"
+slug: "jetbrains-junie"
+dataset: "ai-agents"
+company: "JetBrains"
+product: "Junie"
+website: "jetbrains.com"
+segment: "coding"
+hq:
+  city: "Amsterdam"
+  country: "NL"
+status: "active"
+pricing:
+  as_listed_by_vendor: "$8.33 to $25 (as listed)"
+  model: "per seat"
+  source: "https://junie.jetbrains.com/"
+sources:
+  - "https://junie.jetbrains.com/"
+  - "https://www.jetbrains.com/company/contacts/"
+  - "https://techcrunch.com/2025/01/23/jetbrains-launches-junie-a-new-ai-coding-agent-for-its-ides/"
+last_verified: "2026-10-29"

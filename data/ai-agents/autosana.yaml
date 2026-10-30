@@ -1,0 +1,33 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "Autosana"
+slug: "autosana"
+dataset: "ai-agents"
+company: "Autosana"
+product: "Autosana"
+website: "autosana.ai"
+segment: "coding"
+hq:
+  city: "San Francisco"
+  country: "US"
+founded:
+  year: 2025
+  source: "https://siliconangle.com/2026/02/17/autosana-lands-3-2m-automate-mobile-web-ui-testing-agentic-ai/"
+status: "active"
+funding:
+  total_usd: 3200000
+  latest_round:
+    name: "Unnamed early-stage round"
+    date: "2026-02"
+    amount_usd: 3200000
+  source: "https://siliconangle.com/2026/02/17/autosana-lands-3-2m-automate-mobile-web-ui-testing-agentic-ai/"
+pricing:
+  as_listed_by_vendor: "$999 to $2,499 (as listed)"
+  model: "usage or credits"
+  source: "https://autosana.ai/pricing"
+sources:
+  - "https://siliconangle.com/2026/02/17/autosana-lands-3-2m-automate-mobile-web-ui-testing-agentic-ai/"
+  - "https://autosana.ai/pricing"
+  - "https://autosana.ai"
+  - "https://www.ycombinator.com/companies/autosana"
+last_verified: "2026-10-29"

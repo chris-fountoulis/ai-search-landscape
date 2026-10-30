@@ -1,0 +1,37 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "Kilo Code"
+slug: "kilo-code"
+dataset: "ai-agents"
+company: "Kilo Code"
+website: "kilo.ai"
+segment: "coding"
+hq:
+  city: "Austin"
+  country: "US"
+founded:
+  year: 2025
+  source: "https://kilo.ai/about"
+status: "acquired"
+funding:
+  total_usd: 8000000
+  latest_round:
+    name: "Seed"
+    amount_usd: 8000000
+  source: "https://www.anaconda.com/blog/anaconda-acquires-kilo-code"
+acquisition:
+  acquirer: "Anaconda"
+  date: "2026-07"
+  date_type: "closed"
+  source: "https://www.anaconda.com/blog/anaconda-acquires-kilo-code"
+pricing:
+  as_listed_by_vendor: "$15 to $199 (as listed)"
+  model: "per seat"
+  source: "https://kilo.ai/pricing"
+sources:
+  - "https://www.anaconda.com/blog/anaconda-acquires-kilo-code"
+  - "https://kilo.ai/terms"
+  - "https://kilo.ai/about"
+  - "https://kilo.ai/pricing"
+  - "https://fortune.com/2026/03/17/how-cutting-out-product-management-enabled-kilo-to-compete-in-the-hyper-fast-ai-coding-market/"
+last_verified: "2026-10-29"

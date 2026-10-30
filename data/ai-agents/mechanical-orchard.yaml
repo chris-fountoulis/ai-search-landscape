@@ -1,0 +1,33 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "Mechanical Orchard"
+slug: "mechanical-orchard"
+dataset: "ai-agents"
+company: "Mechanical Orchard"
+product: "Imogen"
+website: "mechanical-orchard.com"
+segment: "coding"
+hq:
+  city: "San Francisco"
+  country: "US"
+founded:
+  year: 2022
+  source: "https://www.mechanical-orchard.com/contact"
+status: "active"
+funding:
+  total_usd: 80000000
+  latest_round:
+    name: "Series B"
+    date: "2024-08"
+    amount_usd: 50000000
+  source: "https://techcrunch.com/2024/08/07/mechanical-orchard-led-by-ex-pivotal-ceo-scores-50-million-round-led-by-alphabets-gv/"
+pricing:
+  as_listed_by_vendor: "custom"
+  model: "per outcome"
+sources:
+  - "https://techcrunch.com/2024/08/07/mechanical-orchard-led-by-ex-pivotal-ceo-scores-50-million-round-led-by-alphabets-gv/"
+  - "https://www.mechanical-orchard.com/contact"
+  - "https://www.mechanical-orchard.com/term-of-use"
+  - "https://www.mechanical-orchard.com/insights/priced-on-proof"
+  - "https://siliconangle.com/2024/02/07/mechanical-orchard-raises-22m-funding-help-companies-ditch-mainframes-cloud/"
+last_verified: "2026-10-29"

@@ -1,0 +1,31 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "Leapwork"
+slug: "leapwork"
+dataset: "ai-agents"
+company: "Leapwork"
+website: "leapwork.com"
+segment: "coding"
+hq:
+  city: "Copenhagen"
+  country: "DK"
+founded:
+  year: 2015
+  source: "https://leapwork.com/impressum/"
+status: "active"
+funding:
+  total_usd: 72000000
+  latest_round:
+    name: "Series B"
+    date: "2021-08"
+    amount_usd: 62000000
+  source: "https://techcrunch.com/2021/08/26/no-code-process-automation-platform-leapwork-fires-up-with-62m-series-b/"
+pricing:
+  as_listed_by_vendor: "custom"
+  model: "custom"
+sources:
+  - "https://techcrunch.com/2021/08/26/no-code-process-automation-platform-leapwork-fires-up-with-62m-series-b/"
+  - "https://leapwork.com/impressum/"
+  - "https://leapwork.com/quote/"
+  - "https://siliconangle.com/2026/04/15/leapwork-hands-off-ai-generated-code-validation-ai-agents-keep-pace-speed-automated-software-development/"
+last_verified: "2026-10-29"

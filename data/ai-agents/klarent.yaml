@@ -1,0 +1,31 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "Klarent"
+slug: "klarent"
+dataset: "ai-agents"
+company: "Klarent"
+website: "klarent.ai"
+segment: "coding"
+hq:
+  city: "Zurich"
+  country: "CH"
+founded:
+  year: 2023
+  source: "https://klarent.ai/about/"
+status: "active"
+funding:
+  total_usd: 8000000
+  latest_round:
+    name: "Seed"
+    date: "2026-10"
+    amount_usd: 8000000
+  source: "https://klarent.ai/news/"
+pricing:
+  as_listed_by_vendor: "custom"
+  model: "custom"
+sources:
+  - "https://klarent.ai/news/"
+  - "https://klarent.ai/about/"
+  - "https://klarent.ai/terms/"
+  - "https://klarent.ai/contact/"
+last_verified: "2026-10-29"

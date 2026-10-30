@@ -1,0 +1,33 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "Bilt"
+slug: "bilt"
+dataset: "ai-agents"
+company: "Bilt"
+product: "bilt.me"
+website: "bilt.me"
+segment: "coding"
+hq:
+  city: "Tallinn"
+  country: "EE"
+founded:
+  year: 2025
+  source: "https://bilt.me/about"
+status: "active"
+funding:
+  total_usd: 684680
+  latest_round:
+    name: "Pre-seed"
+    date: "2026-09"
+    amount_usd: 684680
+  source: "https://arcticstartup.com/bilt-me-raises-e615k/"
+pricing:
+  as_listed_by_vendor: "EUR 25 to EUR 250 (as listed)"
+  model: "usage or credits"
+  source: "https://bilt.me/pricing"
+sources:
+  - "https://arcticstartup.com/bilt-me-raises-e615k/"
+  - "https://bilt.me/pricing"
+  - "https://bilt.me/terms"
+  - "https://bilt.me/about"
+last_verified: "2026-10-29"

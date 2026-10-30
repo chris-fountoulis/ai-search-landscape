@@ -1,0 +1,31 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "Cline"
+slug: "cline"
+dataset: "ai-agents"
+company: "Cline"
+product: "Cline"
+website: "cline.bot"
+segment: "coding"
+hq:
+  country: "US"
+founded:
+  year: 2024
+  source: "https://cline.bot/blog/cline-raises-32m-series-a-and-seed-funding-building-the-open-source-ai-coding-agent-that-enterprises-trust"
+status: "active"
+funding:
+  total_usd: 32000000
+  latest_round:
+    name: "Series A"
+    date: "2025-07"
+  source: "https://cline.bot/blog/cline-raises-32m-series-a-and-seed-funding-building-the-open-source-ai-coding-agent-that-enterprises-trust"
+pricing:
+  as_listed_by_vendor: "from $9.99 (as listed)"
+  model: "flat"
+  source: "https://cline.bot/pricing"
+sources:
+  - "https://cline.bot/blog/cline-raises-32m-series-a-and-seed-funding-building-the-open-source-ai-coding-agent-that-enterprises-trust"
+  - "https://cline.bot/pricing"
+  - "https://cline.bot/cline-pass"
+  - "https://cline.bot/tos"
+last_verified: "2026-10-29"

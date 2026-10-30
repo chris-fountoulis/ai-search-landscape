@@ -1,0 +1,33 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "Rork"
+slug: "rork"
+dataset: "ai-agents"
+company: "Rork"
+website: "rork.com"
+segment: "coding"
+hq:
+  city: "San Francisco"
+  country: "US"
+founded:
+  year: 2025
+  source: "https://www.vcaonline.com/news/2026040906/rork-raises-15m-to-power-the-next-generation-of-app-store-entrepreneurs/"
+status: "active"
+funding:
+  total_usd: 17800000
+  latest_round:
+    name: "Seed"
+    date: "2026-04"
+    amount_usd: 15000000
+  source: "https://www.vcaonline.com/news/2026040906/rork-raises-15m-to-power-the-next-generation-of-app-store-entrepreneurs/"
+pricing:
+  as_listed_by_vendor: "$25 to $200 (as listed)"
+  model: "usage or credits"
+  source: "https://rork.com/pricing"
+sources:
+  - "https://www.vcaonline.com/news/2026040906/rork-raises-15m-to-power-the-next-generation-of-app-store-entrepreneurs/"
+  - "https://techcrunch.com/2025/05/05/rorks-founders-were-almost-broke-when-a-viral-tweet-led-to-2-8m-and-a16z/"
+  - "https://rork.com/terms"
+  - "https://rork.com/faq"
+  - "https://rork.com/pricing"
+last_verified: "2026-10-29"

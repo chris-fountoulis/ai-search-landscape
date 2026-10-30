@@ -1,0 +1,23 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "Google (Jules)"
+slug: "google-jules"
+dataset: "ai-agents"
+company: "Google"
+product: "Jules"
+website: "jules.google"
+segment: "coding"
+hq:
+  city: "Mountain View"
+  country: "US"
+status: "active"
+public_company: true
+pricing:
+  as_listed_by_vendor: "$19.99 to $99.99 (as listed)"
+  model: "flat"
+  source: "https://one.google.com/intl/en/about/google-ai-plans/?hl=en&gl=US"
+sources:
+  - "https://jules.google/"
+  - "https://one.google.com/intl/en/about/google-ai-plans/?hl=en&gl=US"
+  - "https://techcrunch.com/2025/08/06/googles-ai-coding-agent-jules-is-now-out-of-beta/"
+last_verified: "2026-10-29"

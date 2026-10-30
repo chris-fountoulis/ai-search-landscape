@@ -1,0 +1,30 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "Cleric"
+slug: "cleric"
+dataset: "ai-agents"
+company: "Cleric"
+product: "Cleric AI SRE"
+website: "cleric.ai"
+segment: "coding"
+hq:
+  city: "San Francisco"
+  country: "US"
+founded:
+  year: 2023
+  source: "https://cleric.ai/about"
+status: "active"
+funding:
+  total_usd: 9800000
+  source: "https://siliconangle.com/2025/12/09/cleric-launches-ai-agent-uplevel-site-reliability-intelligent-automation/"
+pricing:
+  as_listed_by_vendor: "$700 to $3,000 (as listed)"
+  model: "usage or credits"
+  source: "https://cleric.ai/pricing"
+sources:
+  - "https://cleric.ai/about"
+  - "https://cleric.ai/pricing"
+  - "https://cleric.ai/terms"
+  - "https://cleric.ai/contact"
+  - "https://siliconangle.com/2025/12/09/cleric-launches-ai-agent-uplevel-site-reliability-intelligent-automation/"
+last_verified: "2026-10-29"

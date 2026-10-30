@@ -1,0 +1,37 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "Augment Code"
+slug: "augment-code"
+dataset: "ai-agents"
+company: "Augment Code"
+product: "Augment Code (Auggie CLI, Cosmos)"
+website: "augmentcode.com"
+segment: "coding"
+hq:
+  city: "Palo Alto"
+  country: "US"
+founded:
+  year: 2024
+  source: "https://augmentcode.com/blog/augment-inc-raises-227-million"
+status: "acquired"
+funding:
+  total_usd: 252000000
+  latest_round:
+    name: "Series B"
+    date: "2024-04"
+    amount_usd: 227000000
+  source: "https://augmentcode.com/blog/augment-inc-raises-227-million"
+acquisition:
+  acquirer: "Harness"
+  date: "2026-10"
+  date_type: "closed"
+  source: "https://siliconangle.com/2026/10/08/harness-acquires-augment-code-to-bridge-software-engineering-from-idea-to-deployment/"
+pricing:
+  as_listed_by_vendor: "$20 to $100 (as listed)"
+  model: "flat"
+  source: "https://www.augmentcode.com/pricing"
+sources:
+  - "https://siliconangle.com/2026/10/08/harness-acquires-augment-code-to-bridge-software-engineering-from-idea-to-deployment/"
+  - "https://augmentcode.com/blog/augment-inc-raises-227-million"
+  - "https://www.augmentcode.com/pricing"
+last_verified: "2026-10-29"

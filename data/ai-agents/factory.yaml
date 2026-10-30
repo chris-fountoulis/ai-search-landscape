@@ -1,0 +1,33 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "Factory"
+slug: "factory"
+dataset: "ai-agents"
+company: "Factory"
+product: "Droids"
+website: "factory.ai"
+segment: "coding"
+hq:
+  city: "San Francisco"
+  country: "US"
+founded:
+  year: 2023
+  source: "https://factory.com/news/5-billion-valuation"
+status: "active"
+funding:
+  total_usd: 420000000
+  source: "https://factory.com/news/5-billion-valuation"
+pricing:
+  as_listed_by_vendor: "$20 to $200 (as listed)"
+  model: "flat"
+  source: "https://factory.com/pricing"
+sources:
+  - "https://factory.com/news/5-billion-valuation"
+  - "https://factory.com/news/series-c"
+  - "https://factory.com/news/series-b"
+  - "https://factory.com/news/series-a-announcement"
+  - "https://factory.com/news/announcing-our-5m-fundraise"
+  - "https://factory.com/pricing"
+  - "https://factory.com/legal/terms-individual"
+  - "https://techcrunch.com/2026/10/05/after-factorys-public-spat-with-khosla-menlo-proudly-invests/"
+last_verified: "2026-10-29"

@@ -1,0 +1,23 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "Datadog (Bits AI SRE)"
+slug: "datadog-bits-ai-sre"
+dataset: "ai-agents"
+company: "Datadog"
+product: "Bits Investigation (formerly Bits AI SRE)"
+website: "datadoghq.com"
+segment: "coding"
+hq:
+  city: "New York"
+  country: "US"
+status: "active"
+public_company: true
+pricing:
+  as_listed_by_vendor: "custom"
+  model: "usage or credits"
+sources:
+  - "https://www.datadoghq.com/product/ai/bits-investigation/"
+  - "https://www.datadoghq.com/pricing/list/"
+  - "https://www.datadoghq.com/legal/terms/"
+  - "https://siliconangle.com/2026/06/09/datadog-launches-100-features-dash-push-autonomous-ai-ops/"
+last_verified: "2026-10-29"

@@ -1,0 +1,27 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "Amp"
+slug: "amp"
+dataset: "ai-agents"
+company: "Amp"
+product: "Amp"
+website: "ampcode.com"
+segment: "coding"
+hq:
+  city: "San Francisco"
+  country: "US"
+founded:
+  year: 2025
+  source: "https://ampcode.com/about"
+status: "active"
+pricing:
+  as_listed_by_vendor: "$20 to $200 (as listed)"
+  model: "flat"
+  source: "https://ampcode.com/pricing"
+sources:
+  - "https://ampcode.com/pricing"
+  - "https://ampcode.com/terms"
+  - "https://ampcode.com/news/amp-inc"
+  - "https://ampcode.com/about"
+  - "https://thenewstack.io/amp-neo-cli-agents/"
+last_verified: "2026-10-29"

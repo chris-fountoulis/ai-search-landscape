@@ -1,0 +1,32 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "Anything"
+slug: "anything"
+dataset: "ai-agents"
+company: "Anything"
+product: "Anything"
+website: "anything.com"
+segment: "coding"
+hq:
+  country: "US"
+founded:
+  year: 2025
+  source: "https://techcrunch.com/2025/09/29/vibe-coding-startup-anything-nabs-a-100m-valuation-after-hitting-2m-arr-in-its-first-two-weeks/"
+status: "active"
+funding:
+  total_usd: 11000000
+  latest_round:
+    name: "Venture"
+    date: "2025-09"
+    amount_usd: 11000000
+  source: "https://techcrunch.com/2025/09/29/vibe-coding-startup-anything-nabs-a-100m-valuation-after-hitting-2m-arr-in-its-first-two-weeks/"
+pricing:
+  as_listed_by_vendor: "$19 to $199 (as listed)"
+  model: "usage or credits"
+  source: "https://www.anything.com/pricing"
+sources:
+  - "https://techcrunch.com/2025/09/29/vibe-coding-startup-anything-nabs-a-100m-valuation-after-hitting-2m-arr-in-its-first-two-weeks/"
+  - "https://theaiinsider.tech/2025/10/10/anything-announces-11m-in-funding-to-build-full-stack-ai-app-platform-for-the-vibe-coding-era/"
+  - "https://www.anything.com/pricing"
+  - "https://www.anything.com/tos"
+last_verified: "2026-10-29"

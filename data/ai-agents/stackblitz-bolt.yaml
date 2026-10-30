@@ -1,0 +1,32 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "StackBlitz (Bolt)"
+slug: "stackblitz-bolt"
+dataset: "ai-agents"
+company: "StackBlitz"
+product: "Bolt"
+website: "bolt.new"
+segment: "coding"
+hq:
+  city: "San Francisco"
+  country: "US"
+founded:
+  year: 2017
+  source: "https://techcrunch.com/2022/04/06/stackblitz-raises-7-9m-to-bring-a-better-ide-to-your-browser/"
+status: "active"
+funding:
+  total_usd: 7900000
+  source: "https://techcrunch.com/2022/04/06/stackblitz-raises-7-9m-to-bring-a-better-ide-to-your-browser/"
+pricing:
+  as_listed_by_vendor: "$25 to $30 (as listed)"
+  model: "usage or credits"
+  source: "https://bolt.new/pricing"
+sources:
+  - "https://bolt.new/pricing"
+  - "https://stackblitz.com/terms-of-service"
+  - "https://techcrunch.com/2022/04/06/stackblitz-raises-7-9m-to-bring-a-better-ide-to-your-browser/"
+  - "https://blog.stackblitz.com/posts/seed-funding/"
+  - "https://www.madrona.com/investing-in-stackblitz/"
+  - "https://www.emcap.com/portfolio/bolt"
+  - "https://pulse2.com/bolt-new-acquires-dokai-in-first-deal-to-expand-enterprise-ai-agents/"
+last_verified: "2026-10-29"

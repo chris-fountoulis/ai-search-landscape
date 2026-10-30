@@ -1,0 +1,33 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "Harness (AI agents)"
+slug: "harness-ai-agents"
+dataset: "ai-agents"
+company: "Harness"
+product: "Harness AI SRE"
+website: "harness.io"
+segment: "coding"
+hq:
+  city: "San Francisco"
+  country: "US"
+founded:
+  year: 2017
+  source: "https://www.harness.io/company/about-us"
+status: "active"
+funding:
+  total_usd: 570000000
+  latest_round:
+    name: "Series E"
+    date: "2025-12"
+    amount_usd: 240000000
+  source: "https://techcrunch.com/2025/12/11/harness-hits-5-5b-valuation-with-240m-to-automate-ais-after-code-gap/"
+pricing:
+  as_listed_by_vendor: "custom"
+  model: "custom"
+sources:
+  - "https://techcrunch.com/2025/12/11/harness-hits-5-5b-valuation-with-240m-to-automate-ais-after-code-gap/"
+  - "https://www.harness.io/company/about-us"
+  - "https://www.harness.io/legal/subscription-terms"
+  - "https://www.harness.io/pricing"
+  - "https://www.harness.io/products/ai-sre"
+last_verified: "2026-10-29"

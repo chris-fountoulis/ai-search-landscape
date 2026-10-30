@@ -1,0 +1,35 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "Warp"
+slug: "warp"
+dataset: "ai-agents"
+company: "Warp"
+website: "warp.dev"
+segment: "coding"
+hq:
+  city: "New York"
+  country: "US"
+founded:
+  year: 2022
+  source: "https://www.warp.dev/legal/terms-of-service"
+status: "active"
+funding:
+  total_usd: 73000000
+  latest_round:
+    name: "Series B"
+    date: "2023-06"
+    amount_usd: 50000000
+  source: "https://www.warp.dev/blog/warp-drive-series-b"
+pricing:
+  as_listed_by_vendor: "$20 to $200 (as listed)"
+  model: "flat"
+  source: "https://www.warp.dev/pricing"
+sources:
+  - "https://www.warp.dev/blog/warp-drive-series-b"
+  - "https://techcrunch.com/2022/04/05/warp-raises-23m-to-build-a-better-terminal/"
+  - "https://techcrunch.com/2026/08/18/warps-new-system-is-an-out-of-the-box-software-factory-for-ai-development/"
+  - "https://www.warp.dev/pricing"
+  - "https://www.warp.dev/legal/terms-of-service"
+  - "https://www.warp.dev/legal/privacy-policy"
+  - "https://www.warp.dev/newsroom"
+last_verified: "2026-10-29"

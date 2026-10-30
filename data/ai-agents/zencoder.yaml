@@ -1,0 +1,28 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "Zencoder"
+slug: "zencoder"
+dataset: "ai-agents"
+company: "Zencoder"
+product: "Zencoder agents and Zenflow"
+website: "zencoder.ai"
+segment: "coding"
+hq:
+  city: "Campbell"
+  country: "US"
+founded:
+  year: 2023
+  source: "https://zencoder.ai/about"
+status: "active"
+pricing:
+  as_listed_by_vendor: "$45 to $195 (as listed)"
+  model: "per seat"
+  source: "https://zencoder.ai/pricing"
+sources:
+  - "https://zencoder.ai/pricing"
+  - "https://zencoder.ai/terms-of-service"
+  - "https://zencoder.ai/blog/ai-startup-zencoder-launch"
+  - "https://siliconangle.com/2025/05/09/ai-startup-zencoder-launches-coding-agent-platform/"
+  - "https://siliconangle.com/2026/04/09/zencoder-launches-ai-platform-automate-surrounding-work-coding-agents-dont-handle/"
+  - "https://zencoder.ai/about"
+last_verified: "2026-10-29"

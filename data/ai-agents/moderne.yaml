@@ -1,0 +1,32 @@
+# AI Search Landscape, by Growth Of Influence. Data licensed CC BY 4.0.
+# Schema: schema/company.schema.json. A missing field means not disclosed, never zero.
+name: "Moderne"
+slug: "moderne"
+dataset: "ai-agents"
+company: "Moderne"
+product: "Moddy (Moderne Platform)"
+website: "moderne.ai"
+segment: "coding"
+hq:
+  city: "Miami"
+  country: "US"
+founded:
+  year: 2020
+  source: "https://www.moderne.ai/press/moderne-secures-30m-to-drive-billions-in-enterprise-code-modernization-savings"
+status: "active"
+funding:
+  latest_round:
+    name: "Series B"
+    date: "2025-02"
+    amount_usd: 30000000
+  source: "https://www.moderne.ai/press/moderne-secures-30m-to-drive-billions-in-enterprise-code-modernization-savings"
+pricing:
+  as_listed_by_vendor: "custom"
+  model: "custom"
+sources:
+  - "https://www.moderne.ai/press/moderne-secures-30m-to-drive-billions-in-enterprise-code-modernization-savings"
+  - "https://techcrunch.com/2025/02/11/moderne-raises-30m-to-solve-technical-debt-across-complex-codebases/"
+  - "https://www.moderne.ai/terms-of-service"
+  - "https://www.moderne.ai/pricing"
+  - "https://www.moderne.ai/newsroom"
+last_verified: "2026-10-29"
