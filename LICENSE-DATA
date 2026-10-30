@@ -1,0 +1,58 @@
+Creative Commons Attribution 4.0 International (CC BY 4.0)
+
+Copyright (c) 2026 Growth Of Influence
+
+The data in this repository (everything under data/ and dist/, and STATS.md)
+is licensed under the Creative Commons Attribution 4.0 International Public
+License. The full legal code, which is the binding text, is at:
+
+    https://creativecommons.org/licenses/by/4.0/legalcode
+
+A human-readable summary is at https://creativecommons.org/licenses/by/4.0/
+
+Summary (not a substitute for the legal code)
+---------------------------------------------
+
+You are free to:
+
+  * Share: copy and redistribute the data in any medium or format, for any
+    purpose, including commercially.
+  * Adapt: remix, transform and build upon the data, for any purpose,
+    including commercially.
+
+Under the following terms:
+
+  * Attribution: you must give appropriate credit, provide a link to the
+    license, and indicate if changes were made. You may do so in any
+    reasonable manner, but not in any way that suggests the licensor endorses
+    you or your use.
+  * No additional restrictions: you may not apply legal terms or technological
+    measures that legally restrict others from doing anything the license
+    permits.
+
+How to credit this dataset
+--------------------------
+
+    Growth Of Influence, AI Search Landscape
+    https://github.com/chris-fountoulis/ai-search-landscape
+    Licensed under CC BY 4.0
+
+When you use one dataset only, you may instead link the study it comes from:
+
+    AI search optimization companies:
+    https://growthofinfluence.com/ai-search-optimization-companies/
+
+    AI agent companies:
+    https://growthofinfluence.com/ai-agent-companies/
+
+Notes
+-----
+
+  * The data is compiled from public sources as of the dates stated in each
+    record and is provided as is, without warranty of completeness or
+    accuracy. It is not investment, legal or purchasing advice.
+  * Company names and trademarks belong to their owners and are used only to
+    identify the companies. Inclusion does not imply endorsement by or of any
+    company, or any affiliation with it.
+  * The source URLs listed in each record point to third-party pages, which
+    remain under their own terms.
